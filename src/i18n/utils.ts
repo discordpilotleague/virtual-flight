@@ -16,7 +16,8 @@ export function useTranslations(locale: Locale) {
 }
 
 export function localePath(locale: Locale, path: string): string {
-	const cleanPath = path.startsWith('/') ? path : `/${path}`;
+	let cleanPath = path.startsWith('/') ? path : `/${path}`;
+	if (!cleanPath.endsWith('/')) cleanPath += '/';
 	if (locale === defaultLocale) return cleanPath;
 	return `/${locale}${cleanPath}`;
 }
@@ -38,7 +39,7 @@ export function switchLocalePath(currentPath: string, targetLocale: Locale): str
 	// (articles don't have 1:1 translations across languages)
 	const blogArticlePattern = /^\/blog\/[^/]+/;
 	if (blogArticlePattern.test(barePath)) {
-		barePath = '/blog';
+		barePath = '/blog/';
 	}
 
 	return localePath(targetLocale, barePath);
