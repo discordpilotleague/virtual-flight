@@ -1,18 +1,11 @@
 ---
-import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
-import Layout from '../layouts/BlogPost.astro';
+import Layout from '../layouts/StaticPage.astro';
 import { useTranslations } from '../i18n/utils';
 
 const t = useTranslations('en');
 ---
 
-<Layout
-	title={t('about.title')}
-	description={t('about.description')}
-	pubDate={new Date('February 10 2026')}
-	heroImage={AboutHeroImage}
-	locale="en"
->
+<Layout title={t('about.title')} description={t('about.description')} locale="en">
 	<p>{t('about.p1')}</p>
 	<p>{t('about.p2')}</p>
 	<p>{t('about.p3')}</p>

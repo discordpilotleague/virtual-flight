@@ -1,0 +1,18 @@
+---
+import Layout from '../layouts/StaticPage.astro';
+import { useTranslations } from '../i18n/utils';
+
+const t = useTranslations('en');
+---
+
+<Layout title={t('methodology.title')} description={t('methodology.description')} locale="en">
+	<p>{t('methodology.intro')}</p>
+	<h2>{t('methodology.h1')}</h2>
+	<p>{t('methodology.p1')}</p>
+	<h2>{t('methodology.h2')}</h2>
+	<p>{t('methodology.p2')}</p>
+	<h2>{t('methodology.h3')}</h2>
+	<p>{t('methodology.p3')}</p>
+	<h2>{t('methodology.h4')}</h2>
+	<p>{t('methodology.p4')}</p>
+</Layout>

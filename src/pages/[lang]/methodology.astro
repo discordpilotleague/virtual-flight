@@ -14,9 +14,14 @@ const locale = lang as Locale;
 const t = useTranslations(locale);
 ---
 
-<Layout title={t('about.title')} description={t('about.description')} locale={locale}>
-	<p>{t('about.p1')}</p>
-	<p>{t('about.p2')}</p>
-	<p>{t('about.p3')}</p>
-	<p>{t('about.p4')}</p>
+<Layout title={t('methodology.title')} description={t('methodology.description')} locale={locale}>
+	<p>{t('methodology.intro')}</p>
+	<h2>{t('methodology.h1')}</h2>
+	<p>{t('methodology.p1')}</p>
+	<h2>{t('methodology.h2')}</h2>
+	<p>{t('methodology.p2')}</p>
+	<h2>{t('methodology.h3')}</h2>
+	<p>{t('methodology.p3')}</p>
+	<h2>{t('methodology.h4')}</h2>
+	<p>{t('methodology.p4')}</p>
 </Layout>

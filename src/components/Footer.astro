@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '../i18n/locales';
-import { getLocaleFromUrl, useTranslations } from '../i18n/utils';
+import { getLocaleFromUrl, localePath, useTranslations } from '../i18n/utils';
 
 const locale = (Astro.currentLocale ?? getLocaleFromUrl(Astro.url.pathname)) as Locale;
 const t = useTranslations(locale);
@@ -9,7 +9,15 @@ const today = new Date();
 
 <footer>
 	<div class="footer-inner">
-		<p class="copyright">&copy; {today.getFullYear()} Virtual Flight. {t('footer.copyright')}</p>
+		<div class="footer-left">
+			<p class="copyright">&copy; {today.getFullYear()} Virtual Flight. {t('footer.copyright')}</p>
+			<nav class="footer-links">
+				<a href={localePath(locale, '/about')}>{t('nav.about')}</a>
+				<a href={localePath(locale, '/methodology')}>{t('nav.methodology')}</a>
+				<a href={localePath(locale, '/privacy')}>{t('nav.privacy')}</a>
+				<a href={localePath(locale, '/terms')}>{t('nav.terms')}</a>
+			</nav>
+		</div>
 		<div class="social-links">
 			<a href="https://discord.gg/X3zUdkVGPX" target="_blank">
 				<span class="sr-only">{t('social.discord')}</span>
@@ -36,9 +44,28 @@ const today = new Date();
 		align-items: center;
 		justify-content: space-between;
 	}
+	.footer-left {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5em;
+	}
 	.copyright {
 		margin: 0;
 		font-size: 0.85em;
+	}
+	.footer-links {
+		display: flex;
+		gap: 1.25em;
+		flex-wrap: wrap;
+	}
+	.footer-links a {
+		color: rgba(255, 255, 255, 0.5);
+		text-decoration: none;
+		font-size: 0.8em;
+		transition: color 0.2s ease;
+	}
+	.footer-links a:hover {
+		color: rgba(255, 255, 255, 0.9);
 	}
 	.social-links {
 		display: flex;

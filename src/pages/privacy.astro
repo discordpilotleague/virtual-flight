@@ -1,0 +1,20 @@
+---
+import Layout from '../layouts/StaticPage.astro';
+import { useTranslations } from '../i18n/utils';
+
+const t = useTranslations('en');
+---
+
+<Layout title={t('privacy.title')} description={t('privacy.description')} locale="en">
+	<p>{t('privacy.intro')}</p>
+	<h2>{t('privacy.h1')}</h2>
+	<p>{t('privacy.p1')}</p>
+	<h2>{t('privacy.h2')}</h2>
+	<p>{t('privacy.p2')}</p>
+	<h2>{t('privacy.h3')}</h2>
+	<p>{t('privacy.p3')}</p>
+	<h2>{t('privacy.h4')}</h2>
+	<p>{t('privacy.p4')}</p>
+	<h2>{t('privacy.h5')}</h2>
+	<p>{t('privacy.p5')}</p>
+</Layout>
