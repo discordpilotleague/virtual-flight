@@ -21,41 +21,100 @@ const t = useTranslations(locale);
 		<BaseHead title={title} description={description} locale={locale} />
 		<style>
 			main {
-				width: calc(100% - 2em);
+				width: 100%;
 				max-width: 100%;
 				margin: 0;
+				padding: 0;
 			}
 			.hero-image {
 				width: 100%;
+				max-height: 480px;
+				overflow: hidden;
+				background: linear-gradient(135deg, #0d1b2a, #1a3a5c);
 			}
 			.hero-image img {
 				display: block;
+				width: 100%;
+				max-width: 1200px;
+				height: auto;
+				max-height: 480px;
+				object-fit: cover;
 				margin: 0 auto;
-				border-radius: 12px;
-				box-shadow: var(--box-shadow);
 			}
 			.prose {
-				width: 720px;
-				max-width: calc(100% - 2em);
-				margin: auto;
-				padding: 1em;
+				width: 100%;
+				max-width: 720px;
+				margin: 0 auto;
+				padding: clamp(1.5em, 4vw, 3em) clamp(1em, 4vw, 2em);
 				color: rgb(var(--gray-dark));
+				line-height: 1.8;
 			}
 			.title {
-				margin-bottom: 1em;
-				padding: 1em 0;
+				margin-bottom: 1.5em;
+				padding: 1.5em 0 1em;
 				text-align: center;
-				line-height: 1;
+				line-height: 1.2;
 			}
 			.title h1 {
 				margin: 0 0 0.5em 0;
+				font-size: clamp(1.6em, 4vw, 2.4em);
+				line-height: 1.2;
 			}
 			.date {
 				margin-bottom: 0.5em;
 				color: rgb(var(--gray));
+				font-size: 0.9em;
 			}
 			.last-updated-on {
 				font-style: italic;
+			}
+			.title hr {
+				border: none;
+				height: 3px;
+				background: linear-gradient(90deg, transparent, var(--accent), transparent);
+				margin-top: 1.5em;
+			}
+			.prose :global(h2) {
+				margin-top: 2em;
+				margin-bottom: 0.75em;
+				color: rgb(var(--black));
+			}
+			.prose :global(h3) {
+				margin-top: 1.5em;
+				margin-bottom: 0.5em;
+			}
+			.prose :global(p) {
+				margin-bottom: 1.25em;
+			}
+			.prose :global(ul),
+			.prose :global(ol) {
+				padding-left: 1.5em;
+				margin-bottom: 1.25em;
+			}
+			.prose :global(li) {
+				margin-bottom: 0.4em;
+			}
+			.prose :global(blockquote) {
+				border-left: 4px solid var(--accent);
+				margin: 1.5em 0;
+				padding: 0.75em 1.25em;
+				background: rgba(26, 95, 180, 0.05);
+				border-radius: 0 8px 8px 0;
+			}
+			.prose :global(pre) {
+				border-radius: 8px;
+				padding: 1.25em;
+				overflow-x: auto;
+				margin: 1.5em 0;
+			}
+			.prose :global(code) {
+				font-size: 0.9em;
+			}
+			.prose :global(img) {
+				max-width: 100%;
+				height: auto;
+				border-radius: var(--radius);
+				margin: 1.5em 0;
 			}
 		</style>
 	</head>

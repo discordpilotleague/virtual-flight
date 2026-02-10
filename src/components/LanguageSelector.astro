@@ -35,30 +35,35 @@ const currentLocale = (Astro.currentLocale ?? getLocaleFromUrl(currentPath)) as 
 	.lang-toggle {
 		background: none;
 		border: 1px solid rgb(var(--gray-light));
-		border-radius: 4px;
-		padding: 0.35em 0.7em;
+		border-radius: 8px;
+		padding: 0.4em 0.8em;
 		cursor: pointer;
 		font-family: inherit;
 		font-size: 0.85em;
 		display: flex;
 		align-items: center;
-		gap: 0.3em;
+		gap: 0.4em;
 		color: rgb(var(--gray-dark));
+		transition: border-color 0.2s ease, background 0.2s ease;
+	}
+	.lang-toggle:hover {
+		border-color: rgb(var(--gray));
+		background: rgba(var(--gray-light), 0.3);
 	}
 	.lang-dropdown {
 		display: none;
 		position: absolute;
 		right: 0;
 		top: 100%;
-		margin: 0.25em 0 0 0;
-		padding: 0.25em 0;
+		margin: 0.35em 0 0 0;
+		padding: 0.35em 0;
 		list-style: none;
 		background: white;
 		border: 1px solid rgb(var(--gray-light));
-		border-radius: 4px;
-		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+		border-radius: 8px;
+		box-shadow: var(--box-shadow);
 		z-index: 100;
-		min-width: 120px;
+		min-width: 140px;
 	}
 	.language-selector:focus-within .lang-dropdown,
 	.language-selector:hover .lang-dropdown {
@@ -66,17 +71,33 @@ const currentLocale = (Astro.currentLocale ?? getLocaleFromUrl(currentPath)) as 
 	}
 	.lang-dropdown a {
 		display: block;
-		padding: 0.35em 0.75em;
+		padding: 0.5em 1em;
 		text-decoration: none;
 		color: rgb(var(--gray-dark));
 		font-size: 0.85em;
-		border-bottom: none;
+		transition: background 0.15s ease;
 	}
 	.lang-dropdown a:hover {
 		background: rgba(var(--gray-light), 0.5);
 	}
 	.lang-dropdown a[aria-current='page'] {
 		font-weight: bold;
+		color: var(--accent);
+	}
+	@media (max-width: 768px) {
+		.lang-toggle {
+			padding: 0.5em 1em;
+			font-size: 0.9em;
+		}
+		.lang-dropdown {
+			position: static;
+			box-shadow: none;
+			border: 1px solid rgb(var(--gray-light));
+			margin-top: 0.5em;
+		}
+		.lang-dropdown a {
+			padding: 0.6em 1em;
+		}
 	}
 </style>
 

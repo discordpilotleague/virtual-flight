@@ -3,7 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { bcp47, type Locale } from '../../i18n/locales';
-import { getNonDefaultLocales, useTranslations } from '../../i18n/utils';
+import { getNonDefaultLocales, localePath, useTranslations } from '../../i18n/utils';
 
 export function getStaticPaths() {
 	return getNonDefaultLocales().map((lang) => ({
@@ -20,15 +20,101 @@ const t = useTranslations(locale);
 <html lang={bcp47[locale]}>
 	<head>
 		<BaseHead title={t('site.title')} description={t('site.description')} locale={locale} />
+		<style>
+			.hero {
+				background: linear-gradient(135deg, #0d1b2a 0%, #1a3a5c 50%, #1a5fb4 100%);
+				color: white;
+				padding: clamp(3em, 8vw, 6em) clamp(1em, 4vw, 2em);
+				text-align: center;
+			}
+			.hero-inner {
+				max-width: 800px;
+				margin: 0 auto;
+			}
+			.hero h1 {
+				color: white;
+				font-size: clamp(2em, 5vw, 3.5em);
+				margin-bottom: 0.5em;
+				line-height: 1.1;
+			}
+			.hero p {
+				font-size: clamp(1em, 1.5vw, 1.2em);
+				opacity: 0.85;
+				margin-bottom: 1.5em;
+				line-height: 1.6;
+			}
+			.cta {
+				display: inline-block;
+				background: white;
+				color: #1a5fb4;
+				padding: 0.75em 2em;
+				border-radius: 8px;
+				text-decoration: none;
+				font-weight: 700;
+				font-size: 1.05em;
+				transition: transform 0.2s ease, box-shadow 0.2s ease;
+			}
+			.cta:hover {
+				transform: translateY(-2px);
+				box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+				color: #1a5fb4;
+			}
+			.content {
+				max-width: 900px;
+				margin: 0 auto;
+				padding: clamp(2em, 5vw, 4em) clamp(1em, 4vw, 2em);
+			}
+			.cards {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+				gap: 1.5em;
+				margin-top: 1em;
+			}
+			.card {
+				background: white;
+				border-radius: var(--radius);
+				padding: 1.5em;
+				box-shadow: var(--box-shadow);
+				transition: transform 0.2s ease, box-shadow 0.2s ease;
+			}
+			.card:hover {
+				transform: translateY(-3px);
+				box-shadow: var(--box-shadow-hover);
+			}
+			.card h3 {
+				margin-top: 0;
+				color: var(--accent);
+				font-size: 1.1em;
+			}
+			.card p {
+				margin: 0;
+				color: rgb(var(--gray));
+				font-size: 0.95em;
+				line-height: 1.6;
+			}
+		</style>
 	</head>
 	<body>
 		<Header />
-		<main>
-			<h1>{t('home.heading')}</h1>
-			<p>{t('home.p1')}</p>
-			<p>{t('home.p2')}</p>
-			<p>{t('home.p3')}</p>
-		</main>
+		<section class="hero">
+			<div class="hero-inner">
+				<h1>{t('home.heading')}</h1>
+				<p>{t('home.p1')}</p>
+				<a href={localePath(locale, '/blog')} class="cta">{t('nav.blog')}</a>
+			</div>
+		</section>
+		<section class="content">
+			<div class="cards">
+				<div class="card">
+					<h3>MSFS 2024</h3>
+					<p>{t('home.p2')}</p>
+				</div>
+				<div class="card">
+					<h3>X-Plane & DCS</h3>
+					<p>{t('home.p3')}</p>
+				</div>
+			</div>
+		</section>
 		<Footer />
 	</body>
 </html>
