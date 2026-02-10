@@ -33,6 +33,7 @@ const fr = {
 	'social.mastodon': 'Suivre sur Mastodon',
 	'social.twitter': 'Suivre sur Twitter',
 	'social.github': 'Voir le dépôt GitHub',
+	'social.discord': 'Rejoindre le Discord',
 } as const;
 
 export type TranslationKey = keyof typeof fr;
@@ -68,6 +69,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'social.mastodon': 'Follow on Mastodon',
 		'social.twitter': 'Follow on Twitter',
 		'social.github': 'Go to GitHub repo',
+		'social.discord': 'Join Discord',
 	},
 
 	es: {
@@ -99,6 +101,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'social.mastodon': 'Seguir en Mastodon',
 		'social.twitter': 'Seguir en Twitter',
 		'social.github': 'Ir al repositorio GitHub',
+		'social.discord': 'Unirse al Discord',
 	},
 
 	pt: {
@@ -130,6 +133,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'social.mastodon': 'Seguir no Mastodon',
 		'social.twitter': 'Seguir no Twitter',
 		'social.github': 'Ir para o repositório GitHub',
+		'social.discord': 'Entrar no Discord',
 	},
 
 	de: {
@@ -161,6 +165,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'social.mastodon': 'Auf Mastodon folgen',
 		'social.twitter': 'Auf Twitter folgen',
 		'social.github': 'Zum GitHub-Repository',
+		'social.discord': 'Discord beitreten',
 	},
 
 	zh: {
@@ -191,6 +196,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'social.mastodon': '在 Mastodon 上关注',
 		'social.twitter': '在 Twitter 上关注',
 		'social.github': '前往 GitHub 仓库',
+		'social.discord': '加入 Discord',
 	},
 
 	id: {
@@ -222,6 +228,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'social.mastodon': 'Ikuti di Mastodon',
 		'social.twitter': 'Ikuti di Twitter',
 		'social.github': 'Kunjungi repositori GitHub',
+		'social.discord': 'Gabung Discord',
 	},
 
 	ja: {
@@ -252,5 +259,6 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'social.mastodon': 'Mastodon でフォロー',
 		'social.twitter': 'Twitter でフォロー',
 		'social.github': 'GitHub リポジトリへ',
+		'social.discord': 'Discord に参加',
 	},
 };
