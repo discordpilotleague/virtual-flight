@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0a2e"/>
+      <stop offset="35%" style="stop-color:#d4621a"/>
+      <stop offset="55%" style="stop-color:#f0943a"/>
+      <stop offset="70%" style="stop-color:#f7c948"/>
+      <stop offset="85%" style="stop-color:#fbe8a6"/>
+      <stop offset="100%" style="stop-color:#e8d5b7"/>
+    </linearGradient>
+    <linearGradient id="tarmacGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3a3a3a"/>
+      <stop offset="100%" style="stop-color:#1a1a1a"/>
+    </linearGradient>
+    <linearGradient id="sunGlow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color:#fff7e0;stop-opacity:1"/>
+      <stop offset="40%" style="stop-color:#f7c948;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#f0943a;stop-opacity:0"/>
+    </linearGradient>
+    <radialGradient id="sunDisc" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#fffbe6;stop-opacity:1"/>
+      <stop offset="60%" style="stop-color:#f7c948;stop-opacity:0.9"/>
+      <stop offset="100%" style="stop-color:#e8a020;stop-opacity:0.7"/>
+    </radialGradient>
+  </defs>
+  <!-- Sky background -->
+  <rect width="800" height="400" fill="url(#skyGrad)"/>
+  <!-- Sun glow -->
+  <ellipse cx="400" cy="260" rx="200" ry="120" fill="url(#sunGlow)" opacity="0.5"/>
+  <!-- Sun disc at horizon -->
+  <circle cx="400" cy="262" r="40" fill="url(#sunDisc)"/>
+  <!-- Distant cloud wisps -->
+  <g opacity="0.15">
+    <ellipse cx="150" cy="120" rx="100" ry="12" fill="#fbe8a6"/>
+    <ellipse cx="600" cy="100" rx="120" ry="10" fill="#fbe8a6"/>
+    <ellipse cx="350" cy="80" rx="80" ry="8" fill="#fbe8a6"/>
+    <ellipse cx="680" cy="150" rx="60" ry="7" fill="#fbe8a6"/>
+  </g>
+  <!-- Horizon haze line -->
+  <rect x="0" y="255" width="800" height="10" fill="#e8d5b7" opacity="0.4"/>
+  <!-- Tarmac ground -->
+  <rect x="0" y="260" width="800" height="140" fill="url(#tarmacGrad)"/>
+  <!-- Tarmac texture lines -->
+  <g opacity="0.08">
+    <line x1="0" y1="290" x2="800" y2="290" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="320" x2="800" y2="320" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="350" x2="800" y2="350" stroke="white" stroke-width="1"/>
+  </g>
+  <!-- Runway center line dashes -->
+  <g opacity="0.2">
+    <rect x="50" y="338" width="40" height="3" rx="1" fill="#e8d5b7"/>
+    <rect x="130" y="338" width="40" height="3" rx="1" fill="#e8d5b7"/>
+    <rect x="210" y="338" width="40" height="3" rx="1" fill="#e8d5b7"/>
+    <rect x="290" y="338" width="40" height="3" rx="1" fill="#e8d5b7"/>
+    <rect x="370" y="338" width="40" height="3" rx="1" fill="#e8d5b7"/>
+    <rect x="450" y="338" width="40" height="3" rx="1" fill="#e8d5b7"/>
+    <rect x="530" y="338" width="40" height="3" rx="1" fill="#e8d5b7"/>
+    <rect x="610" y="338" width="40" height="3" rx="1" fill="#e8d5b7"/>
+    <rect x="690" y="338" width="40" height="3" rx="1" fill="#e8d5b7"/>
+  </g>
+  <!-- Aircraft silhouette 1: Wide-body airliner (left, e.g. 777/A380 style) -->
+  <g transform="translate(80,205)" opacity="0.85">
+    <!-- Fuselage -->
+    <ellipse cx="110" cy="42" rx="108" ry="12" fill="#1a1020"/>
+    <!-- Nose -->
+    <path d="M2,42 Q-10,40 2,38 L20,38 L20,46 Z" fill="#1a1020"/>
+    <!-- Tail fin -->
+    <path d="M200,42 L218,42 L222,10 L210,10 Q205,15 200,42Z" fill="#1a1020"/>
+    <!-- Horizontal stabilizer -->
+    <path d="M195,38 L220,30 L222,32 L200,42Z" fill="#1a1020"/>
+    <path d="M195,46 L220,54 L222,52 L200,42Z" fill="#1a1020"/>
+    <!-- Left wing -->
+    <path d="M70,42 L30,70 L120,70 L130,46Z" fill="#1a1020"/>
+    <!-- Right wing (top, partially visible) -->
+    <path d="M70,42 L30,14 L120,14 L130,38Z" fill="#1a1020"/>
+    <!-- Engine pods -->
+    <ellipse cx="60" cy="65" rx="12" ry="5" fill="#1a1020"/>
+    <ellipse cx="100" cy="65" rx="12" ry="5" fill="#1a1020"/>
+    <ellipse cx="60" cy="19" rx="12" ry="5" fill="#1a1020"/>
+    <ellipse cx="100" cy="19" rx="12" ry="5" fill="#1a1020"/>
+    <!-- Cockpit windows highlight -->
+    <rect x="8" y="39" width="8" height="2" rx="1" fill="#f7c948" opacity="0.5"/>
+  </g>
+  <!-- Aircraft silhouette 2: GA single-engine (center, e.g. PC-12 style) -->
+  <g transform="translate(330,225)" opacity="0.85">
+    <!-- Fuselage -->
+    <ellipse cx="60" cy="22" rx="58" ry="8" fill="#1a1020"/>
+    <!-- Nose / spinner -->
+    <path d="M2,22 Q-5,20 2,18 L10,18 L10,26 Z" fill="#1a1020"/>
+    <!-- Propeller disc -->
+    <line x1="-2" y1="10" x2="-2" y2="34" stroke="#1a1020" stroke-width="2" opacity="0.5"/>
+    <!-- Tail -->
+    <path d="M108,22 L120,22 L124,4 L115,4 Q112,10 108,22Z" fill="#1a1020"/>
+    <!-- Horizontal stabilizer -->
+    <path d="M105,20 L122,14 L124,16 L108,22Z" fill="#1a1020"/>
+    <path d="M105,24 L122,30 L124,28 L108,22Z" fill="#1a1020"/>
+    <!-- High wing -->
+    <path d="M35,14 L15,14 L10,16 L45,16Z" fill="#1a1020"/>
+    <path d="M35,14 L90,14 L95,16 L45,16Z" fill="#1a1020"/>
+    <rect x="10" y="12" width="90" height="5" rx="2" fill="#1a1020"/>
+    <!-- Landing gear -->
+    <line x1="35" y1="30" x2="32" y2="40" stroke="#1a1020" stroke-width="2"/>
+    <line x1="75" y1="30" x2="78" y2="40" stroke="#1a1020" stroke-width="2"/>
+    <circle cx="32" cy="41" r="3" fill="#1a1020"/>
+    <circle cx="78" cy="41" r="3" fill="#1a1020"/>
+    <!-- Cockpit window -->
+    <rect x="6" y="19" width="6" height="2" rx="1" fill="#f7c948" opacity="0.5"/>
+  </g>
+  <!-- Aircraft silhouette 3: Fighter jet (right, e.g. F-14 style with swept wings) -->
+  <g transform="translate(570,218)" opacity="0.85">
+    <!-- Fuselage -->
+    <ellipse cx="75" cy="30" rx="74" ry="9" fill="#1a1020"/>
+    <!-- Nose cone -->
+    <path d="M1,30 Q-12,28 1,26 L15,26 L15,34 Z" fill="#1a1020"/>
+    <!-- Radome tip -->
+    <path d="M-5,30 Q-12,29 -5,28 L1,28 L1,32 Z" fill="#1a1020"/>
+    <!-- Twin tail fins -->
+    <path d="M135,30 L142,30 L148,8 L140,8 Q137,14 135,30Z" fill="#1a1020"/>
+    <path d="M140,30 L147,30 L153,12 L145,12 Q142,18 140,30Z" fill="#1a1020"/>
+    <!-- Horizontal stabilizers -->
+    <path d="M130,28 L150,20 L152,22 L135,30Z" fill="#1a1020"/>
+    <path d="M130,32 L150,40 L152,38 L135,30Z" fill="#1a1020"/>
+    <!-- Variable-sweep wings (swept back) -->
+    <path d="M50,30 L25,52 L90,45 L100,32Z" fill="#1a1020"/>
+    <path d="M50,30 L25,8 L90,15 L100,28Z" fill="#1a1020"/>
+    <!-- Engine nozzles -->
+    <ellipse cx="148" cy="26" rx="5" ry="4" fill="#2a1a30"/>
+    <ellipse cx="148" cy="34" rx="5" ry="4" fill="#2a1a30"/>
+    <!-- Afterburner glow hint -->
+    <ellipse cx="153" cy="26" rx="4" ry="2" fill="#f0943a" opacity="0.3"/>
+    <ellipse cx="153" cy="34" rx="4" ry="2" fill="#f0943a" opacity="0.3"/>
+    <!-- Canopy -->
+    <rect x="20" y="27" width="12" height="3" rx="1" fill="#f7c948" opacity="0.5"/>
+  </g>
+  <!-- Ground reflections / heat shimmer -->
+  <g opacity="0.06">
+    <ellipse cx="190" cy="300" rx="120" ry="30" fill="#f7c948"/>
+    <ellipse cx="400" cy="310" rx="80" ry="20" fill="#f7c948"/>
+    <ellipse cx="640" cy="300" rx="100" ry="25" fill="#f7c948"/>
+  </g>
+  <!-- Distant hangar silhouettes -->
+  <rect x="0" y="248" width="60" height="16" fill="#2a2a2a" opacity="0.5"/>
+  <rect x="730" y="248" width="70" height="16" fill="#2a2a2a" opacity="0.5"/>
+  <polygon points="0,248 30,238 60,248" fill="#2a2a2a" opacity="0.5"/>
+  <polygon points="730,248 765,238 800,248" fill="#2a2a2a" opacity="0.5"/>
+  <!-- Control tower silhouette far right -->
+  <rect x="760" y="210" width="12" height="50" fill="#2a2a2a" opacity="0.4"/>
+  <rect x="755" y="205" width="22" height="10" rx="2" fill="#2a2a2a" opacity="0.4"/>
+  <rect x="758" y="207" width="16" height="4" rx="1" fill="#f7c948" opacity="0.15"/>
+  <!-- Warm overlay for golden hour feel -->
+  <rect width="800" height="400" fill="#f0943a" opacity="0.04"/>
+  <!-- Title area at top -->
+  <text x="400" y="45" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="bold" fill="white" opacity="0.9">PAYWARE AIRCRAFT ADD-ONS</text>
+  <text x="400" y="70" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#fbe8a6" opacity="0.7">Premium Simulations for Serious Pilots</text>
+  <!-- Price tag badges below aircraft -->
+  <g font-family="Arial,Helvetica,sans-serif">
+    <!-- Airliner badge -->
+    <rect x="130" y="280" width="70" height="22" rx="11" fill="rgba(247,201,72,0.2)" stroke="rgba(247,201,72,0.3)" stroke-width="1"/>
+    <text x="165" y="295" text-anchor="middle" font-size="10" font-weight="bold" fill="#f7c948">AIRLINER</text>
+    <!-- GA badge -->
+    <rect x="365" y="290" width="70" height="22" rx="11" fill="rgba(247,201,72,0.2)" stroke="rgba(247,201,72,0.3)" stroke-width="1"/>
+    <text x="400" y="305" text-anchor="middle" font-size="10" font-weight="bold" fill="#f7c948">GA / TURBO</text>
+    <!-- Fighter badge -->
+    <rect x="600" y="285" width="70" height="22" rx="11" fill="rgba(247,201,72,0.2)" stroke="rgba(247,201,72,0.3)" stroke-width="1"/>
+    <text x="635" y="300" text-anchor="middle" font-size="10" font-weight="bold" fill="#f7c948">MILITARY</text>
+  </g>
+</svg>

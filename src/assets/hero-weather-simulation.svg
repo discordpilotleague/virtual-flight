@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="stormSky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e1a"/>
+      <stop offset="35%" style="stop-color:#1a2140"/>
+      <stop offset="70%" style="stop-color:#2a3456"/>
+      <stop offset="100%" style="stop-color:#3d4a6b"/>
+    </linearGradient>
+    <linearGradient id="lightning1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="50%" style="stop-color:#c8d8ff"/>
+      <stop offset="100%" style="stop-color:#6b8aff;stop-opacity:0.3"/>
+    </linearGradient>
+    <linearGradient id="lightning2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fff8e0"/>
+      <stop offset="40%" style="stop-color:#ffe066"/>
+      <stop offset="100%" style="stop-color:#ff9800;stop-opacity:0.2"/>
+    </linearGradient>
+    <radialGradient id="lightningGlow1" cx="50%" cy="30%" r="50%">
+      <stop offset="0%" style="stop-color:#8899ff;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#8899ff;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="lightningGlow2" cx="50%" cy="30%" r="50%">
+      <stop offset="0%" style="stop-color:#ffe066;stop-opacity:0.2"/>
+      <stop offset="100%" style="stop-color:#ffe066;stop-opacity:0"/>
+    </radialGradient>
+    <linearGradient id="cloudDark" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a5578"/>
+      <stop offset="100%" style="stop-color:#2a3050"/>
+    </linearGradient>
+    <linearGradient id="cloudMid" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#5a6588"/>
+      <stop offset="100%" style="stop-color:#3a4560"/>
+    </linearGradient>
+    <linearGradient id="cloudLight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#6a7598"/>
+      <stop offset="100%" style="stop-color:#4a5570"/>
+    </linearGradient>
+    <linearGradient id="rain" x1="0%" y1="0%" x2="20%" y2="100%">
+      <stop offset="0%" style="stop-color:rgba(180,200,255,0.6)"/>
+      <stop offset="100%" style="stop-color:rgba(180,200,255,0)"/>
+    </linearGradient>
+    <filter id="cloudBlur">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <filter id="glowFilter">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+  <!-- Sky background -->
+  <rect width="800" height="400" fill="url(#stormSky)"/>
+  <!-- Distant horizon glow -->
+  <ellipse cx="400" cy="400" rx="500" ry="120" fill="rgba(60,70,100,0.4)"/>
+  <!-- Far background clouds -->
+  <ellipse cx="120" cy="100" rx="140" ry="45" fill="#2a3050" opacity="0.6"/>
+  <ellipse cx="300" cy="80" rx="120" ry="38" fill="#2d3355" opacity="0.5"/>
+  <ellipse cx="680" cy="90" rx="160" ry="50" fill="#282e4a" opacity="0.6"/>
+  <!-- Lightning glow area 1 -->
+  <ellipse cx="260" cy="140" rx="120" ry="100" fill="url(#lightningGlow1)" filter="url(#glowFilter)"/>
+  <!-- Lightning glow area 2 -->
+  <ellipse cx="600" cy="130" rx="100" ry="90" fill="url(#lightningGlow2)" filter="url(#glowFilter)"/>
+  <!-- Main storm cloud bank - rear layer -->
+  <ellipse cx="200" cy="130" rx="180" ry="65" fill="url(#cloudDark)" opacity="0.9"/>
+  <ellipse cx="400" cy="120" rx="200" ry="70" fill="url(#cloudDark)" opacity="0.85"/>
+  <ellipse cx="620" cy="125" rx="170" ry="60" fill="url(#cloudDark)" opacity="0.9"/>
+  <!-- Main storm cloud bank - mid layer -->
+  <ellipse cx="140" cy="145" rx="130" ry="55" fill="url(#cloudMid)" opacity="0.85"/>
+  <ellipse cx="310" cy="140" rx="160" ry="60" fill="url(#cloudMid)" opacity="0.8"/>
+  <ellipse cx="500" cy="135" rx="150" ry="55" fill="url(#cloudMid)" opacity="0.85"/>
+  <ellipse cx="700" cy="140" rx="140" ry="50" fill="url(#cloudMid)" opacity="0.8"/>
+  <!-- Lightning bolt 1 - main jagged bolt -->
+  <polyline points="250,130 258,165 245,170 265,210 252,215 270,260 258,265 275,310"
+    fill="none" stroke="url(#lightning1)" stroke-width="3" opacity="0.9"/>
+  <polyline points="250,130 258,165 245,170 265,210 252,215 270,260 258,265 275,310"
+    fill="none" stroke="white" stroke-width="1.2" opacity="0.7"/>
+  <!-- Lightning bolt 1 - branch -->
+  <polyline points="265,210 285,235 278,238 292,265"
+    fill="none" stroke="url(#lightning1)" stroke-width="2" opacity="0.6"/>
+  <!-- Lightning bolt 2 - right side -->
+  <polyline points="590,120 598,155 585,160 605,200 595,205 610,245"
+    fill="none" stroke="url(#lightning2)" stroke-width="2.5" opacity="0.8"/>
+  <polyline points="590,120 598,155 585,160 605,200 595,205 610,245"
+    fill="none" stroke="white" stroke-width="1" opacity="0.6"/>
+  <!-- Lightning bolt 2 - branch -->
+  <polyline points="605,200 620,220 615,222 628,248"
+    fill="none" stroke="url(#lightning2)" stroke-width="1.5" opacity="0.5"/>
+  <!-- Front cloud layer -->
+  <ellipse cx="100" cy="160" rx="110" ry="45" fill="url(#cloudLight)" opacity="0.7"/>
+  <ellipse cx="250" cy="155" rx="130" ry="50" fill="url(#cloudLight)" opacity="0.65"/>
+  <ellipse cx="450" cy="150" rx="140" ry="48" fill="url(#cloudLight)" opacity="0.7"/>
+  <ellipse cx="650" cy="155" rx="120" ry="45" fill="url(#cloudLight)" opacity="0.65"/>
+  <ellipse cx="780" cy="160" rx="100" ry="40" fill="url(#cloudLight)" opacity="0.6"/>
+  <!-- Rain streaks - left area -->
+  <line x1="150" y1="180" x2="138" y2="400" stroke="rgba(160,180,220,0.15)" stroke-width="1"/>
+  <line x1="170" y1="185" x2="158" y2="400" stroke="rgba(160,180,220,0.12)" stroke-width="1"/>
+  <line x1="195" y1="178" x2="183" y2="400" stroke="rgba(160,180,220,0.18)" stroke-width="1"/>
+  <line x1="220" y1="182" x2="208" y2="400" stroke="rgba(160,180,220,0.1)" stroke-width="1"/>
+  <line x1="240" y1="175" x2="228" y2="400" stroke="rgba(160,180,220,0.14)" stroke-width="1"/>
+  <line x1="265" y1="180" x2="253" y2="400" stroke="rgba(160,180,220,0.16)" stroke-width="1"/>
+  <line x1="285" y1="185" x2="273" y2="400" stroke="rgba(160,180,220,0.11)" stroke-width="1"/>
+  <line x1="310" y1="178" x2="298" y2="400" stroke="rgba(160,180,220,0.13)" stroke-width="1"/>
+  <!-- Rain streaks - center -->
+  <line x1="350" y1="182" x2="338" y2="400" stroke="rgba(160,180,220,0.1)" stroke-width="1"/>
+  <line x1="380" y1="176" x2="368" y2="400" stroke="rgba(160,180,220,0.15)" stroke-width="1"/>
+  <line x1="410" y1="180" x2="398" y2="400" stroke="rgba(160,180,220,0.12)" stroke-width="1"/>
+  <!-- Rain streaks - right area -->
+  <line x1="530" y1="178" x2="518" y2="400" stroke="rgba(160,180,220,0.16)" stroke-width="1"/>
+  <line x1="560" y1="182" x2="548" y2="400" stroke="rgba(160,180,220,0.13)" stroke-width="1"/>
+  <line x1="585" y1="175" x2="573" y2="400" stroke="rgba(160,180,220,0.18)" stroke-width="1"/>
+  <line x1="610" y1="180" x2="598" y2="400" stroke="rgba(160,180,220,0.11)" stroke-width="1"/>
+  <line x1="640" y1="185" x2="628" y2="400" stroke="rgba(160,180,220,0.14)" stroke-width="1"/>
+  <line x1="665" y1="178" x2="653" y2="400" stroke="rgba(160,180,220,0.15)" stroke-width="1"/>
+  <!-- Aircraft silhouette - flying through the storm -->
+  <g transform="translate(400,240) rotate(-5)">
+    <!-- Fuselage -->
+    <ellipse cx="0" cy="0" rx="60" ry="6" fill="#1a1e2e" opacity="0.9"/>
+    <!-- Nose -->
+    <polygon points="60,-3 75,0 60,3" fill="#1a1e2e" opacity="0.9"/>
+    <!-- Tail fin -->
+    <polygon points="-55,-5 -60,-28 -45,-5" fill="#1a1e2e" opacity="0.9"/>
+    <!-- Horizontal stabilizer -->
+    <polygon points="-50,-2 -65,-12 -58,-2" fill="#1a1e2e" opacity="0.85"/>
+    <polygon points="-50,2 -65,12 -58,2" fill="#1a1e2e" opacity="0.85"/>
+    <!-- Left wing -->
+    <polygon points="-10,-5 15,-5 -20,-55 -35,-50" fill="#1a1e2e" opacity="0.9"/>
+    <!-- Right wing -->
+    <polygon points="-10,5 15,5 -20,55 -35,50" fill="#1a1e2e" opacity="0.9"/>
+    <!-- Left engine -->
+    <ellipse cx="-5" cy="-30" rx="10" ry="4" fill="#141828" opacity="0.9"/>
+    <!-- Right engine -->
+    <ellipse cx="-5" cy="30" rx="10" ry="4" fill="#141828" opacity="0.9"/>
+    <!-- Navigation lights -->
+    <circle cx="-28" cy="-52" r="2" fill="#ff3333" opacity="0.8"/>
+    <circle cx="-28" cy="52" r="2" fill="#33ff33" opacity="0.8"/>
+    <circle cx="-58" cy="-26" r="1.5" fill="white" opacity="0.6"/>
+    <!-- Window glow -->
+    <rect x="35" y="-2.5" width="18" height="5" rx="2" fill="rgba(200,220,255,0.15)"/>
+  </g>
+  <!-- Wispy cloud in front of aircraft -->
+  <ellipse cx="430" cy="235" rx="40" ry="12" fill="rgba(80,90,120,0.3)" filter="url(#cloudBlur)"/>
+  <ellipse cx="370" cy="248" rx="35" ry="10" fill="rgba(70,80,110,0.25)" filter="url(#cloudBlur)"/>
+  <!-- Lower fog/mist layer -->
+  <ellipse cx="200" cy="350" rx="250" ry="60" fill="rgba(50,60,85,0.4)" filter="url(#cloudBlur)"/>
+  <ellipse cx="600" cy="360" rx="280" ry="55" fill="rgba(45,55,80,0.35)" filter="url(#cloudBlur)"/>
+  <!-- Ground fog -->
+  <rect x="0" y="370" width="800" height="30" fill="rgba(40,48,70,0.5)"/>
+  <!-- Title text -->
+  <text x="400" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="rgba(200,210,240,0.45)" letter-spacing="3">WEATHER SIMULATION</text>
+</svg>
