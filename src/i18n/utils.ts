@@ -33,6 +33,14 @@ export function switchLocalePath(currentPath: string, targetLocale: Locale): str
 			break;
 		}
 	}
+
+	// On blog article pages, redirect to the blog index of the target locale
+	// (articles don't have 1:1 translations across languages)
+	const blogArticlePattern = /^\/blog\/[^/]+/;
+	if (blogArticlePattern.test(barePath)) {
+		barePath = '/blog';
+	}
+
 	return localePath(targetLocale, barePath);
 }
 

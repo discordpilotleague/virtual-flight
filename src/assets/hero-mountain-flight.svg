@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 720" width="1440" height="720">
+  <defs>
+    <linearGradient id="sky3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a3a6a"/>
+      <stop offset="50%" stop-color="#4488cc"/>
+      <stop offset="100%" stop-color="#88bbdd"/>
+    </linearGradient>
+    <linearGradient id="mtn1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#556677"/>
+      <stop offset="100%" stop-color="#334455"/>
+    </linearGradient>
+    <linearGradient id="mtn2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#445566"/>
+      <stop offset="100%" stop-color="#2a3a4a"/>
+    </linearGradient>
+    <linearGradient id="mtn3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a5533"/>
+      <stop offset="100%" stop-color="#2a4428"/>
+    </linearGradient>
+    <linearGradient id="sunset3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff8844" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffaa55" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#ff8844" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Sky -->
+  <rect width="1440" height="720" fill="url(#sky3)"/>
+  <!-- Sun glow -->
+  <circle cx="1100" cy="200" r="200" fill="#ffcc66" opacity="0.15"/>
+  <circle cx="1100" cy="200" r="100" fill="#ffdd88" opacity="0.2"/>
+  <circle cx="1100" cy="200" r="40" fill="#ffeeaa" opacity="0.8"/>
+
+  <!-- Clouds -->
+  <g opacity="0.3">
+    <ellipse cx="300" cy="150" rx="120" ry="25" fill="white"/>
+    <ellipse cx="350" cy="140" rx="80" ry="20" fill="white"/>
+    <ellipse cx="800" cy="120" rx="100" ry="20" fill="white"/>
+    <ellipse cx="850" cy="110" rx="60" ry="15" fill="white"/>
+  </g>
+
+  <!-- Far mountains (snow-capped) -->
+  <polygon points="0,450 150,280 300,350 450,250 550,320 700,220 850,300 950,260 1100,350 1200,280 1350,320 1440,380 1440,500 0,500" fill="url(#mtn1)"/>
+  <!-- Snow caps -->
+  <polygon points="450,250 430,280 470,275" fill="white" opacity="0.7"/>
+  <polygon points="700,220 670,260 690,255 720,250 730,260" fill="white" opacity="0.8"/>
+  <polygon points="950,260 930,290 960,285 970,290" fill="white" opacity="0.6"/>
+  <polygon points="1200,280 1180,310 1210,305 1220,315" fill="white" opacity="0.7"/>
+
+  <!-- Mid mountains -->
+  <polygon points="0,520 100,400 200,440 350,370 500,420 650,360 800,410 950,380 1100,430 1250,370 1350,400 1440,450 1440,560 0,560" fill="url(#mtn2)"/>
+
+  <!-- Near mountains (forested) -->
+  <polygon points="0,580 80,480 200,530 320,470 450,510 550,460 700,500 850,470 1000,520 1150,480 1300,510 1440,490 1440,620 0,620" fill="url(#mtn3)"/>
+
+  <!-- Valley floor -->
+  <rect x="0" y="600" width="1440" height="120" fill="#1a3320"/>
+
+  <!-- River through valley -->
+  <path d="M0,650 Q200,640 400,660 Q600,680 800,650 Q1000,620 1200,645 Q1350,660 1440,650" fill="none" stroke="#4488aa" stroke-width="4" opacity="0.6"/>
+
+  <!-- Aircraft -->
+  <g transform="translate(500, 320) rotate(-5)">
+    <!-- Fuselage -->
+    <ellipse cx="0" cy="0" rx="40" ry="6" fill="#dddddd" stroke="#999" stroke-width="1"/>
+    <!-- Wings -->
+    <polygon points="-10,-5 -5,-60 5,-60 10,-5" fill="#cccccc" stroke="#999" stroke-width="0.5"/>
+    <polygon points="-10,5 -5,60 5,60 10,5" fill="#cccccc" stroke="#999" stroke-width="0.5"/>
+    <!-- Tail -->
+    <polygon points="-38,-3 -45,-20 -35,-20 -30,-3" fill="#cccccc" stroke="#999" stroke-width="0.5"/>
+    <!-- Engines -->
+    <ellipse cx="-5" cy="-30" rx="8" ry="4" fill="#aaaaaa" stroke="#888" stroke-width="0.5"/>
+    <ellipse cx="-5" cy="30" rx="8" ry="4" fill="#aaaaaa" stroke="#888" stroke-width="0.5"/>
+    <!-- Cockpit windows -->
+    <ellipse cx="30" cy="0" rx="8" ry="4" fill="#4488cc" opacity="0.7"/>
+    <!-- Contrail -->
+    <line x1="-45" y1="-18" x2="-200" y2="-10" stroke="white" stroke-width="2" opacity="0.4"/>
+    <line x1="-45" y1="18" x2="-200" y2="25" stroke="white" stroke-width="2" opacity="0.4"/>
+  </g>
+
+  <!-- HUD overlay elements -->
+  <g opacity="0.25">
+    <rect x="50" y="30" width="200" height="50" rx="3" fill="none" stroke="#00ff00" stroke-width="1"/>
+    <text x="60" y="52" fill="#00ff00" font-family="monospace" font-size="11">ALT 28,400 FT</text>
+    <text x="60" y="70" fill="#00ff00" font-family="monospace" font-size="11">GS  485 KTS</text>
+    <rect x="1190" y="30" width="200" height="50" rx="3" fill="none" stroke="#00ff00" stroke-width="1"/>
+    <text x="1200" y="52" fill="#00ff00" font-family="monospace" font-size="11">HDG 274°</text>
+    <text x="1200" y="70" fill="#00ff00" font-family="monospace" font-size="11">WPT LEMD</text>
+  </g>
+</svg>

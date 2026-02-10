@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 720" width="1440" height="720">
+  <defs>
+    <linearGradient id="sky4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a0a2e"/>
+      <stop offset="30%" stop-color="#4a1a5e"/>
+      <stop offset="55%" stop-color="#cc4422"/>
+      <stop offset="75%" stop-color="#ff8844"/>
+      <stop offset="100%" stop-color="#ffcc66"/>
+    </linearGradient>
+    <linearGradient id="ocean" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#cc5522"/>
+      <stop offset="30%" stop-color="#224466"/>
+      <stop offset="100%" stop-color="#0a1a2a"/>
+    </linearGradient>
+    <radialGradient id="sun4" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffeecc"/>
+      <stop offset="30%" stop-color="#ffaa44"/>
+      <stop offset="100%" stop-color="#ff6600" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- Sky -->
+  <rect width="1440" height="420" fill="url(#sky4)"/>
+  <!-- Ocean -->
+  <rect x="0" y="420" width="1440" height="300" fill="url(#ocean)"/>
+
+  <!-- Sun -->
+  <circle cx="720" cy="400" r="120" fill="url(#sun4)" opacity="0.6"/>
+  <circle cx="720" cy="400" r="50" fill="#ffdd88"/>
+  <circle cx="720" cy="400" r="35" fill="#ffeecc"/>
+
+  <!-- Sun reflection on water -->
+  <g opacity="0.5">
+    <rect x="680" y="420" width="80" height="5" rx="2" fill="#ffcc66"/>
+    <rect x="690" y="430" width="60" height="3" rx="1" fill="#ffaa44"/>
+    <rect x="670" y="440" width="100" height="4" rx="2" fill="#ff8833"/>
+    <rect x="695" y="450" width="50" height="3" rx="1" fill="#ff7722"/>
+    <rect x="675" y="460" width="90" height="3" rx="1" fill="#ee6622"/>
+    <rect x="700" y="475" width="40" height="2" rx="1" fill="#cc5522"/>
+    <rect x="680" y="490" width="80" height="3" rx="1" fill="#aa4422"/>
+    <rect x="695" y="510" width="50" height="2" rx="1" fill="#884422"/>
+    <rect x="685" y="530" width="70" height="2" rx="1" fill="#664422"/>
+    <rect x="700" y="555" width="40" height="2" rx="1" fill="#553322"/>
+  </g>
+
+  <!-- Clouds silhouettes -->
+  <g opacity="0.3">
+    <ellipse cx="200" cy="300" rx="150" ry="30" fill="#551133"/>
+    <ellipse cx="250" cy="290" rx="100" ry="25" fill="#551133"/>
+    <ellipse cx="1100" cy="320" rx="180" ry="35" fill="#551133"/>
+    <ellipse cx="1150" cy="305" rx="120" ry="25" fill="#551133"/>
+  </g>
+  <g opacity="0.15">
+    <ellipse cx="500" cy="250" rx="100" ry="20" fill="#663344"/>
+    <ellipse cx="950" cy="270" rx="130" ry="22" fill="#663344"/>
+  </g>
+
+  <!-- Ocean waves -->
+  <g opacity="0.15">
+    <path d="M0,460 Q50,455 100,460 Q150,465 200,460 Q250,455 300,460 Q350,465 400,460 Q450,455 500,460 Q550,465 600,460 Q650,455 700,460 Q750,465 800,460 Q850,455 900,460 Q950,465 1000,460 Q1050,455 1100,460 Q1150,465 1200,460 Q1250,455 1300,460 Q1350,465 1440,460" fill="none" stroke="#88aacc" stroke-width="1"/>
+    <path d="M0,500 Q60,495 120,500 Q180,505 240,500 Q300,495 360,500 Q420,505 480,500 Q540,495 600,500 Q660,505 720,500 Q780,495 840,500 Q900,505 960,500 Q1020,495 1080,500 Q1140,505 1200,500 Q1260,495 1320,500 Q1380,505 1440,500" fill="none" stroke="#88aacc" stroke-width="1"/>
+    <path d="M0,550 Q70,545 140,550 Q210,555 280,550 Q350,545 420,550 Q490,555 560,550 Q630,545 700,550 Q770,555 840,550 Q910,545 980,550 Q1050,555 1120,550 Q1190,545 1260,550 Q1330,555 1440,550" fill="none" stroke="#6688aa" stroke-width="1"/>
+  </g>
+
+  <!-- Aircraft silhouette (approaching) -->
+  <g transform="translate(350, 340)">
+    <!-- Fuselage -->
+    <ellipse cx="0" cy="0" rx="35" ry="5" fill="#1a0a1a"/>
+    <!-- Wings -->
+    <polygon points="-8,-4 -3,-50 3,-50 8,-4" fill="#1a0a1a"/>
+    <polygon points="-8,4 -3,50 3,50 8,4" fill="#1a0a1a"/>
+    <!-- Tail -->
+    <polygon points="-33,-2 -40,-18 -30,-18 -25,-2" fill="#1a0a1a"/>
+    <!-- Horizontal stabilizer -->
+    <polygon points="-30,-2 -33,-15 -27,-15 -25,-2" fill="#1a0a1a"/>
+    <polygon points="-30,2 -33,15 -27,15 -25,2" fill="#1a0a1a"/>
+  </g>
+
+  <!-- Navigation lights on aircraft -->
+  <circle cx="317" cy="340" r="2" fill="#ff0000" opacity="0.9"/>
+  <circle cx="383" cy="340" r="2" fill="#ff0000" opacity="0.5"/>
+  <circle cx="300" cy="390" r="1.5" fill="#00ff00" opacity="0.8"/>
+  <circle cx="300" cy="290" r="1.5" fill="#ff0000" opacity="0.8"/>
+
+  <!-- Stars appearing in upper sky -->
+  <g opacity="0.6">
+    <circle cx="100" cy="50" r="1.5" fill="white"/>
+    <circle cx="250" cy="80" r="1" fill="white"/>
+    <circle cx="400" cy="30" r="1.5" fill="white"/>
+    <circle cx="600" cy="60" r="1" fill="white"/>
+    <circle cx="850" cy="45" r="1.5" fill="white"/>
+    <circle cx="1000" cy="70" r="1" fill="white"/>
+    <circle cx="1200" cy="40" r="1.5" fill="white"/>
+    <circle cx="1350" cy="65" r="1" fill="white"/>
+    <circle cx="150" cy="120" r="1" fill="white" opacity="0.4"/>
+    <circle cx="1100" cy="100" r="1" fill="white" opacity="0.3"/>
+  </g>
+</svg>

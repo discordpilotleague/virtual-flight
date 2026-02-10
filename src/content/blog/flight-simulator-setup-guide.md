@@ -3,7 +3,7 @@ title: 'The Ultimate Flight Simulator Setup Guide for Serious Virtual Pilots'
 description: 'A comprehensive expert guide to optimizing your flight simulation setup, from hardware calibration to software configuration, logbook management and pilot career progression.'
 lang: 'en'
 pubDate: 'Feb 10 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/hero-cockpit-dashboard.svg'
 ---
 
 If you have spent any meaningful time in the world of **flight simulation**, you know that the difference between a mediocre experience and a truly immersive one comes down to setup. Whether you fly MSFS 2024, X-Plane 12, or DCS World, getting your configuration right is what separates casual enthusiasts from dedicated virtual aviators.

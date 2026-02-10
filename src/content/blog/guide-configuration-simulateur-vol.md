@@ -3,7 +3,7 @@ title: 'Guide expert : Configurer et optimiser son simulateur de vol en 2026'
 description: 'Configuration matérielle, optimisation logicielle, gestion du logbook et progression de carrière pilote : le guide complet pour les passionnés de flight simulation.'
 lang: 'fr'
 pubDate: 'Feb 10 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/hero-instruments-panel.svg'
 ---
 
 La **flight simulation** a atteint un niveau de réalisme qui aurait semblé impensable il y a cinq ans. Mais ce réalisme ne se débloque pas tout seul : il exige une configuration méticuleuse, tant côté matériel que logiciel. Voici le guide que j'aurais aimé avoir quand j'ai commencé à prendre la simulation au sérieux.

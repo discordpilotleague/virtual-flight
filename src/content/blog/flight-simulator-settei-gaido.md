@@ -3,7 +3,7 @@ title: 'エキスパートガイド：フライトシミュレーター設定と
 description: 'ハードウェア校正、ソフトウェア最適化、Logbook管理、Pilot Career構築：日本のバーチャルパイロットのためのFlight Simulation完全ガイド。'
 lang: 'ja'
 pubDate: 'Feb 10 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/hero-night-flight.svg'
 ---
 
 **Flight Simulation**（フライトシミュレーション）のリアリズムは、5年前には想像もできなかったレベルに達しています。しかし、そのリアリズムは自動的に実現するものではありません。ハードウェアとソフトウェアの両面で、綿密な設定が必要です。これは、すべての真剣なバーチャルパイロットに必要なガイドです。

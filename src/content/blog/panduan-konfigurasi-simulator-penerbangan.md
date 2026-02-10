@@ -3,7 +3,7 @@ title: 'Panduan Ahli: Konfigurasi dan Optimasi Simulator Penerbangan 2026'
 description: 'Kalibrasi hardware, optimasi software, manajemen logbook dan pengembangan pilot career: panduan lengkap flight simulation untuk pilot virtual Indonesia.'
 lang: 'id'
 pubDate: 'Feb 10 2026'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/hero-tropical-flight.svg'
 ---
 
 **Flight simulation** telah mencapai tingkat realisme yang tak terbayangkan lima tahun lalu. Namun realisme ini tidak muncul dengan sendirinya — dibutuhkan konfigurasi yang cermat, baik dari sisi hardware maupun software. Inilah panduan yang dibutuhkan setiap pilot virtual yang serius.

@@ -3,7 +3,7 @@ title: 'Guia especializado: Configuração e otimização de simuladores de voo 
 description: 'Configuração de hardware, otimização de software, gestão do logbook e progressão de carreira de piloto: o guia completo de flight simulation para pilotos virtuais lusófonos.'
 lang: 'pt'
 pubDate: 'Feb 10 2026'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/hero-ocean-sunset.svg'
 ---
 
 A **flight simulation** atingiu um nível de realismo que teria parecido impensável há cinco anos. Mas esse realismo não se desbloqueia sozinho: exige uma configuração meticulosa, tanto no hardware como no software. Este é o guia que todo piloto virtual sério precisa.

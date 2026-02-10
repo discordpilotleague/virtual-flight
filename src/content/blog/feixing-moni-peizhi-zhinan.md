@@ -3,7 +3,7 @@ title: '飞行模拟器配置与优化专家指南 2026'
 description: '硬件校准、软件优化、Logbook管理与Pilot Career发展：为中文虚拟飞行社区打造的Flight Simulation完整指南。'
 lang: 'zh'
 pubDate: 'Feb 10 2026'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/hero-glass-cockpit.svg'
 ---
 
 **Flight Simulation**（飞行模拟）的真实感已经达到了五年前难以想象的水平。但这种真实感并不会自动实现——它需要对硬件和软件进行精细的配置。这份指南将帮助每一位认真对待飞行模拟的虚拟飞行员。

@@ -3,7 +3,7 @@ title: 'Guía experta: Configuración y optimización de simuladores de vuelo en
 description: 'Configuración de hardware, optimización de software, gestión del logbook y progresión de carrera de piloto: la guía completa de flight simulation para pilotos virtuales hispanohablantes.'
 lang: 'es'
 pubDate: 'Feb 10 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/hero-mountain-flight.svg'
 ---
 
 La **flight simulation** ha alcanzado un nivel de realismo que habría parecido impensable hace cinco años. Pero ese realismo no se desbloquea solo: exige una configuración meticulosa, tanto en el hardware como en el software. Esta es la guía que todo piloto virtual serio necesita.

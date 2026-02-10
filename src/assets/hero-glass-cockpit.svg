@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 720" width="1440" height="720">
+  <defs>
+    <linearGradient id="bg6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a12"/>
+      <stop offset="100%" stop-color="#12121e"/>
+    </linearGradient>
+    <linearGradient id="pfd" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#001133"/>
+      <stop offset="45%" stop-color="#002266"/>
+      <stop offset="50%" stop-color="#553311"/>
+      <stop offset="100%" stop-color="#331a00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="720" fill="url(#bg6)"/>
+
+  <!-- Main PFD Screen -->
+  <rect x="40" y="40" width="660" height="500" rx="6" fill="#0a0a0a" stroke="#333" stroke-width="2"/>
+  <rect x="50" y="50" width="640" height="480" rx="3" fill="url(#pfd)"/>
+
+  <!-- Attitude indicator lines -->
+  <line x1="50" y1="290" x2="690" y2="290" stroke="#cccc00" stroke-width="1.5"/>
+  <!-- Pitch ladder -->
+  <line x1="280" y1="230" x2="420" y2="230" stroke="#cccccc" stroke-width="1"/>
+  <text x="265" y="234" fill="#cccccc" font-family="monospace" font-size="11">10</text>
+  <text x="425" y="234" fill="#cccccc" font-family="monospace" font-size="11">10</text>
+  <line x1="300" y1="260" x2="400" y2="260" stroke="#cccccc" stroke-width="1"/>
+  <text x="285" y="264" fill="#cccccc" font-family="monospace" font-size="11">5</text>
+  <text x="405" y="264" fill="#cccccc" font-family="monospace" font-size="11">5</text>
+  <line x1="300" y1="320" x2="400" y2="320" stroke="#cccccc" stroke-width="1"/>
+  <line x1="280" y1="350" x2="420" y2="350" stroke="#cccccc" stroke-width="1"/>
+
+  <!-- Aircraft symbol -->
+  <path d="M280,290 L330,290 L350,300 L370,290 L420,290" fill="none" stroke="#ffcc00" stroke-width="3"/>
+  <rect x="345" y="288" width="10" height="5" fill="#ffcc00"/>
+
+  <!-- Speed tape (left) -->
+  <rect x="60" y="100" width="80" height="380" fill="#001122" opacity="0.8" rx="2"/>
+  <rect x="60" y="270" width="80" height="40" fill="#001a33" stroke="#00cc00" stroke-width="2" rx="2"/>
+  <text x="100" y="296" fill="#00ff00" font-family="monospace" font-size="22" text-anchor="middle" font-weight="bold">248</text>
+  <!-- Speed values -->
+  <text x="100" y="200" fill="#cccccc" font-family="monospace" font-size="13" text-anchor="middle">280</text>
+  <text x="100" y="230" fill="#cccccc" font-family="monospace" font-size="13" text-anchor="middle">270</text>
+  <text x="100" y="260" fill="#cccccc" font-family="monospace" font-size="13" text-anchor="middle">250</text>
+  <text x="100" y="325" fill="#cccccc" font-family="monospace" font-size="13" text-anchor="middle">240</text>
+  <text x="100" y="355" fill="#cccccc" font-family="monospace" font-size="13" text-anchor="middle">230</text>
+  <text x="100" y="385" fill="#cccccc" font-family="monospace" font-size="13" text-anchor="middle">220</text>
+  <!-- Speed trend arrow -->
+  <line x1="142" y1="290" x2="142" y2="260" stroke="#00ff00" stroke-width="2"/>
+  <polygon points="142,255 138,265 146,265" fill="#00ff00"/>
+  <!-- Speed bug -->
+  <rect x="140" y="250" width="5" height="10" fill="#ff00ff"/>
+
+  <!-- Altitude tape (right) -->
+  <rect x="560" y="100" width="120" height="380" fill="#001122" opacity="0.8" rx="2"/>
+  <rect x="560" y="270" width="120" height="40" fill="#001a33" stroke="#00cc00" stroke-width="2" rx="2"/>
+  <text x="620" y="296" fill="#00ff00" font-family="monospace" font-size="22" text-anchor="middle" font-weight="bold">36,000</text>
+  <!-- Alt values -->
+  <text x="620" y="200" fill="#cccccc" font-family="monospace" font-size="12" text-anchor="middle">36,400</text>
+  <text x="620" y="230" fill="#cccccc" font-family="monospace" font-size="12" text-anchor="middle">36,200</text>
+  <text x="620" y="325" fill="#cccccc" font-family="monospace" font-size="12" text-anchor="middle">35,800</text>
+  <text x="620" y="355" fill="#cccccc" font-family="monospace" font-size="12" text-anchor="middle">35,600</text>
+  <text x="620" y="385" fill="#cccccc" font-family="monospace" font-size="12" text-anchor="middle">35,400</text>
+
+  <!-- Heading tape (bottom) -->
+  <rect x="150" y="460" width="400" height="50" fill="#001122" opacity="0.8" rx="2"/>
+  <rect x="325" y="460" width="50" height="50" fill="#001a33" stroke="#00cc00" stroke-width="2" rx="2"/>
+  <text x="350" y="493" fill="#00ff00" font-family="monospace" font-size="20" text-anchor="middle" font-weight="bold">274</text>
+  <text x="220" y="490" fill="#cccccc" font-family="monospace" font-size="12" text-anchor="middle">260</text>
+  <text x="280" y="490" fill="#cccccc" font-family="monospace" font-size="12" text-anchor="middle">270</text>
+  <text x="420" y="490" fill="#cccccc" font-family="monospace" font-size="12" text-anchor="middle">280</text>
+  <text x="480" y="490" fill="#cccccc" font-family="monospace" font-size="12" text-anchor="middle">290</text>
+
+  <!-- FMA (Flight Mode Annunciator) -->
+  <rect x="160" y="60" width="380" height="35" fill="#001a00" opacity="0.5" rx="2"/>
+  <text x="220" y="82" fill="#00ff00" font-family="monospace" font-size="14" text-anchor="middle">LNAV</text>
+  <text x="310" y="82" fill="#00ff00" font-family="monospace" font-size="14" text-anchor="middle">VNAV PTH</text>
+  <text x="430" y="82" fill="#00ff00" font-family="monospace" font-size="14" text-anchor="middle">A/P CMD</text>
+  <line x1="265" y1="62" x2="265" y2="93" stroke="#444" stroke-width="1"/>
+  <line x1="370" y1="62" x2="370" y2="93" stroke="#444" stroke-width="1"/>
+
+  <!-- VSI (far right of PFD) -->
+  <text x="685" y="275" fill="#00ff00" font-family="monospace" font-size="12" text-anchor="end">+200</text>
+  <line x1="685" y1="280" x2="690" y2="290" stroke="#00ff00" stroke-width="2"/>
+
+  <!-- ND (Navigation Display) - right screen -->
+  <rect x="740" y="40" width="660" height="500" rx="6" fill="#0a0a0a" stroke="#333" stroke-width="2"/>
+  <rect x="750" y="50" width="640" height="480" rx="3" fill="#000a11"/>
+
+  <!-- Compass rose -->
+  <circle cx="1070" cy="320" r="190" fill="none" stroke="#00cc66" stroke-width="1" opacity="0.4"/>
+  <circle cx="1070" cy="320" r="140" fill="none" stroke="#00cc66" stroke-width="0.5" opacity="0.25"/>
+  <circle cx="1070" cy="320" r="90" fill="none" stroke="#00cc66" stroke-width="0.5" opacity="0.15"/>
+
+  <!-- Cardinal headings -->
+  <text x="1070" y="118" fill="#00cc66" font-family="monospace" font-size="14" text-anchor="middle">N</text>
+  <text x="1070" y="528" fill="#00cc66" font-family="monospace" font-size="14" text-anchor="middle">S</text>
+  <text x="862" y="325" fill="#00cc66" font-family="monospace" font-size="14" text-anchor="middle">W</text>
+  <text x="1278" y="325" fill="#00cc66" font-family="monospace" font-size="14" text-anchor="middle">E</text>
+
+  <!-- Route -->
+  <line x1="1070" y1="320" x2="1070" y2="140" stroke="#ff00ff" stroke-width="2.5"/>
+  <line x1="1070" y1="140" x2="1150" y2="100" stroke="#ff00ff" stroke-width="2.5"/>
+  <line x1="1150" y1="100" x2="1250" y2="130" stroke="#ff00ff" stroke-width="2" stroke-dasharray="8,4"/>
+
+  <!-- Waypoints -->
+  <polygon points="1070,140 1065,130 1075,130" fill="#ff00ff"/>
+  <text x="1080" y="135" fill="#ffffff" font-family="monospace" font-size="10">EGLL</text>
+  <polygon points="1150,100 1145,90 1155,90" fill="#ff00ff"/>
+  <text x="1160" y="95" fill="#ffffff" font-family="monospace" font-size="10">LFPG</text>
+  <polygon points="1250,130 1245,120 1255,120" fill="#ff00ff"/>
+  <text x="1260" y="125" fill="#ffffff" font-family="monospace" font-size="10">LSZH</text>
+
+  <!-- Aircraft symbol on ND -->
+  <polygon points="1070,315 1065,325 1070,320 1075,325" fill="#ffffff"/>
+
+  <!-- Wind data -->
+  <text x="780" y="80" fill="#00cc66" font-family="monospace" font-size="12">GS 478</text>
+  <text x="780" y="96" fill="#00cc66" font-family="monospace" font-size="12">TAS 492</text>
+  <text x="780" y="112" fill="#00cc66" font-family="monospace" font-size="12">270/35</text>
+
+  <!-- Range -->
+  <text x="1000" y="430" fill="#00cc66" font-family="monospace" font-size="11">40</text>
+  <text x="1035" y="375" fill="#00cc66" font-family="monospace" font-size="10">20</text>
+
+  <!-- TCAS target -->
+  <rect x="1120" y="250" width="12" height="12" fill="none" stroke="#00ccff" stroke-width="1.5" transform="rotate(45, 1126, 256)"/>
+  <text x="1140" y="260" fill="#00ccff" font-family="monospace" font-size="9">+04</text>
+
+  <!-- Lower ECAM strip -->
+  <rect x="40" y="560" width="1360" height="120" rx="4" fill="#0a0a0a" stroke="#333" stroke-width="1"/>
+  <!-- Engine data -->
+  <text x="200" y="590" fill="#aaaaaa" font-family="monospace" font-size="11" text-anchor="middle">ENG 1</text>
+  <text x="400" y="590" fill="#aaaaaa" font-family="monospace" font-size="11" text-anchor="middle">ENG 2</text>
+  <!-- N1 gauges -->
+  <text x="140" y="620" fill="#aaaaaa" font-family="monospace" font-size="10">N1</text>
+  <text x="200" y="620" fill="#00ff00" font-family="monospace" font-size="16" text-anchor="middle">92.4</text>
+  <text x="400" y="620" fill="#00ff00" font-family="monospace" font-size="16" text-anchor="middle">92.1</text>
+  <!-- EGT -->
+  <text x="140" y="645" fill="#aaaaaa" font-family="monospace" font-size="10">EGT</text>
+  <text x="200" y="645" fill="#00ff00" font-family="monospace" font-size="14" text-anchor="middle">645</text>
+  <text x="400" y="645" fill="#00ff00" font-family="monospace" font-size="14" text-anchor="middle">648</text>
+  <!-- Fuel -->
+  <text x="600" y="590" fill="#aaaaaa" font-family="monospace" font-size="11">FUEL</text>
+  <text x="600" y="620" fill="#00ff00" font-family="monospace" font-size="14">FOB 24,800 KG</text>
+  <text x="600" y="645" fill="#00ff00" font-family="monospace" font-size="12">FF 2840 / 2835</text>
+  <!-- Misc -->
+  <text x="900" y="590" fill="#aaaaaa" font-family="monospace" font-size="11">APU</text>
+  <text x="900" y="620" fill="#00ff00" font-family="monospace" font-size="14">AVAIL</text>
+  <text x="1100" y="590" fill="#aaaaaa" font-family="monospace" font-size="11">TAT/SAT</text>
+  <text x="1100" y="620" fill="#00ff00" font-family="monospace" font-size="14">-32/-54°C</text>
+  <text x="1100" y="645" fill="#00ff00" font-family="monospace" font-size="12">ISA -2</text>
+</svg>

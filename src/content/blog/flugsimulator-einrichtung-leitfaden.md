@@ -3,7 +3,7 @@ title: 'Expertenleitfaden: Flugsimulator-Setup optimal einrichten und konfigurie
 description: 'Hardware-Kalibrierung, Software-Optimierung, Logbook-Verwaltung und Pilot Career Progression: Der vollständige Flight Simulation Leitfaden für deutschsprachige virtuelle Piloten.'
 lang: 'de'
 pubDate: 'Feb 10 2026'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/hero-hardware-setup.svg'
 ---
 
 Die **Flight Simulation** hat ein Realismus-Niveau erreicht, das vor fünf Jahren noch undenkbar schien. Doch dieser Realismus entfaltet sich nicht von selbst: Er erfordert eine sorgfältige Konfiguration — sowohl auf der Hardware- als auch auf der Software-Seite. Hier ist der Leitfaden, den jeder ernsthafte virtuelle Pilot braucht.
