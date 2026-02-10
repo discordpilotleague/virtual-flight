@@ -2,4 +2,4 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = 'Virtual Flight';
-export const SITE_DESCRIPTION = "L'actualité hardware et software pour les pilotes virtuels";
+export const SITE_DESCRIPTION = 'Hardware and software news for virtual pilots';

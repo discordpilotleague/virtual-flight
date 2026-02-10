@@ -1,0 +1,29 @@
+---
+import AboutHeroImage from '../../assets/blog-placeholder-about.jpg';
+import Layout from '../../layouts/BlogPost.astro';
+import { type Locale } from '../../i18n/locales';
+import { getNonDefaultLocales, useTranslations } from '../../i18n/utils';
+
+export function getStaticPaths() {
+	return getNonDefaultLocales().map((lang) => ({
+		params: { lang },
+	}));
+}
+
+const { lang } = Astro.params;
+const locale = lang as Locale;
+const t = useTranslations(locale);
+---
+
+<Layout
+	title={t('about.title')}
+	description={t('about.description')}
+	pubDate={new Date('February 10 2026')}
+	heroImage={AboutHeroImage}
+	locale={locale}
+>
+	<p>{t('about.p1')}</p>
+	<p>{t('about.p2')}</p>
+	<p>{t('about.p3')}</p>
+	<p>{t('about.p4')}</p>
+</Layout>

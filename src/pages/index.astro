@@ -2,33 +2,23 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { useTranslations } from '../i18n/utils';
+
+const t = useTranslations('en');
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={t('site.title')} description={t('site.description')} locale="en" />
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>Bienvenue sur Virtual Flight</h1>
-			<p>
-				Virtual Flight est votre magazine digital dédié à la simulation aérienne.
-				Que vous voliez sur MSFS 2024, X-Plane ou DCS, vous trouverez ici toute
-				l'actualité hardware et software qui compte pour les pilotes virtuels.
-			</p>
-			<p>
-				Tests de périphériques, comparatifs de scènes, guides de configuration,
-				nouveautés add-ons : notre rédaction couvre l'ensemble de l'écosystème
-				pour vous aider à tirer le meilleur de votre cockpit.
-			</p>
-			<p>
-				Passionné de vol réseau ou de tours de piste en solo, rejoignez une
-				communauté de simmers exigeants et restez informé des dernières sorties
-				qui feront décoller vos sessions.
-			</p>
+			<h1>{t('home.heading')}</h1>
+			<p>{t('home.p1')}</p>
+			<p>{t('home.p2')}</p>
+			<p>{t('home.p3')}</p>
 		</main>
 		<Footer />
 	</body>

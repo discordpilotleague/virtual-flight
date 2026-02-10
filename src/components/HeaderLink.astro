@@ -1,12 +1,35 @@
 ---
 import type { HTMLAttributes } from 'astro/types';
+import { defaultLocale, locales } from '../i18n/locales';
 
 type Props = HTMLAttributes<'a'>;
 
 const { href, class: className, ...props } = Astro.props;
-const pathname = Astro.url.pathname.replace(import.meta.env.BASE_URL, '');
+
+// Strip locale prefix from the current pathname for comparison
+let pathname = Astro.url.pathname.replace(import.meta.env.BASE_URL, '');
+for (const locale of locales) {
+	if (locale !== defaultLocale && pathname.startsWith(`${locale}/`)) {
+		pathname = pathname.slice(locale.length + 1);
+		break;
+	}
+}
+
+// Strip locale prefix from href for comparison
+let cleanHref = (href ?? '').toString();
+for (const locale of locales) {
+	if (locale !== defaultLocale && cleanHref.startsWith(`/${locale}/`)) {
+		cleanHref = cleanHref.slice(locale.length + 1);
+		break;
+	}
+	if (locale !== defaultLocale && cleanHref === `/${locale}`) {
+		cleanHref = '/';
+		break;
+	}
+}
+
 const subpath = pathname.match(/[^\/]+/g);
-const isActive = href === pathname || href === '/' + (subpath?.[0] || '');
+const isActive = cleanHref === `/${pathname}` || cleanHref === '/' + (subpath?.[0] || '');
 ---
 
 <a href={href} class:list={[className, { active: isActive }]} {...props}>

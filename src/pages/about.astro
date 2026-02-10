@@ -1,38 +1,20 @@
 ---
 import AboutHeroImage from '../assets/blog-placeholder-about.jpg';
 import Layout from '../layouts/BlogPost.astro';
+import { useTranslations } from '../i18n/utils';
+
+const t = useTranslations('en');
 ---
 
 <Layout
-	title="À propos"
-	description="Découvrez l'équipe derrière Virtual Flight, votre magazine de simulation aérienne."
+	title={t('about.title')}
+	description={t('about.description')}
 	pubDate={new Date('February 10 2026')}
 	heroImage={AboutHeroImage}
+	locale="en"
 >
-	<p>
-		Virtual Flight est né d'un constat simple : les pilotes virtuels francophones
-		méritent une source d'information fiable, indépendante et régulièrement mise à
-		jour. Début 2026, une équipe de passionnés a repris ce site avec l'ambition d'en
-		faire une référence dans l'univers de la simulation aérienne.
-	</p>
-
-	<p>
-		Notre rédaction réunit des simmers chevronnés qui cumulent des milliers d'heures
-		de vol sur MSFS 2024, X-Plane et DCS. Nous testons le hardware — joysticks,
-		palonniers, panneaux radio — avec la même rigueur que les add-ons logiciels,
-		scènes et aéronefs qui alimentent nos simulateurs préférés.
-	</p>
-
-	<p>
-		Au-delà des tests, Virtual Flight couvre l'actualité du vol réseau, les mises à
-		jour des plateformes et les événements communautaires qui rythment la vie des
-		escadrilles virtuelles. Notre objectif : vous fournir les clés pour profiter
-		pleinement de chaque session, que vous soyez débutant ou pilote confirmé.
-	</p>
-
-	<p>
-		Le site est en construction et s'enrichira semaine après semaine. Si vous
-		souhaitez contribuer, partager un retour d'expérience ou simplement discuter
-		simulation, n'hésitez pas à nous contacter.
-	</p>
+	<p>{t('about.p1')}</p>
+	<p>{t('about.p2')}</p>
+	<p>{t('about.p3')}</p>
+	<p>{t('about.p4')}</p>
 </Layout>

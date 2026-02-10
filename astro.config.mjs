@@ -8,4 +8,11 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
 	site: 'https://virtual-flight.com',
 	integrations: [mdx(), sitemap()],
+	i18n: {
+		defaultLocale: 'en',
+		locales: ['en', 'fr', 'es', 'pt', 'de', 'zh', 'id', 'ja'],
+		routing: {
+			prefixDefaultLocale: false,
+		},
+	},
 });

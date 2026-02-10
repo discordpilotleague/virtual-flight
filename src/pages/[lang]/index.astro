@@ -1,0 +1,34 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { bcp47, type Locale } from '../../i18n/locales';
+import { getNonDefaultLocales, useTranslations } from '../../i18n/utils';
+
+export function getStaticPaths() {
+	return getNonDefaultLocales().map((lang) => ({
+		params: { lang },
+	}));
+}
+
+const { lang } = Astro.params;
+const locale = lang as Locale;
+const t = useTranslations(locale);
+---
+
+<!doctype html>
+<html lang={bcp47[locale]}>
+	<head>
+		<BaseHead title={t('site.title')} description={t('site.description')} locale={locale} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>{t('home.heading')}</h1>
+			<p>{t('home.p1')}</p>
+			<p>{t('home.p2')}</p>
+			<p>{t('home.p3')}</p>
+		</main>
+		<Footer />
+	</body>
+</html>

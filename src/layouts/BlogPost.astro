@@ -5,15 +5,20 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import { bcp47, defaultLocale, type Locale } from '../i18n/locales';
+import { useTranslations } from '../i18n/utils';
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'blog'>['data'] & {
+	locale?: Locale;
+};
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, locale = defaultLocale } = Astro.props;
+const t = useTranslations(locale);
 ---
 
-<html lang="en">
+<html lang={bcp47[locale]}>
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={title} description={description} locale={locale} />
 		<style>
 			main {
 				width: calc(100% - 2em);
@@ -65,11 +70,11 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				<div class="prose">
 					<div class="title">
 						<div class="date">
-							<FormattedDate date={pubDate} />
+							<FormattedDate date={pubDate} locale={locale} />
 							{
 								updatedDate && (
 									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
+										{t('blog.lastUpdated')} <FormattedDate date={updatedDate} locale={locale} />
 									</div>
 								)
 							}

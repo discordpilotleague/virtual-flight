@@ -1,0 +1,90 @@
+---
+import { locales, localeNames, type Locale } from '../i18n/locales';
+import { getLocaleFromUrl, switchLocalePath } from '../i18n/utils';
+
+const currentPath = Astro.url.pathname;
+const currentLocale = (Astro.currentLocale ?? getLocaleFromUrl(currentPath)) as Locale;
+---
+
+<div class="language-selector">
+	<button aria-label="Change language" aria-expanded="false" class="lang-toggle">
+		{localeNames[currentLocale]}
+		<svg width="12" height="12" viewBox="0 0 12 12" aria-hidden="true">
+			<path d="M2 4l4 4 4-4" stroke="currentColor" stroke-width="1.5" fill="none" />
+		</svg>
+	</button>
+	<ul class="lang-dropdown" role="list">
+		{locales.map((locale) => (
+			<li>
+				<a
+					href={switchLocalePath(currentPath, locale)}
+					aria-current={locale === currentLocale ? 'page' : undefined}
+					hreflang={locale}
+				>
+					{localeNames[locale]}
+				</a>
+			</li>
+		))}
+	</ul>
+</div>
+
+<style>
+	.language-selector {
+		position: relative;
+	}
+	.lang-toggle {
+		background: none;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 4px;
+		padding: 0.35em 0.7em;
+		cursor: pointer;
+		font-family: inherit;
+		font-size: 0.85em;
+		display: flex;
+		align-items: center;
+		gap: 0.3em;
+		color: rgb(var(--gray-dark));
+	}
+	.lang-dropdown {
+		display: none;
+		position: absolute;
+		right: 0;
+		top: 100%;
+		margin: 0.25em 0 0 0;
+		padding: 0.25em 0;
+		list-style: none;
+		background: white;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 4px;
+		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+		z-index: 100;
+		min-width: 120px;
+	}
+	.language-selector:focus-within .lang-dropdown,
+	.language-selector:hover .lang-dropdown {
+		display: block;
+	}
+	.lang-dropdown a {
+		display: block;
+		padding: 0.35em 0.75em;
+		text-decoration: none;
+		color: rgb(var(--gray-dark));
+		font-size: 0.85em;
+		border-bottom: none;
+	}
+	.lang-dropdown a:hover {
+		background: rgba(var(--gray-light), 0.5);
+	}
+	.lang-dropdown a[aria-current='page'] {
+		font-weight: bold;
+	}
+</style>
+
+<script>
+	document.querySelectorAll('.lang-toggle').forEach((btn) => {
+		btn.addEventListener('click', () => {
+			const expanded = btn.getAttribute('aria-expanded') === 'true';
+			btn.setAttribute('aria-expanded', String(!expanded));
+		});
+	});
+</script>
