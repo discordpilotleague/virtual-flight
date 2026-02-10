@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1628"/>
+      <stop offset="60%" style="stop-color:#1a3a5c"/>
+      <stop offset="100%" style="stop-color:#2a5a8c"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#4a9eff;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#4a9eff;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  <rect width="720" height="360" fill="url(#sky)"/>
+  <!-- Radar circles -->
+  <circle cx="360" cy="200" r="140" fill="none" stroke="rgba(74,158,255,0.15)" stroke-width="1"/>
+  <circle cx="360" cy="200" r="100" fill="none" stroke="rgba(74,158,255,0.2)" stroke-width="1"/>
+  <circle cx="360" cy="200" r="60" fill="none" stroke="rgba(74,158,255,0.25)" stroke-width="1"/>
+  <circle cx="360" cy="200" r="20" fill="none" stroke="rgba(74,158,255,0.3)" stroke-width="1"/>
+  <!-- Radar crosshairs -->
+  <line x1="220" y1="200" x2="500" y2="200" stroke="rgba(74,158,255,0.1)" stroke-width="1"/>
+  <line x1="360" y1="60" x2="360" y2="340" stroke="rgba(74,158,255,0.1)" stroke-width="1"/>
+  <!-- Aircraft blips -->
+  <g>
+    <polygon points="300,150 295,158 305,158" fill="#51cf66"/>
+    <text x="310" y="155" font-family="monospace" font-size="8" fill="#51cf66">BAW123</text>
+    <line x1="300" y1="150" x2="290" y2="140" stroke="#51cf66" stroke-width="1" opacity="0.5"/>
+  </g>
+  <g>
+    <polygon points="420,180 415,188 425,188" fill="#51cf66"/>
+    <text x="430" y="185" font-family="monospace" font-size="8" fill="#51cf66">DLH456</text>
+    <line x1="420" y1="180" x2="415" y2="168" stroke="#51cf66" stroke-width="1" opacity="0.5"/>
+  </g>
+  <g>
+    <polygon points="340,240 335,248 345,248" fill="#ffd43b"/>
+    <text x="350" y="245" font-family="monospace" font-size="8" fill="#ffd43b">AFR789</text>
+    <line x1="340" y1="240" x2="330" y2="232" stroke="#ffd43b" stroke-width="1" opacity="0.5"/>
+  </g>
+  <g>
+    <polygon points="450,260 445,268 455,268" fill="#51cf66"/>
+    <text x="460" y="265" font-family="monospace" font-size="8" fill="#51cf66">UAE012</text>
+    <line x1="450" y1="260" x2="445" y2="250" stroke="#51cf66" stroke-width="1" opacity="0.5"/>
+  </g>
+  <g>
+    <polygon points="270,220 265,228 275,228" fill="#51cf66"/>
+    <text x="280" y="225" font-family="monospace" font-size="8" fill="#51cf66">AAL345</text>
+    <line x1="270" y1="220" x2="262" y2="210" stroke="#51cf66" stroke-width="1" opacity="0.5"/>
+  </g>
+  <!-- ATC tower indicator -->
+  <circle cx="360" cy="200" r="5" fill="#4a9eff"/>
+  <circle cx="360" cy="200" r="8" fill="none" stroke="#4a9eff" stroke-width="1" opacity="0.5"/>
+  <text x="360" y="215" text-anchor="middle" font-family="monospace" font-size="8" fill="#4a9eff">TWR</text>
+  <!-- Frequency display -->
+  <rect x="50" y="30" width="160" height="60" rx="6" fill="rgba(0,0,0,0.4)" stroke="rgba(74,158,255,0.3)" stroke-width="1"/>
+  <text x="60" y="52" font-family="monospace" font-size="10" fill="rgba(255,255,255,0.5)">COM1</text>
+  <text x="60" y="72" font-family="monospace" font-size="16" fill="#4a9eff">124.850</text>
+  <!-- VATSIM label -->
+  <rect x="510" y="30" width="160" height="60" rx="6" fill="rgba(0,0,0,0.4)" stroke="rgba(74,158,255,0.3)" stroke-width="1"/>
+  <text x="590" y="52" text-anchor="middle" font-family="monospace" font-size="10" fill="rgba(255,255,255,0.5)">NETWORK</text>
+  <text x="590" y="72" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#51cf66">CONNECTED</text>
+</svg>
