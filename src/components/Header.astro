@@ -13,7 +13,7 @@ const t = useTranslations(locale);
 		<h2><a href={localePath(locale, '/')}>{t('site.title')}</a></h2>
 		<div class="internal-links">
 			<HeaderLink href={localePath(locale, '/')}>{t('nav.home')}</HeaderLink>
-			<HeaderLink href="/blog">{t('nav.blog')}</HeaderLink>
+			<HeaderLink href={localePath(locale, '/blog')}>{t('nav.blog')}</HeaderLink>
 			<HeaderLink href={localePath(locale, '/about')}>{t('nav.about')}</HeaderLink>
 		</div>
 		<LanguageSelector />

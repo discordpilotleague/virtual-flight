@@ -1,0 +1,27 @@
+---
+import { type CollectionEntry, getCollection, render } from 'astro:content';
+import BlogPost from '../../../layouts/BlogPost.astro';
+import type { Locale } from '../../../i18n/locales';
+import { getNonDefaultLocales } from '../../../i18n/utils';
+
+export async function getStaticPaths() {
+	const paths = [];
+	for (const lang of getNonDefaultLocales()) {
+		const posts = await getCollection('blog', ({ data }) => data.lang === lang);
+		for (const post of posts) {
+			paths.push({
+				params: { lang, slug: post.id },
+				props: { post, locale: lang },
+			});
+		}
+	}
+	return paths;
+}
+
+const { post, locale } = Astro.props as { post: CollectionEntry<'blog'>; locale: Locale };
+const { Content } = await render(post);
+---
+
+<BlogPost {...post.data} locale={locale}>
+	<Content />
+</BlogPost>
