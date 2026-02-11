@@ -6,7 +6,7 @@ pubDate: 'Feb 14 2026'
 heroImage: '../../assets/hero-payware-aircraft.svg'
 ---
 
-Freeware-Flugzeuge waren nie besser als heute, doch Payware bleibt das Terrain, auf dem die Flugsimulation ihre hochste Detailtreue erreicht. Die besten kommerziellen Add-ons im Jahr 2026 liefern eine Systemmodellierung, die an echte Type-Rating-Unterlagen heranreicht, Flugdynamiken, die von realen Piloten abgestimmt wurden, und eine visuelle Qualitat, die selbst in VR aus nachster Nahe uberzeugt. Sie sind nicht billig — ein einzelnes Flugzeug kann so viel kosten wie der Simulator selbst — aber fur Simmer, die die definitive Version einer bestimmten Zelle wollen, kommt nichts anderes heran.
+Freeware-Flugzeuge waren nie besser als heute — werfen Sie einen Blick auf unsere [Top 10 der kostenlosen Flugsim-Addons](/de/blog/top-10-kostenlose-addons-flugsim) — doch Payware bleibt das Terrain, auf dem die Flugsimulation ihre hochste Detailtreue erreicht. Die besten kommerziellen Add-ons im Jahr 2026 liefern eine Systemmodellierung, die an echte Type-Rating-Unterlagen heranreicht, Flugdynamiken, die von realen Piloten abgestimmt wurden, und eine visuelle Qualitat, die selbst in VR aus nachster Nahe uberzeugt. Sie sind nicht billig — ein einzelnes Flugzeug kann so viel kosten wie der Simulator selbst — aber fur Simmer, die die definitive Version einer bestimmten Zelle wollen, kommt nichts anderes heran.
 
 Dieser Leitfaden behandelt die herausragenden Payware-Flugzeuge des Jahres 2026 in den Kategorien Langstrecke, Allgemeine Luftfahrt und Militar, mit praktischen Hinweisen zu Preis-Leistung, Performance-Auswirkungen und Bezugsquellen.
 
@@ -16,7 +16,7 @@ Dieser Leitfaden behandelt die herausragenden Payware-Flugzeuge des Jahres 2026 
 
 PMDG hat sich uber mehr als zwei Jahrzehnte als Massstab der Boeing-Simulation etabliert, und die **777X** fur MSFS 2024 ist wohl ihr bestes Werk. Dieses Paket umfasst die Varianten 777-8 und 777-9, beide mit den charakteristischen Klappflugelspitzen und GE9X-Triebwerken, die Boeings neuestes Grossraumflugzeug definieren. Was die PMDG 777X auszeichnet, ist die Systemtiefe: Jede FMC-Seite ist funktionsfahig, das Elektrosystem modelliert einzelne Busse und Schuetze, das Hydrauliksystem verfolgt Flussigkeitsmenge und Druck uber drei unabhangige Systeme, und die Autopilot-Logik bildet das Verhalten des realen Flugzeugs mit bemerkenswerter Prazision nach.
 
-Das Flugmodell ist ein weiterer Triumph. Das Fly-by-Wire-System der 777X — ein Novum fur ein Boeing-Grossraumflugzeug — ist mit den korrekten Steuergesetzen, Hullkurvenscutz und manuellen Reversionscharakteristiken modelliert. Piloten, die das echte Flugzeug geflogen haben, lobten die Handhabungsqualitaten im Anflug, insbesondere wie das Flugzeug auf Schubwechsel in Landekonfiguration reagiert. Bei etwa **80 USD** ist der Preis gehoben, aber man erhalt ein Flugzeug, das Tausende von Stunden Studium und Fliegen belohnt.
+Das Flugmodell ist ein weiterer Triumph. Das Fly-by-Wire-System der 777X — ein Novum fur ein Boeing-Grossraumflugzeug — ist mit den korrekten Steuergesetzen, Hullkurvenscutz und manuellen Reversionscharakteristiken modelliert. Piloten, die das echte Flugzeug geflogen haben, lobten die Handhabungsqualitaten im Anflug, insbesondere wie das Flugzeug auf Schubwechsel in Landekonfiguration reagiert. Wenn Sie Ihre Fluege strukturiert dokumentieren moechten, hilft Ihnen unser Artikel zur [virtuellen Pilotenkarriere und Logbook-Verwaltung](/de/blog/virtuelle-pilotenkarriere-logbook). Bei etwa **80 USD** ist der Preis gehoben, aber man erhalt ein Flugzeug, das Tausende von Stunden Studium und Fliegen belohnt.
 
 ### Fenix A380 fur MSFS 2024
 
@@ -97,6 +97,8 @@ Praxistipp: Die meisten Entwickler bieten den besten Preis uber ihren eigenen Sh
 ## Performance-Hinweise
 
 Payware-Flugzeuge sind typischerweise anspruchsvoller als Freeware oder Standard-Flugzeuge:
+
+Um das Beste aus diesen anspruchsvollen Flugzeugen herauszuholen, benoetigen Sie die richtige Hardware — unser [HOTAS- und Flugcontroller-Ratgeber 2026](/de/blog/beste-hotas-flugcontroller-2026) hilft bei der Auswahl.
 
 **CPU-Belastung**: Study-Level-Simulation fuhrt jeden Frame komplexe Logik aus. Flugzeuge wie die PMDG 777X oder der Fenix A380 konnen 15-25% mehr CPU-Last verursachen als ein Standard-Flugzeug. Ein moderner Prozessor mit starker Single-Thread-Leistung (Intel 13./14. Gen oder AMD Ryzen 7000) bewaltigt dies gut.
 

@@ -6,7 +6,7 @@ pubDate: 'Feb 06 2026'
 heroImage: '../../assets/hero-vatsim-network.svg'
 ---
 
-Si vous avez passé des centaines d'heures à voler seul dans votre simulateur et que vous ressentez le besoin d'une expérience radicalement différente, **VATSIM** est la prochaine étape logique. Le Virtual Air Traffic Simulation Network est le plus grand réseau de simulation de vol en ligne au monde, réunissant des dizaines de milliers de pilotes et contrôleurs aériens dans un espace aérien partagé en temps réel, calqué sur les procédures et la rigueur de l'aviation réelle.
+Si vous avez passé des centaines d'heures à voler seul dans votre simulateur et que vous ressentez le besoin d'une expérience radicalement différente, **VATSIM** est la prochaine étape logique. Pour une vue d'ensemble de tous les réseaux disponibles, consultez notre [comparatif des réseaux de vol en ligne](/fr/blog/comparatif-reseaux-vol-en-ligne). Le Virtual Air Traffic Simulation Network est le plus grand réseau de simulation de vol en ligne au monde, réunissant des dizaines de milliers de pilotes et contrôleurs aériens dans un espace aérien partagé en temps réel, calqué sur les procédures et la rigueur de l'aviation réelle.
 
 ## Qu'est-ce que VATSIM exactement ?
 
@@ -46,7 +46,7 @@ Une fois à l'aise en espace non contrôlé, il est temps d'interagir avec des c
 
 ### Le cycle de communication
 
-Chaque échange ATC suit un schéma prévisible : **qui vous appelez, qui vous êtes, où vous êtes, et ce que vous voulez.** Par exemple :
+Si vous souhaitez structurer votre progression sur le réseau, notre article sur la [carrière de pilote virtuel et la gestion du logbook](/fr/blog/carriere-pilote-virtuel-logbook) vous sera très utile. Chaque échange ATC suit un schéma prévisible : **qui vous appelez, qui vous êtes, où vous êtes, et ce que vous voulez.** Par exemple :
 
 > « Bordeaux Sol, Air France 1234, porte B3, information Lima, demandons roulage piste 23. »
 
@@ -89,4 +89,4 @@ Utilisez **VATSpy** ou **SimAware** pour voir où les contrôleurs sont actifs a
 
 Enfin, n'hésitez pas à dire au contrôleur **« Je suis nouveau sur VATSIM. »** Ce n'est pas un signe de faiblesse — c'est une information pratique qui lui permet d'adapter son rythme et de vous guider davantage. Chaque contrôleur du réseau a été débutant un jour, et la communauté soutient massivement ceux qui sont prêts à apprendre.
 
-Bienvenue sur le réseau. Le ciel vous attend.
+Si vous en êtes encore aux premiers pas dans la simulation, notre [guide du débutant en simulation de vol](/fr/blog/guide-debutant-simulation-vol) couvre les fondamentaux à maîtriser avant de vous lancer sur le réseau. Bienvenue sur le réseau. Le ciel vous attend.

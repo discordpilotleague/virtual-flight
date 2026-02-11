@@ -12,11 +12,11 @@ Ein Home-Cockpit zu bauen ist der ultimative Traum jedes ernsthaften Flugsimulat
 
 ### Der 500-EUR-Einstiegsbuild
 
-Auf diesem Level arbeitet man mit einem einzelnen 27-Zoll-Monitor, einem Mittelklasse-HOTAS wie dem **Thrustmaster T.16000M FCS** oder einem gebrauchten **Logitech X56** und einer DIY-Tischhalterung. Die entscheidende Investition ist hier kluge Priorisierung. Eine solide Tischhalterung für Schubhebel und Stick beseitigt das Problem rutschender Peripheriegeräte und hebt das Erlebnis sofort über das Niveau von Casual Gaming. Dazu eine einfache **Arduino-basierte Buttonbox** mit einer Handvoll Kippschaltern für Fahrwerk, Klappen und Beleuchtung — und schon hat man ein funktionales Cockpit für unter 500 EUR.
+Auf diesem Level arbeitet man mit einem einzelnen 27-Zoll-Monitor, einem Mittelklasse-HOTAS wie dem **Thrustmaster T.16000M FCS** oder einem gebrauchten **Logitech X56** und einer DIY-Tischhalterung. Die entscheidende Investition ist hier kluge Priorisierung. Eine solide Tischhalterung für Schubhebel und Stick beseitigt das Problem rutschender Peripheriegeräte und hebt das Erlebnis sofort über das Niveau von Casual Gaming. Welche Geräte sich in der Praxis bewähren, erfahren Sie in unserem [Hardware-Test: Joystick und Yoke im Vergleich](/de/blog/test-hardware-joystick-yoke). Dazu eine einfache **Arduino-basierte Buttonbox** mit einer Handvoll Kippschaltern für Fahrwerk, Klappen und Beleuchtung — und schon hat man ein funktionales Cockpit für unter 500 EUR.
 
 ### Der 1000-EUR-Enthusiasten-Build
 
-Hier wird es richtig beeindruckend. Ein Triple-Monitor-Setup mit drei 24-Zoll-Bildschirmen auf einem VESA-kompatiblen Monitorarm bietet etwa 180 Grad Frontalsicht. Kombiniert mit einem **Thrustmaster HOTAS Warthog** oder **VKB Gladiator NXT EVO** mit dediziertem Schubhebel, ordentlichen Tisch- oder Rahmen-montierten HOTAS-Halterungen und einer anspruchsvolleren Buttonbox. In diesem Budget können auch **Ruderpedale** integriert werden — die Thrustmaster TPR oder VKB T-Rudder sind exzellente Optionen. Ein DIY-Holzrahmen oder ein Einsteiger-Aluprofil-Rig rundet das Ganze ab.
+Hier wird es richtig beeindruckend. Ein Triple-Monitor-Setup mit drei 24-Zoll-Bildschirmen auf einem VESA-kompatiblen Monitorarm bietet etwa 180 Grad Frontalsicht. Kombiniert mit einem **Thrustmaster HOTAS Warthog** oder **VKB Gladiator NXT EVO** mit dediziertem Schubhebel — eine ausführliche Kaufberatung bietet unser [HOTAS- und Flugcontroller-Ratgeber 2026](/de/blog/beste-hotas-flugcontroller-2026) —, ordentlichen Tisch- oder Rahmen-montierten HOTAS-Halterungen und einer anspruchsvolleren Buttonbox. In diesem Budget können auch **Ruderpedale** integriert werden — die Thrustmaster TPR oder VKB T-Rudder sind exzellente Optionen. Ein DIY-Holzrahmen oder ein Einsteiger-Aluprofil-Rig rundet das Ganze ab.
 
 ### Der 2000-EUR-Fortgeschrittenen-Build
 
@@ -72,7 +72,7 @@ Unterschätze niemals die Bedeutung einer ordentlichen HOTAS-Montage. Ein Stick 
 
 ## Overhead-Panel-Projekte
 
-Ein Overhead-Panel ist das Kronjuwel jedes Airliner-Cockpit-Baus. Starte einfach: ein flaches Panel mit Schaltern für Batterie, Generatoren, Kraftstoffpumpen, Hydraulik und Beleuchtung, gesteuert von ein oder zwei Arduino-Boards. Montiere es auf einer abgewinkelten Halterung über dem Hauptmonitor. Mit der Weiterentwicklung des Aufbaus kommen **hinterleuchtete Annunciators** hinzu — LEDs hinter lasergeschnittenen Acryl-Beschriftungen. Die Open-Source-Community rund um **Mobiflight** stellt Connector-Software bereit, die physische Schalter direkt mit Simulatorvariablen verknüpft und die Overhead-Panel-Integration bemerkenswert zugänglich macht.
+Ein Overhead-Panel ist das Kronjuwel jedes Airliner-Cockpit-Baus. Starte einfach: ein flaches Panel mit Schaltern für Batterie, Generatoren, Kraftstoffpumpen, Hydraulik und Beleuchtung, gesteuert von ein oder zwei Arduino-Boards. Montiere es auf einer abgewinkelten Halterung über dem Hauptmonitor. Mit der Weiterentwicklung des Aufbaus kommen **hinterleuchtete Annunciators** hinzu — LEDs hinter lasergeschnittenen Acryl-Beschriftungen. Die Open-Source-Community rund um **Mobiflight** stellt Connector-Software bereit, die physische Schalter direkt mit Simulatorvariablen verknüpft und die Overhead-Panel-Integration bemerkenswert zugänglich macht. Ergänzend dazu finden Sie in unserer [Top 10 der kostenlosen Flugsim-Addons](/de/blog/top-10-kostenlose-addons-flugsim) weitere kostenlose Tools, die Ihr Cockpit-Erlebnis bereichern.
 
 ## Empfohlener Progressionspfad
 

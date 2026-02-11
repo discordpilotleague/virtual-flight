@@ -8,7 +8,7 @@ heroImage: '../../assets/hero-hotas-controllers.svg'
 
 Die Wahl des richtigen Flugcontrollers ist eine der folgenreichsten Entscheidungen, die ein Simulationspilot treffen wird. Sie bestimmt, wie sich jedes Flugzeug unter Ihren Händen anfühlt, wie präzise Sie einen ILS-Anflug bei böigem Seitenwind halten können, und ob Ihre Hardware Tausende von Stunden virtueller Flugzeit überdauert. Der Markt im Jahr 2026 ist ausgereift, wettbewerbsintensiv und voller wirklich hervorragender Optionen — aber auch voller Fallstricke für den uninformierten Käufer.
 
-Dieser Ratgeber analysiert die besten HOTAS-Systeme, Yokes und Ruderpedale, die derzeit erhältlich sind, mit spezifischen Empfehlungen basierend darauf, was und wie Sie fliegen.
+Dieser Ratgeber analysiert die besten HOTAS-Systeme, Yokes und Ruderpedale, die derzeit erhältlich sind, mit spezifischen Empfehlungen basierend darauf, was und wie Sie fliegen. Ausführliche Hands-on-Eindrücke zu den einzelnen Geräten finden Sie in unserem [Hardware-Test: Joystick und Yoke im Vergleich](/de/blog/test-hardware-joystick-yoke).
 
 ## Die Besten HOTAS-Systeme für Kampf und Allgemeine Nutzung
 
@@ -82,10 +82,12 @@ Der Honeycomb Bravo Schubregler-Quadrant ist hier unverzichtbar. Zur Frage Yoke 
 
 ## Was Sie beim Kauf Priorisieren Sollten
 
+Sobald Ihre Controller gewählt sind, hilft Ihnen unser [Flugsimulator-Einrichtungsleitfaden](/de/blog/flugsimulator-einrichtung-leitfaden) bei der optimalen Kalibrierung und Software-Konfiguration.
+
 1. **Sensortechnologie**: Hall-Effekt-Sensoren überleben Potentiometer um Jahre. Bevorzugen Sie immer Hall-Effekt.
 2. **Gimbal-Qualität**: Das Gimbal definiert, wie sich der Stick anfühlt. Nockenbasierte Gimbals (VKB, Virpil) sind reinen Feder-Designs überlegen.
 3. **Software-Ökosystem**: Stellen Sie sicher, dass der Controller ausgereifte Treiber und Profil-Unterstützung für Ihre Simulatoren bietet.
 4. **Baumaterial**: Metallkonstruktion hält länger und fühlt sich besser an, aber hochwertiger Kunststoff (wie beim VKB NXT EVO) kann in niedrigeren Preisklassen ausgezeichnet sein.
 5. **Upgrade-Pfad**: Wählen Sie ein Ökosystem, in das Sie hineinwachsen können. Sowohl VKB als auch Virpil ermöglichen den Austausch von Griffen und Basen, wenn sich Ihre Anforderungen weiterentwickeln.
 
-Der Flugsimulations-Hardware-Markt 2026 ist der beste, den es je gab. Ob Sie 120 USD für einen VKB Gladiator oder 1.200 USD für ein komplettes Virpil-Cockpit ausgeben — es gibt wirklich hervorragende Optionen auf jeder Preisstufe. Kaufen Sie für das, was Sie fliegen, priorisieren Sie Sensorqualität und Gimbal-Gefühl, und Ihre Hardware wird Ihnen über Jahre hinweg treu dienen.
+Der Flugsimulations-Hardware-Markt 2026 ist der beste, den es je gab. Ob Sie 120 USD für einen VKB Gladiator oder 1.200 USD für ein komplettes Virpil-Cockpit ausgeben — es gibt wirklich hervorragende Optionen auf jeder Preisstufe. Kaufen Sie für das, was Sie fliegen, priorisieren Sie Sensorqualität und Gimbal-Gefühl, und Ihre Hardware wird Ihnen über Jahre hinweg treu dienen. Wenn Sie Ihren Controller in ein vollständiges Cockpit-Setup integrieren möchten, lesen Sie unsere [Anleitung zum Home-Cockpit-Bau mit kleinem Budget](/de/blog/home-cockpit-bauen-budget-anleitung).

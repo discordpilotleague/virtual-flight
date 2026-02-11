@@ -6,7 +6,7 @@ pubDate: 'Feb 10 2026'
 heroImage: '../../assets/hero-tropical-flight.svg'
 ---
 
-**Flight simulation** telah mencapai tingkat realisme yang tak terbayangkan lima tahun lalu. Namun realisme ini tidak muncul dengan sendirinya — dibutuhkan konfigurasi yang cermat, baik dari sisi hardware maupun software. Inilah panduan yang dibutuhkan setiap pilot virtual yang serius.
+**Flight simulation** telah mencapai tingkat realisme yang tak terbayangkan lima tahun lalu. Namun realisme ini tidak muncul dengan sendirinya — dibutuhkan konfigurasi yang cermat, baik dari sisi hardware maupun software. Jika Anda baru memulai, kami sarankan membaca [panduan pemula simulasi penerbangan](/id/blog/panduan-pemula-simulasi-penerbangan-2026) terlebih dahulu sebelum mendalami konfigurasi lanjutan ini.
 
 ## Kalibrasi Hardware: Fondasi Penerbangan Realistis
 
@@ -14,7 +14,7 @@ Cockpit virtual yang tidak dikalibrasi dengan benar ibarat pesawat yang trim-nya
 
 ### Kurva Sensitivitas Joystick
 
-Sebagian besar sistem HOTAS dikirim dengan respons linear, yang jarang optimal. Untuk penerbangan umum di MSFS 2024, atur sensitivitas sekitar -35% pada pitch dan roll untuk mendapatkan zona presisi yang lebih luas di sekitar titik tengah. Di DCS, dengan modul seperti F-16C atau Su-25T, kurangi ke -20% — pesawat-pesawat ini memiliki kontrol yang lebih langsung dan Anda membutuhkan otoritas penuh di titik ekstrem.
+Sebagian besar sistem HOTAS dikirim dengan respons linear, yang jarang optimal. Jika Anda belum memilih periferal, lihat rekomendasi kami tentang [HOTAS dan controller penerbangan terbaik 2026](/id/blog/hotas-controller-penerbangan-terbaik-2026). Untuk penerbangan umum di MSFS 2024, atur sensitivitas sekitar -35% pada pitch dan roll untuk mendapatkan zona presisi yang lebih luas di sekitar titik tengah. Di DCS, dengan modul seperti F-16C atau Su-25T, kurangi ke -20% — pesawat-pesawat ini memiliki kontrol yang lebih langsung dan Anda membutuhkan otoritas penuh di titik ekstrem.
 
 ### Pedal Rudder dan Rem Diferensial
 
@@ -62,6 +62,7 @@ VATSIM dan IVAO menawarkan pengalaman ATC paling realistis. Event kompetitif —
 
 ## Sumber Daya yang Direkomendasikan
 
+- **[Top 10 Addon Gratis Simulasi Penerbangan](/id/blog/top-10-addon-gratis-simulasi)** — Tingkatkan simulator Anda dengan addon freeware terbaik
 - **Dokumentasi Resmi MSFS 2024** — Bacaan wajib untuk memahami model aerodinamika baru
 - **Basis Pengetahuan X-Plane 12** — Artikel teknis mendetail tentang rendering dan fisika
 - **Perpustakaan Manual DCS** — Panduan setup spesifik per modul

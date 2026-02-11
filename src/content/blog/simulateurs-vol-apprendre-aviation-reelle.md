@@ -16,7 +16,7 @@ Les **FNPT I et II** constituent la categorie la plus accessible pour les ecoles
 
 Les **FTD (Flight Training Devices)** et **FFS** de niveaux superieurs sont utilises par les compagnies aeriennes pour la qualification de type. Un simulateur Level D reproduit si fidelement le comportement de l'avion que les pilotes de ligne effectuent leur totalite de la formation initiale de type sans jamais toucher l'avion reel pendant l'entrainement.
 
-Votre simulateur domestique — MSFS 2024, X-Plane 12 ou DCS World — ne rentre dans aucune de ces categories officielles. Cela dit, et c'est le point essentiel, **les competences procedurales que vous y developpez se transferent directement dans le cockpit reel**, meme si les heures ne figurent pas dans votre carnet de vol.
+Votre simulateur domestique — MSFS 2024, X-Plane 12 ou DCS World — ne rentre dans aucune de ces categories officielles. Pour choisir et configurer votre plateforme, consultez notre [guide du debutant en simulation de vol](/fr/blog/guide-debutant-simulation-vol). Cela dit, et c'est le point essentiel, **les competences procedurales que vous y developpez se transferent directement dans le cockpit reel**, meme si les heures ne figurent pas dans votre carnet de vol.
 
 ## Le simulateur comme outil de repetition cognitive
 
@@ -44,7 +44,7 @@ Les SID et les STAR sont des procedures complexes, multi-etapes, avec des restri
 
 ## La navigation et la communication radio
 
-Les plateformes comme VATSIM ou IVAO offrent un environnement ou vous pratiquez la communication ATC reelle avec des controleurs humains utilisant la phraseologie correcte. C'est d'une valeur inestimable. La premiere source de stress pour les eleves pilotes, c'est la radio, et la meilleure facon de surmonter ce stress, c'est la pratique.
+Les plateformes comme VATSIM ou IVAO — presentees en detail dans notre [comparatif des reseaux de vol en ligne](/fr/blog/comparatif-reseaux-vol-en-ligne) — offrent un environnement ou vous pratiquez la communication ATC reelle avec des controleurs humains utilisant la phraseologie correcte. C'est d'une valeur inestimable. La premiere source de stress pour les eleves pilotes, c'est la radio, et la meilleure facon de surmonter ce stress, c'est la pratique.
 
 Sur VATSIM ou IVAO, vous demanderez des clairances, collationnez des instructions, ferez des comptes-rendus de position et gererez l'ensemble des interactions avec le controle. Vous commettrez des erreurs dans un environnement sans consequences, et le jour ou vous appuierez sur l'alternat dans un vrai cockpit, les mots viendront naturellement.
 
@@ -136,4 +136,4 @@ Pour maximiser la valeur formative de votre temps simulateur :
 
 5. **Combinez theorie et pratique.** Associez vos sessions simulateur a l'etude theorique. Apres avoir lu un chapitre sur la navigation VOR, allez voler une approche VOR. Apres avoir etudie la meteorologie, pratiquez le vol en IMC simulee. La combinaison des connaissances theoriques et de l'application pratique accelere considerablement l'apprentissage.
 
-Le simulateur de vol ne remplacera jamais l'avion. Mais utilise intelligemment, c'est l'un des outils de formation complementaires les plus puissants dont dispose un pilote a tout stade de sa carriere. La reglementation le reconnait, les instructeurs le recommandent, et les mathematiques de la reduction des couts de formation rendent l'investissement convaincant. Si vous etes serieux dans votre apprentissage du pilotage — ou dans le maintien et l'amelioration de vos competences existantes — le simulateur merite une place structuree dans votre plan de formation.
+Le simulateur de vol ne remplacera jamais l'avion. Mais utilise intelligemment — en suivant par exemple une [carriere de pilote virtuel structuree avec un logbook](/fr/blog/carriere-pilote-virtuel-logbook) — c'est l'un des outils de formation complementaires les plus puissants dont dispose un pilote a tout stade de sa carriere. La reglementation le reconnait, les instructeurs le recommandent, et les mathematiques de la reduction des couts de formation rendent l'investissement convaincant. Si vous etes serieux dans votre apprentissage du pilotage — ou dans le maintien et l'amelioration de vos competences existantes — le simulateur merite une place structuree dans votre plan de formation.

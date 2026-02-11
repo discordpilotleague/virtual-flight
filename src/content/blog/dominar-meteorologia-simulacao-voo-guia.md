@@ -8,7 +8,7 @@ heroImage: '../../assets/hero-weather-simulation.svg'
 
 A meteorologia é o elemento que mais transforma a experiência na simulação de voo. Pode ter a aeronave mais fielmente modelada, a cenografia mais detalhada e um cockpit doméstico completamente equipado — mas se o céu parecer plano e os ventos se comportarem como uma constante, a imersão desmorona-se. É a meteorologia que transforma um exercício técnico numa experiência de pilotagem autêntica, desde o cumulonimbo que obriga a desviar 50 quilómetros da rota até ao vento cruzado subtil que transforma cada aterragem numa negociação.
 
-Este guia abrange tudo o que precisa de saber sobre meteorologia na simulação de voo moderna: como as principais plataformas a tratam nativamente, o que os melhores add-ons de terceiros trazem à mesa, e como configurar o seu sistema para a experiência meteorológica mais realista possível.
+Se ainda está a dar os primeiros passos na simulação de voo, recomendamos começar pelo nosso [guia de iniciante em simulação de voo](/pt/blog/guia-iniciante-simulacao-voo). Este guia abrange tudo o que precisa de saber sobre meteorologia na simulação de voo moderna: como as principais plataformas a tratam nativamente, o que os melhores add-ons de terceiros trazem à mesa, e como configurar o seu sistema para a experiência meteorológica mais realista possível.
 
 ## Como Funcionam os Motores Meteorológicos: MSFS 2024 vs X-Plane 12
 
@@ -108,7 +108,7 @@ A representação visual da precipitação melhorou dramaticamente. O MSFS 2024 
 
 Os melhores motores meteorológicos consideram padrões sazonais e diurnos. As tardes de verão nos trópicos produzem desenvolvimentos convectivos previsíveis. O inverno traz tetos baixos e visibilidade reduzida em latitudes norte. A estação das monções transforma os padrões meteorológicos no Sul e Sudeste Asiático.
 
-Para o treino, compreender os padrões sazonais é essencial. Se pratica aproximações para um voo de inverno a Lisboa ou São Paulo, defina a data e hora correspondentes. O motor meteorológico produzirá condições apropriadas à estação — estratos baixos, precipitação, ventos do noroeste em rajadas — que não encontraria numa simulação de verão.
+Para o treino, compreender os padrões sazonais é essencial. Se pratica aproximações para um voo de inverno a Lisboa ou São Paulo — especialmente em [redes de voo online](/pt/blog/comparativo-redes-voo-online) onde a meteorologia real acrescenta desafio — defina a data e hora correspondentes. O motor meteorológico produzirá condições apropriadas à estação — estratos baixos, precipitação, ventos do noroeste em rajadas — que não encontraria numa simulação de verão.
 
 ## Visibilidade e Nevoeiro
 
@@ -144,4 +144,4 @@ Para o MSFS 2024, comece com o ActiveSky como fonte de dados meteorológicos. Fo
 
 Para o X-Plane 12, o motor meteorológico integrado é impressionantemente capaz e deve ser o seu ponto de partida. Se desejar dados meteorológicos melhorados, o FSGRW fornece uma excelente injeção METAR.
 
-Independentemente da plataforma, invista tempo em compreender as suas opções de configuração meteorológica. A diferença entre os ajustes padrão e uma configuração cuidadosamente otimizada é a diferença entre jogar um videojogo e construir conhecimento aeronáutico genuíno. Trate a sua configuração meteorológica com a mesma seriedade que daria aos sistemas da aeronave ou aos procedimentos de navegação, e a sua experiência de simulação recompensá-lo-á muitas vezes.
+Independentemente da plataforma, invista tempo em compreender as suas opções de configuração meteorológica. A diferença entre os ajustes padrão e uma configuração cuidadosamente otimizada é a diferença entre jogar um videojogo e construir conhecimento aeronáutico genuíno. Trate a sua configuração meteorológica com a mesma seriedade que daria aos sistemas da aeronave ou aos procedimentos de navegação. Para ajustes completos de desempenho e software, consulte também o nosso [guia de configuração de simulador de voo](/pt/blog/guia-configuracao-simulador-voo), e a sua experiência de simulação recompensá-lo-á muitas vezes.

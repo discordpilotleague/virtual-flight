@@ -6,17 +6,17 @@ pubDate: 'Feb 06 2026'
 heroImage: '../../assets/hero-vatsim-network.svg'
 ---
 
-If you have spent hundreds of hours flying alone in your simulator and feel ready for something that will fundamentally transform the experience, **VATSIM** is where you need to be. The Virtual Air Traffic Simulation Network is the largest and most established online flying network in the world, connecting tens of thousands of pilots and air traffic controllers in a shared, real-time airspace that mirrors the procedures and discipline of real-world aviation.
+If you have spent hundreds of hours flying alone in your simulator and feel ready for something that will fundamentally transform the experience, **VATSIM** is where you need to be. If you are still building your basic skills, start with our [beginner's guide to flight simulation](/blog/beginner-guide-flight-simulation) before jumping into online flying. The Virtual Air Traffic Simulation Network is the largest and most established online flying network in the world, connecting tens of thousands of pilots and air traffic controllers in a shared, real-time airspace that mirrors the procedures and discipline of real-world aviation.
 
 ## What VATSIM Actually Is
 
 **VATSIM** is a free, volunteer-run network that overlays live air traffic control on top of your flight simulator. When you connect, your aircraft becomes visible to every other pilot on the network, and you communicate with human controllers who manage clearances, departures, approaches, and ground operations using real-world phraseology and procedures. It is not a game layer — it is a simulation environment built on accuracy and realism.
 
-The network supports **MSFS 2024**, **X-Plane 12**, **Prepar3D**, and other major simulator platforms. At any given time, you will find hundreds of active controllers staffing positions from ground and tower to approach and center, particularly in Europe, North America, and increasingly across Asia and South America.
+The network supports **MSFS 2024**, **X-Plane 12**, **Prepar3D**, and other major simulator platforms. VATSIM is not the only option, either -- see our [comparison of the best online flight networks](/blog/best-online-flight-networks) for a broader look at what is available. At any given time, you will find hundreds of active controllers staffing positions from ground and tower to approach and center, particularly in Europe, North America, and increasingly across Asia and South America.
 
 ## Registration: Your First Step
 
-Getting onto VATSIM starts at [vatsim.net](https://vatsim.net). The registration process is straightforward — you will need a valid email address and basic personal information. Upon completion, you receive a **VATSIM CID** (Client ID), which is your unique identifier across the entire network. Keep this number safe; it is tied to your pilot record, statistics, and reputation.
+Getting onto VATSIM starts at [vatsim.net](https://vatsim.net). The registration process is straightforward — you will need a valid email address and basic personal information. Upon completion, you receive a **VATSIM CID** (Client ID), which is your unique identifier across the entire network. Keep this number safe; it is tied to your pilot record, statistics, and reputation. If you want to track your flights and progression in a structured way, our guide to [managing a virtual pilot career and logbook](/blog/virtual-pilot-career-logbook) is worth reading.
 
 Before your first connection, you are required to pass a brief **Basic Exam**. This covers fundamental rules: do not connect on active runways, maintain awareness of other traffic, and follow controller instructions. It is not difficult, but it ensures every pilot has a baseline understanding of network etiquette.
 

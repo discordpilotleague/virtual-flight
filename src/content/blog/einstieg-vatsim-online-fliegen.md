@@ -6,7 +6,7 @@ pubDate: 'Feb 06 2026'
 heroImage: '../../assets/hero-vatsim-network.svg'
 ---
 
-Wenn du Hunderte von Stunden allein in deinem Simulator verbracht hast und bereit bist für eine Erfahrung, die alles grundlegend verändert, dann ist **VATSIM** der nächste logische Schritt. Das Virtual Air Traffic Simulation Network ist das größte und etablierteste Online-Flugnetzwerk der Welt und verbindet Zehntausende von Piloten und Fluglotsen in einem gemeinsamen Echtzeit-Luftraum, der die Verfahren und die Disziplin der realen Luftfahrt widerspiegelt.
+Wenn du Hunderte von Stunden allein in deinem Simulator verbracht hast und bereit bist für eine Erfahrung, die alles grundlegend verändert, dann ist **VATSIM** der nächste logische Schritt. Das Virtual Air Traffic Simulation Network ist das größte und etablierteste Online-Flugnetzwerk der Welt und verbindet Zehntausende von Piloten und Fluglotsen in einem gemeinsamen Echtzeit-Luftraum, der die Verfahren und die Disziplin der realen Luftfahrt widerspiegelt. Einen Überblick über die verschiedenen Plattformen bietet unser [Vergleich der Online-Flugnetzwerke](/de/blog/vergleich-online-flugnetzwerke).
 
 ## Was VATSIM wirklich ist
 
@@ -69,6 +69,8 @@ Auf VATSIM wird in der **VATSIM Germany (VATGER)** Division die Kommunikation h�
 
 VATSIM veranstaltet groß angelegte organisierte Events, die spektakuläre Erlebnisse bieten. **Cross the Pond (CTP)** ist das Flaggschiff-Event, das zweimal jährlich stattfindet, bei dem Hunderte von Piloten gleichzeitig transatlantische Routen mit vollständiger ATC-Abdeckung über den gesamten ozeanischen Korridor fliegen. Plätze füllen sich schnell — die Registrierung öffnet typischerweise Wochen im Voraus und ist innerhalb von Stunden ausgebucht.
 
+Wenn Sie Ihre Flüge systematisch dokumentieren möchten, lesen Sie auch unseren Artikel über die [virtuelle Pilotenkarriere und Logbook-Verwaltung](/de/blog/virtuelle-pilotenkarriere-logbook).
+
 **FNO (Friday Night Ops)** Events bieten garantierte ATC-Abdeckung an ausgewählten Flughäfen jeden Freitag. Diese sind perfekt für fortgeschrittene Piloten, die einen belebten, realistischen Luftraum wünschen. Die Division **VATGER** organisiert regelmäßig eigene Events — Deutsche Lotsenabende mit vollständiger Abdeckung von München, Frankfurt, Düsseldorf und anderen Großflughäfen sind ein Highlight der europäischen VATSIM-Szene.
 
 ## Etikette und ungeschriebene Regeln
@@ -82,6 +84,8 @@ VATSIM ist eine **Gemeinschaft, die auf gegenseitigem Respekt aufgebaut ist**. L
 - **Respektiere das Top-Down-Prinzip.** Wenn nur ein Center-Lotse online ist, übernimmt er alles von Rollkontrolle bis Streckenkontrolle in seinem Luftraum.
 
 ## Tipps für Neueinsteiger
+
+Wenn Sie noch ganz am Anfang Ihrer Flugsimulations-Reise stehen, werfen Sie zuerst einen Blick in unseren [Anfänger-Guide zur Flugsimulation](/de/blog/anfaenger-guide-flugsimulation), bevor Sie sich ins Online-Fliegen stürzen.
 
 Nach Tausenden von Stunden im Netzwerk ist der Rat, den ich jedem neuen Piloten gebe, immer derselbe: **Bereite deinen Flug vor, bevor du dich verbindest.** Briefing deiner Abflugprozedur, kenne deine anfängliche Höhe und deinen Kurs, halte deine Frequenzen bereit und verstehe die Anflugprozedur an deinem Zielflughafen. Die Piloten, die auf VATSIM Schwierigkeiten haben, sind fast immer diejenigen, die sich ohne Plan verbinden.
 

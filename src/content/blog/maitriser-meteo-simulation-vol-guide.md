@@ -8,7 +8,7 @@ heroImage: '../../assets/hero-weather-simulation.svg'
 
 La météorologie est sans doute l'élément le plus déterminant dans l'immersion d'un simulateur de vol. On peut disposer du cockpit le plus fidèlement reproduit, de la plus belle scénographie au sol, d'un système avionique modélisé dans ses moindres détails — si le ciel reste plat et que le vent se comporte comme une constante mathématique, l'illusion se brise instantanément. C'est la météo qui transforme un exercice technique en expérience de pilotage authentique.
 
-Ce guide explore en profondeur les systèmes météorologiques des simulateurs modernes, les add-ons incontournables, et les techniques de configuration pour obtenir le réalisme météorologique le plus poussé possible.
+Ce guide explore en profondeur les systèmes météorologiques des simulateurs modernes, les add-ons incontournables, et les techniques de configuration pour obtenir le réalisme météorologique le plus poussé possible. Si vous débutez dans la simulation de vol, notre [guide du débutant](/fr/blog/guide-debutant-simulation-vol) constitue un excellent point de départ avant de plonger dans les subtilités de la météo.
 
 ## Les Moteurs Météo : MSFS 2024 face à X-Plane 12
 
@@ -110,7 +110,7 @@ Les moteurs météo modernes différencient pluie, pluie verglaçante, grésil, 
 
 Les meilleurs moteurs météo tiennent compte des schémas saisonniers et diurnes. Les après-midi d'été sous les tropiques produisent des développements convectifs prévisibles. L'hiver apporte des plafonds bas et une visibilité réduite sous les latitudes nord. La saison des moussons transforme les schémas météo à travers l'Asie du Sud et du Sud-Est.
 
-Pour l'entraînement, comprendre les schémas saisonniers est essentiel. Si vous pratiquez des approches pour un vol hivernal vers Clermont-Ferrand, réglez la date et l'heure en conséquence. Le moteur météo produira des conditions appropriées à la saison — stratus bas, précipitations verglaçantes, vent du nord-ouest en rafales — que vous ne rencontreriez pas dans une simulation estivale.
+Pour l'entraînement — y compris sur les [réseaux de vol en ligne](/fr/blog/comparatif-reseaux-vol-en-ligne) où la météo réelle est de rigueur — comprendre les schémas saisonniers est essentiel. Si vous pratiquez des approches pour un vol hivernal vers Clermont-Ferrand, réglez la date et l'heure en conséquence. Le moteur météo produira des conditions appropriées à la saison — stratus bas, précipitations verglaçantes, vent du nord-ouest en rafales — que vous ne rencontreriez pas dans une simulation estivale.
 
 L'intégration Meteoblue de MSFS 2024 gère correctement les schémas saisonniers au niveau macroscopique. Des add-ons comme ActiveSky fournissent des ajustements saisonniers plus fins, particulièrement pour des phénomènes comme l'effet de lac (comme on peut l'observer au Canada), les brises de mer en Méditerranée et le développement thermique estival.
 
@@ -148,4 +148,4 @@ Pour MSFS 2024, commencez par ActiveSky comme source de données. Il fournit les
 
 Pour X-Plane 12, le moteur météo intégré est remarquablement capable et devrait être votre point de départ. Si vous souhaitez des données météo améliorées, FSGRW fournit une excellente injection METAR. Le plugin de radar météo X-Plane ajoute la fonctionnalité de radar météo cockpit absente de l'installation par défaut.
 
-Quel que soit le simulateur, investissez du temps dans la compréhension de vos options de configuration météo. La différence entre les paramètres par défaut et un réglage soigné est la différence entre jouer à un jeu vidéo et construire une véritable connaissance de la météorologie aéronautique. Traitez votre configuration météo avec le même sérieux que vous accorderiez aux systèmes aéronef ou aux procédures de navigation, et votre expérience de simulation vous le rendra au centuple.
+Quel que soit le simulateur, investissez du temps dans la compréhension de vos options de configuration météo. La différence entre les paramètres par défaut et un réglage soigné est la différence entre jouer à un jeu vidéo et construire une véritable connaissance de la météorologie aéronautique. Traitez votre configuration météo avec le même sérieux que vous accorderiez aux systèmes aéronef ou aux procédures de navigation — notre [guide de configuration et d'optimisation du simulateur](/fr/blog/guide-configuration-simulateur-vol) vous accompagnera dans ces réglages — et votre expérience de simulation vous le rendra au centuple.

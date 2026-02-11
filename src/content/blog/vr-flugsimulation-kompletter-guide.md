@@ -42,7 +42,7 @@ Für die Flugsimulation ist das herausragende Feature des Crystal sein Local Dim
 
 Das Varjo Aero belegt die Spitze des Consumer-VR für Flugsimulation. Seine dualen Mini-LED-Displays liefern 2880 x 2720 pro Auge mit außergewöhnlicher Helligkeit und Kontrast. Die asphärischen Linsen sind mit minimaler Verzerrung konstruiert und erzeugen einen Sweet Spot von etwa 30 Grad — den größten aller hier besprochenen Headsets.
 
-Was das Aero auszeichnet, ist seine optische Präzision. Instrumententext ist scharf genug, um ATIS-Berichte und SID/STAR-Karten zu lesen, ohne sich nach vorne lehnen zu müssen. Die Farbtreue ist auf Referenz-Niveau, was Landschaften in MSFS 2024 und Wettersysteme in X-Plane 12 in tatsächlich beeindruckende Panoramen verwandelt.
+Was das Aero auszeichnet, ist seine optische Präzision. Instrumententext ist scharf genug, um ATIS-Berichte und SID/STAR-Karten zu lesen, ohne sich nach vorne lehnen zu müssen. Die Farbtreue ist auf Referenz-Niveau, was Landschaften in MSFS 2024 und Wettersysteme in X-Plane 12 in tatsächlich beeindruckende Panoramen verwandelt. Um diese Landschaften noch weiter aufzuwerten, lohnt sich ein Blick auf die [besten Scenery-Addons für die Flugsimulation 2026](/de/blog/beste-scenery-addons-flugsimulation-2026).
 
 **Wichtige Aspekte:** Das Varjo Aero erfordert eine High-End-GPU — eine RTX 4080 oder höher wird empfohlen. Bei nativer Auflösung werden über 15 Millionen Pixel pro Frame berechnet. Das Headset nutzt SteamVR-Tracking mit externen Basisstationen (separat erhältlich), was die Setup-Komplexität erhöht, aber absolut stabiles Positions-Tracking ohne jegliche Drift liefert.
 
@@ -141,7 +141,7 @@ VR-Übelkeit ist real, physiologisch bedingt und betrifft etwa 40 % der neuen VR
 
 Für MSFS 2024 und X-Plane 12 ermöglichen VR-Handcontroller die direkte Interaktion mit Cockpit-Schaltern, Reglern und Knöpfen. Das ist transformativ für das Situationsbewusstsein, da man nie den Blick vom Fenster abwenden muss, um einen Mauszeiger zu suchen.
 
-Die meisten ernsthaften VR-Flugsimmer nutzen Controller jedoch nur für die Cockpit-Interaktion und behalten ein HOTAS für die primären Flugsteuerungen. Das haptische Feedback und der physische Widerstand eines echten Joysticks und Schubhebels können nicht durch das Halten eines Plastikstabes im Raum repliziert werden.
+Die meisten ernsthaften VR-Flugsimmer nutzen Controller jedoch nur für die Cockpit-Interaktion und behalten ein HOTAS für die primären Flugsteuerungen. Welches Eingabegerät am besten zu Ihrem Flugstil passt, erfahren Sie in unserem [Hardware-Test: Joystick und Yoke im Vergleich](/de/blog/test-hardware-joystick-yoke). Das haptische Feedback und der physische Widerstand eines echten Joysticks und Schubhebels können nicht durch das Halten eines Plastikstabes im Raum repliziert werden.
 
 Bei DCS ist die native VR-Handinteraktion weniger ausgereift. Viele DCS-Piloten bevorzugen selbst in VR die mausbasierte Cockpit-Interaktion.
 
@@ -173,6 +173,6 @@ Eye-Tracked Foveated Rendering, verfügbar beim Pimax Crystal und Varjo Aero, ge
 
 Das ideale VR-Flugsimulations-Setup im Jahr 2026 sieht ungefähr so aus: ein hochauflösendes Headset, abgestimmt auf Budget und GPU-Kapazität, ein HOTAS-System für Flugsteuerungen mit VR-Handcontrollern für die Cockpit-Interaktion, Grafikeinstellungen, die pro Simulator gezielt angepasst statt auf Standard belassen werden, und aktivierte Reprojection mit einer stabilen Frame-Rate auf der Hälfte der Bildwiederholrate.
 
-Konservativ mit niedrigeren Einstellungen beginnen und die Frame-Time-Konsistenz überprüfen, bevor man visuelle Qualität jagt. Eine flüssige, komfortable Erfahrung bei mittleren Einstellungen hält einen stundenlang am Fliegen. Eine schöne, aber ruckelnde Erfahrung bei Ultra-Einstellungen lässt einen innerhalb von zwanzig Minuten nach dem Headset greifen, um es abzusetzen.
+Konservativ mit niedrigeren Einstellungen beginnen und die Frame-Time-Konsistenz überprüfen, bevor man visuelle Qualität jagt. Weiterführende Optimierungstipps für alle Simulatoren bietet unser [Flugsimulator-Einrichtungsleitfaden](/de/blog/flugsimulator-einrichtung-leitfaden). Eine flüssige, komfortable Erfahrung bei mittleren Einstellungen hält einen stundenlang am Fliegen. Eine schöne, aber ruckelnde Erfahrung bei Ultra-Einstellungen lässt einen innerhalb von zwanzig Minuten nach dem Headset greifen, um es abzusetzen.
 
 VR-Flugsimulation stellt die immersivste Art dar, die virtuellen Lüfte zu erleben, die Heimanwendern heute zur Verfügung steht. Der initiale Konfigurationsaufwand ist real, aber einmal eingestellt, ist die Tiefe der Immersion schlicht unübertroffen. Willkommen im Cockpit.

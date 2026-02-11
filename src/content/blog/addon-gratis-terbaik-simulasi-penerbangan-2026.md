@@ -6,7 +6,7 @@ pubDate: 'Feb 02 2026'
 heroImage: '../../assets/hero-free-addons.svg'
 ---
 
-Ekosistem simulasi penerbangan selalu berkembang berkat kemurahan hati komunitasnya. Sementara pengembang payware terus mendorong batas dengan modul study-level dan scenery fotogrametri, kancah freeware di tahun 2026 menghadirkan kualitas yang tidak terbayangkan lima tahun lalu. Baik Anda terbang menggunakan **MSFS 2024**, **X-Plane 12**, maupun **DCS World**, tersedia perpustakaan addon gratis yang luar biasa yang siap mengubah pengalaman Anda — asalkan Anda tahu di mana mencarinya.
+Ekosistem simulasi penerbangan selalu berkembang berkat kemurahan hati komunitasnya. Sementara pengembang payware terus mendorong batas dengan modul study-level dan scenery fotogrametri, kancah freeware di tahun 2026 menghadirkan kualitas yang tidak terbayangkan lima tahun lalu. Baik Anda terbang menggunakan **MSFS 2024**, **X-Plane 12**, maupun **DCS World**, tersedia perpustakaan addon gratis yang luar biasa yang siap mengubah pengalaman Anda — asalkan Anda tahu di mana mencarinya. Untuk daftar ringkas pilihan terbaik, lihat juga [top 10 addon gratis simulasi penerbangan](/id/blog/top-10-addon-gratis-simulasi) kami.
 
 ## Pesawat Freeware: Kualitas Study-Level Tanpa Biaya
 
@@ -70,4 +70,6 @@ Mengetahui tempat mencari adalah setengah dari perjuangan. Berikut adalah reposi
 
 ## Pemikiran Akhir
 
-Komunitas freeware simulasi penerbangan di tahun 2026 menghasilkan karya pada level yang terus mengaburkan batas antara produk gratis dan berbayar. Dari pesawat study-level seperti FlyByWire A32NX dan Zibo 737, melalui ribuan paket scenery, hingga alat utilitas yang canggih — tidak pernah ada waktu yang lebih baik untuk meningkatkan simulator Anda tanpa membuka dompet. Kuncinya adalah mengetahui di mana mencari, bersedia bereksperimen, dan memberikan kembali kepada komunitas yang membuat semua ini menjadi mungkin.
+Jika Anda juga tertarik dengan scenery, jangan lewatkan panduan kami tentang [scenery addon terbaik untuk simulasi penerbangan 2026](/id/blog/scenery-addon-terbaik-simulasi-penerbangan-2026).
+
+Komunitas freeware simulasi penerbangan di tahun 2026 menghasilkan karya pada level yang terus mengaburkan batas antara produk gratis dan berbayar. Dari pesawat study-level seperti FlyByWire A32NX dan Zibo 737, melalui ribuan paket scenery, hingga alat utilitas yang canggih — tidak pernah ada waktu yang lebih baik untuk meningkatkan simulator Anda tanpa membuka dompet. Kuncinya adalah mengetahui di mana mencari, bersedia bereksperimen, dan memberikan kembali kepada komunitas yang membuat semua ini menjadi mungkin. Bagi yang baru memulai, [panduan pemula simulasi penerbangan](/id/blog/panduan-pemula-simulasi-penerbangan-2026) kami akan membantu Anda memahami dasar-dasarnya sebelum memasang addon.

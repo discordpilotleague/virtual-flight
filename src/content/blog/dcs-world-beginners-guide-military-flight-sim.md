@@ -6,7 +6,7 @@ pubDate: 'Feb 18 2026'
 heroImage: '../../assets/hero-dcs-world.svg'
 ---
 
-DCS World is the most detailed military flight simulator available to civilians, and it is completely free to download. That combination of depth and accessibility makes it one of the most rewarding — and occasionally overwhelming — pieces of software you will ever install. Whether you dream of dogfighting in an F-16C, threading a Huey through mountain valleys, or putting laser-guided bombs on target from an A-10C, DCS is where serious military aviation simulation happens.
+DCS World is the most detailed military flight simulator available to civilians, and it is completely free to download. That combination of depth and accessibility makes it one of the most rewarding — and occasionally overwhelming — pieces of software you will ever install. Whether you dream of dogfighting in an F-16C, threading a Huey through mountain valleys, or putting laser-guided bombs on target from an A-10C, DCS is where serious military aviation simulation happens. If you are brand new to flight simulation in general, you may want to start with our [beginner's guide to flight simulation](/blog/beginner-guide-flight-simulation) for a broader introduction before diving into military sims.
 
 This guide will take you from zero to your first successful sortie, covering everything from installation to multiplayer.
 
@@ -20,7 +20,7 @@ DCS simulates the Caucasus region, Persian Gulf, Syria, South Atlantic, Sinai, a
 
 ## Free vs. Paid: What You Get Without Spending a Dollar
 
-DCS World ships with two free aircraft that are genuinely capable machines, not stripped-down demos.
+DCS World ships with two free aircraft that are genuinely capable machines, not stripped-down demos. For a wider look at freeware across all simulators, see our guide to the [top free addons for flight simulation](/blog/top-10-free-addons-flight-sim).
 
 ### Su-25T Frogfoot
 
@@ -63,7 +63,7 @@ DCS World supports virtually every input device, but configuring controls proper
 
 ### Minimum Viable Control Setup
 
-At the absolute minimum, you need a joystick with a throttle axis. A HOTAS (Hands On Throttle And Stick) system is strongly recommended. If you are starting with a basic joystick like the Logitech 3D Pro or Thrustmaster T.16000M, map the following immediately:
+At the absolute minimum, you need a joystick with a throttle axis. A [HOTAS (Hands On Throttle And Stick)](/blog/best-hotas-flight-controller-2026) system is strongly recommended. If you are starting with a basic joystick like the Logitech 3D Pro or Thrustmaster T.16000M, map the following immediately:
 
 - **Pitch and roll** — joystick X and Y axes
 - **Yaw** — joystick twist (or rudder pedals if you have them)

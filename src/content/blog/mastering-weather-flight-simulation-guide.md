@@ -8,7 +8,7 @@ heroImage: '../../assets/hero-weather-simulation.svg'
 
 Weather is the single most transformative element in flight simulation. You can have the most meticulously modeled aircraft, pixel-perfect scenery, and a full home cockpit setup, but if the sky looks flat and the winds behave like a textbook exercise, the immersion falls apart. Getting weather right — from the towering cumulonimbus that forces you to deviate 30 miles off course, to the subtle crosswind that makes every landing a negotiation — is what separates a screensaver from a training tool.
 
-This guide covers everything you need to know about weather in modern flight simulation: how the major platforms handle it natively, what the best third-party add-ons bring to the table, and how to configure your setup for the most realistic meteorological experience possible.
+This guide covers everything you need to know about weather in modern flight simulation: how the major platforms handle it natively, what the best third-party add-ons bring to the table, and how to configure your setup for the most realistic meteorological experience possible. If you are just getting started with flight sims, our [beginner's guide to flight simulation](/blog/beginner-guide-flight-simulation) covers the fundamentals first.
 
 ## How Weather Engines Work: MSFS 2024 vs X-Plane 12
 
@@ -66,7 +66,7 @@ Weather add-ons collect METARs from global networks — primarily NOAA's Aviatio
 
 The best weather engines use numerical weather prediction model data (GFS, ECMWF, or regional models) to guide interpolation, ensuring that the transition follows physically plausible atmospheric patterns rather than creating artificial gradients.
 
-For advanced users, some add-ons allow direct METAR entry. This is invaluable for practicing approaches in specific reported conditions — you can enter the exact METAR from a field you plan to visit and practice the approach in the conditions you are likely to encounter.
+For pilots flying on [online networks like VATSIM or IVAO](/blog/best-online-flight-networks), accurate weather synchronization is especially important for coordinating with live ATC. For advanced users, some add-ons allow direct METAR entry. This is invaluable for practicing approaches in specific reported conditions — you can enter the exact METAR from a field you plan to visit and practice the approach in the conditions you are likely to encounter.
 
 ## Cloud Rendering Technology
 
@@ -162,6 +162,6 @@ For MSFS 2024, start with ActiveSky as your weather data source. It provides the
 
 For X-Plane 12, the built-in weather engine is impressively capable and should be your starting point. If you want enhanced weather data, FSGRW (Flight Sim Global Real Weather) provides excellent METAR injection. The X-Plane weather radar plugin adds cockpit weather radar functionality that the default installation lacks.
 
-Regardless of platform, invest time in understanding your weather configuration options. The difference between default settings and a carefully tuned weather setup is the difference between playing a game and building genuine aeronautical weather knowledge.
+Regardless of platform, invest time in understanding your weather configuration options. Our [flight simulator setup guide](/blog/flight-simulator-setup-guide) covers the broader graphics and performance settings that interact with your weather configuration. The difference between default settings and a carefully tuned weather setup is the difference between playing a game and building genuine aeronautical weather knowledge.
 
 Weather in flight simulation has reached a point where the skills you develop dealing with challenging conditions transfer meaningfully to real-world flying. Treat your weather configuration with the same seriousness you would give to aircraft systems or navigation procedures, and your simulation experience will reward you many times over.

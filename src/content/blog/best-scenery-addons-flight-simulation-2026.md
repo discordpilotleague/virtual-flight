@@ -106,7 +106,7 @@ Scenery add-ons consume three primary resources: **VRAM** (for textures), **RAM*
 
 ### VRAM Budget
 
-Modern airport scenery can use 2–4 GB of VRAM on its own. If you are running multiple complex scenery packages simultaneously — a detailed departure airport, ortho ground textures, and a city scenery pack — you can easily push past 8 GB of VRAM usage. In 2026, a **12 GB GPU** (RTX 4070 Ti or better) is the realistic minimum for running high-quality scenery without constant texture streaming stutters. 16 GB cards like the RTX 4080 or RX 7900 XT provide genuine breathing room.
+Modern airport scenery can use 2--4 GB of VRAM on its own. If you are flying in [VR](/blog/vr-flight-simulation-complete-guide), the demands are even higher since every frame is rendered twice. If you are running multiple complex scenery packages simultaneously — a detailed departure airport, ortho ground textures, and a city scenery pack — you can easily push past 8 GB of VRAM usage. In 2026, a **12 GB GPU** (RTX 4070 Ti or better) is the realistic minimum for running high-quality scenery without constant texture streaming stutters. 16 GB cards like the RTX 4080 or RX 7900 XT provide genuine breathing room.
 
 ### RAM and Storage
 
@@ -114,7 +114,7 @@ Ortho scenery is the biggest RAM and storage consumer. A single ortho tile at zo
 
 ### Optimization Tips
 
-- **Prioritize LOD settings** — both MSFS and X-Plane allow you to control object and terrain Level of Detail distances. Reducing these slightly can recover 10–20 fps without dramatically affecting visual quality at cruise altitude.
+- **Prioritize LOD settings** -- both MSFS and X-Plane allow you to control object and terrain Level of Detail distances. Our [flight simulator setup guide](/blog/flight-simulator-setup-guide) covers these settings in depth for each platform. Reducing these slightly can recover 10–20 fps without dramatically affecting visual quality at cruise altitude.
 - **Use scenery exclusion zones** — if you install a detailed payware airport, make sure it properly excludes the default scenery underneath. Double-rendered scenery wastes GPU cycles.
 - **Disable scenery you are not using** — both simulators load all active scenery into memory. If you have 200 GB of ortho for a region you are not currently flying in, disable it in your scenery library.
 - **Monitor VRAM usage** — tools like GPU-Z or MSFS's built-in developer mode overlay show real-time VRAM consumption, letting you identify which add-ons are most expensive.
@@ -125,7 +125,7 @@ The freeware scenery community in 2026 is extraordinarily productive. Platforms 
 
 ### When Freeware Is Enough
 
-For airports you visit occasionally, freeware scenery is often perfectly adequate. Many community developers produce work that rivals commercial quality — particularly for smaller regional airports that payware developers skip. The **Flightsim.to** community has produced free versions of hundreds of airports worldwide that include custom buildings, accurate layouts, and seasonal variations.
+For airports you visit occasionally, freeware scenery is often perfectly adequate. Our guide to the [best free addons for flight simulation](/blog/top-10-free-addons-flight-sim) covers many excellent freeware scenery options alongside aircraft and utility mods. Many community developers produce work that rivals commercial quality — particularly for smaller regional airports that payware developers skip. The **Flightsim.to** community has produced free versions of hundreds of airports worldwide that include custom buildings, accurate layouts, and seasonal variations.
 
 ### When Payware Is Worth It
 

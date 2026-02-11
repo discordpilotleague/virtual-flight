@@ -8,7 +8,7 @@ heroImage: '../../assets/hero-hotas-controllers.svg'
 
 Le choix d'un contrôleur de vol est l'une des décisions les plus déterminantes pour tout pilote de simulation. C'est lui qui définit la sensation de chaque appareil sous vos mains, la précision avec laquelle vous tiendrez une approche ILS par vent de travers, et la longévité de votre matériel sur des milliers d'heures de vol virtuel. En 2026, le marché est mature, concurrentiel et rempli d'options excellentes — mais aussi de pièges pour l'acheteur mal informé.
 
-Ce guide détaille les meilleurs systèmes HOTAS, jougs et palonniers disponibles aujourd'hui, avec des recommandations précises selon votre style de vol.
+Ce guide détaille les meilleurs systèmes HOTAS, jougs et palonniers disponibles aujourd'hui, avec des recommandations précises selon votre style de vol. Pour des analyses détaillées de chaque produit, consultez également notre [test complet de joysticks et yokes pour la simulation](/fr/blog/test-materiel-joystick-yoke-simulation).
 
 ## Les Meilleurs Systèmes HOTAS pour le Combat et l'Usage Polyvalent
 
@@ -88,4 +88,4 @@ Le quadrant Honeycomb Bravo est indispensable ici. Pour la question joug contre 
 4. **Matériaux de construction** : le métal dure plus longtemps et offre un meilleur ressenti, mais le plastique de qualité (comme le VKB NXT EVO) peut être excellent à des prix inférieurs.
 5. **Évolutivité** : choisissez un écosystème dans lequel vous pouvez évoluer. VKB et Virpil permettent tous deux de changer les poignées et les bases au fur et à mesure de l'évolution de vos besoins.
 
-Le marché du matériel de simulation de vol en 2026 est le meilleur qu'il ait jamais été. Que vous dépensiez 120 € pour un VKB Gladiator ou 1 200 € pour un cockpit Virpil complet, il existe des options véritablement excellentes à chaque niveau de prix. Achetez en fonction de ce que vous volez, privilégiez la qualité des capteurs et du cardan, et votre matériel vous servira fidèlement pendant des années.
+Le marché du matériel de simulation de vol en 2026 est le meilleur qu'il ait jamais été. Que vous dépensiez 120 € pour un VKB Gladiator ou 1 200 € pour un cockpit Virpil complet, il existe des options véritablement excellentes à chaque niveau de prix. Achetez en fonction de ce que vous volez, privilégiez la qualité des capteurs et du cardan, et votre matériel vous servira fidèlement pendant des années. Pour tirer le meilleur parti de votre nouveau contrôleur, suivez notre [guide de configuration et d'optimisation du simulateur](/fr/blog/guide-configuration-simulateur-vol). Et si vous envisagez de monter un setup complet, découvrez notre [guide pour construire un cockpit maison avec un budget limité](/fr/blog/construire-cockpit-maison-budget-guide).

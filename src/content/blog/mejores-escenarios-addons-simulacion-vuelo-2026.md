@@ -100,7 +100,7 @@ El sistema estacional integrado de MSFS 2024 es el más avanzado de cualquier si
 
 ## Impacto en el Rendimiento
 
-Los add-ons de escenarios consumen tres recursos principales: **VRAM** (para texturas), **RAM** (para malla y datos de objetos) y **CPU** (para llamadas de dibujo y colocación de objetos).
+Si disfrutas de estos escenarios en realidad virtual, nuestra [guía completa de simulación de vuelo en VR](/es/blog/simulacion-vuelo-vr-guia-completa) cubre cómo optimizar el rendimiento visual con cascos. Los add-ons de escenarios consumen tres recursos principales: **VRAM** (para texturas), **RAM** (para malla y datos de objetos) y **CPU** (para llamadas de dibujo y colocación de objetos).
 
 ### Presupuesto de VRAM
 
@@ -119,7 +119,7 @@ La escena orto es la mayor consumidora de RAM y almacenamiento. Una sola tesela 
 
 ## Freeware vs. Payware
 
-La comunidad freeware en 2026 es extraordinariamente productiva. Plataformas como **Flightsim.to**, **X-Plane.org** y **AVSIM** alojan miles de aeropuertos gratuitos, mejoras de terreno y packs de monumentos.
+Si buscas mejorar tu experiencia sin gastar dinero, no te pierdas nuestra selección de [los mejores addons gratuitos para simulación de vuelo](/es/blog/top-10-addons-gratis-simulacion). La comunidad freeware en 2026 es extraordinariamente productiva. Plataformas como **Flightsim.to**, **X-Plane.org** y **AVSIM** alojan miles de aeropuertos gratuitos, mejoras de terreno y packs de monumentos.
 
 ### Cuándo el Freeware es Suficiente
 
@@ -161,4 +161,4 @@ Antes de actualizaciones mayores del simulador, haz copia de seguridad de tu car
 
 El panorama de los escenarios evoluciona rápidamente. El modelado 3D asistido por IA está acelerando la producción de terminales aeroportuarias detalladas. La fotogrametría transmitida desde la nube continúa mejorando en resolución y cobertura. Los algoritmos de generación procedural están produciendo entornos urbanos cada vez más convincentes solo a partir de datos cartográficos. La brecha entre los escenarios por defecto y los add-ons se está estrechando — pero los add-ons siguen empujando los límites de lo posible, asegurando que siempre habrá una mejora significativa disponible para los pilotos que quieran el mundo virtual más realista bajo sus alas.
 
-Invertir en escenarios transforma la simulación de vuelo de un ejercicio técnico en una experiencia genuinamente inmersiva. Empieza por los aeropuertos que más frecuentas, añade terreno y orto para tus regiones VFR favoritas, y construye desde ahí. El mundo virtual nunca ha lucido mejor.
+Para asegurarte de que tu sistema saca el máximo partido a estos escenarios, consulta nuestra [guía de configuración y optimización del simulador](/es/blog/guia-configuracion-simulador-vuelo). Invertir en escenarios transforma la simulación de vuelo de un ejercicio técnico en una experiencia genuinamente inmersiva. Empieza por los aeropuertos que más frecuentas, añade terreno y orto para tus regiones VFR favoritas, y construye desde ahí. El mundo virtual nunca ha lucido mejor.

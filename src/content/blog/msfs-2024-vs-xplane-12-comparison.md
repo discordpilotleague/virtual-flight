@@ -54,7 +54,7 @@ For dedicated VR flyers, X-Plane 12 currently offers the more comfortable overal
 
 ## Performance Requirements
 
-**MSFS 2024** is famously demanding. To run it at high settings with smooth performance, you will want a modern GPU (RTX 4070 or better), 32 GB of RAM, and fast storage. The simulator also requires a constant internet connection for streaming scenery data, which can be a dealbreaker for pilots with limited bandwidth.
+**MSFS 2024** is famously demanding. Our [flight simulator setup guide](/blog/flight-simulator-setup-guide) details exactly which graphics settings to prioritize for each platform. To run it at high settings with smooth performance, you will want a modern GPU (RTX 4070 or better), 32 GB of RAM, and fast storage. The simulator also requires a constant internet connection for streaming scenery data, which can be a dealbreaker for pilots with limited bandwidth.
 
 **X-Plane 12** runs well on more modest hardware and does not depend on streaming data. An RTX 3060 with 16 GB of RAM will deliver a solid experience at medium-high settings. All scenery data is stored locally, making it fully functional offline.
 
@@ -72,13 +72,13 @@ For dedicated VR flyers, X-Plane 12 currently offers the more comfortable overal
 
 ## Modding Community
 
-Both platforms have passionate modding communities. MSFS benefits from the sheer size of its user base, which translates into a massive volume of freeware scenery, liveries, and utilities on sites like **flightsim.to**. X-Plane's community is smaller but deeply technical, with extensive plugin support through the **XPUIPC** and **FlyWithLua** frameworks, and a tradition of open development that Laminar Research actively encourages.
+Both platforms have passionate modding communities. MSFS benefits from the sheer size of its user base, which translates into a massive volume of freeware scenery, liveries, and utilities on sites like **flightsim.to**. Check out our list of the [top free addons](/blog/top-10-free-addons-flight-sim) to see the best of what is available across both platforms. X-Plane's community is smaller but deeply technical, with extensive plugin support through the **XPUIPC** and **FlyWithLua** frameworks, and a tradition of open development that Laminar Research actively encourages.
 
 ## Verdict: Which Simulator Is Right for You?
 
 There is no single correct answer — it depends entirely on what kind of virtual pilot you are.
 
-**Choose MSFS 2024 if** you value stunning visuals, want the largest aircraft and scenery library, prefer built-in multiplayer, or want to explore the world in VFR with photorealistic scenery. It is also the best entry point for newcomers thanks to Game Pass pricing.
+**Choose MSFS 2024 if** you value stunning visuals, want the largest aircraft and scenery library, prefer built-in multiplayer, or want to explore the world in VFR with photorealistic scenery. It is also the best entry point for newcomers thanks to Game Pass pricing -- our [beginner's guide to flight simulation](/blog/beginner-guide-flight-simulation) can help you get started.
 
 **Choose X-Plane 12 if** you prioritize flight model accuracy, want a simulator that real-world pilots and instructors trust for procedures training, prefer VR flying on mid-range hardware, or value offline operation without streaming dependencies.
 

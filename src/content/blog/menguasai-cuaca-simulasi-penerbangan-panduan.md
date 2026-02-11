@@ -8,7 +8,7 @@ heroImage: '../../assets/hero-weather-simulation.svg'
 
 Cuaca adalah elemen yang paling mengubah pengalaman dalam simulasi penerbangan. Anda bisa memiliki pesawat yang dimodelkan dengan sangat detail, scenery yang luar biasa, dan setup cockpit rumahan yang lengkap — tetapi jika langit terlihat datar dan angin berperilaku seperti konstanta matematika, imersi akan runtuh seketika. Cuacalah yang mengubah latihan teknis menjadi pengalaman penerbangan yang autentik: dari cumulonimbus yang memaksa Anda berdeviasi 50 kilometer dari rute, hingga crosswind halus yang membuat setiap pendaratan menjadi negosiasi.
 
-Panduan ini mencakup segala hal yang perlu Anda ketahui tentang cuaca dalam simulasi penerbangan modern: bagaimana platform utama menanganinya secara native, apa yang ditawarkan add-on pihak ketiga terbaik, dan bagaimana mengkonfigurasi sistem Anda untuk pengalaman meteorologi yang paling realistis.
+Panduan ini mencakup segala hal yang perlu Anda ketahui tentang cuaca dalam simulasi penerbangan modern: bagaimana platform utama menanganinya secara native, apa yang ditawarkan add-on pihak ketiga terbaik, dan bagaimana mengkonfigurasi sistem Anda untuk pengalaman meteorologi yang paling realistis. Jika Anda baru memulai perjalanan simulasi penerbangan, kami sarankan membaca [panduan pemula simulasi penerbangan](/id/blog/panduan-pemula-simulasi-penerbangan-2026) terlebih dahulu.
 
 ## Cara Kerja Engine Cuaca: MSFS 2024 vs X-Plane 12
 
@@ -124,7 +124,7 @@ MSFS 2024 merender kabut secara volumetrik, menciptakan variasi densitas yang re
 
 ### Mengkonfigurasi Visibilitas untuk Pelatihan
 
-Untuk latihan instrument approach, konfigurasikan visibilitas pada atau mendekati minima untuk tipe approach yang Anda terbangkan. ILS approach Kategori I memiliki decision height 200 kaki dan visibility minima 550 meter (RVR). Atur puncak lapisan kabut pada 100-120 meter AGL dengan nilai visibilitas yang sesuai.
+Berlatih dalam kondisi cuaca menantang juga merupakan persiapan ideal sebelum bergabung ke [jaringan terbang online seperti VATSIM](/id/blog/perbandingan-jaringan-terbang-online), di mana cuaca real-time menjadi bagian dari pengalaman. Untuk latihan instrument approach, konfigurasikan visibilitas pada atau mendekati minima untuk tipe approach yang Anda terbangkan. ILS approach Kategori I memiliki decision height 200 kaki dan visibility minima 550 meter (RVR). Atur puncak lapisan kabut pada 100-120 meter AGL dengan nilai visibilitas yang sesuai.
 
 ## Skenario Cuaca Custom untuk Pelatihan
 
@@ -146,4 +146,4 @@ Untuk MSFS 2024, mulai dengan ActiveSky sebagai sumber data cuaca. Ia menyediaka
 
 Untuk X-Plane 12, engine cuaca bawaan sangat capable dan harus menjadi titik awal Anda. Jika Anda menginginkan data cuaca yang ditingkatkan, FSGRW menyediakan injeksi METAR yang sangat baik. Plugin weather radar X-Plane menambahkan fungsionalitas weather radar kokpit yang tidak ada pada instalasi default.
 
-Terlepas dari platform, investasikan waktu untuk memahami opsi konfigurasi cuaca Anda. Perbedaan antara pengaturan default dan setup cuaca yang dikalibrasi dengan cermat adalah perbedaan antara bermain game dan membangun pengetahuan meteorologi penerbangan yang sesungguhnya. Perlakukan konfigurasi cuaca Anda dengan keseriusan yang sama seperti Anda memperlakukan sistem pesawat atau prosedur navigasi, dan pengalaman simulasi Anda akan membalas berkali-kali lipat.
+Terlepas dari platform, investasikan waktu untuk memahami opsi konfigurasi cuaca Anda. Perbedaan antara pengaturan default dan setup cuaca yang dikalibrasi dengan cermat adalah perbedaan antara bermain game dan membangun pengetahuan meteorologi penerbangan yang sesungguhnya. Perlakukan konfigurasi cuaca Anda dengan keseriusan yang sama seperti Anda memperlakukan sistem pesawat atau prosedur navigasi — dan pastikan pengaturan simulator Anda sudah dioptimalkan dengan mengikuti [panduan konfigurasi simulator penerbangan](/id/blog/panduan-konfigurasi-simulator-penerbangan) kami — dan pengalaman simulasi Anda akan membalas berkali-kali lipat.

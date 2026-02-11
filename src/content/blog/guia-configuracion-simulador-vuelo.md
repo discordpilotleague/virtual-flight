@@ -10,11 +10,11 @@ La **flight simulation** ha alcanzado un nivel de realismo que habría parecido 
 
 ## Calibración del hardware: los cimientos de un vuelo realista
 
-Un cockpit virtual mal calibrado es como un avión mal centrado — pasas todo el tiempo compensando en lugar de pilotar. El primer paso, antes de tocar los gráficos, es afinar tus periféricos.
+Un cockpit virtual mal calibrado es como un avión mal centrado — pasas todo el tiempo compensando en lugar de pilotar. Si todavía estás dando tus primeros pasos, consulta nuestra [guía para principiantes en simulación de vuelo](/es/blog/guia-principiante-simulacion-vuelo) antes de sumergirte en la calibración avanzada. El primer paso, antes de tocar los gráficos, es afinar tus periféricos.
 
 ### Curvas de sensibilidad del joystick
 
-La mayoría de los sistemas HOTAS vienen con respuesta lineal, lo cual rara vez es óptimo. Para aviación general en MSFS 2024, ajusta la sensibilidad a aproximadamente -35% en cabeceo y alabeo para obtener mayor precisión en torno al centro. En DCS, con módulos como el F-16C o el A-10C, reduce a -20% — estas aeronaves tienen controles más directos y necesitas toda la autoridad en los extremos.
+La mayoría de los sistemas HOTAS vienen con respuesta lineal, lo cual rara vez es óptimo. Si aún no tienes claro qué periférico elegir, echa un vistazo a nuestra [comparativa de los mejores HOTAS y controladores de vuelo en 2026](/es/blog/mejores-hotas-controladores-vuelo-2026). Para aviación general en MSFS 2024, ajusta la sensibilidad a aproximadamente -35% en cabeceo y alabeo para obtener mayor precisión en torno al centro. En DCS, con módulos como el F-16C o el A-10C, reduce a -20% — estas aeronaves tienen controles más directos y necesitas toda la autoridad en los extremos.
 
 ### Pedales de timón y frenos diferenciales
 
@@ -62,6 +62,7 @@ VATSIM e IVAO ofrecen la experiencia ATC más realista disponible. Para particip
 
 ## Recursos recomendados
 
+- [Los mejores addons gratuitos para simulación de vuelo](/es/blog/top-10-addons-gratis-simulacion) — Nuestra selección de freeware imprescindible para mejorar tu experiencia
 - **Documentación oficial de MSFS 2024** — Lectura esencial para entender el nuevo modelo aerodinámico
 - **Base de conocimiento de X-Plane 12** — Artículos técnicos detallados sobre renderizado y física
 - **Biblioteca de manuales de DCS** — Guías de configuración específicas por módulo

@@ -6,7 +6,7 @@ pubDate: 'Feb 06 2026'
 heroImage: '../../assets/hero-vatsim-network.svg'
 ---
 
-Se você já dedicou centenas de horas voando sozinho no seu simulador e sente que precisa de uma experiência fundamentalmente diferente, **VATSIM** é o próximo passo lógico. O Virtual Air Traffic Simulation Network é a maior e mais consolidada rede de voo online do mundo, conectando dezenas de milhares de pilotos e controladores de tráfego aéreo em um espaço aéreo compartilhado em tempo real que espelha os procedimentos e a disciplina da aviação real.
+Se você já dedicou centenas de horas voando sozinho no seu simulador e sente que precisa de uma experiência fundamentalmente diferente, **VATSIM** é o próximo passo lógico. O Virtual Air Traffic Simulation Network é a maior e mais consolidada rede de voo online do mundo, conectando dezenas de milhares de pilotos e controladores de tráfego aéreo em um espaço aéreo compartilhado em tempo real que espelha os procedimentos e a disciplina da aviação real. Para conhecer outras redes além do VATSIM, confira nosso [comparativo de redes de voo online](/pt/blog/comparativo-redes-voo-online).
 
 ## O que é o VATSIM de fato
 
@@ -16,7 +16,7 @@ A rede suporta **MSFS 2024**, **X-Plane 12**, **Prepar3D** e outras plataformas 
 
 ## Registro: seu primeiro passo
 
-Tudo começa em [vatsim.net](https://vatsim.net). O processo de registro é direto — você precisará de um endereço de e-mail válido e informações pessoais básicas. Ao concluir, você recebe um **VATSIM CID** (Client ID), seu identificador único em toda a rede. Guarde esse número com cuidado: ele está vinculado ao seu histórico de piloto, estatísticas e reputação.
+Tudo começa em [vatsim.net](https://vatsim.net). O processo de registro é direto — você precisará de um endereço de e-mail válido e informações pessoais básicas. Ao concluir, você recebe um **VATSIM CID** (Client ID), seu identificador único em toda a rede. Guarde esse número com cuidado: ele está vinculado ao seu histórico de piloto, estatísticas e reputação. Para organizar essas horas de voo de forma estruturada, veja nosso [guia de carreira de piloto virtual e logbook](/pt/blog/carreira-piloto-virtual-logbook).
 
 Antes da sua primeira conexão, você precisará passar em um breve **exame básico**. Ele cobre as regras fundamentais: não se conectar em pistas ativas, manter consciência do tráfego ao redor e seguir as instruções dos controladores. Não é difícil, mas garante que cada piloto tenha um conhecimento mínimo das normas da rede.
 
@@ -89,4 +89,4 @@ Use **VATSpy** ou **SimAware** para ver onde os controladores estão ativos ante
 
 Por fim, não tenha receio de dizer ao controlador **«Sou novo no VATSIM.»** Não é sinal de fraqueza — é informação prática que permite a ele ajustar o ritmo e oferecer orientação adicional. Cada controlador na rede já foi iniciante um dia, e a comunidade apoia de forma massiva aqueles que estão dispostos a aprender.
 
-Bem-vindo à rede. O céu está esperando por você.
+Se ainda está começando na simulação de voo e quer se preparar antes de conectar à rede, recomendamos nosso [guia de iniciante em simulação de voo](/pt/blog/guia-iniciante-simulacao-voo). Bem-vindo à rede. O céu está esperando por você.

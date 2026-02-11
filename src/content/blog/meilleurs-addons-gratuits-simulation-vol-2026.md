@@ -6,13 +6,13 @@ pubDate: 'Feb 02 2026'
 heroImage: '../../assets/hero-free-addons.svg'
 ---
 
-L'écosystème de la simulation de vol a toujours prospéré grâce à la générosité de sa communauté. Si les développeurs payware continuent de repousser les limites avec des modules de niveau étude et des scènes en photogrammétrie, la scène freeware en 2026 offre une qualité qui aurait été impensable il y a cinq ans. Que vous voliez sur **MSFS 2024**, **X-Plane 12** ou **DCS World**, une bibliothèque extraordinaire d'addons gratuits attend de transformer votre expérience — à condition de savoir où chercher.
+L'écosystème de la simulation de vol a toujours prospéré grâce à la générosité de sa communauté. Si les développeurs payware continuent de repousser les limites avec des modules de niveau étude et des scènes en photogrammétrie, la scène freeware en 2026 offre une qualité qui aurait été impensable il y a cinq ans. Que vous voliez sur **MSFS 2024**, **X-Plane 12** ou **DCS World**, une bibliothèque extraordinaire d'addons gratuits attend de transformer votre expérience — à condition de savoir où chercher. Pour un classement des incontournables, ne manquez pas notre [top 10 des addons gratuits pour la simulation](/fr/blog/top-10-addons-gratuits-simulation).
 
 ## Aéronefs Freeware : Une Qualité de Niveau Étude à Coût Zéro
 
 ### FlyByWire A32NX
 
-Le **FlyByWire A32NX** reste la référence absolue du développement freeware. Ce qui a commencé comme un mod d'amélioration communautaire de l'A320neo par défaut de MSFS est devenu une simulation quasi professionnelle de l'Airbus A320. La version de développement intègre désormais un système fly-by-wire entièrement personnalisé, un FMGS précis avec capacités LNAV/VNAV, une modélisation hydraulique réaliste et un EFB (Electronic Flight Bag) persistant avec des calculs de performance réels. Si vous pilotez des avions de ligne sous MSFS sans avoir installé l'A32NX, vous passez à côté d'un niveau de réalisme considérable.
+Le **FlyByWire A32NX** reste la référence absolue du développement freeware. Ce qui a commencé comme un mod d'amélioration communautaire de l'A320neo par défaut de MSFS est devenu une simulation quasi professionnelle de l'Airbus A320. La version de développement intègre désormais un système fly-by-wire entièrement personnalisé, un FMGS précis avec capacités LNAV/VNAV, une modélisation hydraulique réaliste et un EFB (Electronic Flight Bag) persistant avec des calculs de performance réels. Si vous pilotez des avions de ligne sous MSFS sans avoir installé l'A32NX, vous passez à côté d'un niveau de réalisme considérable. Pour bien configurer votre simulateur avec ces addons, consultez notre [guide du débutant en simulation de vol](/fr/blog/guide-debutant-simulation-vol).
 
 ### Zibo 737-800
 
@@ -70,4 +70,4 @@ Savoir où chercher, c'est déjà la moitié du travail. Voici les dépôts esse
 
 ## Réflexions Finales
 
-La communauté freeware de simulation de vol en 2026 offre un niveau de qualité qui brouille constamment la frontière entre produits gratuits et payants. Des aéronefs de niveau étude comme le FlyByWire A32NX et le Zibo 737, en passant par des milliers de packages de scènes, jusqu'aux outils utilitaires sophistiqués — il n'y a jamais eu de meilleur moment pour enrichir votre simulateur sans ouvrir votre portefeuille. La clé est de savoir où chercher, d'être prêt à expérimenter et de contribuer en retour à la communauté qui rend tout cela possible.
+La communauté freeware de simulation de vol en 2026 offre un niveau de qualité qui brouille constamment la frontière entre produits gratuits et payants. Des aéronefs de niveau étude comme le FlyByWire A32NX et le Zibo 737, en passant par des milliers de packages de scènes, jusqu'aux outils utilitaires sophistiqués — il n'y a jamais eu de meilleur moment pour enrichir votre simulateur sans ouvrir votre portefeuille. La clé est de savoir où chercher, d'être prêt à expérimenter et de contribuer en retour à la communauté qui rend tout cela possible. Si vous cherchez à embellir votre monde virtuel, consultez aussi nos recommandations des [meilleures scènes et addons de décors pour la simulation](/fr/blog/meilleures-scenes-addons-simulation-vol-2026).

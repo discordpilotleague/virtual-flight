@@ -100,6 +100,8 @@ Das integrierte Jahreszeitensystem von MSFS 2024 ist das fortschrittlichste alle
 
 ## Performance-Auswirkungen von Scenery-Add-ons
 
+Wer seine Szenerie in Virtual Reality erleben möchte, findet in unserem [kompletten VR-Flugsimulations-Guide](/de/blog/vr-flugsimulation-kompletter-guide) wichtige Hinweise zur Grafikoptimierung.
+
 Scenery-Add-ons beanspruchen drei Hauptressourcen: **VRAM** (für Texturen), **RAM** (für Mesh- und Objektdaten) und **CPU** (für Draw-Calls und Objektplatzierung).
 
 ### VRAM-Budget
@@ -123,7 +125,7 @@ Die Freeware-Scenery-Community ist im Jahr 2026 außerordentlich produktiv. Plat
 
 ### Wann Freeware ausreicht
 
-Für Flughäfen, die man gelegentlich anfliegt, ist Freeware-Scenery oft völlig ausreichend. Viele Community-Entwickler produzieren Arbeit, die kommerzieller Qualität ebenbürtig ist — besonders bei kleineren Regionalflughäfen, die Payware-Entwickler auslassen. Die **Flightsim.to**-Community hat kostenlose Versionen Hunderter Flughäfen weltweit erstellt, die individuelle Gebäude, genaue Layouts und saisonale Variationen enthalten.
+Für Flughäfen, die man gelegentlich anfliegt, ist Freeware-Scenery oft völlig ausreichend. Viele Community-Entwickler produzieren Arbeit, die kommerzieller Qualität ebenbürtig ist — besonders bei kleineren Regionalflughäfen, die Payware-Entwickler auslassen. Eine kuratierte Auswahl der besten Freeware-Erweiterungen finden Sie in unserer [Top 10 der kostenlosen Flugsim-Addons](/de/blog/top-10-kostenlose-addons-flugsim). Die **Flightsim.to**-Community hat kostenlose Versionen Hunderter Flughäfen weltweit erstellt, die individuelle Gebäude, genaue Layouts und saisonale Variationen enthalten.
 
 ### Wann Payware sich lohnt
 
@@ -161,4 +163,4 @@ Vor größeren Simulator-Updates sollten Sie Ihren Community-Ordner (MSFS) oder 
 
 Die Scenery-Landschaft entwickelt sich rasant weiter. KI-gestützte 3D-Modellierung beschleunigt die Erstellung detaillierter Flughafenterminals. Cloud-gestreamte Photogrammetrie verbessert sich weiter in Auflösung und Abdeckung. Prozedurale Generierungsalgorithmen erzeugen zunehmend überzeugende urbane Umgebungen allein aus Kartendaten. Die Kluft zwischen Standard-Scenery und Add-ons verringert sich — doch Add-ons verschieben weiterhin die Grenzen des Möglichen und stellen sicher, dass es immer ein lohnenswertes Upgrade für Piloten gibt, die die realistischste virtuelle Welt unter ihren Tragflächen wünschen.
 
-Die Investition in Scenery verwandelt die Flugsimulation von einer technischen Übung in ein wahrhaft immersives Erlebnis. Beginnen Sie mit den Flughäfen, die Sie am häufigsten anfliegen, ergänzen Sie Terrain und Ortho für Ihre bevorzugten VFR-Regionen, und bauen Sie von dort aus weiter auf. Die virtuelle Welt sah noch nie besser aus.
+Die Investition in Scenery verwandelt die Flugsimulation von einer technischen Übung in ein wahrhaft immersives Erlebnis. Beginnen Sie mit den Flughäfen, die Sie am häufigsten anfliegen, ergänzen Sie Terrain und Ortho für Ihre bevorzugten VFR-Regionen, und bauen Sie von dort aus weiter auf. Detaillierte Tipps zur Hardware- und Software-Konfiguration finden Sie in unserem [Flugsimulator-Einrichtungsleitfaden](/de/blog/flugsimulator-einrichtung-leitfaden). Die virtuelle Welt sah noch nie besser aus.

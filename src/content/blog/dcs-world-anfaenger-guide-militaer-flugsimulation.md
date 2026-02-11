@@ -8,7 +8,7 @@ heroImage: '../../assets/hero-dcs-world.svg'
 
 DCS World ist der detaillierteste militärische Flugsimulator, der Zivilisten zur Verfügung steht, und der Download ist völlig kostenlos. Diese Kombination aus Tiefe und Zugänglichkeit macht es zu einer der lohnendsten — und gelegentlich überwältigendsten — Software, die Sie jemals installieren werden. Ob Sie von Luftkämpfen in einer F-16C träumen, taktischem Hubschrauberflug durch Gebirgstäler oder Präzisionsangriffen aus einer A-10C — DCS ist der Ort, an dem ernsthafte militärische Flugsimulation stattfindet.
 
-Dieser Guide begleitet Sie von der Installation bis zu Ihrem ersten erfolgreichen Einsatz.
+Dieser Guide begleitet Sie von der Installation bis zu Ihrem ersten erfolgreichen Einsatz. Wenn Sie generell neu in der Welt der Flugsimulation sind, empfehlen wir als Einstieg unseren [Anfänger-Guide zur Flugsimulation](/de/blog/anfaenger-guide-flugsimulation).
 
 ## Was ist DCS World genau?
 
@@ -20,7 +20,7 @@ DCS simuliert den Kaukasus, den Persischen Golf, Syrien, den Südatlantik, den S
 
 ## Kostenlos vs. Kostenpflichtig: Was Sie ohne einen Cent bekommen
 
-DCS World wird mit zwei kostenlosen Flugzeugen ausgeliefert, die echte Kampfmaschinen sind — keine abgespeckten Demos.
+DCS World wird mit zwei kostenlosen Flugzeugen ausgeliefert, die echte Kampfmaschinen sind — keine abgespeckten Demos. Weitere kostenlose Erweiterungen für alle Simulatoren finden Sie in unserer [Top 10 der kostenlosen Flugsim-Addons](/de/blog/top-10-kostenlose-addons-flugsim).
 
 ### Su-25T Frogfoot
 
@@ -63,7 +63,7 @@ DCS World unterstützt praktisch jedes Eingabegerät, aber die korrekte Konfigur
 
 ### Minimale Steuerungskonfiguration
 
-Mindestens benötigen Sie einen Joystick mit einer Schubachse. Ein HOTAS-System wird dringend empfohlen. Wenn Sie mit einem Basis-Joystick wie dem Logitech 3D Pro oder Thrustmaster T.16000M starten, belegen Sie sofort:
+Mindestens benötigen Sie einen Joystick mit einer Schubachse. Ein HOTAS-System wird dringend empfohlen — einen ausführlichen Kaufratgeber finden Sie in unserem Artikel zu den [besten HOTAS und Flugcontrollern 2026](/de/blog/beste-hotas-flugcontroller-2026). Wenn Sie mit einem Basis-Joystick wie dem Logitech 3D Pro oder Thrustmaster T.16000M starten, belegen Sie sofort:
 
 - **Nicken und Rollen** — Joystick X- und Y-Achse
 - **Gieren** — Joystick-Drehung (oder Pedale, falls vorhanden)

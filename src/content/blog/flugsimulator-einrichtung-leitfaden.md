@@ -6,7 +6,7 @@ pubDate: 'Feb 10 2026'
 heroImage: '../../assets/hero-hardware-setup.svg'
 ---
 
-Die **Flight Simulation** hat ein Realismus-Niveau erreicht, das vor fünf Jahren noch undenkbar schien. Doch dieser Realismus entfaltet sich nicht von selbst: Er erfordert eine sorgfältige Konfiguration — sowohl auf der Hardware- als auch auf der Software-Seite. Hier ist der Leitfaden, den jeder ernsthafte virtuelle Pilot braucht.
+Die **Flight Simulation** hat ein Realismus-Niveau erreicht, das vor fünf Jahren noch undenkbar schien. Doch dieser Realismus entfaltet sich nicht von selbst: Er erfordert eine sorgfältige Konfiguration — sowohl auf der Hardware- als auch auf der Software-Seite. Hier ist der Leitfaden, den jeder ernsthafte virtuelle Pilot braucht. Wenn Sie gerade erst mit der Flugsimulation beginnen, empfehle ich zunächst unseren [Anfänger-Guide zur Flugsimulation](/de/blog/anfaenger-guide-flugsimulation).
 
 ## Hardware-Kalibrierung: Das Fundament realistischen Fliegens
 
@@ -14,7 +14,7 @@ Ein schlecht kalibriertes virtuelles Cockpit ist wie ein falsch getrimmtes Flugz
 
 ### Joystick-Empfindlichkeitskurven
 
-Die meisten HOTAS-Systeme werden mit linearer Ansprache ausgeliefert, was selten optimal ist. Für die Allgemeine Luftfahrt in MSFS 2024 empfehle ich eine Empfindlichkeit von etwa -35% bei Pitch und Roll, um eine breitere Präzisionszone um die Mittelstellung zu erhalten. Bei DCS-Modulen wie der F-16C oder der Ka-50 sollten Sie auf -20% reduzieren — diese Flugzeuge haben direktere Steuerungen und Sie benötigen die volle Autorität an den Extremen.
+Die meisten HOTAS-Systeme werden mit linearer Ansprache ausgeliefert, was selten optimal ist. Einen detaillierten Vergleich der aktuell besten Systeme finden Sie in unserem [HOTAS- und Flugcontroller-Ratgeber 2026](/de/blog/beste-hotas-flugcontroller-2026). Für die Allgemeine Luftfahrt in MSFS 2024 empfehle ich eine Empfindlichkeit von etwa -35% bei Pitch und Roll, um eine breitere Präzisionszone um die Mittelstellung zu erhalten. Bei DCS-Modulen wie der F-16C oder der Ka-50 sollten Sie auf -20% reduzieren — diese Flugzeuge haben direktere Steuerungen und Sie benötigen die volle Autorität an den Extremen.
 
 ### Ruderpedale und Differentialbremsen
 
@@ -62,6 +62,7 @@ VATSIM und IVAO bieten die realistischste ATC-Erfahrung. Wettbewerbsevents — z
 
 ## Empfohlene Ressourcen
 
+- **[Top 10 kostenlose Addons für Flugsimulation](/de/blog/top-10-kostenlose-addons-flugsim)** — Unsere handverlesene Liste der besten Freeware-Erweiterungen
 - **Offizielle MSFS 2024 Dokumentation** — Pflichtlektüre zum Verständnis des neuen Aerodynamikmodells
 - **X-Plane 12 Wissensdatenbank** — Detaillierte technische Artikel zu Rendering und Physik
 - **DCS Handbuch-Bibliothek** — Modulspezifische Setup-Guides für jedes Flugzeug

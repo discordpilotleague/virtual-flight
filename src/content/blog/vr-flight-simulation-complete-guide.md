@@ -42,7 +42,7 @@ For flight simulation, the Crystal's standout feature is its local dimming, whic
 
 The Varjo Aero occupies the top tier of consumer VR for flight simulation. Its dual mini-LED displays deliver 2880 x 2720 per eye with exceptional brightness and contrast. The aspheric lenses are designed with minimal distortion, producing a sweet spot that covers roughly 30 degrees — the largest of any headset discussed here.
 
-What sets the Aero apart is its optical precision. Instrument text is crisp enough that you can read ATIS reports and SID/STAR charts without leaning forward. The color accuracy is reference-grade, which transforms scenery in MSFS 2024 and weather systems in X-Plane 12 into genuinely beautiful vistas. If you have ever struggled to identify terrain features or read taxiway signs through VR, the Aero will change your expectations.
+What sets the Aero apart is its optical precision. Instrument text is crisp enough that you can read ATIS reports and SID/STAR charts without leaning forward. The color accuracy is reference-grade, which transforms [scenery in MSFS 2024](/blog/best-scenery-addons-flight-simulation-2026) and weather systems in X-Plane 12 into genuinely beautiful vistas. If you have ever struggled to identify terrain features or read taxiway signs through VR, the Aero will change your expectations.
 
 **Key considerations:** The Varjo Aero requires a high-end GPU — an RTX 4080 or higher is recommended. At native resolution, you are pushing over 15 million pixels per frame, and flight simulators are already among the most demanding rendering workloads. The headset uses SteamVR tracking with external base stations (sold separately), which adds setup complexity but delivers rock-solid positional tracking with zero drift. Pricing positions this firmly in the enthusiast category.
 
@@ -147,7 +147,7 @@ Motion sickness in VR occurs when your visual system reports movement that your 
 
 For MSFS 2024 and X-Plane 12, VR hand controllers allow you to interact with cockpit switches, knobs, and buttons by reaching out and manipulating them directly. This is transformative for situational awareness since you never need to look away from outside the window to find a mouse cursor.
 
-However, most serious VR flight simmers use controllers only for cockpit interaction while keeping a HOTAS for primary flight controls. The haptic feedback and physical resistance of a real joystick and throttle quadrant cannot be replicated by holding a plastic wand in space.
+However, most serious VR flight simmers use controllers only for cockpit interaction while keeping a HOTAS for primary flight controls. Our [joystick and yoke hardware review](/blog/hardware-review-joystick-yoke) covers which controllers pair best with VR headsets. The haptic feedback and physical resistance of a real joystick and throttle quadrant cannot be replicated by holding a plastic wand in space.
 
 In DCS, the native VR hand interaction is less mature. Many DCS pilots prefer mouse-based cockpit interaction even in VR, using the mouse with the headset on and clicking cockpit switches through the VR view.
 
@@ -188,7 +188,7 @@ Eye-tracked foveated rendering, available on the Pimax Crystal and Varjo Aero, t
 
 ## Putting It All Together
 
-The ideal VR flight simulation setup in 2026 looks something like this: a high-resolution headset matched to your budget and GPU capability, a HOTAS system for flight controls with VR hand controllers available for cockpit interaction, graphics settings deliberately tuned per-simulator rather than left on default, and reprojection enabled and targeted at a stable half-refresh-rate frame rate.
+The ideal VR flight simulation setup in 2026 looks something like this: a high-resolution headset matched to your budget and GPU capability, a HOTAS system for flight controls with VR hand controllers available for cockpit interaction, graphics settings deliberately tuned per-simulator rather than left on default -- our [flight simulator setup guide](/blog/flight-simulator-setup-guide) covers the non-VR side of this configuration, and reprojection enabled and targeted at a stable half-refresh-rate frame rate.
 
 Start conservatively with lower settings and verify frame time consistency before chasing visual quality. A smooth, comfortable experience at medium settings will keep you flying for hours. A beautiful but stuttery experience at ultra settings will have you reaching for the headset removal within twenty minutes.
 

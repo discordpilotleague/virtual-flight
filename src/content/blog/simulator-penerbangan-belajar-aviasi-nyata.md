@@ -16,7 +16,7 @@ Di Indonesia, **Direktorat Jenderal Perhubungan Udara (DJPU)** mengatur sertifik
 
 Dalam kerangka **FAA** Amerika Serikat, Aviation Training Device (ATD) terbagi menjadi Basic ATD (BATD) dan Advanced ATD (AATD). Berdasarkan 14 CFR 61.51, pilot dapat mencatat hingga 10 jam pelatihan instrumen di BATD dan hingga 20 jam di AATD untuk instrument rating.
 
-Simulator rumahan Anda — MSFS 2024, X-Plane 12, atau DCS World — tidak termasuk dalam kategori resmi manapun. Namun, dan ini adalah poin krusialnya, **keterampilan prosedural yang Anda kembangkan di simulator rumahan langsung dapat ditransfer ke kokpit nyata**, meskipun jamnya tidak tercatat di logbook penerbangan Anda.
+Simulator rumahan Anda — MSFS 2024, X-Plane 12, atau DCS World — tidak termasuk dalam kategori resmi manapun. Namun, dan ini adalah poin krusialnya, **keterampilan prosedural yang Anda kembangkan di simulator rumahan langsung dapat ditransfer ke kokpit nyata**, meskipun jamnya tidak tercatat di logbook penerbangan Anda. Jika Anda baru memulai, [panduan pemula simulasi penerbangan](/id/blog/panduan-pemula-simulasi-penerbangan-2026) akan membantu Anda memilih platform dan memahami dasar-dasarnya.
 
 ## Simulator Sebagai Alat Latihan Kognitif
 
@@ -44,7 +44,7 @@ SID (Standard Instrument Departure) dan STAR (Standard Terminal Arrival Route) a
 
 ## Navigasi dan Komunikasi Radio
 
-Platform seperti VATSIM dan IVAO menyediakan lingkungan di mana Anda melatih komunikasi ATC nyata dengan pengontrol manusia menggunakan fraseologi yang benar. Ini bernilai tak ternilai. Sumber kecemasan nomor satu bagi siswa pilot adalah radio, dan cara nomor satu untuk mengatasi kecemasan itu adalah latihan.
+Platform seperti VATSIM dan IVAO menyediakan lingkungan di mana Anda melatih komunikasi ATC nyata dengan pengontrol manusia menggunakan fraseologi yang benar. Untuk memahami perbedaan antara jaringan-jaringan ini, baca [perbandingan jaringan terbang online](/id/blog/perbandingan-jaringan-terbang-online) kami. Ini bernilai tak ternilai. Sumber kecemasan nomor satu bagi siswa pilot adalah radio, dan cara nomor satu untuk mengatasi kecemasan itu adalah latihan.
 
 Di VATSIM atau IVAO, Anda akan meminta clearance, membaca kembali instruksi, membuat laporan posisi, dan menangani seluruh spektrum interaksi dengan ATC. Anda akan membuat kesalahan di lingkungan tanpa konsekuensi, dan ketika Anda menekan tombol PTT di pesawat nyata, kata-kata akan mengalir secara alami.
 
@@ -137,4 +137,4 @@ Untuk memaksimalkan nilai pelatihan dari waktu simulator Anda:
 
 5. **Gabungkan teori dan praktik.** Kombinasikan sesi simulator dengan studi teori. Setelah membaca tentang navigasi VOR, pergi terbangkan pendekatan VOR. Setelah mempelajari meteorologi, latih terbang dalam IMC simulasi. Kombinasi pengetahuan teoretis dan aplikasi praktis mempercepat pembelajaran secara dramatis.
 
-Simulator penerbangan tidak akan pernah menggantikan pesawat. Tetapi jika digunakan dengan cerdas, ini adalah salah satu alat pelatihan pelengkap paling kuat yang tersedia untuk pilot di setiap tahap karier mereka. Regulasi mengakuinya, instruktur merekomendasikannya, dan matematika pengurangan biaya pelatihan membuat investasinya meyakinkan. Jika Anda serius ingin belajar terbang — atau mempertahankan dan meningkatkan keterampilan yang sudah Anda miliki — simulator layak mendapat tempat terstruktur dalam rencana pelatihan Anda.
+Simulator penerbangan tidak akan pernah menggantikan pesawat. Tetapi jika digunakan dengan cerdas — termasuk dengan mengelola [logbook dan karier pilot virtual](/id/blog/karier-pilot-virtual-logbook) untuk melacak perkembangan Anda — ini adalah salah satu alat pelatihan pelengkap paling kuat yang tersedia untuk pilot di setiap tahap karier mereka. Regulasi mengakuinya, instruktur merekomendasikannya, dan matematika pengurangan biaya pelatihan membuat investasinya meyakinkan. Jika Anda serius ingin belajar terbang — atau mempertahankan dan meningkatkan keterampilan yang sudah Anda miliki — simulator layak mendapat tempat terstruktur dalam rencana pelatihan Anda.

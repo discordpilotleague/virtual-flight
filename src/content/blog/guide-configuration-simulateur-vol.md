@@ -6,7 +6,7 @@ pubDate: 'Feb 10 2026'
 heroImage: '../../assets/hero-instruments-panel.svg'
 ---
 
-La **flight simulation** a atteint un niveau de réalisme qui aurait semblé impensable il y a cinq ans. Mais ce réalisme ne se débloque pas tout seul : il exige une configuration méticuleuse, tant côté matériel que logiciel. Voici le guide que j'aurais aimé avoir quand j'ai commencé à prendre la simulation au sérieux.
+La **flight simulation** a atteint un niveau de réalisme qui aurait semblé impensable il y a cinq ans. Mais ce réalisme ne se débloque pas tout seul : il exige une configuration méticuleuse, tant côté matériel que logiciel. Voici le guide que j'aurais aimé avoir quand j'ai commencé à prendre la simulation au sérieux. Si vous débutez, consultez d'abord notre [guide du débutant en simulation de vol](/fr/blog/guide-debutant-simulation-vol) pour poser les bases.
 
 ## Calibration matérielle : poser les bases d'un vol réaliste
 
@@ -14,7 +14,7 @@ Un cockpit virtuel mal calibré, c'est comme un avion mal centré — vous passe
 
 ### Courbes de sensibilité du joystick
 
-La plupart des HOTAS arrivent avec une réponse linéaire. En aviation générale sur MSFS 2024, réglez la sensibilité à environ -35 % sur le tangage et le roulis pour obtenir une plage de précision plus large autour du neutre. Sur DCS, notamment sur les modules F/A-18C ou Mirage 2000, réduisez à -20 % — ces appareils ont des commandes plus directes et vous avez besoin de toute l'autorité aux extrêmes.
+La plupart des [HOTAS](/fr/blog/meilleurs-hotas-controleurs-vol-2026) arrivent avec une réponse linéaire. En aviation générale sur MSFS 2024, réglez la sensibilité à environ -35 % sur le tangage et le roulis pour obtenir une plage de précision plus large autour du neutre. Sur DCS, notamment sur les modules F/A-18C ou Mirage 2000, réduisez à -20 % — ces appareils ont des commandes plus directes et vous avez besoin de toute l'autorité aux extrêmes.
 
 ### Palonniers et freins différentiels
 
@@ -42,7 +42,7 @@ Un **logbook** bien tenu n'est pas un gadget — c'est la colonne vertébrale de
 
 ### Détection automatique des vols
 
-Le logbook intégré de MSFS 2024 capture le départ, l'arrivée, le temps de vol et le type d'appareil automatiquement. Cependant, il manque des détails essentiels pour le suivi de **pilot career** : types d'approche, conditions météo, performances à l'atterrissage. Des outils tiers comme Volanta ou SimToolkitPro comblent ce vide en enregistrant la vitesse verticale au toucher, les G encaissés et la précision ILS.
+Le logbook intégré de MSFS 2024 capture le départ, l'arrivée, le temps de vol et le type d'appareil automatiquement. Cependant, il manque des détails essentiels pour le suivi de **pilot career** : types d'approche, conditions météo, performances à l'atterrissage. Des outils tiers comme Volanta ou SimToolkitPro — dont certains figurent parmi les [meilleurs addons gratuits pour la simulation](/fr/blog/top-10-addons-gratuits-simulation) — comblent ce vide en enregistrant la vitesse verticale au toucher, les G encaissés et la précision ILS.
 
 ### Consolidation multi-plateformes
 

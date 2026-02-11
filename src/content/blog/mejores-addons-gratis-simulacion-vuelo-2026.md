@@ -6,7 +6,7 @@ pubDate: 'Feb 02 2026'
 heroImage: '../../assets/hero-free-addons.svg'
 ---
 
-El ecosistema de la simulación de vuelo siempre ha prosperado gracias a la generosidad de su comunidad. Mientras los desarrolladores de payware siguen elevando el listón con módulos de nivel estudio y escenarios en fotogrametría, la escena freeware en 2026 ofrece una calidad que habría sido impensable hace cinco años. Ya sea que vueles en **MSFS 2024**, **X-Plane 12** o **DCS World**, existe una biblioteca extraordinaria de addons gratuitos esperando para transformar tu experiencia — si sabes dónde buscar.
+El ecosistema de la simulación de vuelo siempre ha prosperado gracias a la generosidad de su comunidad. Mientras los desarrolladores de payware siguen elevando el listón con módulos de nivel estudio y escenarios en fotogrametría, la escena freeware en 2026 ofrece una calidad que habría sido impensable hace cinco años. Ya sea que vueles en **MSFS 2024**, **X-Plane 12** o **DCS World**, existe una biblioteca extraordinaria de addons gratuitos esperando para transformar tu experiencia — si sabes dónde buscar. Si acabas de empezar en este mundo, te recomendamos primero nuestra [guía para principiantes en simulación de vuelo](/es/blog/guia-principiante-simulacion-vuelo) para establecer una base sólida.
 
 ## Aeronaves Freeware: Calidad de Nivel Estudio a Coste Cero
 
@@ -62,6 +62,7 @@ El audio se pasa por alto con frecuencia, pero contribuye enormemente a la inmer
 
 Saber dónde buscar es la mitad de la batalla. Estos son los repositorios esenciales que todo simmer debería tener en favoritos:
 
+- [Nuestra selección de los 10 mejores addons gratuitos imprescindibles](/es/blog/top-10-addons-gratis-simulacion) — Ranking con los mejores freeware para cada simulador
 - **[flightsim.to](https://flightsim.to)** — El mayor repositorio freeware para MSFS 2024, con libreas, aeropuertos, mods de aeronaves y utilidades
 - **[x-plane.org](https://x-plane.org)** — El hub central para freeware de X-Plane, incluyendo el programa Gateway y foros
 - **[DCS User Files](https://www.digitalcombatsimulator.com/en/files/)** — Repositorio oficial para mods comunitarios de DCS, libreas, misiones y campañas
@@ -70,4 +71,4 @@ Saber dónde buscar es la mitad de la batalla. Estos son los repositorios esenci
 
 ## Reflexiones Finales
 
-La comunidad freeware de simulación de vuelo en 2026 está ofreciendo un nivel que difumina constantemente la línea entre productos gratuitos y de pago. Desde aeronaves de nivel estudio como el FlyByWire A32NX y el Zibo 737, pasando por miles de paquetes de escenarios, hasta herramientas de utilidad sofisticadas — nunca ha habido un mejor momento para mejorar tu simulador sin abrir la cartera. La clave es saber dónde buscar, estar dispuesto a experimentar y devolver algo a la comunidad que hace todo esto posible.
+Para una selección complementaria enfocada específicamente en aeropuertos y terreno, no te pierdas nuestra guía de [los mejores escenarios y addons de escenarios para simulación de vuelo en 2026](/es/blog/mejores-escenarios-addons-simulacion-vuelo-2026). La comunidad freeware de simulación de vuelo en 2026 está ofreciendo un nivel que difumina constantemente la línea entre productos gratuitos y de pago. Desde aeronaves de nivel estudio como el FlyByWire A32NX y el Zibo 737, pasando por miles de paquetes de escenarios, hasta herramientas de utilidad sofisticadas — nunca ha habido un mejor momento para mejorar tu simulador sin abrir la cartera. La clave es saber dónde buscar, estar dispuesto a experimentar y devolver algo a la comunidad que hace todo esto posible.

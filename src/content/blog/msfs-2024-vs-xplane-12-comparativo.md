@@ -6,7 +6,7 @@ pubDate: 'Feb 04 2026'
 heroImage: '../../assets/hero-msfs-vs-xplane.svg'
 ---
 
-A simulação de voo nunca esteve tão rica. Dois gigantes — **Microsoft Flight Simulator 2024** e **X-Plane 12** — disputam a atenção de pilotos virtuais ao redor do mundo, e cada plataforma traz pontos fortes genuinamente convincentes. Se você está decidindo onde investir seu tempo e dinheiro, este comparativo completo vai dar a clareza que você precisa.
+A simulação de voo nunca esteve tão rica. Dois gigantes — **Microsoft Flight Simulator 2024** e **X-Plane 12** — disputam a atenção de pilotos virtuais ao redor do mundo, e cada plataforma traz pontos fortes genuinamente convincentes. Se você está decidindo onde investir seu tempo e dinheiro, este comparativo completo vai dar a clareza que você precisa. Se é novo na simulação de voo, comece pelo nosso [guia de iniciante em simulação de voo](/pt/blog/guia-iniciante-simulacao-voo) para entender os fundamentos.
 
 ## Gráficos e Visual
 
@@ -54,7 +54,7 @@ Para pilotos dedicados ao VR, X-Plane 12 oferece atualmente a experiência geral
 
 ## Requisitos de Desempenho
 
-**MSFS 2024** é notoriamente exigente. Para rodá-lo em configurações altas com desempenho fluido, você precisará de uma GPU moderna (RTX 4070 ou superior), 32 GB de RAM e armazenamento rápido. O simulador também requer conexão constante à internet para streaming de dados de cenário, o que pode ser um impeditivo para pilotos com largura de banda limitada.
+**MSFS 2024** é notoriamente exigente. Para rodá-lo em configurações altas com desempenho fluido, você precisará de uma GPU moderna (RTX 4070 ou superior), 32 GB de RAM e armazenamento rápido. Nosso [guia de configuração de simulador de voo](/pt/blog/guia-configuracao-simulador-voo) detalha os melhores ajustes de desempenho para cada plataforma. O simulador também requer conexão constante à internet para streaming de dados de cenário, o que pode ser um impeditivo para pilotos com largura de banda limitada.
 
 **X-Plane 12** roda bem em hardware mais modesto e não depende de streaming de dados. Uma RTX 3060 com 16 GB de RAM entregará uma experiência sólida em configurações médio-altas. Todos os dados de cenário são armazenados localmente, tornando-o totalmente funcional offline.
 
@@ -72,7 +72,7 @@ Para pilotos dedicados ao VR, X-Plane 12 oferece atualmente a experiência geral
 
 ## Comunidade de Modding
 
-Ambas as plataformas possuem comunidades de modding apaixonadas. MSFS se beneficia do tamanho imenso de sua base de usuários, o que se traduz em um volume massivo de freeware — cenários, pinturas, utilitários — em sites como **flightsim.to**. A comunidade do X-Plane, menor porém profundamente técnica, conta com suporte extensivo a plugins via **XPUIPC** e **FlyWithLua**, além de uma tradição de desenvolvimento aberto que a Laminar Research incentiva ativamente.
+Ambas as plataformas possuem comunidades de modding apaixonadas. MSFS se beneficia do tamanho imenso de sua base de usuários, o que se traduz em um volume massivo de freeware — cenários, pinturas, utilitários — em sites como **flightsim.to**. Confira nosso [top 10 addons gratuitos para simulação](/pt/blog/top-10-addons-gratuitos-simulacao) para os melhores complementos freeware disponíveis. A comunidade do X-Plane, menor porém profundamente técnica, conta com suporte extensivo a plugins via **XPUIPC** e **FlyWithLua**, além de uma tradição de desenvolvimento aberto que a Laminar Research incentiva ativamente.
 
 ## Veredito: Qual Simulador É o Certo para Você?
 

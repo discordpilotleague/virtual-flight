@@ -8,7 +8,7 @@ heroImage: '../../assets/hero-dcs-world.svg'
 
 DCS World est le simulateur de combat aérien le plus abouti accessible au grand public, et il est entièrement gratuit au téléchargement. Cette combinaison de profondeur et d'accessibilité en fait l'un des logiciels les plus enrichissants — et parfois les plus déconcertants — que vous installerez jamais. Que vous rêviez de combats aériens en F-16C, de vol tactique en hélicoptère au ras des montagnes, ou de frappes de précision depuis un A-10C, DCS est la référence incontournable de la simulation militaire.
 
-Ce guide vous accompagne de la première installation jusqu'à votre première sortie réussie.
+Ce guide vous accompagne de la première installation jusqu'à votre première sortie réussie. Si vous êtes nouveau dans la simulation de vol en général, commencez par notre [guide du débutant en simulation de vol](/fr/blog/guide-debutant-simulation-vol) pour acquérir les fondamentaux.
 
 ## Qu'est-ce que DCS World ?
 
@@ -20,7 +20,7 @@ DCS simule le Caucase, le Golfe Persique, la Syrie, l'Atlantique Sud, le Sinaï 
 
 ## Gratuit vs Payant : ce que vous obtenez sans dépenser un centime
 
-DCS World inclut deux appareils gratuits qui sont de véritables machines de combat, pas des démos bridées.
+DCS World inclut deux appareils gratuits qui sont de véritables machines de combat, pas des démos bridées. Vous trouverez d'autres options freeware remarquables dans notre sélection des [meilleurs addons gratuits pour la simulation](/fr/blog/top-10-addons-gratuits-simulation).
 
 ### Su-25T Frogfoot
 
@@ -63,7 +63,7 @@ DCS World supporte virtuellement tous les périphériques d'entrée, mais la con
 
 ### Configuration Minimale Viable
 
-Au strict minimum, vous avez besoin d'un joystick avec un axe de manette des gaz. Un système HOTAS est fortement recommandé. Si vous débutez avec un joystick basique comme le Logitech 3D Pro ou le Thrustmaster T.16000M, mappez immédiatement :
+Au strict minimum, vous avez besoin d'un joystick avec un axe de manette des gaz. Un système [HOTAS](/fr/blog/meilleurs-hotas-controleurs-vol-2026) est fortement recommandé. Si vous débutez avec un joystick basique comme le Logitech 3D Pro ou le Thrustmaster T.16000M, mappez immédiatement :
 
 - **Tangage et roulis** — axes X et Y du joystick
 - **Lacet** — rotation du joystick (ou palonnier si vous en avez un)

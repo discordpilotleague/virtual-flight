@@ -12,7 +12,7 @@ Si has dedicado cientos de horas volando solo en tu simulador y sientes que nece
 
 **VATSIM** es una red gratuita, gestionada por voluntarios, que superpone control de tráfico aéreo en vivo sobre tu simulador de vuelo. Cuando te conectas, tu aeronave se hace visible para todos los demás pilotos en la red, y te comunicas con controladores humanos que gestionan autorizaciones, salidas, aproximaciones y operaciones en tierra utilizando **fraseología** y procedimientos del mundo real. No es una capa de juego — es un entorno de simulación construido sobre la precisión y el realismo.
 
-La red es compatible con **MSFS 2024**, **X-Plane 12**, **Prepar3D** y otras plataformas principales. En cualquier momento encontrarás cientos de controladores activos cubriendo posiciones desde rodaje y torre hasta aproximación y control de ruta, especialmente en Europa, Norteamérica y cada vez más en Latinoamérica y Asia.
+Si quieres conocer las diferencias entre VATSIM, IVAO y otras opciones, consulta nuestra [comparativa de redes de vuelo online](/es/blog/comparativa-redes-vuelo-online). La red es compatible con **MSFS 2024**, **X-Plane 12**, **Prepar3D** y otras plataformas principales. En cualquier momento encontrarás cientos de controladores activos cubriendo posiciones desde rodaje y torre hasta aproximación y control de ruta, especialmente en Europa, Norteamérica y cada vez más en Latinoamérica y Asia.
 
 ## Registro: tu primer paso
 
@@ -83,10 +83,10 @@ VATSIM es una **comunidad construida sobre el respeto mutuo**. Los controladores
 
 ## Consejos para nuevos pilotos
 
-Después de miles de horas en la red, el consejo que doy a cada nuevo piloto es siempre el mismo: **prepara tu vuelo antes de conectarte.** Estudia tu procedimiento de salida, conoce tu altitud y rumbo iniciales, ten tus frecuencias anotadas y comprende el procedimiento de llegada a tu destino. Los pilotos que tienen dificultades en VATSIM son casi siempre los que se conectan sin un plan.
+Después de miles de horas en la red, el consejo que doy a cada nuevo piloto es siempre el mismo: **prepara tu vuelo antes de conectarte.** Estudia tu procedimiento de salida, conoce tu altitud y rumbo iniciales, ten tus frecuencias anotadas y comprende el procedimiento de llegada a tu destino. Los pilotos que tienen dificultades en VATSIM son casi siempre los que se conectan sin un plan. Registrar cada vuelo en un logbook te ayudará a medir tu progresión; descubre cómo en nuestra guía sobre [carrera de piloto virtual y gestión de logbook](/es/blog/carrera-piloto-virtual-logbook).
 
 Usa **VATSpy** o **SimAware** para ver dónde hay controladores activos antes de elegir tu ruta. Volar en espacio aéreo controlado es el objetivo, pero solo cuando estés preparado para ello. Escucha grabaciones de LiveATC o transmisiones de audio de VATSIM para familiarizarte con el ritmo y la cadencia de las comunicaciones reales.
 
-Finalmente, no tengas miedo de decirle al controlador **«Soy nuevo en VATSIM.»** No es un signo de debilidad — es información práctica que le permite ajustar su ritmo y ofrecerte más orientación. Cada controlador en la red fue principiante alguna vez, y la comunidad apoya de forma abrumadora a quienes están dispuestos a aprender.
+Finalmente, no tengas miedo de decirle al controlador **«Soy nuevo en VATSIM.»** No es un signo de debilidad — es información práctica que le permite ajustar su ritmo y ofrecerte más orientación. Cada controlador en la red fue principiante alguna vez, y la comunidad apoya de forma abrumadora a quienes están dispuestos a aprender. Si todavía estás dando tus primeros pasos en la simulación, nuestra [guía para principiantes en simulación de vuelo](/es/blog/guia-principiante-simulacion-vuelo) te ayudará a establecer una base sólida antes de lanzarte al vuelo en red.
 
 Bienvenido a la red. El cielo te espera.

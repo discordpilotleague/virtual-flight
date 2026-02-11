@@ -32,7 +32,7 @@ If precision engineering is your priority, the **VKB Gunfighter Mk.IV** is the s
 
 ## Yoke Recommendations for Civilian Flying
 
-If your primary simulators are **MSFS 2024** or **X-Plane 12** and you spend most of your time in Cessnas, Boeings, or Airbuses, a yoke is the more immersive and ergonomically correct choice.
+If your primary simulators are **MSFS 2024** or **X-Plane 12** and you spend most of your time in Cessnas, Boeings, or Airbuses, a yoke is the more immersive and ergonomically correct choice. For a deeper look at specific yoke and joystick models, see our dedicated [joystick and yoke hardware review](/blog/hardware-review-joystick-yoke). Japanese readers can find a detailed review at [ジョイスティック＆ヨーク徹底レビュー](/ja/blog/hardware-review-joystick-yoke-ja).
 
 ### Honeycomb Alpha Yoke
 
@@ -66,7 +66,7 @@ For a budget yoke, the **Logitech G Pro Flight Yoke** (around $150–$180) is fu
 
 ## How to Choose Based on Simulator Type
 
-Your choice of controller should be driven by what you fly, not by what looks impressive on a desk.
+Your choice of controller should be driven by what you fly, not by what looks impressive on a desk. Once you have picked your hardware, our [flight simulator setup guide](/blog/flight-simulator-setup-guide) (Japanese: [フライトシミュレーター設定ガイド](/ja/blog/flight-simulator-settei-gaido)) walks you through calibration and software configuration.
 
 ### Military / DCS World / IL-2
 
@@ -88,4 +88,4 @@ The Honeycomb Bravo throttle is essential here. For the yoke-vs-sidestick questi
 4. **Build material**: Metal construction lasts longer and feels better, but quality plastic (like the VKB NXT EVO) can be excellent at lower price points.
 5. **Upgrade path**: Choose an ecosystem you can grow into. VKB and Virpil both allow you to swap grips and bases as your needs evolve.
 
-The flight sim hardware market in 2026 is the best it has ever been. Whether you are spending $120 on a VKB Gladiator or $1,200 on a full Virpil cockpit, there are genuinely excellent options at every price tier. Buy for what you fly, prioritize sensor quality and gimbal feel, and your hardware will serve you well for years to come.
+The flight sim hardware market in 2026 is the best it has ever been. Whether you are spending $120 on a VKB Gladiator or $1,200 on a full Virpil cockpit -- or even [building a home cockpit on a budget](/blog/building-home-cockpit-budget-guide) (Japanese: [ホームコックピット自作ガイド](/ja/blog/home-cockpit-jisaku-yosan-guide)) -- there are genuinely excellent options at every price tier. Buy for what you fly, prioritize sensor quality and gimbal feel, and your hardware will serve you well for years to come.

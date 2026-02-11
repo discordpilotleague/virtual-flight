@@ -62,7 +62,7 @@ A reprojeção (também chamada ASW em termos Oculus, ou Motion Smoothing no Ste
 
 O resultado é que rodar a um sólido 45 FPS parece e se sente muito próximo de 90 FPS nativos para rotações de cabeça. Objetos em movimento rápido na sua visão periférica podem mostrar artefatos menores, mas numa cabine de simulador de voo, isso raramente é perceptível.
 
-**Para MSFS 2024:** Ative a reprojeção de movimento OpenXR e trave sua taxa de quadros na metade da taxa de atualização do headset. Nas ferramentas de desenvolvedor OpenXR, configure o alvo de reprojeção a 50 % da taxa nativa do headset. Desative V-Sync completamente no jogo.
+**Para MSFS 2024:** Consulte também nosso [guia de configuração de simulador de voo](/pt/blog/guia-configuracao-simulador-voo) para otimizações adicionais. Ative a reprojeção de movimento OpenXR e trave sua taxa de quadros na metade da taxa de atualização do headset. Nas ferramentas de desenvolvedor OpenXR, configure o alvo de reprojeção a 50 % da taxa nativa do headset. Desative V-Sync completamente no jogo.
 
 **Para X-Plane 12:** Use o Motion Smoothing do SteamVR configurado como "Sempre Ativo" em vez de "Auto". A consistência dos tempos de quadro do X-Plane é menos constante que a do MSFS, e a detecção automática pode causar transições bruscas entre quadros nativos e reprojetados.
 
@@ -141,7 +141,7 @@ O enjoo em VR ocorre quando seu sistema visual reporta movimento que seu sistema
 
 Para MSFS 2024 e X-Plane 12, os controladores de mão VR permitem interagir com interruptores, botões e knobs da cabine estendendo a mão e manipulando-os diretamente. Isso é transformador para consciência situacional já que você nunca precisa desviar o olhar do exterior para procurar um cursor de mouse.
 
-Entretanto, a maioria dos simmers VR sérios usa controladores apenas para interação com a cabine enquanto mantém um HOTAS para controles de voo primários. O feedback háptico e a resistência física de um joystick real e quadrante de manetes não podem ser replicados segurando uma varinha de plástico no ar.
+Entretanto, a maioria dos simmers VR sérios usa controladores apenas para interação com a cabine enquanto mantém um HOTAS para controles de voo primários. Para escolher o periférico ideal para VR, veja nosso [guia de teste de hardware para joystick e yoke](/pt/blog/teste-hardware-joystick-yoke). O feedback háptico e a resistência física de um joystick real e quadrante de manetes não podem ser replicados segurando uma varinha de plástico no ar.
 
 ### Acessórios Essenciais
 
@@ -173,4 +173,4 @@ A configuração ideal de simulação de voo VR em 2026 se resume a: um headset 
 
 Comece conservadoramente com configurações mais baixas e verifique a consistência dos tempos de quadro antes de perseguir qualidade visual. Uma experiência fluida e confortável em configurações médias manterá você voando por horas. Uma experiência bonita mas engasgada em configurações ultra fará você alcançar o headset para removê-lo em vinte minutos.
 
-A simulação de voo em VR representa a forma mais imersiva de experimentar os céus virtuais disponível para usuários domésticos hoje. O esforço de configuração inicial é real, mas uma vez ajustado, a profundidade da imersão simplesmente não tem rival. Bem-vindo à cabine.
+Para cenários que brilham especialmente em VR, confira nosso [guia dos melhores addons de cenários para simulação de voo](/pt/blog/melhores-cenarios-addons-simulacao-voo-2026). A simulação de voo em VR representa a forma mais imersiva de experimentar os céus virtuais disponível para usuários domésticos hoje. O esforço de configuração inicial é real, mas uma vez ajustado, a profundidade da imersão simplesmente não tem rival. Bem-vindo à cabine.

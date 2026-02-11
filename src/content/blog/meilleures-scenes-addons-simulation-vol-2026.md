@@ -66,7 +66,7 @@ Les environnements urbains poussent la technologie de scènes à ses limites. Re
 
 ### Villes en Photogrammétrie
 
-MSFS 2024 inclut une couverture photogrammétrique pour des centaines de villes à travers le monde, restituant la géométrie 3D réelle des bâtiments scannés plutôt que des blocs autogénérés génériques. L'effet est saisissant — survoler Paris, New York ou Tokyo en photogrammétrie donne vraiment l'impression du réel. Des développeurs tiers comme **Predigital** et **Bijan Habashi** ont comblé les lacunes de la couverture par défaut avec des packs de villes supplémentaires.
+MSFS 2024 inclut une couverture photogrammétrique pour des centaines de villes à travers le monde, restituant la géométrie 3D réelle des bâtiments scannés plutôt que des blocs autogénérés génériques. L'effet est saisissant — survoler Paris, New York ou Tokyo en photogrammétrie donne vraiment l'impression du réel, surtout en [réalité virtuelle](/fr/blog/simulation-vol-vr-guide-complet). Des développeurs tiers comme **Predigital** et **Bijan Habashi** ont comblé les lacunes de la couverture par défaut avec des packs de villes supplémentaires.
 
 ### Monuments Artisanaux
 
@@ -119,7 +119,7 @@ La scène ortho est la plus grosse consommatrice de RAM et de stockage. Une seul
 
 ## Freeware vs. Payware
 
-La communauté freeware en 2026 est d'une productivité extraordinaire. Des plateformes comme **Flightsim.to**, **X-Plane.org** et **AVSIM** hébergent des milliers de scènes gratuites d'aéroports, d'améliorations de terrain et de packs de monuments.
+Pour enrichir votre simulateur sans frais, consultez également notre sélection des [meilleurs addons gratuits pour la simulation](/fr/blog/top-10-addons-gratuits-simulation). La communauté freeware en 2026 est d'une productivité extraordinaire. Des plateformes comme **Flightsim.to**, **X-Plane.org** et **AVSIM** hébergent des milliers de scènes gratuites d'aéroports, d'améliorations de terrain et de packs de monuments.
 
 ### Quand le Freeware Suffit
 
@@ -161,4 +161,4 @@ Avant les mises à jour majeures du simulateur, sauvegardez votre dossier Commun
 
 Le paysage des scènes évolue rapidement. La modélisation 3D assistée par IA accélère la production de terminaux aéroportuaires détaillés. La photogrammétrie diffusée par le cloud continue de progresser en résolution et en couverture. Les algorithmes de génération procédurale produisent des environnements urbains de plus en plus convaincants à partir des seules données cartographiques. L'écart entre les scènes par défaut et les add-ons se réduit — mais les add-ons continuent de repousser les limites du possible, garantissant qu'il y aura toujours une amélioration significative pour les pilotes qui recherchent le monde virtuel le plus réaliste sous leurs ailes.
 
-Investir dans les scènes transforme la simulation de vol d'un exercice technique en une expérience véritablement immersive. Commencez par les aéroports que vous fréquentez le plus, ajoutez du terrain et de l'ortho pour vos régions VFR préférées, et construisez à partir de là. Le monde virtuel n'a jamais été aussi beau.
+Investir dans les scènes transforme la simulation de vol d'un exercice technique en une expérience véritablement immersive. Pour optimiser les performances avec tous ces addons de scènes, suivez les recommandations de notre [guide de configuration et d'optimisation du simulateur](/fr/blog/guide-configuration-simulateur-vol). Commencez par les aéroports que vous fréquentez le plus, ajoutez du terrain et de l'ortho pour vos régions VFR préférées, et construisez à partir de là. Le monde virtuel n'a jamais été aussi beau.

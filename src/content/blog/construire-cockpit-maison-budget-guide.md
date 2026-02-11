@@ -12,7 +12,7 @@ Construire un cockpit de simulation de vol à domicile représente le Graal de t
 
 ### Le Build Débutant à 500 EUR
 
-À ce niveau, vous travaillez avec un écran unique de 27 pouces, un HOTAS milieu de gamme comme le **Thrustmaster T.16000M FCS** ou un **Logitech X56** d'occasion, et un support de bureau DIY. L'investissement clé ici est la priorisation intelligente. Un support de bureau solide pour votre manette des gaz et votre joystick élimine le problème des périphériques qui glissent et améliore immédiatement l'expérience. Ajoutez un **boîtier de boutons basé sur Arduino** avec quelques interrupteurs à bascule pour le train d'atterrissage, les volets et l'éclairage, et vous avez un cockpit fonctionnel pour moins de 500 EUR.
+À ce niveau, vous travaillez avec un écran unique de 27 pouces, un [HOTAS](/fr/blog/meilleurs-hotas-controleurs-vol-2026) milieu de gamme comme le **Thrustmaster T.16000M FCS** ou un **Logitech X56** d'occasion, et un support de bureau DIY. L'investissement clé ici est la priorisation intelligente. Un support de bureau solide pour votre manette des gaz et votre joystick élimine le problème des périphériques qui glissent et améliore immédiatement l'expérience. Ajoutez un **boîtier de boutons basé sur Arduino** avec quelques interrupteurs à bascule pour le train d'atterrissage, les volets et l'éclairage, et vous avez un cockpit fonctionnel pour moins de 500 EUR.
 
 ### Le Build Enthousiaste à 1000 EUR
 
@@ -68,7 +68,7 @@ C'est ici que la construction de cockpit maison devient véritablement gratifian
 
 Ne sous-estimez jamais l'importance d'un montage HOTAS correct. Un stick et une manette des gaz fixés à votre bureau auront toujours l'air de périphériques. Montés à la bonne hauteur et au bon angle, ils deviennent des extensions de l'appareil.
 
-Les supports **Monstertech** sont la référence — ajustables, solides et compatibles avec pratiquement tous les HOTAS du marché. Les alternatives économiques incluent les supports **J-PEIN** disponibles sur Amazon ou les solutions DIY utilisant des profilés aluminium et des adaptateurs imprimés en 3D. Pour les configurations manche central, un poteau monté au sol entre vos jambes reproduit la sensation d'un manche de Cessna ou d'un mini-manche de chasse.
+Pour savoir quel materiel monter, consultez notre [test complet de joysticks et yokes pour la simulation](/fr/blog/test-materiel-joystick-yoke-simulation). Les supports **Monstertech** sont la référence — ajustables, solides et compatibles avec pratiquement tous les HOTAS du marché. Les alternatives économiques incluent les supports **J-PEIN** disponibles sur Amazon ou les solutions DIY utilisant des profilés aluminium et des adaptateurs imprimés en 3D. Pour les configurations manche central, un poteau monté au sol entre vos jambes reproduit la sensation d'un manche de Cessna ou d'un mini-manche de chasse.
 
 ## Projets de Panneau Overhead
 
@@ -83,4 +83,4 @@ N'essayez pas de tout construire en une fois. Les constructeurs de cockpit maiso
 3. **Étape Trois** — Migration vers une structure cockpit en profilés aluminium. Ajout d'un panneau d'interrupteurs, d'une réplique MCP et de fixations HOTAS intégrées à la structure.
 4. **Étape Quatre** — Panneau overhead, rétroéclairage des instruments, intégration PC dédiée avec Mobiflight ou FSUIPC. À ce stade, vous construisez un simulateur, vous ne jouez plus simplement avec.
 
-Chaque étape s'appuie sur la précédente, et à chaque palier vous disposez d'une configuration pleinement fonctionnelle et agréable. La pire erreur est d'acheter tout en une fois et de passer des mois à assembler au lieu de voler. Construisez progressivement, volez constamment, et laissez votre cockpit grandir avec vos compétences.
+Chaque étape s'appuie sur la précédente, et à chaque palier vous disposez d'une configuration pleinement fonctionnelle et agréable. Pour compléter votre cockpit avec des logiciels et utilitaires sans dépenser davantage, explorez notre sélection des [meilleurs addons gratuits pour la simulation](/fr/blog/top-10-addons-gratuits-simulation). La pire erreur est d'acheter tout en une fois et de passer des mois à assembler au lieu de voler. Construisez progressivement, volez constamment, et laissez votre cockpit grandir avec vos compétences.

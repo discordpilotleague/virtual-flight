@@ -141,7 +141,7 @@ Mabuk gerak di VR terjadi ketika sistem visual melaporkan gerakan yang tidak dik
 
 Untuk MSFS 2024 dan X-Plane 12, controller tangan VR memungkinkan interaksi dengan sakelar, knob, dan tombol kokpit dengan menjangkau dan memanipulasinya langsung. Ini transformatif untuk kesadaran situasional karena kamu tidak pernah perlu mengalihkan pandangan dari luar jendela untuk mencari kursor mouse.
 
-Namun, kebanyakan simmer VR serius menggunakan controller hanya untuk interaksi kokpit sambil mempertahankan HOTAS untuk kontrol penerbangan utama. Umpan balik haptik dan resistansi fisik joystick dan throttle quadrant nyata tidak bisa direplikasi dengan memegang tongkat plastik di udara.
+Namun, kebanyakan simmer VR serius menggunakan controller hanya untuk interaksi kokpit sambil mempertahankan HOTAS untuk kontrol penerbangan utama. Untuk memilih HOTAS yang tepat, baca [review hardware joystick dan yoke](/id/blog/review-hardware-joystick-yoke) kami. Umpan balik haptik dan resistansi fisik joystick dan throttle quadrant nyata tidak bisa direplikasi dengan memegang tongkat plastik di udara.
 
 Di DCS, interaksi tangan VR native kurang matang. Banyak pilot DCS lebih memilih interaksi kokpit berbasis mouse bahkan di VR.
 
@@ -179,6 +179,6 @@ Eye-tracked foveated rendering, tersedia di Pimax Crystal dan Varjo Aero, melang
 
 Setup simulasi penerbangan VR ideal di 2026 terlihat seperti ini: headset beresolusi tinggi yang disesuaikan dengan budget dan kapasitas GPU, sistem HOTAS untuk kontrol penerbangan dengan controller tangan VR tersedia untuk interaksi kokpit, pengaturan grafis yang sengaja di-tune per-simulator bukan dibiarkan default, dan reprojection diaktifkan serta ditargetkan pada frame rate stabil setengah refresh rate.
 
-Mulai secara konservatif dengan pengaturan lebih rendah dan verifikasi konsistensi frame time sebelum mengejar kualitas visual. Pengalaman mulus dan nyaman di pengaturan medium akan membuatmu terbang berjam-jam. Pengalaman indah tapi patah-patah di pengaturan ultra akan membuatmu meraih headset untuk dilepas dalam dua puluh menit.
+Untuk panduan optimasi yang lebih mendalam di luar VR, lihat [panduan konfigurasi simulator penerbangan](/id/blog/panduan-konfigurasi-simulator-penerbangan) kami. Mulai secara konservatif dengan pengaturan lebih rendah dan verifikasi konsistensi frame time sebelum mengejar kualitas visual. Pengalaman mulus dan nyaman di pengaturan medium akan membuatmu terbang berjam-jam. Pengalaman indah tapi patah-patah di pengaturan ultra akan membuatmu meraih headset untuk dilepas dalam dua puluh menit.
 
-Simulasi penerbangan VR merepresentasikan cara paling immersif untuk merasakan langit virtual yang tersedia bagi pengguna rumahan saat ini. Upaya konfigurasi awal memang nyata, tapi begitu dioptimalkan, kedalaman imersi ini sungguh tak tertandingi. Selamat datang di kokpit.
+Untuk memaksimalkan keindahan visual dalam VR, pertimbangkan memasang [scenery addon terbaik untuk simulasi penerbangan](/id/blog/scenery-addon-terbaik-simulasi-penerbangan-2026) yang kompatibel dengan headset Anda. Simulasi penerbangan VR merepresentasikan cara paling immersif untuk merasakan langit virtual yang tersedia bagi pengguna rumahan saat ini. Upaya konfigurasi awal memang nyata, tapi begitu dioptimalkan, kedalaman imersi ini sungguh tak tertandingi. Selamat datang di kokpit.

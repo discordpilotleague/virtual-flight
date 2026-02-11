@@ -16,7 +16,7 @@ A este nivel, trabajas con un monitor único de 27 pulgadas, un HOTAS de gama me
 
 ### La Construcción Entusiasta de 1000 EUR
 
-Aquí es donde las cosas se vuelven genuinamente impresionantes. Una configuración de triple monitor de 24 pulgadas sobre un brazo compatible VESA proporciona aproximadamente 180 grados de visibilidad frontal. Combínala con un **Thrustmaster HOTAS Warthog** o un **VKB Gladiator NXT EVO** con acelerador dedicado, soportes HOTAS montados en escritorio o estructura, y una caja de botones más sofisticada. Con este presupuesto, también puedes incorporar unos **pedales de timón** — los Thrustmaster TPR o VKB T-Rudder son excelentes opciones. Una estructura de madera DIY o un bastidor básico de perfiles de aluminio completa el conjunto.
+Aquí es donde las cosas se vuelven genuinamente impresionantes. Una configuración de triple monitor de 24 pulgadas sobre un brazo compatible VESA proporciona aproximadamente 180 grados de visibilidad frontal. Combínala con un **Thrustmaster HOTAS Warthog** o un **VKB Gladiator NXT EVO** con acelerador dedicado — revisa nuestra [comparativa de los mejores HOTAS y controladores de vuelo en 2026](/es/blog/mejores-hotas-controladores-vuelo-2026) para elegir el más adecuado —, soportes HOTAS montados en escritorio o estructura, y una caja de botones más sofisticada. Con este presupuesto, también puedes incorporar unos **pedales de timón** — los Thrustmaster TPR o VKB T-Rudder son excelentes opciones. Una estructura de madera DIY o un bastidor básico de perfiles de aluminio completa el conjunto.
 
 ### La Construcción Avanzada de 2000 EUR
 
@@ -58,7 +58,7 @@ Productos de **Volair Sim**, **Next Level Racing** o **Monstertech** ofrecen est
 
 ### DIY Basado en Arduino
 
-Aquí es donde la construcción de cockpit casero se vuelve verdaderamente gratificante. Un **Arduino Pro Micro** o **Arduino Leonardo** puede programarse como dispositivo USB HID joystick, lo que significa que tu simulador lo detecta como un controlador nativo sin drivers adicionales. Una caja de botones básica con 20 interruptores de palanca, un encoder rotativo para rumbo/altitud y algunos pulsadores puede construirse por 30-50 EUR en componentes. La biblioteca **Joystick.h** hace que la programación sea accesible incluso para principiantes.
+Aquí es donde la construcción de cockpit casero se vuelve verdaderamente gratificante. Para verificar que cada componente funciona correctamente una vez montado, sigue nuestra [guía de test de hardware para joystick, yoke y sim](/es/blog/test-hardware-joystick-yoke-sim). Un **Arduino Pro Micro** o **Arduino Leonardo** puede programarse como dispositivo USB HID joystick, lo que significa que tu simulador lo detecta como un controlador nativo sin drivers adicionales. Una caja de botones básica con 20 interruptores de palanca, un encoder rotativo para rumbo/altitud y algunos pulsadores puede construirse por 30-50 EUR en componentes. La biblioteca **Joystick.h** hace que la programación sea accesible incluso para principiantes.
 
 ### Opencockpits y Paneles Comerciales
 
@@ -83,4 +83,4 @@ No intentes construir todo de una vez. Los constructores de cockpit casero más 
 3. **Etapa Tres** — Migra a una estructura cockpit de perfiles de aluminio. Añade un panel de interruptores, réplica MCP y soportes HOTAS integrados en la estructura.
 4. **Etapa Cuatro** — Panel overhead, retroiluminación de instrumentos, integración dedicada con PC mediante Mobiflight o FSUIPC. En esta etapa, estás construyendo un simulador, no simplemente jugando con uno.
 
-Cada etapa se basa en la anterior, y en cada paso tienes una configuración completamente funcional y disfrutable. El peor error es comprar todo de golpe y pasar meses montando en lugar de volando. Construye incrementalmente, vuela constantemente y deja que tu cockpit crezca con tus habilidades.
+Una vez montado tu cockpit, los [mejores addons gratuitos para simulación](/es/blog/top-10-addons-gratis-simulacion) te permitirán enriquecer la experiencia sin coste adicional. Cada etapa se basa en la anterior, y en cada paso tienes una configuración completamente funcional y disfrutable. El peor error es comprar todo de golpe y pasar meses montando en lugar de volando. Construye incrementalmente, vuela constantemente y deja que tu cockpit crezca con tus habilidades.

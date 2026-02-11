@@ -8,7 +8,7 @@ heroImage: '../../assets/hero-hotas-controllers.svg'
 
 Escolher o controlador de voo certo é uma das decisões mais impactantes que um piloto de simulação pode tomar. É ele que define como cada aeronave se comporta sob suas mãos, a precisão com que você manterá uma aproximação ILS com vento cruzado, e se seu hardware resistirá a milhares de horas de voo virtual. O mercado em 2026 é maduro, competitivo e repleto de opções genuinamente excelentes — mas também cheio de armadilhas para o comprador desinformado.
 
-Este guia analisa os melhores sistemas HOTAS, manches e pedais de leme disponíveis agora, com recomendações específicas baseadas no que e como você voa.
+Este guia analisa os melhores sistemas HOTAS, manches e pedais de leme disponíveis agora, com recomendações específicas baseadas no que e como você voa. Se quiser saber como testar e calibrar seus periféricos após a compra, confira nosso [guia de teste de hardware para joystick e yoke](/pt/blog/teste-hardware-joystick-yoke).
 
 ## Melhores Sistemas HOTAS para Combate e Uso Geral
 
@@ -82,10 +82,10 @@ O quadrante Honeycomb Bravo é indispensável aqui. Para a questão manche vs. s
 
 ## O Que Priorizar na Compra
 
-1. **Tecnologia de sensores**: sensores de efeito Hall superam potenciômetros em vida útil por anos. Sempre prefira efeito Hall.
+1. **Tecnologia de sensores**: sensores de efeito Hall superam potenciômetros em vida útil por anos. Sempre prefira efeito Hall. Depois de escolher seu controlador, aprenda a configurá-lo corretamente no nosso [guia de configuração de simulador de voo](/pt/blog/guia-configuracao-simulador-voo).
 2. **Qualidade do gimbal**: o gimbal define como o stick se comporta. Gimbals baseados em cames (VKB, Virpil) são superiores a designs apenas com molas.
 3. **Ecossistema de software**: certifique-se de que o controlador possui drivers maduros e suporte a perfis para seus simuladores.
 4. **Material de construção**: construção metálica dura mais e proporciona melhor sensação, mas plástico de qualidade (como o VKB NXT EVO) pode ser excelente em faixas de preço inferiores.
 5. **Caminho de evolução**: escolha um ecossistema no qual você possa crescer. VKB e Virpil permitem trocar empunhaduras e bases conforme suas necessidades evoluem.
 
-O mercado de hardware de simulação de voo em 2026 é o melhor que já existiu. Seja gastando 120 USD num VKB Gladiator ou 1.200 USD num cockpit Virpil completo, existem opções genuinamente excelentes em cada faixa de preço. Compre para o que você voa, priorize qualidade de sensores e gimbal, e seu hardware servirá fielmente por anos.
+O mercado de hardware de simulação de voo em 2026 é o melhor que já existiu. Seja gastando 120 USD num VKB Gladiator ou 1.200 USD num cockpit Virpil completo, existem opções genuinamente excelentes em cada faixa de preço. Se o próximo passo é montar um setup dedicado, veja nosso [guia para construir um cockpit caseiro com orçamento limitado](/pt/blog/construir-cockpit-caseiro-orcamento-guia). Compre para o que você voa, priorize qualidade de sensores e gimbal, e seu hardware servirá fielmente por anos.

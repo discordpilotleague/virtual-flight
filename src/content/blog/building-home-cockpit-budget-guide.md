@@ -16,7 +16,7 @@ At this level, you are working with a single 27-inch monitor, a mid-range HOTAS 
 
 ### The 1000 EUR Enthusiast Build
 
-This is where things get genuinely impressive. A triple 24-inch monitor setup on a VESA-compatible monitor arm provides roughly 180 degrees of forward visibility. Pair it with a **Thrustmaster HOTAS Warthog** or **VKB Gladiator NXT EVO** with a dedicated throttle, proper desk-mounted or frame-mounted HOTAS brackets, and a more sophisticated button box. At this budget, you can also incorporate a set of **rudder pedals** — the Thrustmaster TPR or VKB T-Rudder units are excellent choices. A DIY wooden frame or entry-level aluminum profile rig ties everything together.
+This is where things get genuinely impressive. A triple 24-inch monitor setup on a VESA-compatible monitor arm provides roughly 180 degrees of forward visibility. Pair it with a **Thrustmaster HOTAS Warthog** or **VKB Gladiator NXT EVO** with a dedicated throttle -- see our guide to the [best HOTAS and flight controllers](/blog/best-hotas-flight-controller-2026) for help choosing, proper desk-mounted or frame-mounted HOTAS brackets, and a more sophisticated button box. At this budget, you can also incorporate a set of **rudder pedals** — the Thrustmaster TPR or VKB T-Rudder units are excellent choices. A DIY wooden frame or entry-level aluminum profile rig ties everything together.
 
 ### The 2000 EUR Advanced Build
 
@@ -66,13 +66,13 @@ This is where home cockpit building becomes genuinely rewarding. An **Arduino Pr
 
 ## HOTAS Mounting Solutions
 
-Never underestimate the importance of proper HOTAS mounting. A stick and throttle clamped to your desk will always feel like peripherals. Mounted at the correct height and angle, they become extensions of the aircraft.
+Never underestimate the importance of proper HOTAS mounting -- our [joystick and yoke hardware review](/blog/hardware-review-joystick-yoke) covers what to look for in a controller before you commit to a mounting solution. A stick and throttle clamped to your desk will always feel like peripherals. Mounted at the correct height and angle, they become extensions of the aircraft.
 
 **Monstertech** mounts are the industry standard — adjustable, solid, and compatible with virtually every HOTAS on the market. Budget alternatives include **J-PEIN** mounts from Amazon or DIY solutions using aluminum profile and 3D-printed adapters. For center-stick configurations, a floor-mounted post between your legs replicates the feel of a Cessna or fighter jet yoke position.
 
 ## Overhead Panel Projects
 
-An overhead panel is the crown jewel of any airliner cockpit build. Start simple: a flat panel of switches for battery, generators, fuel pumps, hydraulics, and lighting, controlled by one or two Arduino boards. Mount it on an angled bracket above your main display. As your build evolves, add **backlit annunciators** using LEDs behind laser-cut acrylic labels. The open-source community around **Mobiflight** provides connector software that links physical switches directly to simulator variables, making overhead panel integration remarkably accessible.
+An overhead panel is the crown jewel of any airliner cockpit build. Start simple: a flat panel of switches for battery, generators, fuel pumps, hydraulics, and lighting, controlled by one or two Arduino boards. Mount it on an angled bracket above your main display. As your build evolves, add **backlit annunciators** using LEDs behind laser-cut acrylic labels. The open-source community around **Mobiflight** provides connector software that links physical switches directly to simulator variables, making overhead panel integration remarkably accessible. Mobiflight is also featured in our roundup of the [best free addons and tools for flight simulation](/blog/top-10-free-addons-flight-sim).
 
 ## Recommended Progression Path
 

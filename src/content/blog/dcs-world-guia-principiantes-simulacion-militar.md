@@ -6,7 +6,7 @@ pubDate: 'Feb 18 2026'
 heroImage: '../../assets/hero-dcs-world.svg'
 ---
 
-DCS World es el simulador de combate aéreo más detallado disponible para el público general, y se descarga completamente gratis. Esa combinación de profundidad y accesibilidad lo convierte en uno de los programas más gratificantes — y ocasionalmente abrumadores — que instalarás jamás. Ya sea que sueñes con combates aéreos en un F-16C, vuelo táctico en helicóptero entre montañas o ataques de precisión desde un A-10C, DCS es donde ocurre la simulación militar de verdad.
+DCS World es el simulador de combate aéreo más detallado disponible para el público general, y se descarga completamente gratis. Si es tu primera experiencia con cualquier tipo de simulación de vuelo, te recomendamos comenzar por nuestra [guía para principiantes en simulación de vuelo](/es/blog/guia-principiante-simulacion-vuelo) para familiarizarte con los conceptos generales. Esa combinación de profundidad y accesibilidad lo convierte en uno de los programas más gratificantes — y ocasionalmente abrumadores — que instalarás jamás. Ya sea que sueñes con combates aéreos en un F-16C, vuelo táctico en helicóptero entre montañas o ataques de precisión desde un A-10C, DCS es donde ocurre la simulación militar de verdad.
 
 Esta guía te lleva desde cero hasta tu primera salida exitosa, cubriendo todo desde la instalación hasta el multijugador.
 
@@ -63,7 +63,7 @@ DCS World soporta prácticamente cualquier dispositivo de entrada, pero configur
 
 ### Configuración Mínima Viable
 
-Como mínimo absoluto, necesitas un joystick con eje de acelerador. Se recomienda encarecidamente un sistema HOTAS. Si empiezas con un joystick básico como el Logitech 3D Pro o el Thrustmaster T.16000M, mapea inmediatamente:
+Como mínimo absoluto, necesitas un joystick con eje de acelerador. Se recomienda encarecidamente un sistema HOTAS — nuestra [guía de los mejores HOTAS y controladores de vuelo en 2026](/es/blog/mejores-hotas-controladores-vuelo-2026) te ayudará a elegir el más adecuado para DCS. Si empiezas con un joystick básico como el Logitech 3D Pro o el Thrustmaster T.16000M, mapea inmediatamente:
 
 - **Cabeceo y alabeo** — ejes X e Y del joystick
 - **Guiñada** — giro del joystick (o pedales de timón si los tienes)
@@ -196,6 +196,7 @@ DCS tiene una de las comunidades de simulación más apasionadas y serviciales d
 - **Servidores Discord de DCS** — Casi cada escuadrón tiene un Discord. El Discord oficial de DCS y el de Hoggit son buenos puntos de partida
 - **Canales de YouTube** — Grim Reapers, Spudknocker, Jabbers, Wags y RedKite ofrecen tutoriales desde nivel principiante hasta avanzado
 - **Guías de Chuck** — Lectura imprescindible, disponible gratuitamente en los foros
+- [Los mejores addons gratuitos para simulación de vuelo](/es/blog/top-10-addons-gratis-simulacion) — Nuestra selección de freeware imprescindible para DCS y otros simuladores
 - **DCS User Files** — Repositorio de misiones, campañas, skins y mods creados por la comunidad
 
 ## Reflexión Final

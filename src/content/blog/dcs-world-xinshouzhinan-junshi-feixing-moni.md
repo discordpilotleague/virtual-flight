@@ -6,7 +6,7 @@ pubDate: 'Feb 18 2026'
 heroImage: '../../assets/hero-dcs-world.svg'
 ---
 
-DCS World是目前面向民间开放的最精细的军事飞行模拟器，而且完全免费下载。这种深度与可及性的结合，使它成为你可能安装过的最具回报感——有时也最令人望而生畏——的软件之一。无论你梦想着驾驶F-16C进行空中格斗，在山谷间进行直升机战术飞行，还是从A-10C上投放精确制导弹药，DCS就是严肃军事航空模拟发生的地方。
+DCS World是目前面向民间开放的最精细的军事飞行模拟器，而且完全免费下载。这种深度与可及性的结合，使它成为你可能安装过的最具回报感——有时也最令人望而生畏——的软件之一。无论你梦想着驾驶F-16C进行空中格斗，在山谷间进行直升机战术飞行，还是从A-10C上投放精确制导弹药，DCS就是严肃军事航空模拟发生的地方。如果你对民用飞行模拟也感兴趣，我们的[飞行模拟新手入门指南](/zh/blog/feixing-moni-xinshouzhinan)涵盖了MSFS和X-Plane等平台的基础知识。
 
 本指南将带你从零开始，一直到完成你的第一次成功出击，涵盖从安装到多人联机的方方面面。
 
@@ -63,7 +63,7 @@ DCS World支持几乎所有输入设备，但正确配置控制器至关重要�
 
 ### 最低可行控制配置
 
-最低限度，你需要一个带油门轴的摇杆。强烈推荐HOTAS系统。如果你用基础摇杆如Logitech 3D Pro或Thrustmaster T.16000M起步，立即映射以下功能：
+最低限度，你需要一个带油门轴的摇杆。强烈推荐HOTAS系统——我们的[最佳HOTAS飞行控制器选购指南](/zh/blog/zuijia-hotas-feixing-kongzhiqi-2026)可以帮助你找到适合预算的最佳选择。如果你用基础摇杆如Logitech 3D Pro或Thrustmaster T.16000M起步，立即映射以下功能：
 
 - **俯仰和横滚** — 摇杆X轴和Y轴
 - **偏航** — 摇杆扭转（或脚舵）
@@ -196,7 +196,7 @@ DCS拥有网络上最热情、最乐于助人的模拟社区之一。
 - **DCS Discord服务器** — 几乎每个中队都有Discord服务器。官方DCS Discord和Hoggit Discord是好的起点
 - **YouTube频道** — Grim Reapers、Spudknocker、Jabbers、Wags和RedKite提供从入门到高级的教程
 - **Chuck's Guides** — 必读资料，论坛上免费提供
-- **DCS User Files** — 社区创建的任务、战役、涂装和模组仓库
+- **DCS User Files** — 社区创建的任务、战役、涂装和模组仓库（另请参阅我们的[免费飞行模拟插件精选](/zh/blog/top-10-mianfei-chajian-feixing)获取更多免费资源推荐）
 
 ## 最后的话
 

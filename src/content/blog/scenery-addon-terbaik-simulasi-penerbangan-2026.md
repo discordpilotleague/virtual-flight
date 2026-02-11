@@ -112,6 +112,7 @@ Scenery ortho adalah konsumen RAM dan penyimpanan terbesar. Satu tile ortho pada
 
 ### Tips Optimasi
 
+- **Ikuti panduan optimasi** — untuk pengaturan performa yang lebih menyeluruh, baca [panduan konfigurasi simulator penerbangan](/id/blog/panduan-konfigurasi-simulator-penerbangan) kami.
 - **Prioritaskan pengaturan LOD** — baik MSFS maupun X-Plane memungkinkan kamu mengontrol jarak Level of Detail objek dan terrain. Menguranginya sedikit dapat mengembalikan 10 hingga 20 fps tanpa secara dramatis memengaruhi kualitas visual di ketinggian jelajah.
 - **Gunakan zona eksklusi scenery** — jika kamu menginstal bandara berbayar yang detail, pastikan ia mengecualikan scenery default di bawahnya dengan benar. Rendering ganda membuang siklus GPU.
 - **Nonaktifkan scenery yang tidak digunakan** — kedua simulator memuat semua scenery aktif ke memori. Jika kamu punya 200 GB ortho untuk wilayah yang saat ini tidak kamu terbangkan, nonaktifkan di library scenery-mu.
@@ -123,7 +124,7 @@ Komunitas scenery freeware di tahun 2026 sangat produktif. Platform seperti **Fl
 
 ### Kapan Freeware Sudah Cukup
 
-Untuk bandara yang sesekali kamu kunjungi, scenery freeware seringkali sudah sangat memadai. Banyak pengembang komunitas menghasilkan karya yang menyaingi kualitas komersial — terutama untuk bandara regional kecil yang diabaikan pengembang berbayar. Komunitas **Flightsim.to** telah menghasilkan versi gratis dari ratusan bandara di seluruh dunia yang mencakup bangunan kustom, tata letak akurat, dan variasi musiman.
+Untuk bandara yang sesekali kamu kunjungi, scenery freeware seringkali sudah sangat memadai. Banyak pengembang komunitas menghasilkan karya yang menyaingi kualitas komersial — terutama untuk bandara regional kecil yang diabaikan pengembang berbayar. Untuk daftar lengkap addon gratis terbaik termasuk scenery, kunjungi [top 10 addon gratis simulasi penerbangan](/id/blog/top-10-addon-gratis-simulasi). Komunitas **Flightsim.to** telah menghasilkan versi gratis dari ratusan bandara di seluruh dunia yang mencakup bangunan kustom, tata letak akurat, dan variasi musiman.
 
 ### Kapan Payware Layak Dibeli
 
@@ -165,4 +166,4 @@ Setelah menginstal paket scenery yang kompleks, verifikasi bahwa semua file ada 
 
 Lanskap scenery berevolusi dengan cepat. Pemodelan 3D berbantuan AI mempercepat produksi terminal bandara yang detail. Fotogrametri yang di-stream dari cloud terus meningkat dalam resolusi dan cakupan. Algoritma generasi prosedural menghasilkan lingkungan perkotaan yang semakin meyakinkan hanya dari data peta. Kesenjangan antara scenery default dan add-on semakin menyempit — tetapi add-on terus mendorong batas kemungkinan, memastikan selalu ada peningkatan bermakna bagi pilot yang menginginkan dunia virtual paling realistis di bawah sayap mereka.
 
-Berinvestasi dalam scenery mengubah simulasi penerbangan dari latihan teknis menjadi pengalaman yang benar-benar imersif. Mulailah dengan bandara yang paling sering kamu terbangkan, tambahkan terrain dan ortho untuk wilayah VFR favoritmu, dan kembangkan dari sana. Dunia virtual belum pernah terlihat seindah ini.
+Untuk imersi maksimal, kombinasikan scenery dengan headset VR — baca [panduan lengkap simulasi penerbangan VR](/id/blog/simulasi-penerbangan-vr-panduan-lengkap) untuk rekomendasi dan optimasi. Berinvestasi dalam scenery mengubah simulasi penerbangan dari latihan teknis menjadi pengalaman yang benar-benar imersif. Mulailah dengan bandara yang paling sering kamu terbangkan, tambahkan terrain dan ortho untuk wilayah VFR favoritmu, dan kembangkan dari sana. Dunia virtual belum pernah terlihat seindah ini.

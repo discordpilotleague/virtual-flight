@@ -8,7 +8,7 @@ heroImage: '../../assets/hero-dcs-world.svg'
 
 DCS World adalah simulator pertempuran udara paling detail yang tersedia untuk masyarakat umum, dan bisa diunduh sepenuhnya gratis. Kombinasi kedalaman dan aksesibilitas ini menjadikannya salah satu perangkat lunak paling memuaskan — dan kadang paling membuat kewalahan — yang pernah kamu instal. Entah kamu bermimpi bertarung udara di F-16C, terbang helikopter taktis menembus lembah pegunungan, atau melakukan serangan presisi dari A-10C, DCS adalah tempat simulasi militer serius berlangsung.
 
-Panduan ini akan membawamu dari nol hingga sortie pertamamu yang sukses, mencakup segala hal dari instalasi hingga multiplayer.
+Panduan ini akan membawamu dari nol hingga sortie pertamamu yang sukses, mencakup segala hal dari instalasi hingga multiplayer. Jika kamu baru mengenal dunia simulasi penerbangan secara umum, mulailah dengan [panduan pemula simulasi penerbangan](/id/blog/panduan-pemula-simulasi-penerbangan-2026) kami.
 
 ## Apa Itu DCS World Sebenarnya?
 
@@ -20,7 +20,7 @@ DCS mensimulasikan Kaukasus, Teluk Persia, Suriah, Atlantik Selatan, Sinai, dan 
 
 ## Gratis vs Berbayar: Apa yang Kamu Dapat Tanpa Mengeluarkan Uang
 
-DCS World dilengkapi dua pesawat gratis yang benar-benar mampu tempur, bukan demo yang dipreteli.
+DCS World dilengkapi dua pesawat gratis yang benar-benar mampu tempur, bukan demo yang dipreteli. Untuk daftar lengkap addon gratis di semua platform termasuk DCS, kunjungi [top 10 addon gratis simulasi penerbangan](/id/blog/top-10-addon-gratis-simulasi).
 
 ### Su-25T Frogfoot
 
@@ -63,7 +63,7 @@ DCS World mendukung hampir semua perangkat input, tapi mengonfigurasi kontrol de
 
 ### Konfigurasi Kontrol Minimum
 
-Minimal, kamu butuh joystick dengan sumbu throttle. Sistem HOTAS sangat direkomendasikan. Jika kamu mulai dengan joystick dasar seperti Logitech 3D Pro atau Thrustmaster T.16000M, petakan segera:
+Minimal, kamu butuh joystick dengan sumbu throttle. Sistem HOTAS sangat direkomendasikan — lihat rekomendasi lengkap kami di [HOTAS dan controller penerbangan terbaik 2026](/id/blog/hotas-controller-penerbangan-terbaik-2026). Jika kamu mulai dengan joystick dasar seperti Logitech 3D Pro atau Thrustmaster T.16000M, petakan segera:
 
 - **Pitch dan roll** — sumbu X dan Y joystick
 - **Yaw** — putaran joystick (atau pedal rudder jika punya)

@@ -141,7 +141,7 @@ Le mal des transports en VR survient quand votre système visuel rapporte un mou
 
 Pour MSFS 2024 et X-Plane 12, les manettes VR permettent d'interagir avec les interrupteurs, boutons et molettes du cockpit en tendant la main et en les manipulant directement. C'est transformateur pour la conscience situationnelle puisque vous n'avez jamais besoin de quitter l'extérieur des yeux pour chercher un curseur de souris.
 
-Cependant, la plupart des simmers VR sérieux utilisent les manettes uniquement pour l'interaction cockpit tout en conservant un HOTAS pour les commandes de vol primaires. Le retour haptique et la résistance physique d'un vrai joystick et d'une manette de gaz ne peuvent pas être répliqués en tenant une baguette en plastique dans le vide.
+Cependant, la plupart des simmers VR sérieux utilisent les manettes uniquement pour l'interaction cockpit tout en conservant un HOTAS pour les commandes de vol primaires. Pour choisir le bon matériel, consultez notre [test complet de joysticks et yokes pour la simulation](/fr/blog/test-materiel-joystick-yoke-simulation). Le retour haptique et la résistance physique d'un vrai joystick et d'une manette de gaz ne peuvent pas être répliqués en tenant une baguette en plastique dans le vide.
 
 ### Accessoires Essentiels
 
@@ -173,4 +173,4 @@ La configuration VR idéale pour la simulation de vol en 2026 se résume ainsi :
 
 Commencez prudemment avec des réglages bas et vérifiez la constance des temps d'image avant de viser la qualité visuelle. Une expérience fluide et confortable en réglages moyens vous fera voler pendant des heures. Une expérience belle mais saccadée en réglages ultra vous fera retirer le casque en vingt minutes.
 
-La simulation de vol en VR représente la manière la plus immersive d'expérimenter les cieux virtuels accessible aux utilisateurs domestiques aujourd'hui. L'effort de configuration initial est réel, mais une fois réglé, le niveau d'immersion est tout simplement inégalé. Bienvenue dans le cockpit.
+La simulation de vol en VR représente la manière la plus immersive d'expérimenter les cieux virtuels accessible aux utilisateurs domestiques aujourd'hui. L'effort de configuration initial est réel, mais une fois réglé, le niveau d'immersion est tout simplement inégalé. Pour perfectionner vos réglages logiciels, suivez notre [guide de configuration et d'optimisation du simulateur](/fr/blog/guide-configuration-simulateur-vol), et explorez les [meilleures scènes et addons de décors](/fr/blog/meilleures-scenes-addons-simulation-vol-2026) pour des panoramas encore plus saisissants en VR. Bienvenue dans le cockpit.

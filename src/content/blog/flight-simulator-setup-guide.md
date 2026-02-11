@@ -6,7 +6,7 @@ pubDate: 'Feb 10 2026'
 heroImage: '../../assets/hero-cockpit-dashboard.svg'
 ---
 
-If you have spent any meaningful time in the world of **flight simulation**, you know that the difference between a mediocre experience and a truly immersive one comes down to setup. Whether you fly MSFS 2024, X-Plane 12, or DCS World, getting your configuration right is what separates casual enthusiasts from dedicated virtual aviators.
+If you have spent any meaningful time in the world of **flight simulation**, you know that the difference between a mediocre experience and a truly immersive one comes down to setup. If you are still finding your footing, our [beginner's guide to flight simulation](/blog/beginner-guide-flight-simulation) covers the fundamentals before you dive into optimization. Whether you fly MSFS 2024, X-Plane 12, or DCS World, getting your configuration right is what separates casual enthusiasts from dedicated virtual aviators.
 
 ## Hardware Calibration: The Foundation of Realistic Flight
 
@@ -14,7 +14,7 @@ Before you even launch your simulator, your peripherals need to be dialled in. A
 
 ### Joystick and Yoke Sensitivity Curves
 
-Most modern HOTAS systems ship with linear response curves, which is rarely what you want for precise flying. For general aviation, I recommend a slight S-curve that deadens the center 10–15% of travel while maintaining full authority at the extremes. In MSFS 2024, navigate to Options → Controls and adjust the sensitivity slider to around -35% for pitch and roll. For DCS modules like the F-16C, you will want tighter curves — around -20% — since the real aircraft uses a force-sensing sidestick.
+Most modern [HOTAS systems](/blog/best-hotas-flight-controller-2026) ship with linear response curves, which is rarely what you want for precise flying. For general aviation, I recommend a slight S-curve that deadens the center 10–15% of travel while maintaining full authority at the extremes. In MSFS 2024, navigate to Options → Controls and adjust the sensitivity slider to around -35% for pitch and roll. For DCS modules like the F-16C, you will want tighter curves — around -20% — since the real aircraft uses a force-sensing sidestick.
 
 ### Rudder Pedal Configuration
 
@@ -42,7 +42,7 @@ A well-maintained **logbook** is more than vanity — it is the backbone of stru
 
 ### Automatic Flight Detection
 
-MSFS 2024's built-in logbook captures departure, arrival, flight time, and aircraft type automatically. However, it misses key details that matter for **pilot career** tracking: approach types, weather conditions, and landing performance. Third-party tools like Volanta or SimToolkitPro fill this gap by recording vertical speed at touchdown, G-forces, and ILS precision data.
+MSFS 2024's built-in logbook captures departure, arrival, flight time, and aircraft type automatically. However, it misses key details that matter for **pilot career** tracking: approach types, weather conditions, and landing performance. Third-party tools like Volanta or SimToolkitPro fill this gap by recording vertical speed at touchdown, G-forces, and ILS precision data. You can find more of these utilities in our list of the [top free addons for flight simulation](/blog/top-10-free-addons-flight-sim).
 
 ### Cross-Platform Logging
 

@@ -6,7 +6,7 @@ pubDate: 'Feb 18 2026'
 heroImage: '../../assets/hero-dcs-world.svg'
 ---
 
-O DCS World é o simulador de combate aéreo mais detalhado disponível para o público civil, e seu download é completamente gratuito. Essa combinação de profundidade e acessibilidade faz dele um dos softwares mais gratificantes — e ocasionalmente mais intimidadores — que você vai instalar. Seja sonhando com combates aéreos num F-16C, voo tático de helicóptero entre montanhas ou ataques de precisão a partir de um A-10C, o DCS é onde a simulação militar séria acontece.
+O DCS World é o simulador de combate aéreo mais detalhado disponível para o público civil, e seu download é completamente gratuito. Essa combinação de profundidade e acessibilidade faz dele um dos softwares mais gratificantes — e ocasionalmente mais intimidadores — que você vai instalar. Seja sonhando com combates aéreos num F-16C, voo tático de helicóptero entre montanhas ou ataques de precisão a partir de um A-10C, o DCS é onde a simulação militar séria acontece. Se é totalmente novo na simulação de voo, recomendamos começar pelo nosso [guia de iniciante em simulação de voo](/pt/blog/guia-iniciante-simulacao-voo) para dominar os fundamentos.
 
 Este guia leva você do zero até sua primeira surtida bem-sucedida, cobrindo tudo, desde a instalação até o multiplayer.
 
@@ -63,7 +63,7 @@ O DCS World suporta virtualmente qualquer dispositivo de entrada, mas configurar
 
 ### Configuração Mínima Viável
 
-No mínimo absoluto, você precisa de um joystick com eixo de throttle. Um sistema HOTAS é fortemente recomendado. Se estiver começando com um joystick básico como o Logitech 3D Pro ou Thrustmaster T.16000M, mapeie imediatamente:
+No mínimo absoluto, você precisa de um joystick com eixo de throttle. Um sistema HOTAS é fortemente recomendado — confira nosso [guia dos melhores HOTAS e controladores de voo](/pt/blog/melhores-hotas-controladores-voo-2026) para encontrar o ideal. Se estiver começando com um joystick básico como o Logitech 3D Pro ou Thrustmaster T.16000M, mapeie imediatamente:
 
 - **Arfagem e rolamento** — eixos X e Y do joystick
 - **Guinada** — torção do joystick (ou pedais de leme se tiver)
@@ -167,7 +167,7 @@ Cada módulo de alta fidelidade vem com missões de treinamento que conduzem voc
 
 ## Caminho de Progressão Recomendado de Módulos
 
-Uma vez esgotado o conteúdo gratuito e o FC3, aqui vai minha recomendação para expandir seu hangar.
+Uma vez esgotado o conteúdo gratuito e o FC3 — e não se esqueça de explorar nosso [top 10 addons gratuitos para simulação](/pt/blog/top-10-addons-gratuitos-simulacao) — aqui vai minha recomendação para expandir seu hangar.
 
 ### Primeiro Módulo de Alta Fidelidade
 

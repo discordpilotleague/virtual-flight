@@ -16,7 +16,7 @@ Die **EASA** klassifiziert Simulationsgeraete in mehrere Kategorien, und das Ver
 
 **FTD (Flight Training Devices)** und **FFS (Full Flight Simulators)** der hoeheren Stufen werden von Fluggesellschaften fuer die Musterberechtigung eingesetzt. Ein Level-D-FFS bildet das Flugzeugverhalten so getreu nach, dass Linienpiloten ihre gesamte Mustereinweisung absolvieren, ohne das reale Flugzeug waehrend der Ausbildung jemals zu beruehren.
 
-Ihr Heimsimulator — MSFS 2024, X-Plane 12 oder DCS World — faellt in keine dieser offiziellen Kategorien. Dennoch gilt der entscheidende Punkt: **Die prozeduralen Fertigkeiten, die Sie in einem Heimsimulator entwickeln, uebertragen sich direkt ins reale Cockpit**, auch wenn die Stunden nicht in Ihrem Flugbuch erscheinen.
+Ihr Heimsimulator — MSFS 2024, X-Plane 12 oder DCS World — faellt in keine dieser offiziellen Kategorien. Dennoch gilt der entscheidende Punkt: **Die prozeduralen Fertigkeiten, die Sie in einem Heimsimulator entwickeln, uebertragen sich direkt ins reale Cockpit**, auch wenn die Stunden nicht in Ihrem Flugbuch erscheinen. Wie Sie einen Heimsimulator optimal einrichten, erklaert unser [Anfaenger-Guide zur Flugsimulation](/de/blog/anfaenger-guide-flugsimulation).
 
 ## Der Simulator als kognitives Uebungswerkzeug
 
@@ -44,7 +44,7 @@ SIDs und STARs sind komplexe, mehrstufige Verfahren, die haeufig Hoehenbeschraen
 
 ## Navigation und Funkkommunikation
 
-Plattformen wie VATSIM und IVAO bieten eine Umgebung, in der Sie reale ATC-Kommunikation mit menschlichen Lotsen unter Verwendung korrekter Sprechgruppen ueben. Dies ist von unschaetzbarem Wert. Die Hauptquelle fuer Nervositaet bei Flugschuelern ist der Funk, und der beste Weg, diese Nervositaet zu ueberwinden, ist Uebung.
+Plattformen wie VATSIM und IVAO bieten eine Umgebung, in der Sie reale ATC-Kommunikation mit menschlichen Lotsen unter Verwendung korrekter Sprechgruppen ueben. Einen detaillierten Ueberblick ueber die verschiedenen Netzwerke finden Sie in unserem [Vergleich der Online-Flugnetzwerke](/de/blog/vergleich-online-flugnetzwerke). Dies ist von unschaetzbarem Wert. Die Hauptquelle fuer Nervositaet bei Flugschuelern ist der Funk, und der beste Weg, diese Nervositaet zu ueberwinden, ist Uebung.
 
 Auf VATSIM oder IVAO werden Sie Freigaben anfordern, Anweisungen zuruecklesen, Positionsmeldungen abgeben und das gesamte Spektrum der Interaktion mit der Flugverkehrskontrolle handhaben. Sie werden Fehler in einer folgenfreien Umgebung machen, und wenn Sie in einem echten Cockpit die Sprechtaste druecken, werden die Worte natuerlich fliessen.
 
@@ -136,4 +136,4 @@ Um den Ausbildungswert Ihrer Simulatorzeit zu maximieren:
 
 5. **Verbinden Sie Theorie und Praxis.** Kombinieren Sie Simulatorsitzungen mit theoretischem Studium. Nach dem Lesen ueber VOR-Navigation fliegen Sie einen VOR-Anflug. Nach dem Studium der Wetterkunde ueben Sie den Flug in simulierten IMC. Die Kombination aus theoretischem Wissen und praktischer Anwendung beschleunigt den Lernprozess erheblich.
 
-Der Flugsimulator wird das Flugzeug niemals ersetzen. Aber klug eingesetzt, ist er eines der maechtigsten ergaenzenden Ausbildungswerkzeuge, die Piloten in jeder Phase ihrer Karriere zur Verfuegung stehen. Die Regulierung erkennt ihn an, Fluglehrer empfehlen ihn, und die Mathematik der Ausbildungskostenreduktion macht die Investition ueberzeugend. Wenn Sie es ernst meinen mit dem Fliegen lernen — oder mit dem Erhalt und der Verbesserung Ihrer vorhandenen Faehigkeiten — verdient der Simulator einen strukturierten Platz in Ihrem Ausbildungsplan.
+Der Flugsimulator wird das Flugzeug niemals ersetzen. Aber klug eingesetzt, ist er eines der maechtigsten ergaenzenden Ausbildungswerkzeuge, die Piloten in jeder Phase ihrer Karriere zur Verfuegung stehen. Die Regulierung erkennt ihn an, Fluglehrer empfehlen ihn, und die Mathematik der Ausbildungskostenreduktion macht die Investition ueberzeugend. Wenn Sie es ernst meinen mit dem Fliegen lernen — oder mit dem Erhalt und der Verbesserung Ihrer vorhandenen Faehigkeiten — verdient der Simulator einen strukturierten Platz in Ihrem Ausbildungsplan. Tipps zur systematischen Dokumentation Ihrer Fortschritte bietet unser Artikel zur [virtuellen Pilotenkarriere und Logbook-Verwaltung](/de/blog/virtuelle-pilotenkarriere-logbook).

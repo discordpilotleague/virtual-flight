@@ -112,14 +112,14 @@ O cenário orto é o maior consumidor de RAM e armazenamento. Um único tile ort
 
 ### Dicas de Otimização
 
-- **Priorize configurações de LOD** — tanto MSFS quanto X-Plane permitem controlar as distâncias de Nível de Detalhe de objetos e terreno. Reduzi-las ligeiramente pode recuperar de 10 a 20 fps sem afetar dramaticamente a qualidade visual em altitude de cruzeiro.
+- **Priorize configurações de LOD** — tanto MSFS quanto X-Plane permitem controlar as distâncias de Nível de Detalhe de objetos e terreno. Para ajustes detalhados, consulte nosso [guia de configuração de simulador de voo](/pt/blog/guia-configuracao-simulador-voo). Reduzi-las ligeiramente pode recuperar de 10 a 20 fps sem afetar dramaticamente a qualidade visual em altitude de cruzeiro.
 - **Use zonas de exclusão** — se instalar um aeroporto pago detalhado, certifique-se de que ele exclua corretamente o cenário padrão abaixo. Renderização dupla desperdiça ciclos de GPU.
 - **Desative cenários que não está usando** — ambos os simuladores carregam todos os cenários ativos na memória. Se tem 200 GB de orto para uma região onde não está voando atualmente, desative na sua biblioteca de cenários.
 - **Monitore o uso de VRAM** — ferramentas como GPU-Z ou o modo desenvolvedor integrado do MSFS mostram o consumo de VRAM em tempo real, permitindo identificar quais add-ons são mais custosos.
 
 ## Freeware vs. Payware
 
-A comunidade freeware em 2026 é extraordinariamente produtiva. Plataformas como **Flightsim.to**, **X-Plane.org** e **AVSIM** hospedam milhares de aeroportos gratuitos, melhorias de terreno e pacotes de marcos.
+A comunidade freeware em 2026 é extraordinariamente produtiva. Confira nosso [top 10 addons gratuitos para simulação](/pt/blog/top-10-addons-gratuitos-simulacao) para uma visão completa dos melhores complementos sem custo. Plataformas como **Flightsim.to**, **X-Plane.org** e **AVSIM** hospedam milhares de aeroportos gratuitos, melhorias de terreno e pacotes de marcos.
 
 ### Quando o Freeware é Suficiente
 
@@ -161,4 +161,4 @@ Antes de atualizações maiores do simulador, faça backup da sua pasta Communit
 
 O panorama dos cenários evolui rapidamente. A modelagem 3D assistida por IA está acelerando a produção de terminais de aeroporto detalhados. A fotogrametria transmitida pela nuvem continua melhorando em resolução e cobertura. Os algoritmos de geração procedural estão produzindo ambientes urbanos cada vez mais convincentes apenas a partir de dados cartográficos. A lacuna entre cenários padrão e add-ons está diminuindo — mas os add-ons continuam empurrando os limites do possível, garantindo que sempre haverá uma melhoria significativa disponível para pilotos que querem o mundo virtual mais realista sob suas asas.
 
-Investir em cenários transforma a simulação de voo de um exercício técnico em uma experiência genuinamente imersiva. Comece pelos aeroportos que mais frequenta, adicione terreno e orto para suas regiões VFR favoritas, e construa a partir daí. O mundo virtual nunca esteve tão bonito.
+Para quem voa em realidade virtual, cenários de qualidade fazem uma diferença ainda maior — veja nosso [guia completo de simulação de voo em VR](/pt/blog/simulacao-voo-vr-guia-completo). Investir em cenários transforma a simulação de voo de um exercício técnico em uma experiência genuinamente imersiva. Comece pelos aeroportos que mais frequenta, adicione terreno e orto para suas regiões VFR favoritas, e construa a partir daí. O mundo virtual nunca esteve tão bonito.

@@ -20,11 +20,11 @@ Where does your home simulator fit? Technically, it does not qualify as any FAA-
 
 ## How Simulators Complement Real Flight Training
 
-The most effective way to think about simulator training is as a **cognitive rehearsal environment**. When you practice an ILS approach in MSFS 2024 or X-Plane 12 with a high-fidelity Cessna 172 addon, you are not learning how the aircraft feels in turbulence or how the control forces change near stall speed. What you are learning is the procedure, the sequence, the scan pattern, and the decision-making framework.
+The most effective way to think about simulator training is as a **cognitive rehearsal environment**. When you practice an ILS approach in MSFS 2024 or X-Plane 12 with a high-fidelity Cessna 172 addon, you are not learning how the aircraft feels in turbulence or how the control forces change near stall speed. Our [beginner's guide to flight simulation](/blog/beginner-guide-flight-simulation) helps you choose the right platform and addons for training-focused flying. What you are learning is the procedure, the sequence, the scan pattern, and the decision-making framework.
 
 This distinction is profoundly important. Real flight training is expensive — at current rates, expect $180 to $250 per hour for aircraft rental plus instructor fees. Every minute you spend in the aircraft fumbling with radio frequencies or trying to remember the steps of an instrument approach is money burned. If you arrive at the airport already knowing the procedure cold because you rehearsed it twenty times at home, your actual flight time becomes dramatically more productive.
 
-Flight instructors consistently report that students who supplement their training with simulator practice at home progress faster. Not marginally faster — significantly. A student who practices VOR tracking, GPS approaches, and holding patterns at home can often reduce their total flight hours to checkride by 10 to 20 percent.
+Flight instructors consistently report that students who supplement their training with simulator practice at home progress faster. Keeping a structured log of your practice sessions accelerates improvement -- our guide to [maintaining a virtual pilot career and logbook](/blog/virtual-pilot-career-logbook) explains how. Not marginally faster — significantly. A student who practices VOR tracking, GPS approaches, and holding patterns at home can often reduce their total flight hours to checkride by 10 to 20 percent.
 
 ## Instrument Procedures: Where Simulators Truly Excel
 
@@ -44,7 +44,7 @@ SIDs (Standard Instrument Departures) and STARs (Standard Terminal Arrival Route
 
 ## Navigation and Radio Communication
 
-Modern simulators with platforms like VATSIM or PilotEdge provide an environment where you practice real ATC communication with human controllers using proper phraseology. This is invaluable. The number one source of anxiety for student pilots is the radio, and the number one way to overcome that anxiety is practice.
+Modern simulators with [online flying networks](/blog/best-online-flight-networks) like VATSIM or PilotEdge provide an environment where you practice real ATC communication with human controllers using proper phraseology. This is invaluable. The number one source of anxiety for student pilots is the radio, and the number one way to overcome that anxiety is practice.
 
 In a simulator connected to VATSIM, you will request clearances, read back instructions, make position reports, and handle the full spectrum of ATC interactions. You will make mistakes in a consequence-free environment, and by the time you key the mic in a real aircraft, the words will flow naturally.
 

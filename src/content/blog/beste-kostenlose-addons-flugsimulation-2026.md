@@ -6,13 +6,13 @@ pubDate: 'Feb 02 2026'
 heroImage: '../../assets/hero-free-addons.svg'
 ---
 
-Das Ökosystem der Flugsimulation hat schon immer von der Großzügigkeit seiner Community gelebt. Während Payware-Entwickler mit Study-Level-Modulen und Photogrammetrie-Szenerien weiterhin neue Maßstäbe setzen, liefert die Freeware-Szene 2026 eine Qualität, die vor fünf Jahren undenkbar gewesen wäre. Ob Sie mit **MSFS 2024**, **X-Plane 12** oder **DCS World** fliegen — es wartet eine außergewöhnliche Bibliothek kostenloser Addons darauf, Ihr Erlebnis zu verwandeln — wenn Sie wissen, wo Sie suchen müssen.
+Das Ökosystem der Flugsimulation hat schon immer von der Großzügigkeit seiner Community gelebt. Während Payware-Entwickler mit Study-Level-Modulen und Photogrammetrie-Szenerien weiterhin neue Maßstäbe setzen, liefert die Freeware-Szene 2026 eine Qualität, die vor fünf Jahren undenkbar gewesen wäre. Ob Sie mit **MSFS 2024**, **X-Plane 12** oder **DCS World** fliegen — es wartet eine außergewöhnliche Bibliothek kostenloser Addons darauf, Ihr Erlebnis zu verwandeln — wenn Sie wissen, wo Sie suchen müssen. Eine kompakte Auswahl der absoluten Must-Haves finden Sie in unserer [Top 10 der kostenlosen Flugsim-Addons](/de/blog/top-10-kostenlose-addons-flugsim).
 
 ## Freeware-Flugzeuge: Study-Level-Qualität zum Nulltarif
 
 ### FlyByWire A32NX
 
-Der **FlyByWire A32NX** bleibt der Goldstandard der Freeware-Entwicklung. Was als Community-Verbesserungs-Mod für den Standard-A320neo in MSFS begann, hat sich zu einer nahezu studienmäßigen Simulation des Airbus A320 entwickelt. Die Entwicklungsversion bietet mittlerweile ein vollständig eigenes Fly-by-Wire-System, ein präzises FMGS mit LNAV/VNAV-Fähigkeiten, realistische Hydraulikmodellierung und ein persistentes EFB (Electronic Flight Bag) mit realen Leistungsberechnungen. Wenn Sie Airliner in MSFS fliegen und den A32NX noch nicht installiert haben, lassen Sie ein enormes Maß an Realismus auf der Strecke.
+Der **FlyByWire A32NX** bleibt der Goldstandard der Freeware-Entwicklung. Was als Community-Verbesserungs-Mod für den Standard-A320neo in MSFS begann, hat sich zu einer nahezu studienmäßigen Simulation des Airbus A320 entwickelt. Die Entwicklungsversion bietet mittlerweile ein vollständig eigenes Fly-by-Wire-System, ein präzises FMGS mit LNAV/VNAV-Fähigkeiten, realistische Hydraulikmodellierung und ein persistentes EFB (Electronic Flight Bag) mit realen Leistungsberechnungen. Wenn Sie Airliner in MSFS fliegen und den A32NX noch nicht installiert haben, lassen Sie ein enormes Maß an Realismus auf der Strecke. Für Einsteiger, die sich einen ersten Überblick verschaffen möchten, empfiehlt sich unser [Anfänger-Guide zur Flugsimulation](/de/blog/anfaenger-guide-flugsimulation).
 
 ### Zibo 737-800
 
@@ -26,7 +26,7 @@ Die **DCS World**-Plattform wird mit zwei hervorragenden kostenlosen Modulen aus
 
 ### Freeware-Flughäfen
 
-Die Flughafen-Szenerie-Szene ist geradezu explodiert. Auf **flightsim.to** finden Sie Tausende handgefertigter Flughafenpakete für MSFS 2024, von denen viele mit der Qualität kommerzieller Angebote mithalten können. Zu den bemerkenswerten Highlights gehören detaillierte Nachbildungen regionaler Flughäfen in ganz Europa, Asien und Südamerika mit benutzerdefinierten Terminalgebäuden, präzisen Rollweglayouts, Bodenmarkierungen und animierten Fluggastbrücken. Für X-Plane liefert das **Gateway**-Programm von **x-plane.org** weiterhin von der Community erstellte Flughäfen direkt in die Standardszenerie.
+Die Flughafen-Szenerie-Szene ist geradezu explodiert. Auf **flightsim.to** finden Sie Tausende handgefertigter Flughafenpakete für MSFS 2024, von denen viele mit der Qualität kommerzieller Angebote mithalten können. Zu den bemerkenswerten Highlights gehören detaillierte Nachbildungen regionaler Flughäfen in ganz Europa, Asien und Südamerika mit benutzerdefinierten Terminalgebäuden, präzisen Rollweglayouts, Bodenmarkierungen und animierten Fluggastbrücken. Für X-Plane liefert das **Gateway**-Programm von **x-plane.org** weiterhin von der Community erstellte Flughäfen direkt in die Standardszenerie. Wer noch mehr visuellen Realismus sucht, findet in unserem [Guide zu den besten Scenery-Addons 2026](/de/blog/beste-scenery-addons-flugsimulation-2026) weitere Empfehlungen.
 
 ### Ortho-Szenerie und Mesh-Verbesserungen
 

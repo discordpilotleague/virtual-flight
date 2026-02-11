@@ -8,7 +8,7 @@ heroImage: '../../assets/hero-hotas-controllers.svg'
 
 Memilih flight controller yang tepat adalah salah satu keputusan paling menentukan bagi setiap pilot simulasi. Controller menentukan bagaimana setiap pesawat terasa di tangan Anda, seberapa presisi Anda bisa mempertahankan approach ILS di tengah crosswind, dan apakah hardware Anda akan bertahan melewati ribuan jam penerbangan virtual. Pasar di tahun 2026 sudah matang, kompetitif, dan penuh dengan pilihan yang benar-benar bagus — tetapi juga penuh jebakan bagi pembeli yang tidak terinformasi.
 
-Panduan ini mengulas sistem HOTAS, yoke, dan pedal rudder terbaik yang tersedia saat ini, dengan rekomendasi spesifik berdasarkan apa yang Anda terbangkan dan bagaimana Anda menerbangkannya.
+Panduan ini mengulas sistem HOTAS, yoke, dan pedal rudder terbaik yang tersedia saat ini, dengan rekomendasi spesifik berdasarkan apa yang Anda terbangkan dan bagaimana Anda menerbangkannya. Untuk ulasan mendalam tentang joystick dan yoke individual, kunjungi [review hardware joystick dan yoke](/id/blog/review-hardware-joystick-yoke) kami.
 
 ## Sistem HOTAS Terbaik untuk Tempur dan Penggunaan Umum
 
@@ -82,10 +82,14 @@ Honeycomb Bravo throttle quadrant sangat esensial di sini. Untuk pertanyaan yoke
 
 ## Apa yang Harus Diprioritaskan Saat Membeli
 
+Setelah memilih controller, pastikan Anda mengkalibrasinya dengan benar menggunakan [panduan konfigurasi simulator penerbangan](/id/blog/panduan-konfigurasi-simulator-penerbangan) kami untuk hasil optimal.
+
 1. **Teknologi sensor**: sensor Hall-effect mengalahkan potentiometer dalam hal umur pakai bertahun-tahun. Selalu utamakan Hall-effect.
 2. **Kualitas gimbal**: gimbal mendefinisikan bagaimana stick terasa. Gimbal berbasis cam (VKB, Virpil) lebih unggul dari desain spring-only.
 3. **Ekosistem software**: pastikan controller memiliki driver yang matang dan dukungan profil untuk simulator Anda.
 4. **Material konstruksi**: konstruksi metal lebih awet dan terasa lebih baik, tetapi plastik berkualitas (seperti VKB NXT EVO) bisa sangat bagus di titik harga lebih rendah.
 5. **Jalur upgrade**: pilih ekosistem yang bisa Anda kembangkan. VKB dan Virpil keduanya memungkinkan penggantian grip dan base seiring evolusi kebutuhan Anda.
+
+Jika Anda berencana membangun setup yang lebih lengkap, baca panduan kami tentang [membangun cockpit rumahan dengan budget terbatas](/id/blog/membangun-cockpit-rumahan-hemat-panduan) untuk tips pemasangan dan rangka.
 
 Pasar hardware simulasi penerbangan di 2026 adalah yang terbaik sepanjang masa. Entah Anda mengeluarkan 120 USD untuk VKB Gladiator atau 1.200 USD untuk kokpit Virpil lengkap, ada opsi yang benar-benar bagus di setiap tier harga. Belilah sesuai apa yang Anda terbangkan, prioritaskan kualitas sensor dan feel gimbal, dan hardware Anda akan melayani Anda dengan baik selama bertahun-tahun ke depan.

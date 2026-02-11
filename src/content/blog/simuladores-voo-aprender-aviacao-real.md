@@ -6,7 +6,7 @@ pubDate: 'Feb 22 2026'
 heroImage: '../../assets/hero-learn-aviation.svg'
 ---
 
-No universo da formacao aeronautica, poucos temas geram tanta discussao quanto o papel dos simuladores de voo. Os tradicionalistas insistem que nada substitui as horas no cockpit real. Os pragmaticos respondem que a tecnologia atingiu um patamar onde ignorar os simuladores e desperdicar recursos. A realidade, como costuma acontecer na aviacao, exige uma compreensao que vai alem das opinioes extremas.
+No universo da formacao aeronautica, poucos temas geram tanta discussao quanto o papel dos simuladores de voo. Se esta a comecar agora, o nosso [guia de iniciante em simulacao de voo](/pt/blog/guia-iniciante-simulacao-voo) ajuda-o a escolher a plataforma e a dar os primeiros passos. Os tradicionalistas insistem que nada substitui as horas no cockpit real. Os pragmaticos respondem que a tecnologia atingiu um patamar onde ignorar os simuladores e desperdicar recursos. A realidade, como costuma acontecer na aviacao, exige uma compreensao que vai alem das opinioes extremas.
 
 ## Dispositivos de treinamento aprovados: o que a regulamentacao permite
 
@@ -44,7 +44,7 @@ As SID e STAR sao procedimentos complexos, de multiplos passos, que frequentemen
 
 ## Navegacao e comunicacao radio
 
-Plataformas como o VATSIM e o IVAO proporcionam um ambiente onde pratica comunicacao ATC real com controladores humanos utilizando fraseologia correta. Isto tem um valor incalculavel. A primeira fonte de ansiedade para os alunos pilotos e o radio, e a melhor forma de ultrapassar essa ansiedade e a pratica.
+Plataformas como o VATSIM e o IVAO proporcionam um ambiente onde pratica comunicacao ATC real com controladores humanos utilizando fraseologia correta — veja o nosso [comparativo de redes de voo online](/pt/blog/comparativo-redes-voo-online) para escolher a melhor para si. Isto tem um valor incalculavel. A primeira fonte de ansiedade para os alunos pilotos e o radio, e a melhor forma de ultrapassar essa ansiedade e a pratica.
 
 No VATSIM ou IVAO, solicitara autorizacoes, colacionara instrucoes, fara reportes de posicao e gerira o espectro completo de interacoes com o controlo. Cometera erros num ambiente sem consequencias, e quando premir o PTT numa aeronave real, as palavras fluirao naturalmente.
 
@@ -136,4 +136,4 @@ Para maximizar o valor formativo do seu tempo em simulador:
 
 5. **Combine teoria e pratica.** Associe as sessoes de simulador ao estudo teorico. Apos ler sobre navegacao VOR, va voar uma aproximacao VOR. Apos estudar meteorologia, pratique voar em IMC simulada. A combinacao de conhecimento teorico e aplicacao pratica acelera consideravelmente a aprendizagem.
 
-O simulador de voo nunca substituira a aeronave. Mas usado inteligentemente, e uma das ferramentas de formacao complementar mais poderosas disponiveis para pilotos em qualquer fase da carreira. A regulamentacao reconhece-o, os instrutores recomendam-no e a matematica da reducao de custos de formacao torna o investimento convincente. Se leva a serio aprender a voar — ou manter e melhorar as competencias que ja possui — o simulador merece um lugar estruturado no seu plano de formacao.
+O simulador de voo nunca substituira a aeronave. Mas usado inteligentemente — e com as horas devidamente registadas no seu [logbook de carreira de piloto virtual](/pt/blog/carreira-piloto-virtual-logbook) — e uma das ferramentas de formacao complementar mais poderosas disponiveis para pilotos em qualquer fase da carreira. A regulamentacao reconhece-o, os instrutores recomendam-no e a matematica da reducao de custos de formacao torna o investimento convincente. Se leva a serio aprender a voar — ou manter e melhorar as competencias que ja possui — o simulador merece um lugar estruturado no seu plano de formacao.

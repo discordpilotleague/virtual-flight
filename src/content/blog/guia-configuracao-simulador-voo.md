@@ -6,7 +6,7 @@ pubDate: 'Feb 10 2026'
 heroImage: '../../assets/hero-ocean-sunset.svg'
 ---
 
-A **flight simulation** atingiu um nível de realismo que teria parecido impensável há cinco anos. Mas esse realismo não se desbloqueia sozinho: exige uma configuração meticulosa, tanto no hardware como no software. Este é o guia que todo piloto virtual sério precisa.
+A **flight simulation** atingiu um nível de realismo que teria parecido impensável há cinco anos. Mas esse realismo não se desbloqueia sozinho: exige uma configuração meticulosa, tanto no hardware como no software. Se ainda está a dar os primeiros passos, consulte o nosso [guia de iniciante em simulação de voo](/pt/blog/guia-iniciante-simulacao-voo) antes de avançar. Este é o guia que todo piloto virtual sério precisa.
 
 ## Calibração do hardware: as bases de um voo realista
 
@@ -14,7 +14,7 @@ Um cockpit virtual mal calibrado é como um avião mal centrado — passa o temp
 
 ### Curvas de sensibilidade do joystick
 
-A maioria dos sistemas HOTAS vem com resposta linear, o que raramente é ideal. Para aviação geral no MSFS 2024, ajuste a sensibilidade para aproximadamente -35% no pitch e roll para obter maior precisão junto ao centro. No DCS, com módulos como o F-14 Tomcat ou o JF-17, reduza para -20% — estas aeronaves têm comandos mais diretos e precisa de toda a autoridade nos extremos.
+A maioria dos sistemas HOTAS vem com resposta linear, o que raramente é ideal. Para escolher o periférico certo, veja o nosso [comparativo dos melhores HOTAS e controladores de voo](/pt/blog/melhores-hotas-controladores-voo-2026). Para aviação geral no MSFS 2024, ajuste a sensibilidade para aproximadamente -35% no pitch e roll para obter maior precisão junto ao centro. No DCS, com módulos como o F-14 Tomcat ou o JF-17, reduza para -20% — estas aeronaves têm comandos mais diretos e precisa de toda a autoridade nos extremos.
 
 ### Pedais de leme e travões diferenciais
 
@@ -64,5 +64,6 @@ VATSIM e IVAO oferecem a experiência ATC mais realista disponível. Os eventos 
 
 - **Documentação oficial do MSFS 2024** — Leitura essencial para compreender o novo modelo aerodinâmico
 - **Base de conhecimento do X-Plane 12** — Artigos técnicos detalhados sobre renderização e física
+- [Top 10 addons gratuitos para simulação](/pt/blog/top-10-addons-gratuitos-simulacao) — A nossa seleção dos melhores complementos freeware para potenciar o seu simulador
 - **Biblioteca de manuais do DCS** — Guias de configuração específicos por módulo
 - [PilotLeague – plataforma de competição para pilotos](https://pilotleague.com/pt) — Eventos competitivos estruturados e rankings para medir as suas competências face à comunidade lusófona de simulação aérea

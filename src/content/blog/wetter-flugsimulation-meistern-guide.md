@@ -8,7 +8,7 @@ heroImage: '../../assets/hero-weather-simulation.svg'
 
 Das Wetter ist das einzelne Element, das eine Flugsimulation am stärksten verwandelt. Man kann das detailgetreueste Flugzeugmodell haben, die schönste Szenerie und ein vollständig ausgestattetes Home-Cockpit — wenn der Himmel flach wirkt und der Wind sich wie eine mathematische Konstante verhält, bricht die Immersion zusammen. Es ist das Wetter, das den Unterschied zwischen einer technischen Übung und einem authentischen Flugerlebnis ausmacht: von der Cumulonimbuswolke, die zu einem Ausweichmanöver von 50 Kilometern zwingt, bis zum subtilen Seitenwind, der jede Landung zu einer Verhandlung macht.
 
-Dieser Leitfaden behandelt alles, was Sie über Wetter in der modernen Flugsimulation wissen müssen: wie die großen Plattformen es nativ handhaben, was die besten Drittanbieter-Add-ons beisteuern und wie Sie Ihr System für das realistischste meteorologische Erlebnis konfigurieren.
+Dieser Leitfaden behandelt alles, was Sie über Wetter in der modernen Flugsimulation wissen müssen: wie die großen Plattformen es nativ handhaben, was die besten Drittanbieter-Add-ons beisteuern und wie Sie Ihr System für das realistischste meteorologische Erlebnis konfigurieren. Wenn Sie gerade erst in die Flugsimulation einsteigen, empfehlen wir zunächst unseren [Anfänger-Guide zur Flugsimulation](/de/blog/anfaenger-guide-flugsimulation).
 
 ## Wie Wetter-Engines funktionieren: MSFS 2024 vs X-Plane 12
 
@@ -132,7 +132,7 @@ Für die Instrumentenanflugpraxis konfigurieren Sie die Sichtweite auf oder nahe
 
 ### Trainingsszenarien erstellen
 
-Beide großen Plattformen ermöglichen manuelle Wetterkonfiguration. Die effektivsten Trainingsszenarien kombinieren mehrere Wetterelemente. Ein anspruchsvolles Anflugzenario könnte eine Wolkenuntergrenze von 200 Metern, Seitenwind mit 15 Knoten und Böen bis 25, mäßigen Regen und eine Sichtweite von 1.500 Metern in Dunst umfassen. Diese Kombination testet gleichzeitig Instrumentenflugfähigkeiten, Seitenwindtechnik und Entscheidungsfindung.
+Beide großen Plattformen ermöglichen manuelle Wetterkonfiguration. Die effektivsten Trainingsszenarien kombinieren mehrere Wetterelemente. Ein anspruchsvolles Anflugzenario könnte eine Wolkenuntergrenze von 200 Metern, Seitenwind mit 15 Knoten und Böen bis 25, mäßigen Regen und eine Sichtweite von 1.500 Metern in Dunst umfassen. Diese Kombination testet gleichzeitig Instrumentenflugfähigkeiten, Seitenwindtechnik und Entscheidungsfindung. Besonders eindrucksvoll wird das Wettertraining auf [Online-Flugnetzwerken](/de/blog/vergleich-online-flugnetzwerke), wo menschliche Lotsen reale Wetterinformationen in ihre Freigaben einbeziehen.
 
 Für fortgeschrittenes Training erstellen Sie Szenarien, die die Wetterbedingungen aus Unfallberichten replizieren. Die Windscherungsbedingungen, die zu historischen Flugunfällen beigetragen haben, können im Simulator angenähert werden, um zu verstehen, wie sich Microburst-Begegnungen entwickeln und wie das Ausweichmanöver auszuführen ist.
 
@@ -148,4 +148,4 @@ Für MSFS 2024 beginnen Sie mit ActiveSky als Wetterdatenquelle. Es liefert die 
 
 Für X-Plane 12 ist die integrierte Wetter-Engine beeindruckend leistungsfähig und sollte Ihr Ausgangspunkt sein. Wenn Sie erweiterte Wetterdaten wünschen, bietet FSGRW eine ausgezeichnete METAR-Einspeisung. Das X-Plane-Wetterradar-Plugin fügt die Cockpit-Wetterradarfunktionalität hinzu, die der Standardinstallation fehlt.
 
-Unabhängig von der Plattform investieren Sie Zeit in das Verständnis Ihrer Wetterkonfigurationsoptionen. Der Unterschied zwischen Standardeinstellungen und einem sorgfältig abgestimmten Wetter-Setup ist der Unterschied zwischen einem Spiel und dem Aufbau echten aeronautischen Wetterwissens. Behandeln Sie Ihre Wetterkonfiguration mit dem gleichen Ernst, den Sie Flugzeugsystemen oder Navigationsverfahren widmen würden, und Ihre Simulationserfahrung wird Sie vielfach belohnen.
+Unabhängig von der Plattform investieren Sie Zeit in das Verständnis Ihrer Wetterkonfigurationsoptionen. Der Unterschied zwischen Standardeinstellungen und einem sorgfältig abgestimmten Wetter-Setup ist der Unterschied zwischen einem Spiel und dem Aufbau echten aeronautischen Wetterwissens. Behandeln Sie Ihre Wetterkonfiguration mit dem gleichen Ernst, den Sie Flugzeugsystemen oder Navigationsverfahren widmen würden, und Ihre Simulationserfahrung wird Sie vielfach belohnen. Weiterführende Hinweise zur optimalen Konfiguration Ihres gesamten Setups finden Sie in unserem [Flugsimulator-Einrichtungsleitfaden](/de/blog/flugsimulator-einrichtung-leitfaden).

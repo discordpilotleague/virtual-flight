@@ -6,7 +6,7 @@ pubDate: 'Feb 14 2026'
 heroImage: '../../assets/hero-payware-aircraft.svg'
 ---
 
-As aeronaves freeware nunca estiveram tao boas, mas o payware continua sendo o territorio onde a simulacao de voo atinge seu mais alto nivel de fidelidade. Os melhores complementos comerciais de 2026 entregam modelagem de sistemas comparavel a manuais de habilitacao de tipo, dinamicas de voo ajustadas por pilotos reais e qualidade visual que resiste ao escrutinio em realidade virtual. Nao sao baratos — uma unica aeronave pode custar tanto quanto o proprio simulador — mas para simmers que querem a versao definitiva de uma determinada celula, nada mais chega perto.
+As aeronaves freeware nunca estiveram tao boas — confira nosso [top 10 addons gratuitos para simulação](/pt/blog/top-10-addons-gratuitos-simulacao) — mas o payware continua sendo o territorio onde a simulacao de voo atinge seu mais alto nivel de fidelidade. Os melhores complementos comerciais de 2026 entregam modelagem de sistemas comparavel a manuais de habilitacao de tipo, dinamicas de voo ajustadas por pilotos reais e qualidade visual que resiste ao escrutinio em realidade virtual. Nao sao baratos — uma unica aeronave pode custar tanto quanto o proprio simulador — mas para simmers que querem a versao definitiva de uma determinada celula, nada mais chega perto.
 
 Este guia cobre as aeronaves pagas de destaque em 2026 nas categorias de fuselagem larga, aviacao geral e militar, com conselhos praticos sobre custo-beneficio, impacto no desempenho e onde comprar.
 
@@ -98,7 +98,7 @@ Dica pratica: a maioria dos desenvolvedores oferece o melhor preco pela propria 
 
 Aeronaves pagas sao tipicamente mais exigentes que suas equivalentes freeware ou padrao:
 
-**Impacto na CPU**: a simulacao de nivel estudo executa logica complexa a cada quadro. Aeronaves como o PMDG 777X ou Fenix A380 podem consumir 15-25% mais CPU que uma aeronave padrao. Um processador moderno com bom desempenho single-thread (Intel 13a/14a geracao ou AMD Ryzen 7000) lida bem com isso.
+**Impacto na CPU**: a simulacao de nivel estudo executa logica complexa a cada quadro. Aeronaves como o PMDG 777X ou Fenix A380 podem consumir 15-25% mais CPU que uma aeronave padrao. Um processador moderno com bom desempenho single-thread (Intel 13a/14a geracao ou AMD Ryzen 7000) lida bem com isso. Certifique-se tambem de que seu hardware de controle esta a altura — veja nossas recomendacoes de [melhores HOTAS e controladores de voo](/pt/blog/melhores-hotas-controladores-voo-2026).
 
 **Uso de VRAM**: texturas de alta resolucao do cockpit de um airliner de nivel estudo podem usar 2-3 GB de VRAM so para os paineis. Em VR, ter 12 GB ou mais de VRAM torna-se importante.
 
@@ -114,4 +114,4 @@ Aeronaves pagas sao tipicamente mais exigentes que suas equivalentes freeware ou
 
 O mercado de aeronaves pagas em 2026 entrega experiencias inimaginaveis ha uma decada. Seja programar um voo transatlantico completo no PMDG 777X, pilotar visualmente uma aproximacao no Leonardo MD-80, ou combater sobre o golfo Persico no Heatblur F-14B, existe um produto que atendera ou superara suas expectativas. O fio condutor de todas as aeronaves recomendadas aqui e que recompensam o investimento — nao apenas financeiro, mas o tempo dedicado a aprender seus sistemas e dominar suas particularidades.
 
-Escolha com base no que voce realmente voa, compre de desenvolvedores com historico de suporte a longo prazo, e nao hesite em aguardar promocoes para modulos que te atraem sem compromisso total. Seu hangar virtual nao precisa ser grande — precisa ser bem escolhido.
+Escolha com base no que voce realmente voa, compre de desenvolvedores com historico de suporte a longo prazo, e nao hesite em aguardar promocoes para modulos que te atraem sem compromisso total. Registre suas horas em cada aeronave com nosso [guia de carreira de piloto virtual e logbook](/pt/blog/carreira-piloto-virtual-logbook) para acompanhar sua progressao. Seu hangar virtual nao precisa ser grande — precisa ser bem escolhido.

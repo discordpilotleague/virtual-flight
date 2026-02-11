@@ -6,7 +6,7 @@ pubDate: 'Feb 02 2026'
 heroImage: '../../assets/hero-free-addons.svg'
 ---
 
-The flight simulation ecosystem has always thrived on community generosity. While payware developers continue to push the envelope with study-level modules and photogrammetry scenery, the freeware scene in 2026 is delivering quality that would have been unthinkable five years ago. Whether you fly **MSFS 2024**, **X-Plane 12**, or **DCS World**, there is an extraordinary library of free addons waiting to transform your experience — if you know where to look.
+The flight simulation ecosystem has always thrived on community generosity. While payware developers continue to push the envelope with study-level modules and photogrammetry scenery, the freeware scene in 2026 is delivering quality that would have been unthinkable five years ago. Whether you fly **MSFS 2024**, **X-Plane 12**, or **DCS World**, there is an extraordinary library of free addons waiting to transform your experience -- if you know where to look. For a quick shortlist of the absolute essentials, check out our [curated top 10 free addons](/blog/top-10-free-addons-flight-sim).
 
 ## Freeware Aircraft: Study-Level Quality at Zero Cost
 
@@ -26,7 +26,7 @@ The **DCS World** platform ships with two excellent free modules: the **TF-51D M
 
 ### Freeware Airports
 
-The airport scenery scene has exploded. On **flightsim.to**, you will find thousands of hand-crafted airport packages for MSFS 2024, many rivaling the quality of commercial offerings. Notable standouts include detailed renditions of regional airports across Europe, Asia, and South America that feature custom terminal buildings, accurate taxiway layouts, ground markings, and animated jetways. For X-Plane, the **x-plane.org** gateway program continues to deliver community-built airports directly into the default scenery, meaning your simulator improves with every update.
+The airport scenery scene has exploded. On **flightsim.to**, you will find thousands of hand-crafted airport packages for MSFS 2024, many rivaling the quality of commercial offerings. For a comprehensive breakdown of both free and payware options, see our guide to the [best scenery addons for flight simulation](/blog/best-scenery-addons-flight-simulation-2026). Notable standouts include detailed renditions of regional airports across Europe, Asia, and South America that feature custom terminal buildings, accurate taxiway layouts, ground markings, and animated jetways. For X-Plane, the **x-plane.org** gateway program continues to deliver community-built airports directly into the default scenery, meaning your simulator improves with every update.
 
 ### Ortho Scenery and Mesh Improvements
 
@@ -70,4 +70,4 @@ Knowing where to look is half the battle. These are the essential repositories e
 
 ## Final Thoughts
 
-The freeware flight simulation community in 2026 is delivering at a level that consistently blurs the line between free and paid products. From study-level aircraft like the FlyByWire A32NX and Zibo 737, through thousands of scenery packages, to sophisticated utility tools — there has never been a better time to enhance your simulator without opening your wallet. The key is knowing where to look, being willing to experiment, and giving back to the community that makes it all possible.
+The freeware flight simulation community in 2026 is delivering at a level that consistently blurs the line between free and paid products. If you are new to the hobby, our [beginner's guide to flight simulation](/blog/beginner-guide-flight-simulation) will help you get set up before you start adding mods. From study-level aircraft like the FlyByWire A32NX and Zibo 737, through thousands of scenery packages, to sophisticated utility tools — there has never been a better time to enhance your simulator without opening your wallet. The key is knowing where to look, being willing to experiment, and giving back to the community that makes it all possible.

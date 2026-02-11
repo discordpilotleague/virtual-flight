@@ -12,7 +12,7 @@ Jika kamu sudah menghabiskan ratusan jam terbang sendirian di simulator dan mera
 
 **VATSIM** adalah jaringan gratis yang dijalankan oleh sukarelawan, yang melapisi kontrol lalu lintas udara secara langsung di atas simulator penerbanganmu. Ketika kamu terhubung, pesawatmu menjadi terlihat oleh setiap pilot lain di jaringan, dan kamu berkomunikasi dengan pengendali manusia yang mengelola clearance, keberangkatan, pendekatan, dan operasi darat menggunakan **fraseologi** dan prosedur dunia nyata. Ini bukan lapisan permainan — ini adalah lingkungan simulasi yang dibangun di atas akurasi dan realisme.
 
-Jaringan ini mendukung **MSFS 2024**, **X-Plane 12**, **Prepar3D**, dan platform simulator utama lainnya. Setiap saat, kamu akan menemukan ratusan pengendali aktif yang mengisi posisi dari ground dan tower hingga approach dan center, terutama di Eropa, Amerika Utara, dan semakin berkembang di Asia Tenggara dan Amerika Selatan.
+Jaringan ini mendukung **MSFS 2024**, **X-Plane 12**, **Prepar3D**, dan platform simulator utama lainnya. VATSIM bukan satu-satunya pilihan — Anda bisa membaca [perbandingan jaringan terbang online](/id/blog/perbandingan-jaringan-terbang-online) untuk menentukan mana yang paling cocok. Setiap saat, kamu akan menemukan ratusan pengendali aktif yang mengisi posisi dari ground dan tower hingga approach dan center, terutama di Eropa, Amerika Utara, dan semakin berkembang di Asia Tenggara dan Amerika Selatan.
 
 ## Pendaftaran: Langkah Pertamamu
 
@@ -67,7 +67,7 @@ Di wilayah **VATSIM Indonesia (VATID)**, komunikasi sering dilakukan dalam **bah
 
 ## Event Populer dan Cross the Pond
 
-VATSIM menyelenggarakan event berskala besar yang merupakan pengalaman spektakuler. **Cross the Pond (CTP)** adalah event unggulan, diadakan dua kali setahun, di mana ratusan pilot secara bersamaan terbang rute transatlantik dengan cakupan ATC penuh di seluruh koridor oseanik. Slot terisi cepat — pendaftaran biasanya dibuka berminggu-minggu sebelumnya dan habis dalam hitungan jam.
+VATSIM menyelenggarakan event berskala besar yang merupakan pengalaman spektakuler. **Cross the Pond (CTP)** adalah event unggulan, diadakan dua kali setahun, di mana ratusan pilot secara bersamaan terbang rute transatlantik dengan cakupan ATC penuh di seluruh koridor oseanik. Slot terisi cepat — pendaftaran biasanya dibuka berminggu-minggu sebelumnya dan habis dalam hitungan jam. Event seperti ini juga merupakan cara terbaik untuk mengembangkan [karier pilot virtual dan mengisi logbook](/id/blog/karier-pilot-virtual-logbook) secara terstruktur.
 
 **FNO (Friday Night Ops)** menyediakan cakupan ATC yang dijamin di bandara-bandara yang ditampilkan setiap Jumat. Ini sempurna untuk pilot menengah yang menginginkan ruang udara yang sibuk dan realistis. Divisi **VATID** juga menjalankan event-nya sendiri — malam cakupan Indonesia, event Asia Tenggara, dan fly-in regional adalah kejadian rutin yang memberikan kesempatan luar biasa untuk berlatih di ruang udara yang familiar.
 
@@ -86,6 +86,8 @@ VATSIM adalah **komunitas yang dibangun di atas saling menghormati**. Pengendali
 Setelah ribuan jam di jaringan, saran yang saya berikan kepada setiap pilot baru selalu sama: **siapkan penerbanganmu sebelum terhubung.** Pelajari prosedur keberangkatanmu, ketahui ketinggian dan heading awalmu, catat frekuensimu, dan pahami prosedur kedatangan di tujuanmu. Pilot yang kesulitan di VATSIM hampir selalu mereka yang terhubung tanpa rencana.
 
 Gunakan **VATSpy** atau **SimAware** untuk melihat di mana pengendali aktif sebelum memilih rutemu. Terbang ke ruang udara yang dikontrol adalah tujuannya, tetapi hanya ketika kamu siap untuk itu. Dengarkan rekaman LiveATC atau stream audio VATSIM untuk membiasakan diri dengan tempo dan ritme komunikasi nyata.
+
+Jika kamu benar-benar baru di dunia simulasi penerbangan, pertimbangkan untuk membaca [panduan pemula simulasi penerbangan](/id/blog/panduan-pemula-simulasi-penerbangan-2026) sebelum terjun ke jaringan online.
 
 Terakhir, jangan takut untuk memberitahu pengendali **"Saya baru di VATSIM."** Itu bukan tanda kelemahan — itu informasi praktis yang memungkinkan mereka menyesuaikan kecepatan dan menawarkan panduan tambahan. Setiap pengendali di jaringan pernah menjadi pemula, dan komunitas secara luar biasa mendukung mereka yang bersedia belajar.
 

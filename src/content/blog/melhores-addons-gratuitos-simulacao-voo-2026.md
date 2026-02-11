@@ -6,7 +6,7 @@ pubDate: 'Feb 02 2026'
 heroImage: '../../assets/hero-free-addons.svg'
 ---
 
-O ecossistema de simulação de voo sempre prosperou graças à generosidade de sua comunidade. Enquanto os desenvolvedores payware continuam elevando o padrão com módulos de nível estudo e cenários em fotogrametria, a cena freeware em 2026 entrega uma qualidade que seria impensável há cinco anos. Seja voando no **MSFS 2024**, **X-Plane 12** ou **DCS World**, existe uma biblioteca extraordinária de addons gratuitos esperando para transformar sua experiência — se você souber onde procurar.
+O ecossistema de simulação de voo sempre prosperou graças à generosidade de sua comunidade. Enquanto os desenvolvedores payware continuam elevando o padrão com módulos de nível estudo e cenários em fotogrametria, a cena freeware em 2026 entrega uma qualidade que seria impensável há cinco anos. Seja voando no **MSFS 2024**, **X-Plane 12** ou **DCS World**, existe uma biblioteca extraordinária de addons gratuitos esperando para transformar sua experiência — se você souber onde procurar. Para uma lista curada dos essenciais, veja também nosso [top 10 addons gratuitos para simulação](/pt/blog/top-10-addons-gratuitos-simulacao).
 
 ## Aeronaves Freeware: Qualidade de Nível Estudo a Custo Zero
 
@@ -26,7 +26,7 @@ A plataforma **DCS World** vem com dois excelentes módulos gratuitos: o **TF-51
 
 ### Aeroportos Freeware
 
-A cena de cenários aeroportuários explodiu. No **flightsim.to**, você encontrará milhares de pacotes aeroportuários feitos à mão para MSFS 2024, muitos rivalizando com a qualidade de ofertas comerciais. Entre os destaques estão representações detalhadas de aeroportos regionais pela Europa, Ásia e América do Sul, com terminais personalizados, layouts precisos de taxiways, marcações no solo e fingers animadas. Para X-Plane, o programa **Gateway** do **x-plane.org** continua a entregar aeroportos construídos pela comunidade diretamente no cenário padrão.
+A cena de cenários aeroportuários explodiu. Para um panorama completo das opções de cenários pagos e gratuitos, confira nosso [guia dos melhores addons de cenários para simulação de voo](/pt/blog/melhores-cenarios-addons-simulacao-voo-2026). No **flightsim.to**, você encontrará milhares de pacotes aeroportuários feitos à mão para MSFS 2024, muitos rivalizando com a qualidade de ofertas comerciais. Entre os destaques estão representações detalhadas de aeroportos regionais pela Europa, Ásia e América do Sul, com terminais personalizados, layouts precisos de taxiways, marcações no solo e fingers animadas. Para X-Plane, o programa **Gateway** do **x-plane.org** continua a entregar aeroportos construídos pela comunidade diretamente no cenário padrão.
 
 ### Ortho Scenery e Melhorias de Malha
 
@@ -70,4 +70,4 @@ Saber onde procurar é metade da batalha. Estes são os repositórios essenciais
 
 ## Considerações Finais
 
-A comunidade freeware de simulação de voo em 2026 está entregando um nível que constantemente borra a linha entre produtos gratuitos e pagos. Desde aeronaves de nível estudo como o FlyByWire A32NX e o Zibo 737, passando por milhares de pacotes de cenários, até ferramentas utilitárias sofisticadas — nunca houve um momento melhor para aprimorar seu simulador sem abrir a carteira. A chave é saber onde procurar, estar disposto a experimentar e retribuir à comunidade que torna tudo isso possível.
+A comunidade freeware de simulação de voo em 2026 está entregando um nível que constantemente borra a linha entre produtos gratuitos e pagos. Se está começando agora na simulação, nosso [guia de iniciante em simulação de voo](/pt/blog/guia-iniciante-simulacao-voo) ajuda a dar os primeiros passos antes de instalar addons. Desde aeronaves de nível estudo como o FlyByWire A32NX e o Zibo 737, passando por milhares de pacotes de cenários, até ferramentas utilitárias sofisticadas — nunca houve um momento melhor para aprimorar seu simulador sem abrir a carteira. A chave é saber onde procurar, estar disposto a experimentar e retribuir à comunidade que torna tudo isso possível.
