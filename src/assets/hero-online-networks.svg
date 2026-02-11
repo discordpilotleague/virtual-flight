@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 720" width="1440" height="720">
+  <defs>
+    <linearGradient id="radarBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a12"/>
+      <stop offset="100%" stop-color="#0a1a0a"/>
+    </linearGradient>
+    <radialGradient id="radarGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ff44" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#00ff44" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1440" height="720" fill="url(#radarBg)"/>
+
+  <!-- Radar scope -->
+  <circle cx="720" cy="360" r="320" fill="url(#radarGlow)" stroke="#00aa33" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="720" cy="360" r="240" fill="none" stroke="#00aa33" stroke-width="0.8" opacity="0.4"/>
+  <circle cx="720" cy="360" r="160" fill="none" stroke="#00aa33" stroke-width="0.8" opacity="0.3"/>
+  <circle cx="720" cy="360" r="80" fill="none" stroke="#00aa33" stroke-width="0.8" opacity="0.2"/>
+
+  <!-- Radar crosshairs -->
+  <line x1="400" y1="360" x2="1040" y2="360" stroke="#00aa33" stroke-width="0.5" opacity="0.3"/>
+  <line x1="720" y1="40" x2="720" y2="680" stroke="#00aa33" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Radar sweep -->
+  <line x1="720" y1="360" x2="920" y2="160" stroke="#00ff44" stroke-width="2" opacity="0.6"/>
+  <polygon points="920,160 900,175 910,180" fill="#00ff44" opacity="0.3"/>
+
+  <!-- Aircraft targets (green blips) -->
+  <!-- VATSIM traffic -->
+  <rect x="600" y="240" width="10" height="10" fill="#00ff44" opacity="0.9" transform="rotate(45,605,245)"/>
+  <text x="620" y="240" fill="#00ff44" font-family="monospace" font-size="10" opacity="0.8">AFR1842</text>
+  <text x="620" y="252" fill="#00ff44" font-family="monospace" font-size="9" opacity="0.6">FL350 A320</text>
+  <line x1="605" y1="245" x2="595" y2="235" stroke="#00ff44" stroke-width="1" opacity="0.6"/>
+
+  <rect x="850" y="300" width="10" height="10" fill="#00ff44" opacity="0.9" transform="rotate(45,855,305)"/>
+  <text x="870" y="300" fill="#00ff44" font-family="monospace" font-size="10" opacity="0.8">BAW256</text>
+  <text x="870" y="312" fill="#00ff44" font-family="monospace" font-size="9" opacity="0.6">FL380 B777</text>
+  <line x1="855" y1="305" x2="840" y2="295" stroke="#00ff44" stroke-width="1" opacity="0.6"/>
+
+  <rect x="520" y="400" width="10" height="10" fill="#00ff44" opacity="0.9" transform="rotate(45,525,405)"/>
+  <text x="540" y="400" fill="#00ff44" font-family="monospace" font-size="10" opacity="0.8">DLH490</text>
+  <text x="540" y="412" fill="#00ff44" font-family="monospace" font-size="9" opacity="0.6">FL310 A340</text>
+  <line x1="525" y1="405" x2="535" y2="415" stroke="#00ff44" stroke-width="1" opacity="0.6"/>
+
+  <rect x="780" y="450" width="10" height="10" fill="#00ccff" opacity="0.9" transform="rotate(45,785,455)"/>
+  <text x="800" y="450" fill="#00ccff" font-family="monospace" font-size="10" opacity="0.8">IBE3205</text>
+  <text x="800" y="462" fill="#00ccff" font-family="monospace" font-size="9" opacity="0.6">FL290 A321</text>
+  <line x1="785" y1="455" x2="775" y2="465" stroke="#00ccff" stroke-width="1" opacity="0.6"/>
+
+  <rect x="650" y="320" width="10" height="10" fill="#ffcc00" opacity="0.9" transform="rotate(45,655,325)"/>
+  <text x="670" y="320" fill="#ffcc00" font-family="monospace" font-size="10" opacity="0.8">EZY8841</text>
+  <text x="670" y="332" fill="#ffcc00" font-family="monospace" font-size="9" opacity="0.6">FL250 A319</text>
+  <line x1="655" y1="325" x2="645" y2="315" stroke="#ffcc00" stroke-width="1" opacity="0.6"/>
+
+  <!-- Network labels -->
+  <rect x="40" y="40" width="200" height="120" rx="4" fill="#001a00" opacity="0.7" stroke="#00aa33" stroke-width="1"/>
+  <text x="140" y="70" fill="#00ff44" font-family="monospace" font-size="16" text-anchor="middle" font-weight="bold">VATSIM</text>
+  <text x="140" y="90" fill="#00cc33" font-family="monospace" font-size="11" text-anchor="middle">Pilots: 2,847</text>
+  <text x="140" y="108" fill="#00cc33" font-family="monospace" font-size="11" text-anchor="middle">ATC: 312</text>
+  <text x="140" y="126" fill="#00cc33" font-family="monospace" font-size="11" text-anchor="middle">Online: ACTIVE</text>
+
+  <rect x="40" y="180" width="200" height="120" rx="4" fill="#000a1a" opacity="0.7" stroke="#0066cc" stroke-width="1"/>
+  <text x="140" y="210" fill="#00aaff" font-family="monospace" font-size="16" text-anchor="middle" font-weight="bold">IVAO</text>
+  <text x="140" y="230" fill="#0088cc" font-family="monospace" font-size="11" text-anchor="middle">Pilots: 1,523</text>
+  <text x="140" y="248" fill="#0088cc" font-family="monospace" font-size="11" text-anchor="middle">ATC: 198</text>
+  <text x="140" y="266" fill="#0088cc" font-family="monospace" font-size="11" text-anchor="middle">Online: ACTIVE</text>
+
+  <rect x="40" y="320" width="200" height="120" rx="4" fill="#1a0a00" opacity="0.7" stroke="#cc6600" stroke-width="1"/>
+  <text x="140" y="350" fill="#ffaa33" font-family="monospace" font-size="16" text-anchor="middle" font-weight="bold">PILOTLEAGUE</text>
+  <text x="140" y="370" fill="#cc8800" font-family="monospace" font-size="11" text-anchor="middle">Career Mode</text>
+  <text x="140" y="388" fill="#cc8800" font-family="monospace" font-size="11" text-anchor="middle">Rankings</text>
+  <text x="140" y="406" fill="#cc8800" font-family="monospace" font-size="11" text-anchor="middle">Online: ACTIVE</text>
+
+  <!-- Sector boundaries -->
+  <line x1="500" y1="100" x2="600" y2="600" stroke="#00aa33" stroke-width="0.5" opacity="0.2" stroke-dasharray="10,5"/>
+  <line x1="900" y1="80" x2="850" y2="620" stroke="#00aa33" stroke-width="0.5" opacity="0.2" stroke-dasharray="10,5"/>
+
+  <!-- Frequency info -->
+  <rect x="1200" y="40" width="200" height="80" rx="4" fill="#001a00" opacity="0.6" stroke="#00aa33" stroke-width="1"/>
+  <text x="1300" y="65" fill="#00ff44" font-family="monospace" font-size="12" text-anchor="middle">PARIS CTR</text>
+  <text x="1300" y="85" fill="#00ff44" font-family="monospace" font-size="18" text-anchor="middle" font-weight="bold">132.350</text>
+  <text x="1300" y="105" fill="#00cc33" font-family="monospace" font-size="10" text-anchor="middle">LFFF_CTR</text>
+</svg>

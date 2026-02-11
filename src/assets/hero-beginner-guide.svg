@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 720" width="1440" height="720">
+  <defs>
+    <linearGradient id="skyBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a2a4a"/>
+      <stop offset="60%" stop-color="#2a4a7a"/>
+      <stop offset="100%" stop-color="#4a7aaa"/>
+    </linearGradient>
+    <linearGradient id="runway" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#333"/>
+      <stop offset="100%" stop-color="#555"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="720" fill="url(#skyBg)"/>
+
+  <!-- Horizon line -->
+  <rect x="0" y="420" width="1440" height="300" fill="#1a3a1a" opacity="0.6"/>
+
+  <!-- Runway in perspective -->
+  <polygon points="660,720 780,720 740,420 700,420" fill="url(#runway)" stroke="#666" stroke-width="1"/>
+  <!-- Runway centerline dashes -->
+  <line x1="720" y1="720" x2="720" y2="680" stroke="#fff" stroke-width="3"/>
+  <line x1="720" y1="660" x2="720" y2="620" stroke="#fff" stroke-width="3"/>
+  <line x1="720" y1="600" x2="720" y2="560" stroke="#fff" stroke-width="2.5"/>
+  <line x1="720" y1="540" x2="720" y2="510" stroke="#fff" stroke-width="2"/>
+  <line x1="720" y1="495" x2="720" y2="475" stroke="#fff" stroke-width="1.5"/>
+  <line x1="720" y1="462" x2="720" y2="448" stroke="#fff" stroke-width="1"/>
+  <line x1="720" y1="440" x2="720" y2="430" stroke="#fff" stroke-width="0.8"/>
+
+  <!-- PAPI lights -->
+  <circle cx="650" cy="430" r="4" fill="#ff3333"/>
+  <circle cx="650" cy="440" r="4" fill="#ff3333"/>
+  <circle cx="650" cy="450" r="4" fill="#ffffff"/>
+  <circle cx="650" cy="460" r="4" fill="#ffffff"/>
+
+  <!-- Runway edge lights -->
+  <circle cx="665" cy="700" r="3" fill="#ffdd44" opacity="0.9"/>
+  <circle cx="775" cy="700" r="3" fill="#ffdd44" opacity="0.9"/>
+  <circle cx="670" cy="640" r="2.5" fill="#ffdd44" opacity="0.8"/>
+  <circle cx="770" cy="640" r="2.5" fill="#ffdd44" opacity="0.8"/>
+  <circle cx="678" cy="580" r="2" fill="#ffdd44" opacity="0.7"/>
+  <circle cx="762" cy="580" r="2" fill="#ffdd44" opacity="0.7"/>
+  <circle cx="685" cy="530" r="1.8" fill="#ffdd44" opacity="0.6"/>
+  <circle cx="755" cy="530" r="1.8" fill="#ffdd44" opacity="0.6"/>
+  <circle cx="692" cy="490" r="1.5" fill="#ffdd44" opacity="0.5"/>
+  <circle cx="748" cy="490" r="1.5" fill="#ffdd44" opacity="0.5"/>
+
+  <!-- Simplified HUD overlay -->
+  <rect x="300" y="100" width="840" height="520" rx="8" fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.3"/>
+
+  <!-- HUD flight path marker -->
+  <circle cx="720" cy="380" r="15" fill="none" stroke="#00ff88" stroke-width="2" opacity="0.7"/>
+  <line x1="695" y1="380" x2="705" y2="380" stroke="#00ff88" stroke-width="2" opacity="0.7"/>
+  <line x1="735" y1="380" x2="745" y2="380" stroke="#00ff88" stroke-width="2" opacity="0.7"/>
+  <line x1="720" y1="365" x2="720" y2="355" stroke="#00ff88" stroke-width="2" opacity="0.7"/>
+
+  <!-- HUD speed -->
+  <text x="340" y="370" fill="#00ff88" font-family="monospace" font-size="28" opacity="0.7">145</text>
+  <text x="340" y="400" fill="#00ff88" font-family="monospace" font-size="14" opacity="0.5">KTS</text>
+
+  <!-- HUD altitude -->
+  <text x="1040" y="370" fill="#00ff88" font-family="monospace" font-size="28" opacity="0.7">2,500</text>
+  <text x="1040" y="400" fill="#00ff88" font-family="monospace" font-size="14" opacity="0.5">FT</text>
+
+  <!-- HUD heading -->
+  <text x="690" y="150" fill="#00ff88" font-family="monospace" font-size="22" opacity="0.6">HDG 274</text>
+
+  <!-- Stars -->
+  <circle cx="200" cy="80" r="1.5" fill="#ffffff" opacity="0.6"/>
+  <circle cx="450" cy="50" r="1" fill="#ffffff" opacity="0.4"/>
+  <circle cx="900" cy="70" r="1.5" fill="#ffffff" opacity="0.5"/>
+  <circle cx="1200" cy="40" r="1" fill="#ffffff" opacity="0.4"/>
+  <circle cx="1100" cy="100" r="1.2" fill="#ffffff" opacity="0.3"/>
+  <circle cx="300" cy="130" r="1" fill="#ffffff" opacity="0.4"/>
+
+  <!-- Welcome text banner -->
+  <rect x="440" y="230" width="560" height="60" rx="6" fill="#001a33" opacity="0.7" stroke="#00ff88" stroke-width="1"/>
+  <text x="720" y="268" fill="#00ff88" font-family="monospace" font-size="24" text-anchor="middle" font-weight="bold">CLEARED TO LAND RWY 27</text>
+</svg>

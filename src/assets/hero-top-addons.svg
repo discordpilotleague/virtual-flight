@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 720" width="1440" height="720">
+  <defs>
+    <linearGradient id="addonBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a18"/>
+      <stop offset="100%" stop-color="#10101e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="720" fill="url(#addonBg)"/>
+
+  <!-- Title bar -->
+  <rect x="60" y="30" width="1320" height="50" rx="6" fill="#1a1a2e" stroke="#334" stroke-width="1"/>
+  <text x="720" y="62" fill="#00ccff" font-family="monospace" font-size="20" text-anchor="middle" font-weight="bold">TOP 10 FREEWARE ADDONS — FLIGHT SIMULATION 2026</text>
+
+  <!-- Grid of addon cards -->
+  <!-- Row 1 -->
+  <rect x="60" y="100" width="400" height="170" rx="6" fill="#0f0f1a" stroke="#00aa44" stroke-width="1.5"/>
+  <rect x="70" y="110" width="60" height="60" rx="4" fill="#002211" stroke="#00ff44" stroke-width="1"/>
+  <text x="100" y="148" fill="#00ff44" font-family="monospace" font-size="28" text-anchor="middle" font-weight="bold">#1</text>
+  <text x="150" y="135" fill="#ffffff" font-family="monospace" font-size="14" font-weight="bold">FlyByWire A32NX</text>
+  <text x="150" y="155" fill="#888899" font-family="monospace" font-size="11">MSFS 2024 | Aircraft</text>
+  <rect x="70" y="180" width="370" height="4" rx="2" fill="#1a1a2e"/>
+  <rect x="70" y="180" width="360" height="4" rx="2" fill="#00ff44" opacity="0.8"/>
+  <text x="150" y="205" fill="#666677" font-family="monospace" font-size="10">Study-level A320 | LNAV/VNAV | Custom FBW</text>
+  <text x="380" y="255" fill="#00ff44" font-family="monospace" font-size="12" text-anchor="end">★★★★★</text>
+
+  <rect x="520" y="100" width="400" height="170" rx="6" fill="#0f0f1a" stroke="#00aa44" stroke-width="1.5"/>
+  <rect x="530" y="110" width="60" height="60" rx="4" fill="#002211" stroke="#00ff44" stroke-width="1"/>
+  <text x="560" y="148" fill="#00ff44" font-family="monospace" font-size="28" text-anchor="middle" font-weight="bold">#2</text>
+  <text x="610" y="135" fill="#ffffff" font-family="monospace" font-size="14" font-weight="bold">Zibo 737-800</text>
+  <text x="610" y="155" fill="#888899" font-family="monospace" font-size="11">X-Plane 12 | Aircraft</text>
+  <rect x="530" y="180" width="370" height="4" rx="2" fill="#1a1a2e"/>
+  <rect x="530" y="180" width="350" height="4" rx="2" fill="#00ff44" opacity="0.8"/>
+  <text x="610" y="205" fill="#666677" font-family="monospace" font-size="10">Full FMC | Custom physics | Pro procedures</text>
+  <text x="840" y="255" fill="#00ff44" font-family="monospace" font-size="12" text-anchor="end">★★★★★</text>
+
+  <rect x="980" y="100" width="400" height="170" rx="6" fill="#0f0f1a" stroke="#0088cc" stroke-width="1.5"/>
+  <rect x="990" y="110" width="60" height="60" rx="4" fill="#001122" stroke="#0088ff" stroke-width="1"/>
+  <text x="1020" y="148" fill="#0088ff" font-family="monospace" font-size="28" text-anchor="middle" font-weight="bold">#3</text>
+  <text x="1070" y="135" fill="#ffffff" font-family="monospace" font-size="14" font-weight="bold">FSLTL Traffic</text>
+  <text x="1070" y="155" fill="#888899" font-family="monospace" font-size="11">MSFS 2024 | Utility</text>
+  <rect x="990" y="180" width="370" height="4" rx="2" fill="#1a1a2e"/>
+  <rect x="990" y="180" width="340" height="4" rx="2" fill="#0088ff" opacity="0.8"/>
+  <text x="1070" y="205" fill="#666677" font-family="monospace" font-size="10">Real-time ADS-B | Accurate liveries</text>
+  <text x="1300" y="255" fill="#0088ff" font-family="monospace" font-size="12" text-anchor="end">★★★★★</text>
+
+  <!-- Row 2 -->
+  <rect x="60" y="290" width="400" height="170" rx="6" fill="#0f0f1a" stroke="#0088cc" stroke-width="1"/>
+  <rect x="70" y="300" width="60" height="60" rx="4" fill="#001122" stroke="#0088ff" stroke-width="1"/>
+  <text x="100" y="338" fill="#0088ff" font-family="monospace" font-size="28" text-anchor="middle" font-weight="bold">#4</text>
+  <text x="150" y="325" fill="#ffffff" font-family="monospace" font-size="14" font-weight="bold">Ortho4XP</text>
+  <text x="150" y="345" fill="#888899" font-family="monospace" font-size="11">X-Plane 12 | Scenery</text>
+  <rect x="70" y="370" width="370" height="4" rx="2" fill="#1a1a2e"/>
+  <rect x="70" y="370" width="320" height="4" rx="2" fill="#0088ff" opacity="0.8"/>
+  <text x="150" y="395" fill="#666677" font-family="monospace" font-size="10">Satellite ortho tiles | Custom mesh</text>
+  <text x="380" y="445" fill="#0088ff" font-family="monospace" font-size="12" text-anchor="end">★★★★☆</text>
+
+  <rect x="520" y="290" width="400" height="170" rx="6" fill="#0f0f1a" stroke="#0088cc" stroke-width="1"/>
+  <rect x="530" y="300" width="60" height="60" rx="4" fill="#001122" stroke="#0088ff" stroke-width="1"/>
+  <text x="560" y="338" fill="#0088ff" font-family="monospace" font-size="28" text-anchor="middle" font-weight="bold">#5</text>
+  <text x="610" y="325" fill="#ffffff" font-family="monospace" font-size="14" font-weight="bold">MobiFlight</text>
+  <text x="610" y="345" fill="#888899" font-family="monospace" font-size="11">Multi-Sim | Hardware</text>
+  <rect x="530" y="370" width="370" height="4" rx="2" fill="#1a1a2e"/>
+  <rect x="530" y="370" width="310" height="4" rx="2" fill="#0088ff" opacity="0.8"/>
+  <text x="610" y="395" fill="#666677" font-family="monospace" font-size="10">Arduino bridge | Custom panels | Open-source</text>
+  <text x="840" y="445" fill="#0088ff" font-family="monospace" font-size="12" text-anchor="end">★★★★☆</text>
+
+  <rect x="980" y="290" width="400" height="170" rx="6" fill="#0f0f1a" stroke="#cc6600" stroke-width="1"/>
+  <rect x="990" y="300" width="60" height="60" rx="4" fill="#1a0a00" stroke="#ffaa33" stroke-width="1"/>
+  <text x="1020" y="338" fill="#ffaa33" font-family="monospace" font-size="28" text-anchor="middle" font-weight="bold">#6</text>
+  <text x="1070" y="325" fill="#ffffff" font-family="monospace" font-size="14" font-weight="bold">A-4E Skyhawk</text>
+  <text x="1070" y="345" fill="#888899" font-family="monospace" font-size="11">DCS World | Aircraft</text>
+  <rect x="990" y="370" width="370" height="4" rx="2" fill="#1a1a2e"/>
+  <rect x="990" y="370" width="300" height="4" rx="2" fill="#ffaa33" opacity="0.8"/>
+  <text x="1070" y="395" fill="#666677" font-family="monospace" font-size="10">Full clickable cockpit | Weapon systems</text>
+  <text x="1300" y="445" fill="#ffaa33" font-family="monospace" font-size="12" text-anchor="end">★★★★☆</text>
+
+  <!-- Row 3 (partial, showing 4 more as smaller cards) -->
+  <rect x="60" y="480" width="320" height="100" rx="4" fill="#0f0f1a" stroke="#555" stroke-width="1"/>
+  <text x="80" y="515" fill="#cc8800" font-family="monospace" font-size="20" font-weight="bold">#7</text>
+  <text x="120" y="515" fill="#ccccdd" font-family="monospace" font-size="13">NOAA Weather</text>
+  <text x="120" y="540" fill="#666677" font-family="monospace" font-size="10">X-Plane | Real weather injection</text>
+  <text x="340" y="565" fill="#888" font-family="monospace" font-size="11" text-anchor="end">★★★★☆</text>
+
+  <rect x="400" y="480" width="320" height="100" rx="4" fill="#0f0f1a" stroke="#555" stroke-width="1"/>
+  <text x="420" y="515" fill="#cc8800" font-family="monospace" font-size="20" font-weight="bold">#8</text>
+  <text x="460" y="515" fill="#ccccdd" font-family="monospace" font-size="13">SimBrief OFP</text>
+  <text x="460" y="540" fill="#666677" font-family="monospace" font-size="10">Multi-Sim | Flight planning</text>
+  <text x="680" y="565" fill="#888" font-family="monospace" font-size="11" text-anchor="end">★★★★☆</text>
+
+  <rect x="740" y="480" width="320" height="100" rx="4" fill="#0f0f1a" stroke="#555" stroke-width="1"/>
+  <text x="760" y="515" fill="#cc8800" font-family="monospace" font-size="20" font-weight="bold">#9</text>
+  <text x="800" y="515" fill="#ccccdd" font-family="monospace" font-size="13">ChartFox</text>
+  <text x="800" y="540" fill="#666677" font-family="monospace" font-size="10">Multi-Sim | Free approach charts</text>
+  <text x="1020" y="565" fill="#888" font-family="monospace" font-size="11" text-anchor="end">★★★★☆</text>
+
+  <rect x="1080" y="480" width="300" height="100" rx="4" fill="#0f0f1a" stroke="#555" stroke-width="1"/>
+  <text x="1100" y="515" fill="#cc8800" font-family="monospace" font-size="20" font-weight="bold">#10</text>
+  <text x="1145" y="515" fill="#ccccdd" font-family="monospace" font-size="13">flightsim.to</text>
+  <text x="1145" y="540" fill="#666677" font-family="monospace" font-size="10">MSFS | Community hub</text>
+  <text x="1340" y="565" fill="#888" font-family="monospace" font-size="11" text-anchor="end">★★★★★</text>
+
+  <!-- Footer -->
+  <rect x="60" y="600" width="1320" height="80" rx="6" fill="#0f0f1a" stroke="#334" stroke-width="1"/>
+  <text x="720" y="640" fill="#555566" font-family="monospace" font-size="14" text-anchor="middle">ALL ADDONS FREE TO DOWNLOAD — UPDATED FEBRUARY 2026</text>
+  <text x="720" y="665" fill="#334" font-family="monospace" font-size="11" text-anchor="middle">MSFS 2024 • X-PLANE 12 • DCS WORLD</text>
+</svg>
