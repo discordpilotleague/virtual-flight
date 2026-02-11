@@ -32,7 +32,7 @@ If precision engineering is your priority, the **VKB Gunfighter Mk.IV** is the s
 
 ## Yoke Recommendations for Civilian Flying
 
-If your primary simulators are **MSFS 2024** or **X-Plane 12** and you spend most of your time in Cessnas, Boeings, or Airbuses, a yoke is the more immersive and ergonomically correct choice. For a deeper look at specific yoke and joystick models, see our dedicated [joystick and yoke hardware review](/blog/hardware-review-joystick-yoke). Japanese readers can find a detailed review at [ジョイスティック＆ヨーク徹底レビュー](/ja/blog/hardware-review-joystick-yoke-ja).
+If your primary simulators are **MSFS 2024** or **X-Plane 12** and you spend most of your time in Cessnas, Boeings, or Airbuses, a yoke is the more immersive and ergonomically correct choice. For a deeper look at specific yoke and joystick models, see our dedicated [joystick and yoke hardware review](/blog/hardware-review-joystick-yoke).
 
 ### Honeycomb Alpha Yoke
 
