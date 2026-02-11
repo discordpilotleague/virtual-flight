@@ -14,7 +14,7 @@ Before you even launch your simulator, your peripherals need to be dialled in. A
 
 ### Joystick and Yoke Sensitivity Curves
 
-Most modern [HOTAS systems](/blog/best-hotas-flight-controller-2026) ship with linear response curves, which is rarely what you want for precise flying. For general aviation, I recommend a slight S-curve that deadens the center 10–15% of travel while maintaining full authority at the extremes. In MSFS 2024, navigate to Options → Controls and adjust the sensitivity slider to around -35% for pitch and roll. For DCS modules like the F-16C, you will want tighter curves — around -20% — since the real aircraft uses a force-sensing sidestick.
+Most modern [HOTAS systems](/blog/best-hotas-flight-controllers-2026) ship with linear response curves, which is rarely what you want for precise flying. For general aviation, I recommend a slight S-curve that deadens the center 10–15% of travel while maintaining full authority at the extremes. In MSFS 2024, navigate to Options → Controls and adjust the sensitivity slider to around -35% for pitch and roll. For DCS modules like the F-16C, you will want tighter curves — around -20% — since the real aircraft uses a force-sensing sidestick.
 
 ### Rudder Pedal Configuration
 

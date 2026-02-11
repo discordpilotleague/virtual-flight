@@ -16,7 +16,7 @@ At this level, you are working with a single 27-inch monitor, a mid-range HOTAS 
 
 ### The 1000 EUR Enthusiast Build
 
-This is where things get genuinely impressive. A triple 24-inch monitor setup on a VESA-compatible monitor arm provides roughly 180 degrees of forward visibility. Pair it with a **Thrustmaster HOTAS Warthog** or **VKB Gladiator NXT EVO** with a dedicated throttle -- see our guide to the [best HOTAS and flight controllers](/blog/best-hotas-flight-controller-2026) for help choosing, proper desk-mounted or frame-mounted HOTAS brackets, and a more sophisticated button box. At this budget, you can also incorporate a set of **rudder pedals** — the Thrustmaster TPR or VKB T-Rudder units are excellent choices. A DIY wooden frame or entry-level aluminum profile rig ties everything together.
+This is where things get genuinely impressive. A triple 24-inch monitor setup on a VESA-compatible monitor arm provides roughly 180 degrees of forward visibility. Pair it with a **Thrustmaster HOTAS Warthog** or **VKB Gladiator NXT EVO** with a dedicated throttle -- see our guide to the [best HOTAS and flight controllers](/blog/best-hotas-flight-controllers-2026) for help choosing, proper desk-mounted or frame-mounted HOTAS brackets, and a more sophisticated button box. At this budget, you can also incorporate a set of **rudder pedals** — the Thrustmaster TPR or VKB T-Rudder units are excellent choices. A DIY wooden frame or entry-level aluminum profile rig ties everything together.
 
 ### The 2000 EUR Advanced Build
 

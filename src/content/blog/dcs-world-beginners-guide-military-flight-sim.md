@@ -63,7 +63,7 @@ DCS World supports virtually every input device, but configuring controls proper
 
 ### Minimum Viable Control Setup
 
-At the absolute minimum, you need a joystick with a throttle axis. A [HOTAS (Hands On Throttle And Stick)](/blog/best-hotas-flight-controller-2026) system is strongly recommended. If you are starting with a basic joystick like the Logitech 3D Pro or Thrustmaster T.16000M, map the following immediately:
+At the absolute minimum, you need a joystick with a throttle axis. A [HOTAS (Hands On Throttle And Stick)](/blog/best-hotas-flight-controllers-2026) system is strongly recommended. If you are starting with a basic joystick like the Logitech 3D Pro or Thrustmaster T.16000M, map the following immediately:
 
 - **Pitch and roll** — joystick X and Y axes
 - **Yaw** — joystick twist (or rudder pedals if you have them)

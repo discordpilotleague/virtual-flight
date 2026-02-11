@@ -6,7 +6,7 @@ pubDate: 'Feb 14 2026'
 heroImage: '../../assets/hero-payware-aircraft.svg'
 ---
 
-[Freeware aircraft](/blog/top-10-free-addons-flight-sim) (Japanese: [トップ10無料アドオン特集](/ja/blog/top-10-muryou-addon-flight-sim)) have never been better, but payware remains the frontier where flight simulation reaches its highest fidelity. The best commercial add-ons in 2026 deliver aircraft systems modeled to a depth that mirrors real-world type-rating courseware, flight dynamics tuned by actual pilots, and visual quality that holds up at arm's length in VR. They are not cheap — a single aircraft can cost as much as the simulator itself — but for simmers who want the definitive version of a particular airframe, nothing else comes close.
+[Freeware aircraft](/blog/top-10-free-addons-flight-sim) have never been better, but payware remains the frontier where flight simulation reaches its highest fidelity. The best commercial add-ons in 2026 deliver aircraft systems modeled to a depth that mirrors real-world type-rating courseware, flight dynamics tuned by actual pilots, and visual quality that holds up at arm's length in VR. They are not cheap — a single aircraft can cost as much as the simulator itself — but for simmers who want the definitive version of a particular airframe, nothing else comes close.
 
 This guide covers the standout payware aircraft of 2026 across airliners, general aviation, and military categories, along with practical advice on value, performance impact, and where to buy.
 
@@ -16,7 +16,7 @@ This guide covers the standout payware aircraft of 2026 across airliners, genera
 
 PMDG has spent over two decades establishing itself as the benchmark for Boeing simulation, and the **777X** for MSFS 2024 is arguably their finest work. This package covers the 777-8 and 777-9 variants, both featuring the distinctive folding wingtips and GE9X engines that define Boeing's newest widebody. What sets the PMDG 777X apart is the systems depth: every page of the FMC is functional, the electrical system models individual buses and contactors, the hydraulic system tracks fluid quantity and pressure across three independent systems, and the autoflight logic replicates the real aircraft's behavior with remarkable precision.
 
-The flight model is another triumph. The 777X's fly-by-wire system — a first for a Boeing widebody — is modeled with the correct control laws, envelope protections, and manual reversion characteristics. Pilots who have flown the real aircraft have praised the handling qualities during approach, particularly the way the aircraft responds to thrust changes in the landing configuration. At approximately **$80 USD**, this is premium pricing, but you are getting an aircraft that will reward thousands of hours of study and flying. Tracking that progression is easier with a structured approach -- see our guide to [building a virtual pilot career and logbook](/blog/virtual-pilot-career-logbook) (Japanese: [バーチャルパイロットキャリア＆ログブック](/ja/blog/virtual-pilot-career-logbook-ja)).
+The flight model is another triumph. The 777X's fly-by-wire system — a first for a Boeing widebody — is modeled with the correct control laws, envelope protections, and manual reversion characteristics. Pilots who have flown the real aircraft have praised the handling qualities during approach, particularly the way the aircraft responds to thrust changes in the landing configuration. At approximately **$80 USD**, this is premium pricing, but you are getting an aircraft that will reward thousands of hours of study and flying. Tracking that progression is easier with a structured approach -- see our guide to [building a virtual pilot career and logbook](/blog/virtual-pilot-career-logbook).
 
 ### Fenix A380 for MSFS 2024
 
@@ -98,7 +98,7 @@ A practical tip: most developers offer the best price through their own store, s
 
 Payware aircraft are typically more demanding than their freeware or default counterparts. Here is what to expect and how to manage it:
 
-A quality [HOTAS or flight controller](/blog/best-hotas-flight-controller-2026) (Japanese: [HOTASコントローラーガイド2026](/ja/blog/best-hotas-flight-controllers-2026)) will help you get the most out of these complex aircraft, especially for modules that demand precise input.
+A quality [HOTAS or flight controller](/blog/best-hotas-flight-controllers-2026) will help you get the most out of these complex aircraft, especially for modules that demand precise input.
 
 **CPU impact** is usually the dominant factor. Study-level systems simulation runs complex logic every frame — FMC calculations, hydraulic system state machines, electrical bus load balancing. Aircraft like the PMDG 777X or Fenix A380 can consume 15–25% more CPU overhead than a default aircraft. A modern CPU with strong single-thread performance (Intel 13th/14th gen or AMD Ryzen 7000 series) handles this well.
 
