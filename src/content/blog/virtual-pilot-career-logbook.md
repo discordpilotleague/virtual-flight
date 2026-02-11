@@ -88,13 +88,13 @@ At this stage, your logbook is starting to accumulate entries. You are probably 
 
 ### Phase 2: Private Pilot (50–150 Hours)
 
-You have mastered the basics and are expanding your horizons. VFR cross-country flights, basic IFR procedures, and multi-leg trips fill your logbook. You might be flying more complex single-engine aircraft like the Beechcraft Bonanza or the Mooney M20R. This is often when pilots first venture into online flying, making their first VATSIM or IVAO connections.
+You have mastered the basics and are expanding your horizons. VFR cross-country flights, basic IFR procedures, and multi-leg trips fill your logbook. You might be flying more complex single-engine aircraft like the Beechcraft Bonanza or the Mooney M20R. This is often when pilots first venture into [online flight networks](/blog/best-online-flight-networks), making their first VATSIM or IVAO connections.
 
 You start to develop preferences — do you enjoy the methodical precision of IFR flying, or the freedom of VFR bush flying? Do you gravitate toward turboprops and regional routes, or are you eyeing the big jets? Your logbook is becoming a meaningful document.
 
 ### Phase 3: Commercial Pilot (150–500 Hours)
 
-The transition to multi-engine and turboprop aircraft marks the commercial phase. You are flying regional routes in aircraft like the ATR 72, the Dash 8-Q400, or the CRJ-700. Flight planning becomes more sophisticated — you are calculating fuel loads based on winds aloft, filing proper flight plans, and managing more complex systems.
+The transition to multi-engine and turboprop aircraft marks the commercial phase. You are flying regional routes in aircraft like the ATR 72, the Dash 8-Q400, or the CRJ-700. Flight planning becomes more sophisticated — you are calculating fuel loads based on winds aloft, filing proper flight plans, and managing more complex systems. This is also the stage where investing in [hardware that matches your skill level](/blog/hardware-review-joystick-yoke) pays real dividends in precision and immersion.
 
 Many pilots join virtual airlines at this stage, adding structure and community to their flying. You might fly scheduled routes for a virtual regional carrier, building hours and climbing the airline's rank structure.
 

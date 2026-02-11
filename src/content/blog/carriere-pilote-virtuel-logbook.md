@@ -22,7 +22,7 @@ Les heures s'accumulent. Les aéroports visités aussi. Voir « 347 heures de vo
 
 ### Valider votre expérience sur les réseaux
 
-Sur **VATSIM**, votre nombre d'heures conditionne votre éligibilité aux ratings pilote avancés. Sur **IVAO**, les examens pratiques exigent un minimum d'heures loguées. Sur **PilotLeague**, votre classement dépend directement de votre historique. Un logbook propre et complet est votre passeport.
+Sur **VATSIM**, votre nombre d'heures conditionne votre éligibilité aux ratings pilote avancés. Sur **IVAO**, les examens pratiques exigent un minimum d'heures loguées. Sur **PilotLeague**, votre classement dépend directement de votre historique. Un logbook propre et complet est votre passeport vers [les réseaux de vol en ligne](/fr/blog/comparatif-reseaux-vol-en-ligne) et les opportunités qu'ils offrent.
 
 ## Les outils de logbook automatisé
 
@@ -120,7 +120,7 @@ Votre landing rate est le baromètre le plus honnête de votre progression. Cons
 
 ### Diversifiez vos types d'avion
 
-Piloter uniquement des A320 pendant 300 heures ne fait pas de vous un pilote complet. Alternez entre le GA (aviation générale), les turbopropulseurs, les jets régionaux et les gros porteurs. Chaque type d'avion enseigne des compétences différentes.
+Piloter uniquement des A320 pendant 300 heures ne fait pas de vous un pilote complet. Alternez entre le GA (aviation générale), les turbopropulseurs, les jets régionaux et les gros porteurs. Chaque type d'avion enseigne des compétences différentes — et pour en tirer le meilleur parti, pensez à investir dans [un matériel adapté à votre niveau](/fr/blog/test-materiel-joystick-yoke-simulation).
 
 ### Volez dans des conditions difficiles
 

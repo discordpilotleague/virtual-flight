@@ -128,7 +128,7 @@ Los **MFG Crosswind V3** son considerados por muchos como los mejores pedales de
 
 ### Aviación comercial (A320, 737, A350)
 
-**Mejor opción:** Honeycomb Alpha + Bravo con configuración jet, o un sistema de sidestick para Airbus. Thrustmaster ofrece el **TCA Sidestick Airbus Edition** (~70 EUR) que replica la ergonomía del sidestick de un A320 — es notablemente inmersivo cuando volás el FBW A32NX o el Fenix A320.
+**Mejor opción:** Honeycomb Alpha + Bravo con configuración jet, o un sistema de sidestick para Airbus. Thrustmaster ofrece el **TCA Sidestick Airbus Edition** (~70 EUR) que replica la ergonomía del sidestick de un A320 — es notablemente inmersivo cuando volás el FBW A32NX o el Fenix A320. Para sacar el máximo partido a estos aviones, explorá [los addons gratuitos imprescindibles](/es/blog/top-10-addons-gratis-simulacion) que elevan la fidelidad del simulador sin coste alguno.
 
 ### Combate aéreo (DCS World)
 
@@ -150,7 +150,7 @@ Un detalle que muchos principiantes subestiman: el hardware de calidad no solo m
 
 ### No compres todo de golpe
 
-Empezá con un joystick. Volá unos meses. Determiná qué tipo de vuelo te apasiona. Después invertí en el siguiente componente que más impacte tu experiencia — generalmente pedales, después throttle o yoke según tu dirección.
+Empezá con un joystick. Volá unos meses. Determiná qué tipo de vuelo te apasiona. Si todavía estás en esa etapa inicial, consultá [nuestra guía para empezar en simulación](/es/blog/guia-principiante-simulacion-vuelo) para dar los primeros pasos con confianza. Después invertí en el siguiente componente que más impacte tu experiencia — generalmente pedales, después throttle o yoke según tu dirección.
 
 ### Comprá donde haya soporte
 

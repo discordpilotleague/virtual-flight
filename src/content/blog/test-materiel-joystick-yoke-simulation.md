@@ -40,7 +40,7 @@ Le **3D Pro** est le joystick le plus vendu au monde, et pour cause : il est dis
 
 **Où il pèche :** La précision. Les potentiomètres s'usent rapidement, créant des zones mortes et du jitter après quelques mois d'utilisation intensive. Le plastique bon marché craque sous les mains. Pas de throttle séparé.
 
-**Verdict :** Parfait pour les 3 premiers mois. Prévoyez de le remplacer si la simulation vous accroche.
+**Verdict :** Parfait pour les 3 premiers mois. Si vous débutez, consultez [notre guide pour débuter en simulation](/fr/blog/guide-debutant-simulation-vol) pour savoir quel matériel associer à vos premières heures de vol. Prévoyez de le remplacer si la simulation vous accroche.
 
 ### Thrustmaster T.Flight Stick X — 35 €
 
@@ -174,4 +174,4 @@ Un bon périphérique ne fait pas que rendre le vol plus agréable — il vous r
 
 ## Conclusion
 
-Le marché du matériel de simulation de vol en 2026 offre des options à chaque budget. Si vous devez retenir une seule recommandation : le **VKB Gladiator NXT EVO** est le meilleur rapport qualité/précision pour un joystick, et le **Honeycomb Alpha** est le yoke de référence. Mais le meilleur périphérique, c'est celui que vous utilisez. Même un gamepad Xbox vaut mieux qu'un Winwing qui prend la poussière. Choisissez selon votre budget, votre espace et votre style de vol — puis allez voler.
+Le marché du matériel de simulation de vol en 2026 offre des options à chaque budget. Si vous devez retenir une seule recommandation : le **VKB Gladiator NXT EVO** est le meilleur rapport qualité/précision pour un joystick, et le **Honeycomb Alpha** est le yoke de référence. Mais le meilleur périphérique, c'est celui que vous utilisez — surtout quand il est enrichi par [les addons gratuits indispensables](/fr/blog/top-10-addons-gratuits-simulation) qui décuplent le réalisme logiciel. Même un gamepad Xbox vaut mieux qu'un Winwing qui prend la poussière. Choisissez selon votre budget, votre espace et votre style de vol — puis allez voler.

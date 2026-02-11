@@ -58,7 +58,7 @@ Si volás X-Plane y querés que el terreno pase de "aceptable" a "espectacular",
 
 **Cómo funciona:** MobiFlight actúa como puente entre las placas Arduino (o compatibles) y el simulador. Definís en la interfaz de MobiFlight qué pin del Arduino corresponde a qué función del simulador, configurás el tipo de entrada (botón, encoder, potenciómetro) o salida (LED, display), y listo. No necesitás programar — la interfaz visual maneja todo.
 
-**Por qué está en esta lista:** Porque MobiFlight no es solo un addon — es una puerta a un hobby dentro del hobby. Construir tu propio hardware de cockpit es una de las experiencias más gratificantes que ofrece la simulación de vuelo, y MobiFlight lo hace accesible para cualquiera dispuesto a invertir tiempo y curiosidad.
+**Por qué está en esta lista:** Porque MobiFlight no es solo un addon — es una puerta a un hobby dentro del hobby. Construir tu propio hardware de cockpit es una de las experiencias más gratificantes que ofrece la simulación de vuelo, y MobiFlight lo hace accesible para cualquiera dispuesto a invertir tiempo y curiosidad. Si antes de construir preferís conocer [el hardware que complementa estos addons](/es/blog/test-hardware-joystick-yoke-sim), tenemos una guía completa de joysticks, yokes y HOTAS.
 
 ## 6. A-4E Skyhawk — La joya oculta de DCS World
 
@@ -90,7 +90,7 @@ X-Plane 12 ha mejorado enormemente su motor meteorológico, pero si buscás la m
 
 **Cuenta Navigraph:** SimBrief se beneficia enormemente de una suscripción a Navigraph (de pago) para acceder a datos AIRAC actualizados, pero funciona correctamente sin ella usando datos algo más antiguos.
 
-**Por qué es imprescindible:** SimBrief convierte la planificación de vuelo de un trámite en un placer. Cada vuelo empieza con un briefing profesional que te pone en mentalidad de piloto antes de tocar el simulador. Si no lo usás todavía, empezá hoy.
+**Por qué es imprescindible:** SimBrief convierte la planificación de vuelo de un trámite en un placer. Cada vuelo empieza con un briefing profesional que te pone en mentalidad de piloto antes de tocar el simulador. Si querés [estructurar tu carrera de piloto virtual](/es/blog/carrera-piloto-virtual-logbook), SimBrief combinado con un buen logbook es la base ideal. Si no lo usás todavía, empezá hoy.
 
 ## 9. ChartFox — Cartas aeronáuticas gratuitas
 

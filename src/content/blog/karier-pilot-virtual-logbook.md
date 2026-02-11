@@ -137,7 +137,7 @@ Beberapa faktor yang perlu dipertimbangkan:
 
 ### Rating Pilot di Jaringan Online
 
-Di VATSIM, rating pilot dimulai dari **PPL** (Private Pilot License) dan naik melalui **IFR**, **CMEL**, **ATPL**, dan beberapa rating spesialis. Setiap rating memerlukan pembuktian kompetensi, baik melalui penerbangan yang didokumentasikan maupun ujian.
+Di [jaringan terbang online](/id/blog/perbandingan-jaringan-terbang-online) seperti VATSIM, rating pilot dimulai dari **PPL** (Private Pilot License) dan naik melalui **IFR**, **CMEL**, **ATPL**, dan beberapa rating spesialis. Setiap rating memerlukan pembuktian kompetensi, baik melalui penerbangan yang didokumentasikan maupun ujian.
 
 Di IVAO, sistem serupa berlaku dengan penekanan lebih besar pada ujian formal. Rating IVAO sering lebih terstruktur dan memerlukan commitment waktu yang signifikan untuk advance.
 
@@ -159,7 +159,7 @@ Progression ini memberikan motivasi jangka panjang yang sangat kuat. Ada kepuasa
 - **Variasikan rute dan kondisi.** Jangan hanya terbang rute yang sama di cuaca cerah. Challenge diri Anda dengan approach yang sulit, crosswind landing, dan penerbangan malam.
 - **Dokumentasikan setiap penerbangan.** PIREP yang detail menunjukkan profesionalisme dan sering menjadi faktor dalam keputusan promosi.
 - **Ikuti event VA.** Partisipasi dalam event menunjukkan commitment dan sering memberi bonus poin.
-- **Pelajari pesawat secara mendalam.** Jangan pindah ke pesawat baru sebelum benar-benar menguasai yang sekarang.
+- **Pelajari pesawat secara mendalam.** Jangan pindah ke pesawat baru sebelum benar-benar menguasai yang sekarang. Pilih juga [hardware yang sesuai dengan level Anda](/id/blog/review-hardware-joystick-yoke) agar setiap upgrade perangkat sejalan dengan perkembangan keterampilan.
 
 ## Tools Perkembangan: Melampaui Logbook
 

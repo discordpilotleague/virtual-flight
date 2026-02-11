@@ -162,7 +162,7 @@ Antes de se conectar pela primeira vez, estude:
 
 ### Primeiro voo
 
-Faça seu primeiro voo conectado em **espaço aéreo não controlado** — um aeródromo sem ATC cobrindo. Assim, você se acostuma com o ambiente da rede (ver outros pilotos, usar UNICOM) sem a pressão de se comunicar com controladores. Depois de 2-3 voos assim, conecte-se num aeroporto com ATC e encare a experiência. O pior que pode acontecer é errar uma colação — o controlador vai te corrigir educadamente.
+Faça seu primeiro voo conectado em **espaço aéreo não controlado** — um aeródromo sem ATC cobrindo. Assim, você se acostuma com o ambiente da rede (ver outros pilotos, usar UNICOM) sem a pressão de se comunicar com controladores. Depois de 2-3 voos assim, conecte-se num aeroporto com ATC e encare a experiência. O pior que pode acontecer é errar uma colação — o controlador vai te corrigir educadamente. Se você ainda está dando os primeiros passos na simulação, consulte [nosso guia para iniciantes](/pt/blog/guia-iniciante-simulacao-voo) antes de se aventurar nas redes.
 
 ### Ferramentas de apoio
 
@@ -183,6 +183,6 @@ Se você quer [gerenciar sua carreira de piloto virtual](/pt/blog/carreira-pilot
 
 Não existe rede "melhor" em termos absolutos — existe a rede certa para o seu momento, sua localização e seus objetivos. O VATSIM oferece a maior comunidade e a melhor cobertura global. A IVAO oferece progressão estruturada e uma comunidade latina forte. O PilotEdge oferece qualidade profissional garantida num espaço geográfico limitado.
 
-O importante é dar o passo. Criar a conta. Instalar o cliente. Conectar. Esse primeiro voo em rede é um divisor de águas. Você vai errar, vai gaguejar no rádio, vai esquecer de colacionar algo. E isso é perfeitamente normal — todo piloto virtual passou por isso. A comunidade existe para ajudar, não para julgar.
+O importante é dar o passo. Criar a conta. Instalar o cliente. Conectar. Esse primeiro voo em rede é um divisor de águas. Você vai errar, vai gaguejar no rádio, vai esquecer de colacionar algo. E isso é perfeitamente normal — todo piloto virtual passou por isso. A comunidade existe para ajudar, não para julgar. Certifique-se também de ter [o hardware certo para voar online](/pt/blog/teste-hardware-joystick-yoke) — um bom joystick e um headset fazem toda a diferença na experiência em rede.
 
 Os céus compartilhados esperam por você.

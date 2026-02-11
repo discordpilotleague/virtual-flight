@@ -48,7 +48,7 @@ C'est le sweet spot. Un **HOTAS** (Hands On Throttle And Stick) comme le **Thrus
 
 ### Budget passionné (300 € et plus)
 
-Un **yoke** (volant d'avion) comme le **Honeycomb Alpha** associé à un **quadrant de manettes Bravo** reproduit fidèlement le cockpit d'un avion de ligne. Des palonniers comme les **Thrustmaster T.Flight Rudder Pedals** complètent l'immersion. À ce stade, chaque vol devient une expérience quasi tangible.
+Un **yoke** (volant d'avion) comme le **Honeycomb Alpha** associé à un **quadrant de manettes Bravo** reproduit fidèlement le cockpit d'un avion de ligne. Des palonniers comme les **Thrustmaster T.Flight Rudder Pedals** complètent l'immersion. À ce stade, chaque vol devient une expérience quasi tangible. Pour vous aider à choisir le périphérique idéal selon votre budget et votre style de vol, consultez [notre test complet des joysticks et yokes](/fr/blog/test-materiel-joystick-yoke-simulation) disponibles en 2026.
 
 ### L'ordinateur
 
@@ -99,7 +99,7 @@ Dès le début, tenez un **logbook** de vos vols. Notez la date, le trajet, le t
 
 ### Les tutoriels et formations
 
-La communauté regorge de ressources gratuites. Les chaînes YouTube comme **Squirrel**, **A320 Sim Pilot** ou **The Flight Sim Deck** proposent des tutoriels progressifs. Les manuels de vol du Cessna 172 et de l'A320 sont disponibles gratuitement en ligne — les lire, même partiellement, accélère considérablement l'apprentissage.
+La communauté regorge de ressources gratuites. Les chaînes YouTube comme **Squirrel**, **A320 Sim Pilot** ou **The Flight Sim Deck** proposent des tutoriels progressifs. Les manuels de vol du Cessna 172 et de l'A320 sont disponibles gratuitement en ligne — les lire, même partiellement, accélère considérablement l'apprentissage. Et quand vous serez prêt à enrichir votre simulateur, découvrez [les meilleurs addons gratuits](/fr/blog/top-10-addons-gratuits-simulation) pour améliorer le réalisme sans dépenser un centime.
 
 ### La prochaine étape : le vol connecté
 

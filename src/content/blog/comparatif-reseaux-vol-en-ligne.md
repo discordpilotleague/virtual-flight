@@ -109,7 +109,7 @@ Quel que soit le réseau choisi, la préparation est la même :
 
 ### 1. Maîtrisez votre avion
 
-Vous devez être capable de décoller, naviguer et atterrir sans aide. Connaissez votre appareil — au minimum le démarrage moteur, la gestion du pilote automatique et les approches ILS de base.
+Vous devez être capable de décoller, naviguer et atterrir sans aide. Connaissez votre appareil — au minimum le démarrage moteur, la gestion du pilote automatique et les approches ILS de base. Si vous n'en êtes pas encore là, [notre guide du débutant en simulation](/fr/blog/guide-debutant-simulation-vol) vous accompagnera pas à pas jusqu'à ce niveau.
 
 ### 2. Déposez un plan de vol
 
@@ -121,7 +121,7 @@ Même sur PilotLeague, connaître les bases de la communication aéronautique en
 
 ### 4. Commencez petit
 
-Votre premier vol en réseau devrait être un trajet court (30–45 minutes) depuis un aérodrome calme. Pas de transatlantique, pas d'aéroport majeur. Construisez votre confiance progressivement.
+Votre premier vol en réseau devrait être un trajet court (30–45 minutes) depuis un aérodrome calme. Pas de transatlantique, pas d'aéroport majeur. Construisez votre confiance progressivement. Et n'oubliez pas que disposer d'[un matériel de vol adapté](/fr/blog/test-materiel-joystick-yoke-simulation) fait une vraie différence en précision et en immersion sur le réseau.
 
 ## Vers une carrière de pilote virtuel structurée
 

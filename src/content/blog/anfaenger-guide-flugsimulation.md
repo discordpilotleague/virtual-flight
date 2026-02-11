@@ -30,7 +30,7 @@ Beginnen Sie mit MSFS 2024. Die Kombination aus atemberaubender Optik, zugängli
 
 ## Hardware-Anforderungen: Was brauche ich wirklich?
 
-Die Angst vor teurer Hardware hält viele davon ab, mit der Flugsimulation zu beginnen. Die gute Nachricht: Sie müssen keine Tausende investieren, um loszulegen. Hier sind drei realistische Budget-Stufen.
+Die Angst vor teurer Hardware hält viele davon ab, mit der Flugsimulation zu beginnen. Die gute Nachricht: Sie müssen keine Tausende investieren, um loszulegen. Mehr Details finden Sie in [unserem Hardware-Test](/de/blog/test-hardware-joystick-yoke), aber hier sind drei realistische Budget-Stufen.
 
 ### Budget-Einstieg (ca. 700–1.000 €)
 
@@ -106,7 +106,7 @@ Hier öffnet sich die wahre Tiefe der Flugsimulation. Steigen Sie auf komplexere
 
 ### Phase 4: Spezialisierung
 
-Ab hier entscheiden Sie selbst: Werden Sie Airliner-Pilot und fliegen Langstrecke in der PMDG 777? Werden Sie Buschpilot und landen auf unbefestigten Pisten in Papua-Neuguinea? Oder zieht es Sie zur militärischen Seite, zu DCS World und dem Studium der F/A-18C Hornet? Die Flugsimulation ist ein Hobby ohne Decke — es gibt immer etwas Neues zu lernen, zu meistern und zu entdecken.
+Ab hier entscheiden Sie selbst: Werden Sie Airliner-Pilot und fliegen Langstrecke in der PMDG 777? Werden Sie Buschpilot und landen auf unbefestigten Pisten in Papua-Neuguinea? Oder zieht es Sie zur militärischen Seite, zu DCS World und dem Studium der F/A-18C Hornet? Egal welchen Weg Sie wählen — entdecken Sie [die besten kostenlosen Addons](/de/blog/top-10-kostenlose-addons-flugsim), die Ihre Simulation auf das nächste Level heben. Die Flugsimulation ist ein Hobby ohne Decke — es gibt immer etwas Neues zu lernen, zu meistern und zu entdecken.
 
 ## Häufige Anfängerfehler — und wie Sie sie vermeiden
 

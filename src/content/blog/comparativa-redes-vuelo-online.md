@@ -36,7 +36,7 @@ Para los pilotos, el rating no es obligatorio para volar — podés conectarte y
 
 ### Software de conexión
 
-VATSIM utiliza **vPilot** (Windows) o **xPilot** (multiplataforma) para MSFS y X-Plane, y **DCS-SRS** para DCS World. La instalación es relativamente sencilla, y ambos clientes se actualizan regularmente. El modelo de voz utiliza códecs de alta calidad que hacen que las comunicaciones suenen notablemente realistas.
+VATSIM utiliza **vPilot** (Windows) o **xPilot** (multiplataforma) para MSFS y X-Plane, y **DCS-SRS** para DCS World. La instalación es relativamente sencilla, y ambos clientes se actualizan regularmente. El modelo de voz utiliza códecs de alta calidad que hacen que las comunicaciones suenen notablemente realistas. Para sacar el máximo partido a estas comunicaciones, conviene contar con [el hardware adecuado para volar en red](/es/blog/test-hardware-joystick-yoke-sim).
 
 ### Cultura y comunidad
 
@@ -129,7 +129,7 @@ La mayoría de clientes de conexión permiten escuchar las frecuencias sin trans
 
 ### 5. No tengas miedo de equivocarte
 
-Los controladores de VATSIM e IVAO están acostumbrados a trabajar con principiantes. Un simple "soy nuevo en la red" al contactar por primera vez genera paciencia y asistencia inmediata. Nadie nació sabiendo la fraseología — todos pasamos por ese primer vuelo con el corazón en la garganta.
+Los controladores de VATSIM e IVAO están acostumbrados a trabajar con principiantes. Un simple "soy nuevo en la red" al contactar por primera vez genera paciencia y asistencia inmediata. Nadie nació sabiendo la fraseología — todos pasamos por ese primer vuelo con el corazón en la garganta. Si todavía estás dando tus primeros pasos en el simulador, echá un vistazo a [nuestra guía para principiantes](/es/blog/guia-principiante-simulacion-vuelo) antes de conectarte a una red.
 
 ## Gestionar tu progresión en la red
 

@@ -22,7 +22,7 @@ Moderne Logbook-Tools erfassen weit mehr als Start und Landung. Sinkrate beim Au
 
 ### Anerkennung in der Community
 
-Bei virtuellen Airlines und Online-Netzwerken sind protokollierte Flugstunden die harte Währung. IVAO verlangt nachgewiesene Stunden für Rating-Aufstiege. Virtuelle Airlines vergeben Typberechtigungen und Beförderungen basierend auf dokumentierter Erfahrung. Ein gepflegtes Logbook ist Ihr Lebenslauf als virtueller Pilot.
+Bei virtuellen Airlines und in [den Online-Flugnetzwerken](/de/blog/vergleich-online-flugnetzwerke) sind protokollierte Flugstunden die harte Währung. IVAO verlangt nachgewiesene Stunden für Rating-Aufstiege. Virtuelle Airlines vergeben Typberechtigungen und Beförderungen basierend auf dokumentierter Erfahrung. Ein gepflegtes Logbook ist Ihr Lebenslauf als virtueller Pilot.
 
 ## Die besten Logbook- und Tracking-Tools 2026
 
@@ -126,7 +126,7 @@ Exportieren Sie Ihre Daten regelmäßig aus jeder Plattform. Volanta unterstütz
 
 ### Automatisierung mit externen Tools
 
-Fortgeschrittene Nutzer erstellen eigene Tracking-Lösungen mit Python-Skripten, die SimConnect-Daten aus MSFS, DataRefs aus X-Plane und Mission-Logs aus DCS auslesen und in eine zentrale Datenbank schreiben. Die technische Hürde ist moderat — Grundkenntnisse in Python genügen, und die Community stellt zahlreiche Vorlagen bereit.
+Fortgeschrittene Nutzer erstellen eigene Tracking-Lösungen mit Python-Skripten, die SimConnect-Daten aus MSFS, DataRefs aus X-Plane und Mission-Logs aus DCS auslesen und in eine zentrale Datenbank schreiben. Die technische Hürde ist moderat — Grundkenntnisse in Python genügen, und die Community stellt zahlreiche Vorlagen bereit. Natürlich spielt auch [die passende Hardware](/de/blog/test-hardware-joystick-yoke) eine zentrale Rolle dabei, wie präzise Ihre aufgezeichneten Flugdaten ausfallen.
 
 ## Die Kunst der Flugvorbereitung
 

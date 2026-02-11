@@ -199,7 +199,7 @@ Top-tier HOTAS yang menggabungkan presisi VKB-class dengan replika militer Winwi
 ### Setup Pemula (Rp 600.000–1.000.000)
 - Logitech Extreme 3D Pro atau Thrustmaster T.Flight Stick X
 - Konfigurasi: joystick saja, twist rudder
-- Cocok untuk: explorasi awal, menentukan preferensi
+- Cocok untuk: explorasi awal, menentukan preferensi — lihat [panduan kami untuk memulai simulasi](/id/blog/panduan-pemula-simulasi-penerbangan-2026) jika Anda baru terjun ke dunia ini
 
 ### Setup Menengah (Rp 2.500.000–5.000.000)
 - VKB Gladiator NXT EVO + Thrustmaster TFRP pedals
@@ -254,6 +254,6 @@ Head tracking bukan kemewahan — ini memberikan tingkat [imersi yang dibutuhkan
 
 ## Penutup
 
-Hardware simulasi penerbangan adalah investasi dalam kesenangan jangka panjang. Perangkat berkualitas bisa bertahan 5-10 tahun dan terus memberikan pengalaman yang memuaskan. Kunci utamanya: beli sesuai kebutuhan saat ini dengan sedikit ruang untuk pertumbuhan, dan upgrade secara bertahap seiring berkembangnya keterampilan dan preferensi Anda.
+Hardware simulasi penerbangan adalah investasi dalam kesenangan jangka panjang. Perangkat berkualitas bisa bertahan 5-10 tahun dan terus memberikan pengalaman yang memuaskan. Dan jangan lupa untuk melengkapi hardware Anda dengan [addon gratis yang wajib dimiliki](/id/blog/top-10-addon-gratis-simulasi) agar potensi perangkat Anda benar-benar termaksimalkan. Kunci utamanya: beli sesuai kebutuhan saat ini dengan sedikit ruang untuk pertumbuhan, dan upgrade secara bertahap seiring berkembangnya keterampilan dan preferensi Anda.
 
 Apapun budget Anda, yang terpenting adalah mulai terbang. Joystick Rp 500.000 di tangan pilot yang rajin berlatih akan menghasilkan pengalaman yang lebih baik daripada setup Rp 20 juta yang jarang disentuh. Hardware hanyalah alat — passion dan dedikasi Andalah yang membuat simulasi penerbangan menjadi pengalaman yang luar biasa.

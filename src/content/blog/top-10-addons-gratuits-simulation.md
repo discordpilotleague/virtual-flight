@@ -67,7 +67,7 @@ Le trafic IA par défaut de MSFS est fonctionnel mais anonyme. **FSLTL** le remp
 - Pilotez des afficheurs 7 segments, des LEDs, des encodeurs rotatifs et des interrupteurs réels depuis le sim
 - Compatible avec MSFS (via SimConnect) et X-Plane (via plugin)
 - Interface graphique intuitive — aucune programmation requise
-- La base de toute construction de **home cockpit** à budget maîtrisé
+- La base de toute construction de **home cockpit** à budget maîtrisé — à combiner avec [le matériel qui complète ces addons](/fr/blog/test-materiel-joystick-yoke-simulation) pour une immersion totale
 
 **Installation :** Téléchargeable sur mobiflight.com. La documentation communautaire est excellente.
 
@@ -105,7 +105,7 @@ L'injection de **météo réelle** est essentielle pour l'immersion. Le plugin *
 - Intégration directe avec le FMS du FlyByWire A32NX, le Zibo 737 et de nombreux avions payware
 - Export vers MSFS, X-Plane et les clients de vol en réseau
 
-Le niveau gratuit de SimBrief couvre 99 % des besoins d'un simmer. L'outil est devenu quasi obligatoire pour le vol IFR sérieux.
+Le niveau gratuit de SimBrief couvre 99 % des besoins d'un simmer. L'outil est devenu quasi obligatoire pour le vol IFR sérieux — et c'est aussi un allié précieux pour [structurer votre carrière de pilote virtuel](/fr/blog/carriere-pilote-virtuel-logbook) en gardant une trace organisée de chaque vol.
 
 ## 9. ChartFox (Multi-plateformes)
 

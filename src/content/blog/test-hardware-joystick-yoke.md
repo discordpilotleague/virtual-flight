@@ -30,7 +30,7 @@ HOTAS bezeichnet die Kombination aus Joystick und separatem Schubhebel — das S
 
 Der Logitech Extreme 3D Pro ist seit gefühlten Ewigkeiten der Standard-Einstiegsjoystick — und das aus gutem Grund. Für ca. 35 Euro bietet er 12 programmierbare Tasten, einen 8-Wege-Hatswitch, eine Twist-Achse für das Seitenruder und einen integrierten Schubhebel an der Basis. Die Verarbeitungsqualität ist für den Preis angemessen — Plastik, aber solides Plastik. Die Achsen verwenden Potentiometer, die nach ein bis zwei Jahren Gebrauchsspuren in Form von Drift zeigen können.
 
-**Für wen:** Absolute Einsteiger, die herausfinden wollen, ob Flugsimulation ihr Ding ist. Der Logitech 3D Pro kostet wenig, funktioniert sofort und lehrt die Grundlagen. Wenn Sie nach sechs Monaten immer noch begeistert sind, steigen Sie auf.
+**Für wen:** Absolute Einsteiger, die herausfinden wollen, ob Flugsimulation ihr Ding ist — mehr dazu finden Sie in [unserem Einsteiger-Guide](/de/blog/anfaenger-guide-flugsimulation). Der Logitech 3D Pro kostet wenig, funktioniert sofort und lehrt die Grundlagen. Wenn Sie nach sechs Monaten immer noch begeistert sind, steigen Sie auf.
 
 ### Thrustmaster T.Flight Stick X
 
@@ -146,6 +146,6 @@ Der Gebrauchtmarkt für Flugsimulations-Hardware ist aktiv — besonders auf Red
 
 ## Die richtige Hardware — der Schlüssel zur Immersion
 
-Die perfekte Hardware-Konfiguration macht den Unterschied zwischen „Ich spiele einen Flugsimulator" und „Ich fliege". Wenn Ihre Hände auf einem präzisen Yoke liegen, Ihre Füße auf Ruderpedalen ruhen und Ihr Schubhebel den Triebwerken exakt das mitteilt, was Sie wollen — dann verschwindet die Grenze zwischen Bildschirm und Cockpit. Und genau diese Immersion brauchen Sie, wenn Sie den nächsten Schritt wagen und in die Welt des Online-Fliegens einsteigen. Die richtige Hardware liefert Ihnen [die nötige Immersion für das Online-Fliegen](/de/blog/vergleich-online-flugnetzwerke), wo Präzision und schnelle Reaktion über Ihr Erlebnis entscheiden.
+Die perfekte Hardware-Konfiguration macht den Unterschied zwischen „Ich spiele einen Flugsimulator" und „Ich fliege". Ergänzen Sie Ihr Setup mit [den besten kostenlosen Addons](/de/blog/top-10-kostenlose-addons-flugsim), um das volle Potenzial Ihrer Hardware auszuschöpfen. Wenn Ihre Hände auf einem präzisen Yoke liegen, Ihre Füße auf Ruderpedalen ruhen und Ihr Schubhebel den Triebwerken exakt das mitteilt, was Sie wollen — dann verschwindet die Grenze zwischen Bildschirm und Cockpit. Und genau diese Immersion brauchen Sie, wenn Sie den nächsten Schritt wagen und in die Welt des Online-Fliegens einsteigen. Die richtige Hardware liefert Ihnen [die nötige Immersion für das Online-Fliegen](/de/blog/vergleich-online-flugnetzwerke), wo Präzision und schnelle Reaktion über Ihr Erlebnis entscheiden.
 
 Wählen Sie die Hardware, die zu Ihrem Flugstil, Ihrem Budget und Ihren Ambitionen passt. Und dann fliegen Sie. Fliegen Sie so viel wie möglich. Denn am Ende ist nicht die Hardware der limitierende Faktor — sondern die Stunden, die Sie mit ihr verbringen.

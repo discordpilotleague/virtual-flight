@@ -70,7 +70,7 @@ Common MobiFlight projects include radio panels with 7-segment frequency display
 
 **Installation:** Download MobiFlight Connector from the official website. Install the Arduino IDE for firmware flashing. Extensive documentation and community tutorials cover everything from first setup to complex multi-board configurations.
 
-**Why it matters:** MobiFlight democratizes home cockpit building. What previously required expensive commercial panels from Saitek or GoFlight can now be achieved with $10 worth of Arduino components and free software. The tactile experience of flipping physical switches transforms immersion in a way that no visual addon can match.
+**Why it matters:** MobiFlight democratizes home cockpit building. What previously required expensive commercial panels from Saitek or GoFlight can now be achieved with $10 worth of Arduino components and free software. The tactile experience of flipping physical switches transforms immersion in a way that no visual addon can match — see [the hardware that complements these addons](/blog/hardware-review-joystick-yoke) for joystick, yoke, and HOTAS recommendations at every price point.
 
 ## 6. A-4E-C Skyhawk (DCS World)
 
@@ -156,4 +156,4 @@ Before installing new addons or updating existing ones, back up your working con
 
 The ten addons on this list represent thousands of hours of volunteer development, community testing, and iterative refinement. They are gifts from a community that believes flight simulation should be accessible, detailed, and continuously improving. Together, they transform a stock simulator into something approaching a professional training tool — and they do it for free.
 
-Install them. Learn them. And then pay it forward by contributing feedback, reporting bugs, and supporting the developers who make the flight simulation community what it is.
+Install them. Learn them. And once your addon library is in place, [structure your virtual pilot career](/blog/virtual-pilot-career-logbook) with proper logbook and ACARS tools to give every flight lasting meaning. Then pay it forward by contributing feedback, reporting bugs, and supporting the developers who make the flight simulation community what it is.

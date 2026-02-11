@@ -48,7 +48,7 @@ Vamos ser diretos: você **não precisa** de um cockpit caseiro de R$20.000 para
 
 ### Nível 1: O mínimo funcional (R$300-600)
 
-Um **joystick básico** como o Logitech Extreme 3D Pro ou o Thrustmaster T.16000M. Ambos oferecem controle nos três eixos (pitch, roll e yaw via twist), botões programáveis e um throttle integrado na base. Com isso, você já consegue voar com precisão e prazer. Adicione um **headset** decente para comunicação quando for [participar de redes de voo online](/pt/blog/comparativo-redes-voo-online).
+Um **joystick básico** como o Logitech Extreme 3D Pro ou o Thrustmaster T.16000M. Ambos oferecem controle nos três eixos (pitch, roll e yaw via twist), botões programáveis e um throttle integrado na base. Com isso, você já consegue voar com precisão e prazer. Para escolher o periférico ideal para o seu orçamento, veja [nosso teste completo de hardware](/pt/blog/teste-hardware-joystick-yoke). Adicione um **headset** decente para comunicação quando for [participar de redes de voo online](/pt/blog/comparativo-redes-voo-online).
 
 ### Nível 2: Conforto e precisão (R$1.000-2.500)
 
@@ -150,7 +150,7 @@ Participe de **fly-ins**, eventos de travessia oceânica e operações coordenad
 
 ## Erros comuns de iniciantes (e como evitá-los)
 
-**Querer voar um A320 no primeiro dia.** Resista à tentação. Aeronaves complexas sem base em aeronaves simples resultam em frustração e maus hábitos. Dedique no mínimo 20 horas ao Cessna 172 antes de migrar.
+**Querer voar um A320 no primeiro dia.** Resista à tentação. Aeronaves complexas sem base em aeronaves simples resultam em frustração e maus hábitos. Dedique no mínimo 20 horas ao Cessna 172 antes de migrar. Quando estiver pronto para expandir, confira [os melhores addons gratuitos](/pt/blog/top-10-addons-gratuitos-simulacao) que elevam a experiência sem custo adicional.
 
 **Ignorar o checklist.** Mesmo numa aeronave simples, seguir o checklist desenvolve disciplina e procedimento. Essa disciplina vai ser essencial em aeronaves complexas.
 

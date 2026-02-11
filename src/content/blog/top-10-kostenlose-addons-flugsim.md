@@ -42,7 +42,7 @@ Ortho4XP unterstützt verschiedene Satellitenbildquellen, wobei die Verfügbarke
 
 ## 5. MobiFlight — Ihr Cockpit wird real
 
-MobiFlight schlägt die Brücke zwischen virtueller und physischer Welt. Diese Open-Source-Software verbindet selbstgebaute Hardware-Panels — basierend auf Arduino-Boards und handelsüblichen elektronischen Komponenten — direkt mit MSFS 2024 und X-Plane 12.
+MobiFlight schlägt die Brücke zwischen virtueller und physischer Welt. Wenn Sie sich auch für [die Hardware, die diese Addons ergänzt](/de/blog/test-hardware-joystick-yoke) interessieren, lohnt sich ein Blick auf unseren umfassenden Hardware-Test. Diese Open-Source-Software verbindet selbstgebaute Hardware-Panels — basierend auf Arduino-Boards und handelsüblichen elektronischen Komponenten — direkt mit MSFS 2024 und X-Plane 12.
 
 Stellen Sie sich vor: Ein echtes Annunciator-Panel mit LEDs, die den Status Ihrer Triebwerke anzeigen. Ein selbstgebautes Autopilot-Panel mit echten Drehknöpfen für Heading, Altitude und Speed. Ein Gear-Hebel aus dem 3D-Drucker, der tatsächlich die Fahrwerke Ihres virtuellen Flugzeugs ein- und ausfährt. All das ist mit MobiFlight möglich — und die Community teilt Baupläne, 3D-Druck-Vorlagen und Konfigurationen kostenlos.
 
@@ -114,7 +114,7 @@ Mit zunehmender Addon-Sammlung steigt das Risiko von Konflikten und Performance-
 
 Die Freeware-Community ist das Herz der Flugsimulation. Ohne FlyByWire hätte MSFS keinen konkurrenzfähigen Airbus. Ohne den Zibo hätte X-Plane keinen Study-Level-Airliner zum Nulltarif. Ohne FSLTL wären MSFS-Flughäfen leere Geisterstädte. Diese Projekte werden von Enthusiasten getragen, die Hunderte oder Tausende unbezahlter Arbeitsstunden investieren — aus reiner Leidenschaft für die Simulation.
 
-Wenn Ihnen ein Freeware-Addon gefällt, zeigen Sie Ihre Wertschätzung: Spenden Sie an das Projekt, hinterlassen Sie eine positive Bewertung, melden Sie Fehler konstruktiv, teilen Sie das Addon in Ihrer Community. Dieses Ökosystem lebt von Gegenseitigkeit.
+Wenn Ihnen ein Freeware-Addon gefällt, zeigen Sie Ihre Wertschätzung: Spenden Sie an das Projekt, hinterlassen Sie eine positive Bewertung, melden Sie Fehler konstruktiv, teilen Sie das Addon in Ihrer Community. Dieses Ökosystem lebt von Gegenseitigkeit. Und mit diesen Addons können Sie auch [Ihre Pilotenkarriere strukturieren](/de/blog/virtuelle-pilotenkarriere-logbook) und Ihren Fortschritt professionell dokumentieren.
 
 Und wenn Sie gerade erst anfangen und sich fragen, wie Sie diese Addons am besten in Ihre Simulation integrieren — werfen Sie einen Blick in unseren Leitfaden, [wenn Sie mit der Simulation beginnen](/de/blog/anfaenger-guide-flugsimulation), der Ihnen den Einstieg Schritt für Schritt erklärt.
 

@@ -18,7 +18,7 @@ El mercado de la simulación de vuelo en 2026 está dominado por tres grandes pl
 
 **MSFS 2024** es, sin rodeos, la puerta de entrada más recomendable para un principiante. Microsoft ha volcado recursos colosales en crear un mundo visualmente impactante: el planeta entero reconstruido con datos satelitales de Bing Maps, meteorología dinámica que replica las condiciones reales en tiempo real, tráfico aéreo vivo y un ciclo día-noche que quita el aliento. Pero no se trata solo de belleza. MSFS 2024 incorpora un modo carrera que te guía desde vuelos de bush piloto hasta operaciones de aerolínea comercial, creando una progresión natural que mantiene la motivación.
 
-El catálogo de aeronaves por defecto es generoso — desde el humilde Cessna 172 Skyhawk hasta el Boeing 747-8 — y la comunidad en plataformas como flightsim.to ofrece miles de addons gratuitos que extienden la experiencia de forma casi infinita. Los tutoriales integrados están bien diseñados: te toman de la mano sin condescendencia, explicando los controles básicos, la lectura de instrumentos y los fundamentos de la navegación.
+El catálogo de aeronaves por defecto es generoso — desde el humilde Cessna 172 Skyhawk hasta el Boeing 747-8 — y la comunidad en plataformas como flightsim.to ofrece miles de addons gratuitos que extienden la experiencia de forma casi infinita — consultá [los mejores addons gratuitos](/es/blog/top-10-addons-gratis-simulacion) para saber por dónde empezar. Los tutoriales integrados están bien diseñados: te toman de la mano sin condescendencia, explicando los controles básicos, la lectura de instrumentos y los fundamentos de la navegación.
 
 **Por qué empezar aquí:** tutoriales interactivos, modo carrera motivador, la comunidad más grande del ecosistema, gráficos que generan inmersión inmediata.
 
@@ -52,7 +52,7 @@ Un **joystick básico** es todo lo que necesitás para dar tus primeros pasos. E
 
 ### Presupuesto intermedio (100-300 EUR)
 
-Este es el punto dulce. Un sistema **HOTAS** (Hands On Throttle And Stick) como el **Thrustmaster T16000M FCS** combina un joystick con sensores Hall de buena precisión y un throttle separado. La separación de manos transforma la experiencia: controlás la potencia con la izquierda mientras pilotás con la derecha, exactamente como en un cockpit real. Si estás pensando en volar en redes online, añadí un headset con micrófono — lo vas a necesitar para las comunicaciones con ATC.
+Este es el punto dulce. Un sistema **HOTAS** (Hands On Throttle And Stick) como el **Thrustmaster T16000M FCS** combina un joystick con sensores Hall de buena precisión y un throttle separado — podés leer [nuestra review de hardware](/es/blog/test-hardware-joystick-yoke-sim) para elegir el que mejor se adapte a tu presupuesto. La separación de manos transforma la experiencia: controlás la potencia con la izquierda mientras pilotás con la derecha, exactamente como en un cockpit real. Si estás pensando en volar en redes online, añadí un headset con micrófono — lo vas a necesitar para las comunicaciones con ATC.
 
 ### Presupuesto entusiasta (300 EUR en adelante)
 

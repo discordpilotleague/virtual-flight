@@ -165,7 +165,7 @@ Apa pun jaringan yang Anda pilih, berikut beberapa tips dari pengalaman saya:
 
 ### Persiapkan Flight Plan
 
-Sebelum connect ke jaringan, siapkan flight plan Anda. Gunakan tools seperti SimBrief untuk generate rute, fuel calculation, dan performance data. Flight plan yang baik menunjukkan profesionalisme dan memudahkan ATC untuk melayani Anda.
+Sebelum connect ke jaringan, siapkan flight plan Anda. Gunakan tools seperti SimBrief untuk generate rute, fuel calculation, dan performance data. Flight plan yang baik menunjukkan profesionalisme dan memudahkan ATC untuk melayani Anda. Pastikan juga Anda memiliki [hardware yang tepat untuk terbang online](/id/blog/review-hardware-joystick-yoke) — terutama headset dengan mikrofon yang layak untuk komunikasi radio.
 
 ### Dengarkan Dulu, Bicara Kemudian
 
@@ -173,7 +173,7 @@ Pada penerbangan online pertama Anda, ambil posisi di bandara yang tidak terlalu
 
 ### Mulai dari VFR
 
-Jangan langsung terbang IFR di airliner pada penerbangan online pertama. Mulailah dengan penerbangan VFR sederhana menggunakan Cessna 172 di bandara kecil. Interaksi ATC untuk VFR jauh lebih sederhana dan pressure-nya lebih rendah.
+Jangan langsung terbang IFR di airliner pada penerbangan online pertama. Mulailah dengan penerbangan VFR sederhana menggunakan Cessna 172 di bandara kecil — jika Anda belum familiar, ikuti [panduan pemula kami](/id/blog/panduan-pemula-simulasi-penerbangan-2026) terlebih dahulu. Interaksi ATC untuk VFR jauh lebih sederhana dan pressure-nya lebih rendah.
 
 ### Jangan Takut Bertanya
 

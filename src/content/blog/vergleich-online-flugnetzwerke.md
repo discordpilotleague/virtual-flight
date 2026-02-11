@@ -24,7 +24,7 @@ Die ATC-Abdeckung bei VATSIM ist unübertroffen, allerdings hochgradig variabel.
 
 ### Piloten-Erfahrung
 
-Die Verbindung zu VATSIM erfolgt über dedizierte Clients. Für MSFS 2024 ist vPilot der Standard, für X-Plane 12 wird xPilot verwendet, und DCS World wird über spezielle Brücken-Plugins angebunden. Die Audio-Qualität hat sich mit dem AFV-System (Audio for VATSIM) dramatisch verbessert — die Simulation von HF-Rauschen, VHF-Qualität und Distanzeffekten ist beeindruckend realistisch.
+Die Verbindung zu VATSIM erfolgt über dedizierte Clients — und natürlich spielt auch [die richtige Hardware für das Online-Fliegen](/de/blog/test-hardware-joystick-yoke) eine entscheidende Rolle. Für MSFS 2024 ist vPilot der Standard, für X-Plane 12 wird xPilot verwendet, und DCS World wird über spezielle Brücken-Plugins angebunden. Die Audio-Qualität hat sich mit dem AFV-System (Audio for VATSIM) dramatisch verbessert — die Simulation von HF-Rauschen, VHF-Qualität und Distanzeffekten ist beeindruckend realistisch.
 
 Für Anfänger bietet VATSIM umfangreiche Ressourcen: das P1-Rating (Neupilot) erlaubt sofortiges Fliegen, das offizielle Piloten-Trainingsmaterial ist kostenlos zugänglich, und die Community ist — entgegen mancher Vorurteile — überwiegend hilfsbereit. Die Regel ist einfach: Wenn Sie unsicher sind, fragen Sie. Kein Controller wird Sie anschreien.
 
@@ -95,7 +95,7 @@ PilotLeague integriert Karriereprogression direkt in die Plattform. Piloten durc
 
 ### Sie sind Anfänger und wollen Online-Fliegen ausprobieren
 
-Beginnen Sie mit VATSIM. Die größte Community bedeutet die höchste Wahrscheinlichkeit, auf Ihren ersten Flügen tatsächlich kontrolliertem Luftraum zu begegnen. Die P1-Rating-Einstiegshürde ist bewusst niedrig. Alternativ bietet PilotLeague dank des KI-ATC einen sanfteren Einstieg — Sie können die Verfahren üben, auch wenn kein menschlicher Controller online ist.
+Beginnen Sie mit VATSIM. Die größte Community bedeutet die höchste Wahrscheinlichkeit, auf Ihren ersten Flügen tatsächlich kontrolliertem Luftraum zu begegnen. Die P1-Rating-Einstiegshürde ist bewusst niedrig. Wenn Sie noch ganz am Anfang stehen, hilft Ihnen [unser Einsteiger-Guide](/de/blog/anfaenger-guide-flugsimulation) bei den ersten Schritten. Alternativ bietet PilotLeague dank des KI-ATC einen sanfteren Einstieg — Sie können die Verfahren üben, auch wenn kein menschlicher Controller online ist.
 
 ### Sie suchen ein strukturiertes Karrieresystem mit klaren Zielen
 

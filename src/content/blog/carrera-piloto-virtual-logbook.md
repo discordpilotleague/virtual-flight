@@ -116,7 +116,7 @@ Una **aerolínea virtual** (VA) es una comunidad organizada de pilotos virtuales
 
 ### Ratings en redes de vuelo
 
-Como vimos en la comparativa de redes online, tanto VATSIM como IVAO implementan sistemas de rating para pilotos. En IVAO, la progresión es especialmente estructurada: cada nivel requiere un número mínimo de horas de vuelo, aprobación de exámenes teóricos (navegación, meteorología, fraseología, instrumentos) y evaluaciones prácticas con examinadores.
+Como vimos en la comparativa de [las redes de vuelo en línea](/es/blog/comparativa-redes-vuelo-online), tanto VATSIM como IVAO implementan sistemas de rating para pilotos. En IVAO, la progresión es especialmente estructurada: cada nivel requiere un número mínimo de horas de vuelo, aprobación de exámenes teóricos (navegación, meteorología, fraseología, instrumentos) y evaluaciones prácticas con examinadores.
 
 ### Ratings en aerolíneas virtuales
 
@@ -187,6 +187,6 @@ Para llevar tu experiencia al siguiente nivel de inmersión visual y funcional, 
 
 La carrera de piloto virtual no es una fantasía — es un sistema concreto con herramientas maduras, comunidades activas y estructuras de progresión probadas. Un logbook bien mantenido, un cliente ACARS conectado a una aerolínea virtual activa, y un sistema de rating que te exija superarte constantemente son los tres pilares que sostienen una experiencia de simulación con propósito y dirección.
 
-No necesitás todo desde el primer día. Empezá por el logbook — que cada vuelo quede registrado. El resto se construye naturalmente sobre esa base.
+No necesitás todo desde el primer día. Empezá por el logbook — que cada vuelo quede registrado. Asegurate también de contar con [el hardware adecuado para tu nivel](/es/blog/test-hardware-joystick-yoke-sim), ya que unos buenos controles hacen que cada hora de vuelo registrada valga más. El resto se construye naturalmente sobre esa base.
 
 Tu carrera empieza ahora. Cada vuelo cuenta.

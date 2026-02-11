@@ -192,13 +192,13 @@ VKB's T-Rudder takes a different approach — it uses a rocking mechanism operat
 
 Quality hardware does more than improve precision — it transforms the entire experience of flight simulation. The tactile feedback of a well-engineered throttle clicking through its detent gates, the progressive resistance of a precision gimbal as you roll into a turn, the satisfying weight of machined aluminum under your hands — these physical sensations create [the immersion needed for online flying](/blog/best-online-flight-networks) where every interaction with ATC and other pilots demands your full attention and competence.
 
-There is a reason that real-world flight training uses physical controls rather than touchscreens. The proprioceptive feedback — the sense of where your hands are and what forces they are applying — is a fundamental part of how pilots develop muscle memory and situational awareness. When your simulator hardware provides that feedback faithfully, the boundary between simulation and reality blurs in the most satisfying way.
+There is a reason that real-world flight training uses physical controls rather than touchscreens. The proprioceptive feedback — the sense of where your hands are and what forces they are applying — is a fundamental part of how pilots develop muscle memory and situational awareness. When your simulator hardware provides that feedback faithfully, the boundary between simulation and reality blurs in the most satisfying way. Pair quality controllers with [the essential free addons](/blog/top-10-free-addons-flight-sim) and the software side of your cockpit will match the hardware.
 
 ## Buying Advice: Practical Considerations
 
 ### Try Before You Upgrade
 
-If you are new to flight simulation, start with the cheapest functional controller you can find. Fly with it for a few months. Discover what type of flying you enjoy most. Then make an informed upgrade based on your actual preferences rather than aspirational ones. The simmer who buys a full Winwing HOTAS setup before discovering they prefer GA flying over combat has spent a lot of money on the wrong hardware.
+If you are new to flight simulation, start with the cheapest functional controller you can find — and consult [our beginner's guide to flight simulation](/blog/beginner-guide-flight-simulation) to build your skills alongside your hardware. Fly with it for a few months. Discover what type of flying you enjoy most. Then make an informed upgrade based on your actual preferences rather than aspirational ones. The simmer who buys a full Winwing HOTAS setup before discovering they prefer GA flying over combat has spent a lot of money on the wrong hardware.
 
 ### Buy the Controller, Not the Brand
 

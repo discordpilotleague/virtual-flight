@@ -227,9 +227,9 @@ SimBrief生成的飞行计划可以直接导入MSFS、X-Plane以及各大第三�
 - 开始使用Volanta或STKP记录飞行数据
 
 ### 第二阶段：IFR入门（50-150小时）
-- 过渡到更复杂的单发飞机（如钻石DA62）
+- 过渡到更复杂的单发飞机（如钻石DA62），同时考虑升级[匹配您水平的硬件](/zh/blog/yingjian-ceping-yaogan-tuogan)
 - 学习IFR飞行规则和标准仪表进近
-- 注册VATSIM或IVAO，开始在线飞行
+- 注册VATSIM或IVAO，开始在[在线飞行网络](/zh/blog/zaixian-feixing-wangluo-duibi)中飞行
 - 加入一个虚拟航空公司
 
 ### 第三阶段：客机运营（150-500小时）

@@ -229,7 +229,7 @@ Investir em um suporte dedicado — seja uma **desk mount** simples ou um **cock
 
 ### Iniciante com orçamento limitado
 
-**Thrustmaster T.16000M** + paciência. Voe com esse joystick por 50-100 horas antes de pensar em upgrade. Você vai entender exatamente o que quer e precisa.
+**Thrustmaster T.16000M** + paciência. Voe com esse joystick por 50-100 horas antes de pensar em upgrade. Você vai entender exatamente o que quer e precisa. Se está começando do zero, confira [nosso guia para começar na simulação](/pt/blog/guia-iniciante-simulacao-voo) para os primeiros passos completos.
 
 ### Aviação civil dedicada
 
@@ -258,4 +258,4 @@ O hardware certo transforma a simulação de voo de um programa de computador nu
 
 Não existe setup perfeito universal. Existe o setup certo para o **seu perfil**, o **seu orçamento** e a **sua fase** na simulação. Comece com o que pode, evolua quando sentir a necessidade, e lembre-se: mil horas num joystick básico com skill valem mais que zero horas num cockpit de R$20.000 parado na mesa.
 
-O que importa é voar. O hardware é apenas o meio. A paixão é o motor.
+Não esqueça de turbinar seu simulador com [os addons gratuitos essenciais](/pt/blog/top-10-addons-gratuitos-simulacao) que complementam qualquer setup de hardware. O que importa é voar. O hardware é apenas o meio. A paixão é o motor.

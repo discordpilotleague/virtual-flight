@@ -74,7 +74,7 @@ At this level, you are running everything maxed. Terrain LOD pushed to 400 in MS
 
 ### A Note on Controllers
 
-A keyboard and mouse will technically work, but you will have a miserable time trying to fly with them. At minimum, invest in a basic joystick. The Logitech Extreme 3D Pro costs around $30–$40 and has been the entry point for tens of thousands of virtual pilots. It has twist rudder, a throttle slider, and enough buttons to map the essentials. You can always upgrade later.
+A keyboard and mouse will technically work, but you will have a miserable time trying to fly with them. At minimum, invest in a basic joystick. The Logitech Extreme 3D Pro costs around $30–$40 and has been the entry point for tens of thousands of virtual pilots. It has twist rudder, a throttle slider, and enough buttons to map the essentials. You can always upgrade later — see [our complete hardware review](/blog/hardware-review-joystick-yoke) for guidance at every budget level.
 
 ## First Settings: Getting Configured Before Takeoff
 
@@ -158,7 +158,7 @@ The FAA Pilot's Handbook of Aeronautical Knowledge (FAA-H-8083-25C) is free, com
 
 ### Set Goals
 
-Structure your progression. Aim to complete a cross-country flight of at least 100 nautical miles with proper flight planning. Then tackle your first IFR approach in instrument conditions. Then learn a study-level addon aircraft like the FlyByWire A320neo. Each milestone builds on the last, and the sense of accomplishment when you nail a CAT III autoland in zero visibility is difficult to describe to anyone who has not experienced it.
+Structure your progression. Aim to complete a cross-country flight of at least 100 nautical miles with proper flight planning. Then tackle your first IFR approach in instrument conditions. Then learn a study-level addon aircraft like the FlyByWire A320neo — you can start with [the best free addons](/blog/top-10-free-addons-flight-sim) to expand your fleet without any cost. Each milestone builds on the last, and the sense of accomplishment when you nail a CAT III autoland in zero visibility is difficult to describe to anyone who has not experienced it.
 
 ### Document Your Journey
 

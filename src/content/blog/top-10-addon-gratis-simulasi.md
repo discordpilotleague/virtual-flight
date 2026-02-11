@@ -137,7 +137,7 @@ Ini adalah lapisan imersi yang sering diabaikan. Bandara bukan hanya tentang pes
 
 Penutup daftar ini sedikit berbeda: **VoluntaryATC** dan **OpenScope** memungkinkan Anda merasakan sisi lain dari aviasi — menjadi Air Traffic Controller. OpenScope adalah simulator ATC berbasis web yang gratis dan open-source, memungkinkan Anda mengarahkan pesawat dengan instruksi radar yang realistis.
 
-Mengapa ini ada di daftar addon terbang? Karena memahami perspektif ATC membuat Anda menjadi pilot yang jauh lebih baik. Ketika Anda mengerti mengapa controller memberikan instruksi tertentu, ekspektasi spacing, dan beban kerja yang mereka hadapi, komunikasi Anda menjadi lebih efisien dan profesional. Ini investasi waktu yang sangat berharga, terutama jika Anda terbang di jaringan online.
+Mengapa ini ada di daftar addon terbang? Karena memahami perspektif ATC membuat Anda menjadi pilot yang jauh lebih baik — apalagi jika Anda sedang [membangun karier pilot virtual Anda](/id/blog/karier-pilot-virtual-logbook) secara serius. Ketika Anda mengerti mengapa controller memberikan instruksi tertentu, ekspektasi spacing, dan beban kerja yang mereka hadapi, komunikasi Anda menjadi lebih efisien dan profesional. Ini investasi waktu yang sangat berharga, terutama jika Anda terbang di jaringan online.
 
 ## Bonus: Addon Indonesia yang Wajib Dicoba
 
@@ -161,6 +161,7 @@ Dengan banyaknya addon, organisasi menjadi penting:
 
 Addon gratis tidak selalu ringan. Beberapa scenery bisa sangat demanding, terutama yang memiliki banyak objek 3D dan tekstur resolusi tinggi.
 
+- **Pastikan Anda memiliki [hardware yang melengkapi addon ini](/id/blog/review-hardware-joystick-yoke)** — joystick atau yoke yang presisi akan memaksimalkan manfaat addon study-level
 - **Install secara bertahap** dan test performa setelah setiap penambahan
 - **Prioritaskan addon yang Anda gunakan** — jangan instal 50 scenery bandara yang tidak pernah Anda kunjungi
 - **Monitor VRAM usage** — tekstur resolusi tinggi bisa dengan cepat menghabiskan VRAM GPU Anda

@@ -18,7 +18,7 @@ Ini adalah keputusan pertama, dan mungkin yang paling penting. Tiga platform men
 
 **MSFS 2024** adalah pilihan paling jelas untuk pemula. Visualnya memukau — seluruh dunia direproduksi menggunakan data satelit Bing Maps, dengan cuaca dinamis dan lalu lintas udara real-time. Bayangkan terbang rendah di atas Bali dan melihat pura-pura yang terlihat nyata, atau melintasi Manhattan dengan gedung-gedung pencakar langit yang bersinar di bawah matahari terbenam. Pengalaman visual ini langsung membuat Anda merasa "ini nyata."
 
-Interface-nya intuitif, tutorial bawaan dirancang dengan baik, dan mode karier membimbing Anda secara alami dari bush flying hingga operasi penerbangan komersial. Katalog pesawat bawaan sangat beragam — dari Cessna 172 yang klasik hingga Boeing 747 — dan komunitas menyediakan ribuan addon gratis di flightsim.to.
+Interface-nya intuitif, tutorial bawaan dirancang dengan baik, dan mode karier membimbing Anda secara alami dari bush flying hingga operasi penerbangan komersial. Katalog pesawat bawaan sangat beragam — dari Cessna 172 yang klasik hingga Boeing 747 — dan komunitas menyediakan ribuan addon gratis di flightsim.to — lihat daftar [addon gratis terbaik](/id/blog/top-10-addon-gratis-simulasi) yang kami rekomendasikan.
 
 **Kelebihan untuk pemula:** Tutorial interaktif, mode karier terstruktur, komunitas masif, grafis imersif, dukungan controller Xbox langsung dari kotak.
 
@@ -52,7 +52,7 @@ X-Plane 12 sedikit lebih ringan pada GPU tetapi lebih menuntut pada CPU, terutam
 
 ### Controller Penerbangan: Mulai Dari yang Sederhana
 
-**Budget ketat (di bawah Rp 800.000):** Joystick dasar sudah cukup untuk memulai. **Logitech Extreme 3D Pro** atau **Thrustmaster T.Flight Stick X** menawarkan stick dengan twist axis (untuk yaw) dan mini-throttle terintegrasi. Sederhana, tapi jauh lebih baik daripada keyboard. Anda bahkan bisa memulai dengan **gamepad Xbox** — MSFS 2024 mendukungnya secara native dengan mapping yang sudah dioptimalkan.
+**Budget ketat (di bawah Rp 800.000):** Joystick dasar sudah cukup untuk memulai — baca [review lengkap hardware kami](/id/blog/review-hardware-joystick-yoke) untuk perbandingan detail setiap tier budget. **Logitech Extreme 3D Pro** atau **Thrustmaster T.Flight Stick X** menawarkan stick dengan twist axis (untuk yaw) dan mini-throttle terintegrasi. Sederhana, tapi jauh lebih baik daripada keyboard. Anda bahkan bisa memulai dengan **gamepad Xbox** — MSFS 2024 mendukungnya secara native dengan mapping yang sudah dioptimalkan.
 
 **Budget menengah (Rp 1.500.000–4.000.000):** Ini adalah sweet spot. Sistem **HOTAS** (Hands On Throttle And Stick) seperti **Thrustmaster T16000M FCS** menggabungkan joystick presisi dengan sensor Hall dan throttle terpisah. Pemisahan kedua tangan ini mengubah pengalaman secara fundamental: Anda mengatur power dengan tangan kiri sambil mengendalikan pesawat dengan tangan kanan, persis seperti di kokpit sungguhan.
 

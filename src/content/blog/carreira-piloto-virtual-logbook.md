@@ -134,7 +134,7 @@ O **ProjectFly** foi por anos o logbook mais popular da comunidade, mas encerrou
 
 ## Ratings nas redes de voo online
 
-Tanto o VATSIM quanto a IVAO oferecem sistemas de ratings que funcionam como marcos na sua carreira.
+Para tirar o máximo proveito dos ratings, é fundamental conhecer [as redes de voo online](/pt/blog/comparativo-redes-voo-online) em detalhe e escolher a que melhor se encaixa no seu perfil. Tanto o VATSIM quanto a IVAO oferecem sistemas de ratings que funcionam como marcos na sua carreira.
 
 ### Ratings VATSIM (piloto)
 
@@ -165,7 +165,7 @@ A verdadeira magia da carreira virtual acontece quando você combina todas essas
 
 ### Fase 1: Formação básica (0-100 horas)
 
-Voos VFR no Cessna 172 e Cessna 208. Logbook no Volanta. Primeiros voos em rede (VATSIM/IVAO) em espaço não controlado. Inscrição numa VA regional para rotas curtas.
+Voos VFR no Cessna 172 e Cessna 208. Logbook no Volanta. Primeiros voos em rede (VATSIM/IVAO) em espaço não controlado. Inscrição numa VA regional para rotas curtas. Nessa fase, vale a pena investir em [o hardware adequado ao seu nível](/pt/blog/teste-hardware-joystick-yoke) para garantir conforto e precisão desde o início.
 
 ### Fase 2: Transição IFR (100-300 horas)
 

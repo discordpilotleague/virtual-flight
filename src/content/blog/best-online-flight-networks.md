@@ -181,9 +181,9 @@ There is absolutely nothing stopping you from maintaining accounts on all three 
 
 ## Getting Started: Your First Online Flight
 
-Regardless of which network you choose, the process follows a similar pattern. Register for a free account on the network's website. Download and install the pilot client. Configure it with your simulator and audio settings. File a flight plan using the network's tools or a third-party planner like SimBrief. Connect to the network, tune the appropriate frequency, and fly.
+Regardless of which network you choose, the process follows a similar pattern. Register for a free account on the network's website. Download and install the pilot client. Configure it with your simulator and audio settings — and make sure you have [the right hardware for online flying](/blog/hardware-review-joystick-yoke), since precise inputs matter when controllers are watching. File a flight plan using the network's tools or a third-party planner like SimBrief. Connect to the network, tune the appropriate frequency, and fly.
 
-Your first online flight should be a short VFR hop between two airports in uncontrolled airspace. This lets you get comfortable with the client, practice self-announcing on UNICOM, and experience seeing other real pilots in the sky without the pressure of live ATC instructions. Once that feels natural, venture into controlled airspace and experience the thrill of your first real clearance.
+If you are still building foundational skills, check out [our beginner's guide](/blog/beginner-guide-flight-simulation) before jumping into live traffic. Your first online flight should be a short VFR hop between two airports in uncontrolled airspace. This lets you get comfortable with the client, practice self-announcing on UNICOM, and experience seeing other real pilots in the sky without the pressure of live ATC instructions. Once that feels natural, venture into controlled airspace and experience the thrill of your first real clearance.
 
 As you accumulate hours and build confidence, you will want to [manage your virtual pilot career](/blog/virtual-pilot-career-logbook) with proper logbook tools and ACARS tracking. Documenting your progression transforms casual flying into a structured journey with measurable milestones.
 

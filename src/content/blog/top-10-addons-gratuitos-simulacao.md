@@ -176,7 +176,7 @@ Fechando a lista, o **Volanta** — que já mencionamos no contexto de carreira 
 - **Conquistas e desafios** que gamificam a experiência sem torná-la infantil
 - **Tracking em tempo real** visível para amigos na plataforma
 
-Para quem está construindo uma carreira virtual ou simplesmente quer um registro bonito e funcional dos seus voos, Volanta é indispensável.
+Para quem está construindo uma carreira virtual ou simplesmente quer um registro bonito e funcional dos seus voos, Volanta é indispensável. Se você quer [estruturar sua carreira de piloto virtual](/pt/blog/carreira-piloto-virtual-logbook) com logbook, ACARS e companhias aéreas virtuais, o Volanta é a base perfeita.
 
 **Plataforma:** MSFS 2024, X-Plane 12, P3D | **Impacto:** Alto — transforma o registro e análise de voos
 
@@ -210,6 +210,6 @@ Instale um addon por vez e teste. Se o simulador ficar instável, você sabe exa
 
 O ecossistema freeware de simulação de voo em 2026 é extraordinário. Aeronaves como o Zibo 737 e o FlyByWire A32NX demonstram que a comunidade é capaz de produzir conteúdo de classe mundial de forma gratuita e colaborativa. Ferramentas como Little Navmap e SimBrief são genuinamente indispensáveis. Melhorias visuais como FSLTL e Reshade transformam a atmosfera do simulador.
 
-Você não precisa gastar uma fortuna para ter uma experiência fantástica. Comece com esses 10 addons, explore o flightsim.to, participe dos fóruns e Discords dos projetos que mais usa, e contribua — seja com feedback, relatórios de bug ou, se tiver habilidade técnica, com código e modelos.
+Você não precisa gastar uma fortuna para ter uma experiência fantástica. Comece com esses 10 addons, explore o flightsim.to, participe dos fóruns e Discords dos projetos que mais usa, e contribua — seja com feedback, relatórios de bug ou, se tiver habilidade técnica, com código e modelos. E para aproveitar esses addons ao máximo, confira [o hardware que complementa esses addons](/pt/blog/teste-hardware-joystick-yoke) e eleva a imersão a outro patamar.
 
 A comunidade de simulação de voo é construída por paixão compartilhada. Esses addons são a prova concreta disso.
