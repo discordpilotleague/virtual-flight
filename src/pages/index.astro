@@ -87,25 +87,27 @@ const t = useTranslations('en');
 	</head>
 	<body>
 		<Header />
-		<section class="hero">
-			<div class="hero-inner">
-				<h1>{t('home.heading')}</h1>
-				<p>{t('home.p1')}</p>
-				<a href={localePath('en', '/blog')} class="cta">{t('nav.blog')}</a>
-			</div>
-		</section>
-		<section class="content">
-			<div class="cards">
-				<div class="card">
-					<h2>MSFS 2024</h2>
-					<p>{t('home.p2')}</p>
+		<main>
+			<section class="hero">
+				<div class="hero-inner">
+					<h1>{t('home.heading')}</h1>
+					<p>{t('home.p1')}</p>
+					<a href={localePath('en', '/blog')} class="cta">{t('nav.blog')}</a>
 				</div>
-				<div class="card">
-					<h2>X-Plane & DCS</h2>
-					<p>{t('home.p3')}</p>
+			</section>
+			<section class="content">
+				<div class="cards">
+					<div class="card">
+						<h2>MSFS 2024</h2>
+						<p>{t('home.p2')}</p>
+					</div>
+					<div class="card">
+						<h2>X-Plane & DCS</h2>
+						<p>{t('home.p3')}</p>
+					</div>
 				</div>
-			</div>
-		</section>
+			</section>
+		</main>
 		<Footer />
 	</body>
 </html>
