@@ -97,7 +97,7 @@ const posts = (await getCollection('blog', ({ data }) => data.lang === 'en')).so
 										: <Image width={720} height={360} src={post.data.heroImage} alt="" />
 								)}
 								<div class="card-body">
-									<h4 class="title">{post.data.title}</h4>
+									<h2 class="title">{post.data.title}</h2>
 									<p class="date">
 										<FormattedDate date={post.data.pubDate} locale="en" />
 									</p>
