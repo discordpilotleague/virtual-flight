@@ -2,7 +2,7 @@
 title: 'Beste Payware-Flugzeuge fur die Flugsimulation 2026'
 description: 'Expertenguide zu den besten Payware-Flugzeugen fur MSFS 2024, X-Plane 12 und DCS World 2026. PMDG, Fenix, Leonardo, iniBuilds, Heatblur und mehr.'
 lang: 'de'
-pubDate: 'Feb 14 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-payware-aircraft.svg'
 ---
 

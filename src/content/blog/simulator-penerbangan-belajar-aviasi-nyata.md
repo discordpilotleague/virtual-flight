@@ -2,7 +2,7 @@
 title: 'Bagaimana Simulator Penerbangan Dapat Membantu Anda Belajar Aviasi Nyata'
 description: 'Pelajari bagaimana simulator penerbangan modern melengkapi pelatihan pilot sungguhan, dari perangkat bersertifikat hingga latihan IFR dan analisis biaya.'
 lang: 'id'
-pubDate: 'Feb 22 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-learn-aviation.svg'
 ---
 

@@ -2,7 +2,7 @@
 title: '2026年最佳飞行模拟场景插件推荐'
 description: '2026年MSFS 2024和X-Plane 12最佳场景插件完整指南：机场、地形、正射影像、地标建筑及性能优化建议。'
 lang: 'zh'
-pubDate: 'Feb 20 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-scenery-addons.svg'
 ---
 

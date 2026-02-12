@@ -2,7 +2,7 @@
 title: '掌握飞行模拟中的天气系统：实时气象与插件完全指南'
 description: '全面解析气象引擎、METAR注入、云层渲染、湍流模型、积冰效应，以及MSFS 2024和X-Plane 12最佳天气插件推荐。'
 lang: 'zh'
-pubDate: 'Feb 16 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-weather-simulation.svg'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Wie Flugsimulatoren beim Erlernen der echten Luftfahrt helfen koennen'
 description: 'Erfahren Sie, wie moderne Flugsimulatoren die Pilotenausbildung ergaenzen — von zugelassenen Geraeten ueber IFR-Training bis zur Kostenanalyse.'
 lang: 'de'
-pubDate: 'Feb 22 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-learn-aviation.svg'
 ---
 

@@ -2,7 +2,7 @@
 title: 'How Flight Simulators Can Help You Learn Real Aviation'
 description: 'Discover how modern flight simulators complement real pilot training, from FAA-approved devices to IFR practice, with cost analysis and practical guidance.'
 lang: 'en'
-pubDate: 'Feb 22 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-learn-aviation.svg'
 ---
 

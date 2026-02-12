@@ -2,7 +2,7 @@
 title: '飞行模拟器如何帮助你学习真实航空'
 description: '了解现代飞行模拟器如何辅助真实飞行训练，从认证训练设备到仪表飞行练习、成本分析和实用建议。'
 lang: 'zh'
-pubDate: 'Feb 22 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-learn-aviation.svg'
 ---
 

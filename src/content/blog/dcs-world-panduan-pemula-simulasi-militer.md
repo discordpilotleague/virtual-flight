@@ -2,7 +2,7 @@
 title: "Panduan Pemula DCS World: Memulai Simulasi Penerbangan Militer"
 description: 'Panduan lengkap DCS World untuk pilot baru. Modul gratis, kontrol, misi pertama, optimasi grafis, dan multiplayer.'
 lang: 'id'
-pubDate: 'Feb 18 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-dcs-world.svg'
 ---
 

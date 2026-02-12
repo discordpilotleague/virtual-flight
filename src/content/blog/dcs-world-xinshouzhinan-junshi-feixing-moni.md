@@ -2,7 +2,7 @@
 title: "DCS World 新手指南：军事飞行模拟入门"
 description: 'DCS World完整新手指南。免费模块、控制设置、首次任务、画面优化和多人联机技巧。'
 lang: 'zh'
-pubDate: 'Feb 18 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-dcs-world.svg'
 ---
 

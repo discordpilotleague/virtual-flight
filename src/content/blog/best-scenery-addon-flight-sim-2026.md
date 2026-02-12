@@ -2,7 +2,7 @@
 title: '2026年フライトシミュレーション最高のシーナリーアドオン'
 description: '2026年のMSFS 2024・X-Plane 12向け最高のシーナリーアドオン完全ガイド。空港、地形、オルソ、ランドマーク、パフォーマンス最適化まで網羅。'
 lang: 'ja'
-pubDate: 'Feb 20 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-scenery-addons.svg'
 ---
 

@@ -2,7 +2,7 @@
 title: '2026年フライトシミュレーション向けベスト有料機体アドオン'
 description: '2026年のMSFS 2024、X-Plane 12、DCS World向けベスト有料機体アドオンの専門ガイド。PMDG、Fenix、Leonardo、iniBuilds、Heatblurなど。'
 lang: 'ja'
-pubDate: 'Feb 14 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-payware-aircraft.svg'
 ---
 

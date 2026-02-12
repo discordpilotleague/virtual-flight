@@ -2,7 +2,7 @@
 title: 'Los Mejores Add-ons de Escenarios para Simulación de Vuelo en 2026'
 description: 'Guía completa de los mejores add-ons de escenarios para MSFS 2024 y X-Plane 12 en 2026: aeropuertos, terreno, orto, landmarks y consejos de rendimiento.'
 lang: 'es'
-pubDate: 'Feb 20 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-scenery-addons.svg'
 ---
 

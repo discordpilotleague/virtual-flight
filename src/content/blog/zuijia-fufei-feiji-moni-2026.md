@@ -2,7 +2,7 @@
 title: '2026年最佳付费飞行模拟飞机插件'
 description: '2026年MSFS 2024、X-Plane 12和DCS World最佳付费飞机插件专业指南。涵盖PMDG、Fenix、Leonardo、iniBuilds、Heatblur等。'
 lang: 'zh'
-pubDate: 'Feb 14 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-payware-aircraft.svg'
 ---
 

@@ -2,7 +2,7 @@
 title: "DCS World 初心者ガイド：ミリタリーフライトシミュレーション入門"
 description: 'DCS World完全初心者ガイド。無料モジュール、操作設定、初ミッション、グラフィック最適化、マルチプレイヤーのコツ。'
 lang: 'ja'
-pubDate: 'Feb 18 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-dcs-world.svg'
 ---
 

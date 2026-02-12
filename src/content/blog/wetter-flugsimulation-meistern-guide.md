@@ -2,7 +2,7 @@
 title: 'Wetter in der Flugsimulation meistern: Leitfaden für Echtzeit-Wetter und Add-ons'
 description: 'Umfassender Leitfaden zu Wetter-Engines, METAR-Einspeisung, Wolkenrendering, Turbulenz, Vereisung und den besten Add-ons für MSFS 2024 und X-Plane 12.'
 lang: 'de'
-pubDate: 'Feb 16 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-weather-simulation.svg'
 ---
 

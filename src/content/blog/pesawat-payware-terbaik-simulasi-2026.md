@@ -2,7 +2,7 @@
 title: 'Pesawat Payware Terbaik untuk Simulasi Penerbangan 2026'
 description: 'Panduan ahli pesawat payware terbaik untuk MSFS 2024, X-Plane 12, dan DCS World di 2026. PMDG, Fenix, Leonardo, iniBuilds, Heatblur, dan lainnya.'
 lang: 'id'
-pubDate: 'Feb 14 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-payware-aircraft.svg'
 ---
 

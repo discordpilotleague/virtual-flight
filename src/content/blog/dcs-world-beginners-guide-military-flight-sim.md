@@ -2,7 +2,7 @@
 title: "DCS World Beginner's Guide: Getting Started with Military Flight Simulation"
 description: 'Complete guide to DCS World for new pilots. Free modules, controls setup, first missions, graphics optimization, and multiplayer tips.'
 lang: 'en'
-pubDate: 'Feb 18 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-dcs-world.svg'
 ---
 

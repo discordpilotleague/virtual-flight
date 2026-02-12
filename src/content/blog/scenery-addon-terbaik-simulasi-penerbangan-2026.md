@@ -2,7 +2,7 @@
 title: 'Scenery Add-on Terbaik untuk Simulasi Penerbangan di Tahun 2026'
 description: 'Panduan lengkap scenery add-on terbaik untuk MSFS 2024 dan X-Plane 12 di 2026: bandara, terrain, ortho, landmark, dan tips performa.'
 lang: 'id'
-pubDate: 'Feb 20 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-scenery-addons.svg'
 ---
 

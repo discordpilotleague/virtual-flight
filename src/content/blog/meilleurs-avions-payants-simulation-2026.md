@@ -2,7 +2,7 @@
 title: 'Meilleurs avions payants pour la simulation de vol en 2026'
 description: 'Guide expert des meilleurs add-ons avions payants pour MSFS 2024, X-Plane 12 et DCS World en 2026. PMDG, Fenix, Leonardo, iniBuilds, Heatblur et plus.'
 lang: 'fr'
-pubDate: 'Feb 14 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-payware-aircraft.svg'
 ---
 

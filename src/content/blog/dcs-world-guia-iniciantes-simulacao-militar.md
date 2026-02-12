@@ -2,7 +2,7 @@
 title: "Guia para Iniciantes do DCS World: Começando na Simulação de Voo Militar"
 description: 'Guia completo do DCS World para novos pilotos. Módulos gratuitos, controles, primeiras missões, gráficos e multiplayer.'
 lang: 'pt'
-pubDate: 'Feb 18 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-dcs-world.svg'
 ---
 

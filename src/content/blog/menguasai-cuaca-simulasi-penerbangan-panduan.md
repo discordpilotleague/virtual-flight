@@ -2,7 +2,7 @@
 title: 'Menguasai Cuaca dalam Simulasi Penerbangan: Panduan Cuaca Real-Time dan Add-on'
 description: 'Panduan lengkap tentang engine cuaca, injeksi METAR, rendering awan, turbulensi, icing, dan add-on terbaik untuk MSFS 2024 dan X-Plane 12.'
 lang: 'id'
-pubDate: 'Feb 16 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-weather-simulation.svg'
 ---
 

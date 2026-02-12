@@ -2,7 +2,7 @@
 title: 'Mastering Weather in Flight Simulation: Real-Time Weather and Add-ons Guide'
 description: 'Complete guide to weather engines, real-time METAR injection, cloud rendering, turbulence, icing effects, and top add-ons for MSFS 2024 and X-Plane 12.'
 lang: 'en'
-pubDate: 'Feb 16 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-weather-simulation.svg'
 ---
 

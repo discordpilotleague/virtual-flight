@@ -2,7 +2,7 @@
 title: 'Dominar a Meteorologia na Simulação de Voo: Guia de Tempo Real e Add-ons'
 description: 'Guia completo sobre motores meteorológicos, injeção METAR, renderização de nuvens, turbulência, formação de gelo e os melhores add-ons para MSFS 2024 e X-Plane 12.'
 lang: 'pt'
-pubDate: 'Feb 16 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-weather-simulation.svg'
 ---
 

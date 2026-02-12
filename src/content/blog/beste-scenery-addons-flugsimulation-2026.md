@@ -2,7 +2,7 @@
 title: 'Die Besten Scenery-Add-ons für die Flugsimulation 2026'
 description: 'Umfassender Leitfaden zu den besten Scenery-Add-ons für MSFS 2024 und X-Plane 12 im Jahr 2026: Flughäfen, Terrain, Ortho, Landmarks und Performance-Tipps.'
 lang: 'de'
-pubDate: 'Feb 20 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-scenery-addons.svg'
 ---
 

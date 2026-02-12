@@ -2,7 +2,7 @@
 title: 'フライトシミュレーターで実際の航空を学ぶ方法'
 description: 'フライトシミュレーターが実際のパイロット訓練をどう補完するか、認定訓練装置からIFR練習、コスト分析まで徹底解説します。'
 lang: 'ja'
-pubDate: 'Feb 22 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-learn-aviation.svg'
 ---
 

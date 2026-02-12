@@ -2,7 +2,7 @@
 title: 'Comment les simulateurs de vol peuvent vous aider a apprendre la vraie aviation'
 description: 'Decouvrez comment les simulateurs de vol modernes completent la formation de pilote, des dispositifs approuves aux procedures IFR et analyse des couts.'
 lang: 'fr'
-pubDate: 'Feb 22 2026'
+pubDate: 'Feb 12 2026'
 heroImage: '../../assets/hero-learn-aviation.svg'
 ---
 
