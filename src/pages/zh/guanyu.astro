@@ -1,0 +1,13 @@
+---
+import Layout from '../../layouts/StaticPage.astro';
+import { useTranslations } from '../../i18n/utils';
+
+const t = useTranslations('zh');
+---
+
+<Layout title={t('about.title')} description={t('about.description')} locale="zh">
+	<p>{t('about.p1')}</p>
+	<p>{t('about.p2')}</p>
+	<p>{t('about.p3')}</p>
+	<p>{t('about.p4')}</p>
+</Layout>

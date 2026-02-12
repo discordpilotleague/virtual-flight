@@ -42,6 +42,14 @@ export function switchLocalePath(currentPath: string, targetLocale: Locale): str
 		barePath = '/blog/';
 	}
 
+	// Handle localized about page slugs
+	const aboutSlugs = ['about', 'a-propos', 'acerca-de', 'sobre', 'ueber-uns', 'guanyu', 'tentang', 'gaiyou'];
+	const bareSegment = barePath.replace(/^\/|\/$/g, '');
+	if (aboutSlugs.includes(bareSegment)) {
+		const targetSlug = translations[targetLocale]?.['slug.about'] ?? 'about';
+		return localePath(targetLocale, `/${targetSlug}`);
+	}
+
 	return localePath(targetLocale, barePath);
 }
 
