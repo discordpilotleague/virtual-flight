@@ -6,13 +6,17 @@ pubDate: 'Feb 14 2026'
 heroImage: '../../assets/hero-inibuilds-tristar.svg'
 ---
 
-Es gibt Flugzeuge, die eine Epoche definiert haben, und es gibt Flugzeuge, die ihrer Epoche voraus waren. Die Lockheed L-1011 TriStar gehört zu beiden Kategorien. Als erster Widebody-Trijet der Luftfahrtgeschichte verband sie Ingenieurskunst auf höchstem Niveau mit einem technologischen Ehrgeiz, der selbst Jahrzehnte nach ihrem letzten kommerziellen Flug Bewunderung hervorruft. Jetzt bringt iniBuilds dieses außergewöhnliche Flugzeug als L-1011-500 TriStar für Microsoft Flight Simulator 2024 — und die bisher bekannten Details deuten auf eine Simulation, die der Legende gerecht werden könnte.
+Es gibt Flugzeuge, die eine Epoche definiert haben, und es gibt Flugzeuge, die ihrer Epoche voraus waren. Die Lockheed L-1011 TriStar gehört zu beiden Kategorien. Als erster Widebody-Trijet der Luftfahrtgeschichte verband sie Ingenieurskunst auf höchstem Niveau mit einem technologischen Ehrgeiz, der selbst Jahrzehnte nach ihrem letzten kommerziellen Flug Bewunderung hervorruft. Jetzt bringt [iniBuilds](https://inibuilds.com/) dieses außergewöhnliche Flugzeug als L-1011-500 TriStar für Microsoft Flight Simulator 2024 — und die bisher bekannten Details deuten auf eine Simulation, die der Legende gerecht werden könnte.
+
+![iniBuilds L-1011 TriStar Entwicklungs-Banner](/images/tristar/banner.webp)
 
 ## Ein Flugzeug, das seiner Zeit vorauseilte
 
 Um zu verstehen, warum die TriStar für Simulationspiloten so reizvoll ist, muss man ihre Geschichte kennen. In den späten 1960er-Jahren suchten die Airlines verzweifelt nach einem Großraumflugzeug für Mittel- und Langstrecken, das kleiner als die Boeing 747 sein sollte. Lockheed, damals primär ein Militärflugzeughersteller, betrat den zivilen Markt mit einer Maschine, die alles anders machen wollte. Die L-1011 war das erste Verkehrsflugzeug mit einem voll integrierten Flugsteuerungssystem, das automatische Landungen nach Kategorie IIIC ermöglichte — ein technologischer Meilenstein, den kein Konkurrent zu dieser Zeit erreichte. Die drei Rolls-Royce RB211-Triebwerke — eines unter jedem Flügel, eines im Heck mit dem charakteristischen S-Kanal-Einlass — verliehen ihr ein unverkennbares Profil am Himmel.
 
 Doch die Geschichte der TriStar ist auch eine Tragödie industriellen Ausmaßes. Die Entwicklung des RB211-Triebwerks trieb Rolls-Royce 1971 in die Insolvenz. Die britische Regierung musste den Triebwerkshersteller verstaatlichen, um das Programm zu retten. Die monatelangen Verzögerungen gaben dem Konkurrenten Douglas DC-10 einen entscheidenden Vorsprung am Markt. Am Ende wurden nur rund 250 L-1011 gebaut — ein Bruchteil dessen, was Lockheed geplant hatte. Und dennoch: Piloten, die sie geflogen haben, schwärmen noch heute von ihr. Die TriStar war leiser, komfortabler und technisch ausgereifter als die DC-10, doch sie kam zu spät und zu teuer. Ein brillantes Flugzeug, dem das Schicksal nicht hold war.
+
+![L-1011 TriStar Außenmodell](/images/tristar/exterior.webp)
 
 ## Die L-1011-500: Lockheeds letzte Evolutionsstufe
 
@@ -32,6 +36,8 @@ Die TriStar war berühmt für ihre dreifache Redundanz in praktisch allen kritis
 
 Was diese Systemtiefe für den Simulationspiloten bedeutet: Fehlerszenarien werden real. Ein Hydraulikverlust in System A hat andere Konsequenzen als in System B oder C. Ein Generatorausfall erfordert ein Verständnis der Lastverteilung im Stromnetz. Das sind Szenarien, die in modernen Fly-by-Wire-Flugzeugen oft durch mehrfache Automatisierung abgefangen werden — in der TriStar muss die Besatzung handeln, und diese Besatzung umfasst drei Personen.
 
+![Flugingenieur-Station](/images/tristar/flight-engineer.webp)
+
 ## Der Flugingenieur: Das Herz der TriStar-Simulation
 
 Hier liegt vielleicht der aufregendste Aspekt des gesamten Projekts. Die L-1011 war eines der letzten großen Verkehrsflugzeuge mit einer dedizierten Flugingenieur-Station — einem eigenen Arbeitsplatz im Cockpit, von dem aus ein drittes Besatzungsmitglied die Triebwerke, die elektrischen und hydraulischen Systeme, die Druckkabine und die Treibstoffverteilung überwachte und steuerte. iniBuilds hat diese Station als voll interaktiven Arbeitsplatz umgesetzt.
@@ -39,6 +45,8 @@ Hier liegt vielleicht der aufregendste Aspekt des gesamten Projekts. Die L-1011 
 Im Einzelspielermodus haben Piloten die Wahl: Sie können die Flugingenieur-Aufgaben selbst übernehmen, indem sie regelmäßig zur dritten Station wechseln, oder sie aktivieren eine KI-Automatisierung, die die Bordingenieur-Funktionen im Hintergrund übernimmt. Beide Ansätze haben ihren Reiz — das manuelle Management aller drei Stationen kommt der realen Arbeitsbelastung am nächsten, während die KI-Option es Solopiloten ermöglicht, sich auf das Fliegen zu konzentrieren, ohne kritische Systemüberwachung zu vernachlässigen.
 
 Für diejenigen, die Online-Netzwerke wie VATSIM nutzen, eröffnet sich eine weitere Möglichkeit: Shared Cockpit. Ein zweiter Spieler kann die Flugingenieur-Station besetzen und in Echtzeit die Systeme verwalten, während der Kapitän fliegt und der Copilot navigiert. Das ist Crew Resource Management, wie es im Lehrbuch steht — und eine Erfahrung, die in der modernen Flugsimulation selten ist.
+
+![Automatisches Flugsteuerungssystem](/images/tristar/afcs.webp)
 
 ## Autoland der Spitzenklasse: CAT IIIB und fortschrittliche Avionik
 
@@ -52,11 +60,17 @@ Die Navigationssysteme der TriStar spiegeln eine Übergangszeit wider, und iniBu
 
 Besonders charmant ist die Umsetzung des EFB-Konzepts. Statt eines modernen Tablet-Displays auf dem Kniebrett hat iniBuilds eine sogenannte "Paper Flight Bag" entwickelt — eine virtuelle Papiermappe, die als stilechte Alternative zum Electronic Flight Bag der modernen Ära dient. Route und Flugplan können über SimBrief importiert und in das INS geladen werden, aber die Darstellung erfolgt im Look der Ära, nicht auf einem Touchscreen. Für Piloten, die Wert auf Immersion legen, ist dieses Detail ein Gewinn.
 
+![Paper Flight Bag Oberfläche](/images/tristar/paper-flight-bag.webp)
+
 ## Cockpit-Design: Gebürstetes Aluminium und der Staub der Jahrzehnte
 
 iniBuilds hat sich einen Ruf für visuell hochwertige Cockpits erarbeitet, und die TriStar scheint diesen Standard zu halten. Das Cockpit bietet drei voll modellierte Arbeitsplätze: Kapitän, Erster Offizier und Flugingenieur. Die Materialien — gebürstetes Aluminium, abgenutzte Beschriftungen, feiner Staub in den Ecken der Instrumentenpanels — vermitteln den Eindruck einer Maschine, die tausende Flugstunden auf dem Buckel hat. Es ist die Art von Detailarbeit, die man erst bemerkt, wenn man das Cockpit in VR betritt und die Oberflächen aus nächster Nähe betrachtet.
 
 Die Außenmodellierung setzt ebenfalls Akzente. Wing Flex — die sichtbare Durchbiegung der Flügel unter Last — ist ebenso vorhanden wie Heat Shimmer hinter den Triebwerken, jenes Flimmern heißer Abgase, das am Rollfeld so charakteristisch ist. Die Steuerflächen — Querruder, Höhenruder, Seitenruder, Vorflügel, Klappen und Spoiler — sind mechanisch korrekt animiert und bewegen sich nicht als vereinfachte Blöcke, sondern mit den individuellen Freiheitsgraden ihrer realen Vorbilder.
+
+![Cockpit-Detail mit gebürstetem Aluminium](/images/tristar/cockpit.webp)
+
+![Cockpit-Beleuchtung bei Nacht](/images/tristar/lighting.webp)
 
 ## Sechs Liveries: Von Pan Am bis Air Transat
 
@@ -77,3 +91,7 @@ Die L-1011 füllt eine Lücke, die im MSFS-Ökosystem seit langem klafft. Währe
 Für Simulationspiloten, die [den Einstieg in die Flugsimulation](/de/blog/anfaenger-guide-flugsimulation) bereits hinter sich haben und nach neuen Herausforderungen suchen, bietet die TriStar eine einzigartige Kombination: die Komplexität eines Drei-Mann-Cockpits, die Befriedigung analoger Systemverwaltung und die romantische Aura eines Flugzeugs, das in der realen Welt zu früh verschwand. Wer die L-1011 meistert, wird ein besserer Simulationspilot sein — und ein tieferes Verständnis dafür haben, was Fliegen bedeutete, bevor Computer alles übernahmen.
 
 Die TriStar kehrt zurück. Und diesmal bekommt sie die Aufmerksamkeit, die sie verdient.
+
+---
+
+*Quelle: [iniBuilds TriStar Airliner — Development Update](https://forum.inibuilds.com/topic/35590-inibuilds-tristar-airliner-development-update/) im [iniBuilds](https://inibuilds.com/)-Forum. Bilder mit freundlicher Genehmigung von iniBuilds.*

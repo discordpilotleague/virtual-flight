@@ -8,7 +8,9 @@ heroImage: '../../assets/hero-inibuilds-tristar.svg'
 
 Existem aeronaves que são projetadas para cumprir uma especificação de mercado e existem aeronaves que são projetadas para redefinir o que a engenharia aeronáutica consegue alcançar. O **Lockheed L-1011 TriStar** pertence inequivocamente à segunda categoria. Quando fez o seu rollout em Palmdale, Califórnia, em novembro de 1970, o TriStar era a aeronave comercial mais sofisticada que a humanidade havia construído: a primeira a certificar um sistema de pouso automático CAT IIIB, a primeira a integrar um sistema computadorizado de gestão de voo com autothrottle, e uma das primeiras a oferecer uma experiência de passageiro genuinamente silenciosa graças ao duto em S que alimentava o motor central montado na fuselagem traseira. Era um avião que chegou antes do seu tempo — e pagou o preço por isso.
 
-Agora, mais de meio século depois, a **iniBuilds** está trazendo o L-1011-500 TriStar para o **Microsoft Flight Simulator 2024**. O projeto encontra-se nas fases finais de desenvolvimento, e o que foi revelado até agora aponta para uma das recriações de aeronave clássica mais ambiciosas jamais tentadas no ecossistema MSFS. Ainda não há data de lançamento confirmada nem preço anunciado, mas a profundidade técnica já demonstrada justifica uma análise detalhada do que podemos esperar.
+Agora, mais de meio século depois, a **[iniBuilds](https://inibuilds.com/)** está trazendo o L-1011-500 TriStar para o **Microsoft Flight Simulator 2024**. O projeto encontra-se nas fases finais de desenvolvimento, e o que foi revelado até agora aponta para uma das recriações de aeronave clássica mais ambiciosas jamais tentadas no ecossistema MSFS. Ainda não há data de lançamento confirmada nem preço anunciado, mas a profundidade técnica já demonstrada justifica uma análise detalhada do que podemos esperar.
+
+![Banner de desenvolvimento do L-1011 TriStar da iniBuilds](/images/tristar/banner.webp)
 
 ## A história por trás da lenda
 
@@ -18,17 +20,23 @@ Enquanto a McDonnell Douglas optou por montar o terceiro motor diretamente na ca
 
 O TriStar nasceu sob uma estrela sombria. A Rolls-Royce, único fornecedor de motores para o L-1011, entrou em **falência** em fevereiro de 1971, paralisando a linha de produção durante meses críticos. Quando os motores finalmente ficaram disponíveis e as entregas começaram em 1972, o DC-10 já tinha um ano de vantagem no mercado. A Lockheed nunca recuperou o terreno perdido. Foram construídas apenas **cerca de 250 unidades** do TriStar em todas as suas variantes, contra 446 do DC-10/MD-11. E, no entanto, os pilotos que voaram ambas as aeronaves concordam quase unanimemente: o TriStar era o melhor avião. Mais silencioso, mais suave, com sistemas mais sofisticados e um manuseio em voo que gerava uma lealdade quase irracional entre as suas tripulações.
 
+![Modelo exterior do L-1011 TriStar](/images/tristar/exterior.webp)
+
 ## Três Rolls-Royce com lógica EPR realista
 
 O coração do TriStar são os seus três turbofans **Rolls-Royce RB211-524**, e a implementação da iniBuilds promete fazer justiça à complexidade mecânica destes motores. A simulação inclui **lógica EPR (Engine Pressure Ratio) realista**, o que significa que o comportamento de empuxo não é modelado como uma curva linear simples, mas sim como a relação real entre as pressões de entrada e saída do motor, tal como o engenheiro de voo monitorizava na aeronave real.
 
 Além disso, foi modelada a **inércia do motor** — o tempo que o RB211 demora a responder a uma alteração de potência. Este detalhe é crucial para a experiência de voo numa aeronave desta época: não estamos perante a resposta quase instantânea de um turbofan moderno de alto bypass. Quando você move as manetes de potência, há um atraso tangível enquanto os spools aceleram ou desaceleram, e isso muda fundamentalmente a técnica de aproximação e pouso. Os pilotos do TriStar real sabiam que era necessário antecipar as correções de potência com vários segundos de margem, e a iniBuilds capturou esse comportamento fielmente.
 
+![Sistema de controlo automático de voo](/images/tristar/afcs.webp)
+
 ## Autoland CAT IIIB e automatismos avançados
 
 Uma das conquistas técnicas mais extraordinárias do TriStar real foi a sua capacidade de **pouso automático CAT IIIB**, que permitia operar com visibilidades praticamente nulas — menos de 75 metros de alcance visual na pista. Em 1972, isto era tecnologia de ficção científica. O sistema da iniBuilds replica esta capacidade com um **AFCS (Automatic Flight Control System)** completo, que inclui o autothrottle integrado com um **Performance Management System (PMS)**.
 
 O PMS do TriStar foi o ancestral direto dos FMS modernos: calculava perfis de subida e descida ótimos, geria o empuxo para maximizar a eficiência de combustível, e fornecia orientação lateral e vertical. Não tinha a interface gráfica de um MCDU moderno — a interação era feita através de seletores rotativos e displays numéricos — mas a filosofia operacional era revolucionária para o seu tempo. Na versão da iniBuilds, o PMS estará totalmente funcional e será parte integral da operação da aeronave.
+
+![Estação do engenheiro de voo](/images/tristar/flight-engineer.webp)
 
 ## A estação do engenheiro de voo
 
@@ -61,6 +69,8 @@ Em vez de um EFB (Electronic Flight Bag) moderno com ecrã tátil, a iniBuilds c
 
 Para o carregamento de rotas, o sistema aceita **importação direta do SimBrief**, permitindo gerar um plano de voo completo na plataforma web e carregá-lo diretamente no INS da aeronave. É o equilíbrio perfeito entre a experiência analógica do TriStar e as conveniências que os pilotos virtuais modernos esperam. Quem já programou um INS manualmente, waypoint por waypoint, com coordenadas em graus e minutos, sabe o quanto esta funcionalidade é valiosa para voos em que o tempo de preparação é limitado.
 
+![Interface do Paper Flight Bag](/images/tristar/paper-flight-bag.webp)
+
 ## Cockpit triplo com atenção obsessiva ao detalhe
 
 O trabalho visual do cockpit merece destaque especial. A iniBuilds recriou as três estações — **comandante, copiloto e engenheiro de voo** — com um nível de pormenor que inclui **alumínio escovado** nos molduras dos instrumentos, **etiquetas desgastadas** por anos de uso operacional, e **poeira acumulada** nas superfícies menos acessíveis. É o tipo de detalhe que transforma um modelo 3D numa máquina do tempo: quando você se senta no lugar do comandante e olha para o painel de instrumentos, não vê uma recriação nova e brilhante — vê um cockpit que viveu milhares de horas de serviço nas rotas do mundo.
@@ -72,6 +82,10 @@ Esta abordagem ao envelhecimento realista e à texturização artesanal é consi
 O modelo exterior do TriStar da iniBuilds acompanha o nível de ambição do interior. A simulação inclui **wing flex** (flexão alar), que reproduz a deformação natural das asas sob carga aerodinâmica — um pormenor que transforma as vistas externas durante turbulência e manobras, dando vida à estrutura da aeronave. Também foi implementado o **heat shimmer** (distorção por calor) visível atrás dos motores, aquele efeito de refração do ar quente de escape que qualquer pessoa que já esteve perto de um jato em funcionamento reconhece instantaneamente.
 
 As **superfícies de controle** são mecanicamente precisas, com animações que refletem o movimento real de ailerons, profundores, leme de direção, spoilers e flaps. Para os entusiastas de fotografia virtual e criadores de conteúdo, o TriStar promete ser extraordinariamente fotogénico — a silhueta do trimotor com o seu motor central integrado na cauda é uma das mais distintivas da história da aviação comercial. A configuração única dos três motores, com os dois sob as asas e o terceiro alimentado pelo duto em S na cauda, cria uma presença visual que nenhuma outra aeronave replica.
+
+![Detalhe do cockpit em alumínio escovado](/images/tristar/cockpit.webp)
+
+![Iluminação noturna do cockpit](/images/tristar/lighting.webp)
 
 ## Seis pinturas históricas
 
@@ -97,3 +111,7 @@ O mercado de addons para MSFS 2024 tem amadurecido rapidamente, e os pilotos vir
 Numa era em que a simulação de voo é dominada por recriações de aeronaves fly-by-wire modernas com glass cockpits e automação extensiva, o TriStar representa algo fundamentalmente diferente: a oportunidade de experimentar a aviação comercial na sua forma mais artesanal e exigente. Voar o L-1011 não é carregar um plano de voo no MCDU e assistir enquanto a aeronave se pilota sozinha. É alinhar o INS manualmente, gerir o combustível entre tanques com um engenheiro de voo atento a cada parâmetro, monitorizar os EPR de três Rolls-Royce que respondem ao seu próprio ritmo, e executar um autoland com tecnologia dos anos 1970 que, milagrosamente, funcionava com uma precisão que ainda hoje impressiona.
 
 O TriStar foi uma aeronave que merecia mais sucesso do que teve. A falência da Rolls-Royce, as guerras comerciais com a McDonnell Douglas e a má sorte financeira da Lockheed no setor civil conspiraram contra uma máquina que, em termos puramente técnicos, era superior à sua concorrência direta. Que a iniBuilds tenha escolhido dar-lhe nova vida no MSFS 2024 não é apenas um ato de nostalgia — é um ato de justiça aeronáutica. E para os pilotos virtuais que procuram experiências com profundidade, história e carácter, o L-1011 TriStar promete ser um dos lançamentos mais entusiasmantes do ano.
+
+---
+
+*Fonte: [iniBuilds TriStar Airliner — Development Update](https://forum.inibuilds.com/topic/35590-inibuilds-tristar-airliner-development-update/) no fórum da [iniBuilds](https://inibuilds.com/). Imagens cortesia da iniBuilds.*

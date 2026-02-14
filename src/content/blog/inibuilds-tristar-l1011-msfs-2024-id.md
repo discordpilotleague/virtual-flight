@@ -6,9 +6,11 @@ pubDate: 'Feb 14 2026'
 heroImage: '../../assets/hero-inibuilds-tristar.svg'
 ---
 
-Ada pesawat-pesawat tertentu yang melampaui sejarah aviasi dan menjadi legenda. Lockheed L-1011 TriStar adalah salah satunya — sebuah widebody trijet yang lahir dari ambisi teknik tak tertandingi, namun juga dari tragedi industri yang mengubah wajah penerbangan komersial selamanya. Kini, iniBuilds tengah mempersiapkan reproduksi digital L-1011-500 TriStar untuk **Microsoft Flight Simulator 2024**, dan dari apa yang telah diperlihatkan sejauh ini, ini bukan sekadar addon pesawat biasa. Ini adalah proyek restorasi sejarah penerbangan dalam bentuk simulasi.
+Ada pesawat-pesawat tertentu yang melampaui sejarah aviasi dan menjadi legenda. Lockheed L-1011 TriStar adalah salah satunya — sebuah widebody trijet yang lahir dari ambisi teknik tak tertandingi, namun juga dari tragedi industri yang mengubah wajah penerbangan komersial selamanya. Kini, [iniBuilds](https://inibuilds.com/) tengah mempersiapkan reproduksi digital L-1011-500 TriStar untuk **Microsoft Flight Simulator 2024**, dan dari apa yang telah diperlihatkan sejauh ini, ini bukan sekadar addon pesawat biasa. Ini adalah proyek restorasi sejarah penerbangan dalam bentuk simulasi.
 
 Belum ada tanggal rilis atau harga yang diumumkan, tetapi detail teknis yang sudah terungkap menggambarkan tingkat kedalaman sistem yang luar biasa ambisius. Mari kita bedah semuanya.
+
+![Banner pengembangan L-1011 TriStar oleh iniBuilds](/images/tristar/banner.webp)
 
 ## Sejarah yang Perlu Anda Ketahui
 
@@ -22,6 +24,8 @@ Meski hanya sekitar 250 unit yang diproduksi — jauh di bawah harapan Lockheed 
 
 Dan inilah yang membuat proyek iniBuilds begitu menarik: mereka tidak hanya membangun model 3D yang cantik, tetapi merekonstruksi keseluruhan kedalaman sistem yang membuat TriStar menjadi TriStar.
 
+![Model eksterior L-1011 TriStar](/images/tristar/exterior.webp)
+
 ## Tiga Mesin Rolls-Royce RB211-524: Bukan Sekadar Tenaga
 
 Jantung L-1011-500 adalah tiga unit Rolls-Royce RB211-524 — turbofan tiga poros yang masing-masing menghasilkan daya dorong masif. Dalam implementasi iniBuilds, mesin-mesin ini bukan sekadar sumber thrust yang bisa dinyalakan lalu dilupakan.
@@ -29,6 +33,8 @@ Jantung L-1011-500 adalah tiga unit Rolls-Royce RB211-524 — turbofan tiga poro
 Setiap mesin disimulasikan dengan **logika EPR (Engine Pressure Ratio)** yang realistis. EPR adalah parameter utama yang digunakan pilot TriStar untuk mengatur daya dorong — berbeda dengan pesawat modern yang umumnya menggunakan N1. Logika EPR mengharuskan Anda memahami hubungan antara tekanan inlet dan exhaust, dan bagaimana temperatur udara luar serta ketinggian mempengaruhi pembacaan gauge.
 
 **Inersia mesin** juga dimodelkan secara mekanis. Spool-up dan spool-down tidak instan — ada jeda yang terasa nyata saat Anda memajukan atau menarik throttle. Pada approach, ini berarti Anda harus mengantisipasi kebutuhan daya jauh lebih awal dibanding pesawat modern dengan engine response yang lebih responsif. Bagi simmer yang terbiasa dengan LEAP atau GEnx, menerbangkan RB211 akan menjadi pelajaran kesabaran yang menyegarkan.
+
+![Stasiun Flight Engineer](/images/tristar/flight-engineer.webp)
 
 ## Stasiun Flight Engineer: Peran Ketiga di Kokpit
 
@@ -41,6 +47,8 @@ Di era TriStar, kokpit bukan hanya domain kapten dan first officer. Seorang flig
 - **Arsitektur kelistrikan AC/DC penuh** — generator, bus, transformer rectifier unit, dan battery semuanya dimodelkan. Kegagalan generator pada satu mesin mengharuskan redistribusi beban listrik yang harus dilakukan oleh flight engineer.
 
 Bagi mereka yang ingin menikmati kedalaman sistem ini tanpa harus mempelajari seluruh panel FE, iniBuilds menyediakan **opsi AI automation**. Dengan fitur ini, seorang flight engineer virtual akan menangani manajemen sistem secara otomatis, memungkinkan Anda fokus pada penerbangan sambil tetap menikmati pesawat dalam kedalaman penuhnya. Anda bisa beralih antara mode manual dan AI kapan saja — pendekatan yang sangat bijaksana dan inklusif.
+
+![Sistem Kontrol Penerbangan Otomatis](/images/tristar/afcs.webp)
 
 ## Autoland CAT IIIB dan Sistem Penerbangan Otomatis
 
@@ -68,6 +76,8 @@ Sistem navigasi TriStar mencerminkan era transisi dalam sejarah aviasi. iniBuild
 
 Yang paling menarik adalah fitur **"Paper Flight Bag"** — alternatif vintage untuk Electronic Flight Bag (EFB) modern. Alih-alih tablet digital yang terasa anakronistik di kokpit tahun 1970-an, iniBuilds menyediakan representasi dokumen penerbangan bergaya kertas yang sesuai dengan estetika era tersebut. Melalui Paper Flight Bag ini, Anda dapat mengimpor rute dari **SimBrief** dan memuatnya ke dalam INS — menggabungkan kemudahan modern dengan presentasi yang menghormati sejarah.
 
+![Antarmuka Paper Flight Bag](/images/tristar/paper-flight-bag.webp)
+
 ## Visual dan Detail Kokpit
 
 iniBuilds telah membangun reputasi untuk kualitas visual yang luar biasa, dan TriStar tampaknya tidak akan menjadi pengecualian. Kokpit dimodelkan dengan tiga stasiun yang sepenuhnya terpisah dan dapat diakses: **Captain, First Officer, dan Flight Engineer**.
@@ -75,6 +85,10 @@ iniBuilds telah membangun reputasi untuk kualitas visual yang luar biasa, dan Tr
 Perhatian terhadap detail material sangat mengesankan. Panel instrumen menggunakan tekstur **aluminium brushed** yang menangkap cahaya secara realistis. **Label-label yang sudah usang** memberikan kesan pesawat yang telah mengudara selama bertahun-tahun — bukan pesawat baru yang keluar dari pabrik. Bahkan **debu** terlihat pada permukaan-permukaan tertentu, menambahkan lapisan autentisitas visual yang jarang ditemui pada addon pesawat.
 
 Di eksterior, TriStar hadir dengan **wing flex** yang realistis — sayap yang melengkung secara alami merespons beban aerodinamis selama penerbangan. **Heat shimmer** dari exhaust mesin menambahkan efek visual yang membuat pesawat terasa hidup, terutama saat berada di darat dengan mesin menyala. Semua **control surface** bergerak secara mekanis akurat, mencerminkan hubungan aktual antara input kontrol dan respons permukaan.
+
+![Detail kokpit aluminium yang disikat](/images/tristar/cockpit.webp)
+
+![Pencahayaan kokpit malam hari](/images/tristar/lighting.webp)
 
 ## Livery: Enam Maskapai Ikonik
 
@@ -104,3 +118,7 @@ iniBuilds menyatakan bahwa L-1011-500 TriStar berada dalam **tahap pengembangan 
 Bagi komunitas simulasi penerbangan Indonesia, hadirnya TriStar di MSFS 2024 membuka peluang untuk menjelajahi chapter penting dalam sejarah penerbangan dunia. Sebuah pesawat yang lahir dari ambisi besar, nyaris terbunuh oleh krisis industri, namun tetap meninggalkan warisan yang tak terhapuskan — kini siap untuk dihidupkan kembali di layar monitor Anda.
 
 Pantau terus informasi terbaru dari iniBuilds, dan siapkan kursi flight engineer Anda. TriStar sedang pulang ke langit.
+
+---
+
+*Sumber: [iniBuilds TriStar Airliner — Development Update](https://forum.inibuilds.com/topic/35590-inibuilds-tristar-airliner-development-update/) di forum [iniBuilds](https://inibuilds.com/). Gambar milik iniBuilds.*

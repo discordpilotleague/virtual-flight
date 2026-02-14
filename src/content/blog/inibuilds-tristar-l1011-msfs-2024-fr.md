@@ -6,7 +6,9 @@ pubDate: 'Feb 14 2026'
 heroImage: '../../assets/hero-inibuilds-tristar.svg'
 ---
 
-Il y a les avions qui ont marque leur epoque, et il y a ceux qui l'ont devancee. Le Lockheed L-1011 TriStar appartient resolument a la seconde categorie. Lorsqu'il entra en service en 1972, il embarquait des technologies qui ne deviendraient la norme dans l'aviation commerciale qu'une decennie plus tard : un systeme de controle par portance directe pour des atterrissages d'une douceur remarquable, une capacite d'atterrissage automatique CAT IIIA des sa certification initiale, et un degre de raffinement structural qui faisait parler les pilotes en des termes habituellement reserves aux avions de chasse. Seulement 250 exemplaires environ furent construits, victimes d'une catastrophe financiere qui n'avait strictement rien a voir avec la qualite de la cellule elle-meme. Aujourd'hui, plus d'un demi-siecle apres que le premier TriStar ait quitte les chaines d'assemblage de Palmdale, iniBuilds prepare le L-1011-500 pour Microsoft Flight Simulator 2024 -- et le niveau d'ambition affiche laisse presager l'un des add-ons majeurs de la plateforme.
+Il y a les avions qui ont marque leur epoque, et il y a ceux qui l'ont devancee. Le Lockheed L-1011 TriStar appartient resolument a la seconde categorie. Lorsqu'il entra en service en 1972, il embarquait des technologies qui ne deviendraient la norme dans l'aviation commerciale qu'une decennie plus tard : un systeme de controle par portance directe pour des atterrissages d'une douceur remarquable, une capacite d'atterrissage automatique CAT IIIA des sa certification initiale, et un degre de raffinement structural qui faisait parler les pilotes en des termes habituellement reserves aux avions de chasse. Seulement 250 exemplaires environ furent construits, victimes d'une catastrophe financiere qui n'avait strictement rien a voir avec la qualite de la cellule elle-meme. Aujourd'hui, plus d'un demi-siecle apres que le premier TriStar ait quitte les chaines d'assemblage de Palmdale, [iniBuilds](https://inibuilds.com/) prepare le L-1011-500 pour Microsoft Flight Simulator 2024 -- et le niveau d'ambition affiche laisse presager l'un des add-ons majeurs de la plateforme.
+
+![Bannière de développement du L-1011 TriStar par iniBuilds](/images/tristar/banner.webp)
 
 ## Breve histoire d'un chef-d'oeuvre contrarie
 
@@ -15,6 +17,8 @@ Pour comprendre pourquoi le TriStar compte autant, il faut saisir la crise qui l
 Lockheed retient Rolls-Royce et son revolutionnaire turboreacteur a double flux RB211 comme motorisation exclusive. Le RB211 promettait une consommation de carburant sans precedent grace a son architecture a trois corps, mais les couts de developpement devinrent incontroles. En fevrier 1971, Rolls-Royce fait faillite. La production du L-1011 s'arrete net, des cellules sans moteurs immobilisees dans l'usine de Palmdale. Le gouvernement britannique nationalise finalement Rolls-Royce et la production reprend, mais le retard s'avere fatal pour les perspectives commerciales du TriStar. Les compagnies aeriennes qui attendaient le L-1011 se tournent vers Douglas. Lockheed ne rattrapa jamais le terrain perdu.
 
 Rien de tout cela n'entama la valeur intrinseque de l'avion. Les pilotes adoraient le TriStar pour ses qualites de vol -- les spoilers de controle par portance directe permettaient des corrections de trajectoire sans changement d'assiette, l'autoland fonctionnait parfaitement jusqu'a des conditions de visibilite nulle, et l'appareil possedait un caractere doux et tolerant dans tous les regimes de vol. Les passagers appreciaient la cabine spacieuse et le niveau sonore remarquablement bas, consequence du conduit en S qui isolait une grande partie du bruit du moteur central. Le L-1011-500, la variante choisie par iniBuilds, representait le developpement long-courrier : un fuselage raccourci avec une capacite en carburant augmentee et des moteurs RB211-524 plus puissants, concu pour operer sur les routes transatlantiques et intercontinentales.
+
+![Modèle extérieur du L-1011 TriStar](/images/tristar/exterior.webp)
 
 ## Ce que iniBuilds developpe
 
@@ -30,6 +34,8 @@ Le veritable L-1011 avait ete concu avec la redondance comme principe fondamenta
 
 Le circuit pneumatique gere le demarrage des moteurs, la pressurisation cabine, la climatisation et le degivrage. Le reseau electrique comprend des alternateurs entraines par les moteurs, un alternateur APU, des transformateurs-redresseurs pour le courant continu et des batteries de secours. Chaque bus, chaque relais, chaque logique de transfert est la, attendant la surveillance du mecanicien navigant.
 
+![Poste du mécanicien navigant](/images/tristar/flight-engineer.webp)
+
 ### Le poste mecanicien navigant
 
 C'est peut-etre l'element le plus significatif du TriStar d'iniBuilds. Le poste du mecanicien navigant constituait le centre nerveux de la gestion des systemes du L-1011. Depuis cette position, le troisieme membre d'equipage surveillait et controlait moteurs, carburant, hydraulique, pneumatique, electrique et pressurisation. Dans l'avion reel, un mecanicien navigant competent faisait la difference entre une operation de routine et une situation qui se degradait.
@@ -37,6 +43,8 @@ C'est peut-etre l'element le plus significatif du TriStar d'iniBuilds. Le poste 
 iniBuilds implemente un poste mecanicien navigant entierement interactif, ou chaque panneau, chaque jauge, chaque commande est cliquable et fonctionnel. Pour les simmers qui souhaitent vivre l'experience complete a trois membres d'equipage -- par exemple en volant sur un reseau en ligne avec un ami aux commandes du poste mecanicien -- cela ouvre une dimension de gestion des ressources de l'equipage qui n'existe tout simplement pas dans les avions modernes a cockpit numerique.
 
 Conscient que tout le monde ne souhaite pas gerer trois postes simultanement, iniBuilds integre egalement une option d'automatisation par IA pour le poste mecanicien. L'ingenieur IA prendra en charge la surveillance courante et la gestion des systemes, permettant aux pilotes solitaires de se concentrer sur le pilotage tout en garantissant que les systemes fonctionnent correctement en arriere-plan. L'equilibre entre gestion manuelle et fonctionnement automatise sera determinant pour rendre l'appareil accessible sans diluer son caractere.
+
+![Système de commandes de vol automatiques](/images/tristar/afcs.webp)
 
 ### Autoland et autovol : en avance sur son temps
 
@@ -50,11 +58,17 @@ La suite de navigation reflete la position du TriStar a la charniere entre l'avi
 
 Un detail particulierement savoureux : le "Paper Flight Bag" -- une alternative vintage a l'EFB moderne. Au lieu d'une interface tablette, les pilotes consulteront des cartes et une documentation au format papier, fideles a l'epoque du TriStar. Pour le cote pratique, l'import de routes SimBrief est pris en charge pour le chargement des waypoints INS, etablissant un pont entre l'authenticite historique et les habitudes de travail du simmer moderne.
 
+![Interface du Paper Flight Bag](/images/tristar/paper-flight-bag.webp)
+
 ### Fidelite visuelle et detail du cockpit
 
 iniBuilds insiste particulierement sur la materialite de l'environnement cockpit : panneaux en aluminium brosse, etiquettes usees, poussiere visible. C'est un avion qui a vecu dans le monde reel, pilote par des milliers d'equipages sur des millions de kilometres, et le cockpit doit porter cette histoire. Les postes du commandant, du copilote et du mecanicien navigant sont tous entierement modelises, ce qui signifie que l'on peut se deplacer librement entre les positions pour gerer les differents aspects du vol.
 
 A l'exterieur, le modele comporte une flexion d'aile realiste, des effets de distorsion thermique au niveau des moteurs et des surfaces de controle mecaniquement fideles. La flexion d'aile merite qu'on s'y arrete, car la voilure du L-1011 etait un dessin particulierement abouti -- l'experience de Lockheed dans l'aviation militaire faisait que l'aile du TriStar atteignait d'excellents rapports portance/trainee, et la voir flechir de maniere realiste sous la charge aerodynamique ajoutera considerablement a l'immersion visuelle.
+
+![Détail du cockpit en aluminium brossé](/images/tristar/cockpit.webp)
+
+![Éclairage du cockpit de nuit](/images/tristar/lighting.webp)
 
 ### Livrees
 
@@ -69,3 +83,7 @@ Le poste mecanicien navigant a lui seul le distingue de l'ensemble de la flotte 
 iniBuilds n'a pas annonce de date de sortie ni de prix. Compte tenu de la complexite du projet -- systemes en triple redondance, poste mecanicien navigant complet, avionique d'epoque et le niveau de detail visuel que les captures d'ecran laissent entrevoir -- il s'agit manifestement d'un developpement toujours en cours avec un travail significatif encore devant. Ce qui a ete montre jusqu'a present indique cependant qu'iniBuilds traite le TriStar avec la meme ambition et la meme rigueur technique qui ont defini leur A350, appliquees a un avion qui exige une modelisation systemique encore plus profonde.
 
 Pour ceux d'entre nous qui attendent depuis des decennies une veritable simulation du TriStar, l'attente semble toucher a sa fin. Le L-1011 meritait mieux que le sort que la faillite de Rolls-Royce lui a reserve. Peut-etre que dans les cieux virtuels, il obtiendra enfin la reconnaissance qu'il a gagnee.
+
+---
+
+*Source : [iniBuilds TriStar Airliner — Development Update](https://forum.inibuilds.com/topic/35590-inibuilds-tristar-airliner-development-update/) sur le forum [iniBuilds](https://inibuilds.com/). Images publiées avec l'aimable autorisation d'iniBuilds.*
