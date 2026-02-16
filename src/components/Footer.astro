@@ -13,6 +13,7 @@ const today = new Date();
 			<p class="copyright">&copy; {today.getFullYear()} Virtual Flight. {t('footer.copyright')}</p>
 			<nav class="footer-links">
 				<a href={localePath(locale, '/' + t('slug.about'))}>{t('nav.about')}</a>
+				<a href="/directory">{t('nav.directory')}</a>
 				<a href={localePath(locale, '/methodology')}>{t('nav.methodology')}</a>
 				<a href={localePath(locale, '/privacy')}>{t('nav.privacy')}</a>
 				<a href={localePath(locale, '/terms')}>{t('nav.terms')}</a>
