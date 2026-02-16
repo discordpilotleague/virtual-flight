@@ -7,7 +7,7 @@ country: "Australia"
 countryEN: "Australia"
 countryCode: "AU"
 continent: oceania
-totalServices: 15
+totalServices: 17
 draft: false
 services:
   - name: "VATPAC"
@@ -106,6 +106,22 @@ services:
     language: "en"
     verified: true
     featured: false
+  - name: "Aus Flight Simmer"
+    url: "https://www.youtube.com/@AusFlightSimmer"
+    category: media
+    description: "Australian YouTube channel providing regular content for everyday flight simmers, covering MSFS, X-Plane, and Prepar3D with reviews, tutorials, and entertainment. Posts multiple times per week."
+    simulators: [msfs, xplane, general]
+    language: "en"
+    verified: true
+    featured: false
+  - name: "Novawing24"
+    url: "https://www.youtube.com/@Novawing24"
+    category: media
+    description: "Australian flight simulation content creator Tristan Ayton, providing opinionated reviews and commentary on simulation products. Also a texture artist with add-ons available on his website."
+    simulators: [msfs, xplane, general]
+    language: "en"
+    verified: true
+    featured: false
   - name: "The Gamesmen"
     url: "https://www.gamesmen.com.au/flight-simulation"
     category: shop
@@ -170,7 +186,7 @@ TFDi Design is an Australian flight simulation software company known for develo
 
 LetsFlyvfr is an Australian-based content creator bringing over three decades of flight simulator experience and real-world military aviation background. The site offers VFR flight tutorials, curated YouTube channel discovery pages, and guides for flight simulation enthusiasts.
 
-The Flight Sim Deck is an Australian YouTube channel producing flight simulation content featuring adventures around the globe in simulator cockpits, with an active presence across TikTok, Instagram, and Discord.
+The Flight Sim Deck is an Australian YouTube channel producing flight simulation content featuring adventures around the globe in simulator cockpits, with an active presence across TikTok, Instagram, and Discord. Aus Flight Simmer provides regular content for everyday simmers with reviews, tutorials, and entertainment across MSFS, X-Plane, and Prepar3D, posting multiple times per week. Novawing24, run by Tristan Ayton, offers opinionated reviews and commentary on simulation products, and is also active as a texture artist.
 
 ## Events
 

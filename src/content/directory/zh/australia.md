@@ -7,7 +7,7 @@ country: "澳大利亚"
 countryEN: "Australia"
 countryCode: "AU"
 continent: oceania
-totalServices: 15
+totalServices: 17
 draft: false
 services:
   - name: "VATPAC"
@@ -102,6 +102,22 @@ services:
     url: "https://www.youtube.com/@TheFlightSimDeck"
     category: media
     description: "澳大利亚YouTube频道，在飞行模拟驾驶舱中制作环球冒险飞行内容。同时活跃于TikTok、Instagram和Discord平台。"
+    simulators: [msfs, xplane, general]
+    language: "en"
+    verified: true
+    featured: false
+  - name: "Aus Flight Simmer"
+    url: "https://www.youtube.com/@AusFlightSimmer"
+    category: media
+    description: "澳大利亚YouTube频道，为飞行模拟玩家提供定期内容，涵盖MSFS、X-Plane和Prepar3D的评测、教程和娱乐内容。每周更新数次。"
+    simulators: [msfs, xplane, general]
+    language: "en"
+    verified: true
+    featured: false
+  - name: "Novawing24"
+    url: "https://www.youtube.com/@Novawing24"
+    category: media
+    description: "澳大利亚飞行模拟内容创作者Tristan Ayton，提供模拟产品的深度评测和评论。同时也是纹理艺术家，在其网站上提供add-on下载。"
     simulators: [msfs, xplane, general]
     language: "en"
     verified: true

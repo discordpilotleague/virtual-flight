@@ -7,7 +7,7 @@ country: "Australien"
 countryEN: "Australia"
 countryCode: "AU"
 continent: oceania
-totalServices: 15
+totalServices: 17
 draft: false
 services:
   - name: "VATPAC"
@@ -102,6 +102,22 @@ services:
     url: "https://www.youtube.com/@TheFlightSimDeck"
     category: media
     description: "Australischer YouTube-Kanal mit Flugsimulations-Inhalten und Abenteuern rund um den Globus im Simulator-Cockpit. Aktiv auf TikTok, Instagram und Discord."
+    simulators: [msfs, xplane, general]
+    language: "en"
+    verified: true
+    featured: false
+  - name: "Aus Flight Simmer"
+    url: "https://www.youtube.com/@AusFlightSimmer"
+    category: media
+    description: "Australischer YouTube-Kanal mit regelmäßigem Content für Flight Simmer, der MSFS, X-Plane und Prepar3D mit Reviews, Tutorials und Unterhaltung abdeckt. Mehrere Uploads pro Woche."
+    simulators: [msfs, xplane, general]
+    language: "en"
+    verified: true
+    featured: false
+  - name: "Novawing24"
+    url: "https://www.youtube.com/@Novawing24"
+    category: media
+    description: "Australischer Content-Creator Tristan Ayton mit meinungsstarken Reviews und Kommentaren zu Simulationsprodukten. Auch als Texturkünstler mit Add-ons auf seiner Website aktiv."
     simulators: [msfs, xplane, general]
     language: "en"
     verified: true
