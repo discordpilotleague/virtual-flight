@@ -7,6 +7,7 @@ const fr = {
 	'nav.home': 'Accueil',
 	'nav.blog': 'Blog',
 	'nav.about': 'À propos',
+	'nav.directory': 'Annuaire',
 
 	'home.heading': 'Bienvenue sur Virtual Flight',
 	'home.p1':
@@ -92,6 +93,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.home': 'Home',
 		'nav.blog': 'Blog',
 		'nav.about': 'About',
+		'nav.directory': 'Directory',
 		'home.heading': 'Welcome to Virtual Flight',
 		'home.p1':
 			'Virtual Flight is your digital magazine dedicated to flight simulation. Whether you fly MSFS 2024, X-Plane or DCS, you will find all the hardware and software news that matters for virtual pilots.',
@@ -168,6 +170,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.home': 'Inicio',
 		'nav.blog': 'Blog',
 		'nav.about': 'Acerca de',
+		'nav.directory': 'Directorio',
 		'home.heading': 'Bienvenido a Virtual Flight',
 		'home.p1':
 			'Virtual Flight es tu revista digital dedicada a la simulación aérea. Ya vueles en MSFS 2024, X-Plane o DCS, aquí encontrarás todas las novedades de hardware y software que importan a los pilotos virtuales.',
@@ -245,6 +248,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.home': 'Início',
 		'nav.blog': 'Blog',
 		'nav.about': 'Sobre',
+		'nav.directory': 'Diretório',
 		'home.heading': 'Bem-vindo ao Virtual Flight',
 		'home.p1':
 			'O Virtual Flight é a sua revista digital dedicada à simulação aérea. Quer voe no MSFS 2024, X-Plane ou DCS, encontrará aqui todas as novidades de hardware e software que interessam aos pilotos virtuais.',
@@ -322,6 +326,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.home': 'Startseite',
 		'nav.blog': 'Blog',
 		'nav.about': 'Über uns',
+		'nav.directory': 'Verzeichnis',
 		'home.heading': 'Willkommen bei Virtual Flight',
 		'home.p1':
 			'Virtual Flight ist Ihr digitales Magazin für Flugsimulation. Ob Sie MSFS 2024, X-Plane oder DCS fliegen — hier finden Sie alle Hardware- und Software-Neuigkeiten, die für virtuelle Piloten zählen.',
@@ -399,6 +404,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.home': '首页',
 		'nav.blog': '博客',
 		'nav.about': '关于',
+		'nav.directory': '目录',
 		'home.heading': '欢迎来到 Virtual Flight',
 		'home.p1':
 			'Virtual Flight 是您的飞行模拟数字杂志。无论您使用 MSFS 2024、X-Plane 还是 DCS，这里都能找到虚拟飞行员关心的所有硬件和软件资讯。',
@@ -475,6 +481,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.home': 'Beranda',
 		'nav.blog': 'Blog',
 		'nav.about': 'Tentang',
+		'nav.directory': 'Direktori',
 		'home.heading': 'Selamat datang di Virtual Flight',
 		'home.p1':
 			'Virtual Flight adalah majalah digital Anda yang didedikasikan untuk simulasi penerbangan. Baik Anda terbang di MSFS 2024, X-Plane, atau DCS, di sini Anda akan menemukan semua berita hardware dan software yang penting bagi pilot virtual.',
@@ -552,6 +559,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.home': 'ホーム',
 		'nav.blog': 'ブログ',
 		'nav.about': '概要',
+		'nav.directory': 'ディレクトリ',
 		'home.heading': 'Virtual Flight へようこそ',
 		'home.p1':
 			'Virtual Flight はフライトシミュレーションに特化したデジタルマガジンです。MSFS 2024、X-Plane、DCS のいずれをお使いでも、バーチャルパイロットに役立つハードウェア・ソフトウェアの最新情報をお届けします。',
