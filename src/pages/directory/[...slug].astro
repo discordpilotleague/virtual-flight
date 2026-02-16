@@ -5,16 +5,15 @@ import Header from "../../components/Header.astro";
 import Footer from "../../components/Footer.astro";
 import FormattedDate from "../../components/FormattedDate.astro";
 import { directoryLabels } from "../../i18n/directory-i18n";
-import type { ServiceCategory } from "../../i18n/directory-i18n";
-
-const lang = "en";
+import type { ServiceCategory, SiteLang } from "../../i18n/directory-i18n";
 
 export async function getStaticPaths() {
-  const all = await getCollection("directory", ({ data }) => data.lang === "en" && !data.draft);
+  const all = await getCollection("directory", ({ data }) => !data.draft);
   return all.map(e => ({ params: { slug: e.id }, props: { entry: e } }));
 }
 
 const { entry } = Astro.props;
+const lang = (entry.data.lang || "en") as SiteLang;
 const { Content } = await render(entry);
 
 const byCategory = entry.data.services.reduce((acc, s) => {
@@ -31,7 +30,7 @@ function getFlagEmoji(cc: string): string {
 const simColors: Record<string,string> = { msfs:"#0ea5e9", xplane:"#8b5cf6", dcs:"#ef4444", general:"#64748b" };
 ---
 <!doctype html>
-<html lang="en">
+<html lang={lang}>
 <head>
   <BaseHead title={entry.data.title} description={entry.data.description} />
   <style>

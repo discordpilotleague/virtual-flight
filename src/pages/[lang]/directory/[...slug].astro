@@ -1,19 +1,21 @@
 ---
 import { getCollection, render } from "astro:content";
-import BaseHead from "../../components/BaseHead.astro";
-import Header from "../../components/Header.astro";
-import Footer from "../../components/Footer.astro";
-import FormattedDate from "../../components/FormattedDate.astro";
-import { directoryLabels } from "../../i18n/directory-i18n";
-import type { SiteLang, ServiceCategory } from "../../i18n/directory-i18n";
+import BaseHead from "../../../components/BaseHead.astro";
+import Header from "../../../components/Header.astro";
+import Footer from "../../../components/Footer.astro";
+import FormattedDate from "../../../components/FormattedDate.astro";
+import { directoryLabels } from "../../../i18n/directory-i18n";
+import type { SiteLang, ServiceCategory } from "../../../i18n/directory-i18n";
 
 export async function getStaticPaths() {
-  const all = await getCollection("directory", ({ data }) => data.lang !== "en" && !data.draft);
-  return all.map(e => ({ params: { lang: e.data.lang, slug: e.id }, props: { entry: e } }));
+  const langs: SiteLang[] = ["fr","es","pt","de","zh","id","ja"];
+  const all = await getCollection("directory", ({ data }) => !data.draft);
+  return langs.flatMap(lang =>
+    all.map(e => ({ params: { lang, slug: e.id }, props: { entry: e, lang } }))
+  );
 }
-const { entry } = Astro.props;
+const { entry, lang } = Astro.props;
 const { Content } = await render(entry);
-const lang = entry.data.lang as SiteLang;
 
 const byCategory = entry.data.services.reduce((acc, s) => {
   if (!acc[s.category]) acc[s.category] = [];
@@ -60,7 +62,7 @@ const simColors: Record<string,string> = { msfs:"#0ea5e9", xplane:"#8b5cf6", dcs
 <body>
   <Header />
   <main class="dir-c">
-    <nav class="bc"><a href={`/${lang}/directory-index/`}>{directoryLabels.navLabel[lang]}</a><span class="s">/</span><span>{entry.data.country}</span></nav>
+    <nav class="bc"><a href={`/${lang}/directory/`}>{directoryLabels.navLabel[lang]}</a><span class="s">/</span><span>{entry.data.country}</span></nav>
     <header class="ch">
       <span class="fl">{getFlagEmoji(entry.data.countryCode)}</span>
       <div>
@@ -106,7 +108,7 @@ const simColors: Record<string,string> = { msfs:"#0ea5e9", xplane:"#8b5cf6", dcs
     </section>
     <aside class="sug">
       <p>{directoryLabels.ui.suggestResource[lang]}</p>
-      <a href="https://discord.gg/your-invite-link" target="_blank" rel="noopener" class="sugb">💬 Discord</a>
+      <a href="https://discord.gg/X3zUdkVGPX" target="_blank" rel="noopener" class="sugb">💬 Discord</a>
     </aside>
   </main>
   <Footer />
