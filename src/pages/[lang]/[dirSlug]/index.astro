@@ -3,11 +3,14 @@ import { getCollection } from "astro:content";
 import BaseHead from "../../../components/BaseHead.astro";
 import Header from "../../../components/Header.astro";
 import Footer from "../../../components/Footer.astro";
-import { directoryLabels } from "../../../i18n/directory-i18n";
+import { directoryLabels, directorySlugs } from "../../../i18n/directory-i18n";
 import type { SiteLang, Continent } from "../../../i18n/directory-i18n";
 
 export function getStaticPaths() {
-  return ["fr","es","pt","de","zh","id","ja"].map(l => ({ params:{lang:l}, props:{lang:l as SiteLang} }));
+  return ["fr","es","pt","de","zh","id","ja"].map(l => ({
+    params: { lang: l, dirSlug: directorySlugs[l] },
+    props: { lang: l as SiteLang }
+  }));
 }
 const { lang } = Astro.props;
 const countries = await getCollection("directory", ({ data }) => data.lang === lang && !data.draft);
@@ -20,6 +23,7 @@ function getFlagEmoji(cc: string): string {
   return String.fromCodePoint(...cc.toUpperCase().split("").map(c => 127397 + c.charCodeAt(0)));
 }
 const totalResources = countries.reduce((s, c) => s + c.data.totalServices, 0);
+const dirSlug = directorySlugs[lang];
 ---
 <!doctype html>
 <html lang={lang}>
@@ -59,7 +63,7 @@ const totalResources = countries.reduce((s, c) => s + c.data.totalServices, 0);
           <h2>{directoryLabels.continents[cont][lang]}</h2>
           <div class="cgrid">
             {list.sort((a,b) => b.data.totalServices - a.data.totalServices).map(c => (
-              <a href={`/${lang}/directory/${c.id.split('/').pop()}/`} class="ccard">
+              <a href={`/${lang}/${dirSlug}/${c.id.split('/').pop()}/`} class="ccard">
                 <span class="flag">{getFlagEmoji(c.data.countryCode)}</span>
                 <div class="ci"><h3>{c.data.country}</h3><span class="cnt">{c.data.totalServices} {directoryLabels.ui.resources[lang]}</span></div>
               </a>

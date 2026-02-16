@@ -4,17 +4,18 @@ import BaseHead from "../../../components/BaseHead.astro";
 import Header from "../../../components/Header.astro";
 import Footer from "../../../components/Footer.astro";
 import FormattedDate from "../../../components/FormattedDate.astro";
-import { directoryLabels } from "../../../i18n/directory-i18n";
+import { directoryLabels, directorySlugs } from "../../../i18n/directory-i18n";
 import type { SiteLang, ServiceCategory } from "../../../i18n/directory-i18n";
 
 export async function getStaticPaths() {
   const all = await getCollection("directory", ({ data }) => data.lang !== "en" && !data.draft);
   return all.map(e => ({
-    params: { lang: e.data.lang, slug: e.id.split('/').pop() },
+    params: { lang: e.data.lang, dirSlug: directorySlugs[e.data.lang], slug: e.id.split('/').pop() },
     props: { entry: e, lang: e.data.lang as SiteLang }
   }));
 }
 const { entry, lang } = Astro.props;
+const dirSlug = directorySlugs[lang];
 const { Content } = await render(entry);
 
 const byCategory = entry.data.services.reduce((acc, s) => {
@@ -62,7 +63,7 @@ const simColors: Record<string,string> = { msfs:"#0ea5e9", xplane:"#8b5cf6", dcs
 <body>
   <Header />
   <main class="dir-c">
-    <nav class="bc"><a href={`/${lang}/directory/`}>{directoryLabels.navLabel[lang]}</a><span class="s">/</span><span>{entry.data.country}</span></nav>
+    <nav class="bc"><a href={`/${lang}/${dirSlug}/`}>{directoryLabels.navLabel[lang]}</a><span class="s">/</span><span>{entry.data.country}</span></nav>
     <header class="ch">
       <span class="fl">{getFlagEmoji(entry.data.countryCode)}</span>
       <div>

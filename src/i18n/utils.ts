@@ -1,5 +1,6 @@
 import { defaultLocale, locales, type Locale } from './locales';
 import { translations, type TranslationKey } from './translations';
+import { directorySlugs } from './directory-i18n';
 
 export function getLocaleFromUrl(pathname: string): Locale {
 	const [, segment] = pathname.split('/');
@@ -48,6 +49,16 @@ export function switchLocalePath(currentPath: string, targetLocale: Locale): str
 	if (aboutSlugs.includes(bareSegment)) {
 		const targetSlug = translations[targetLocale]?.['slug.about'] ?? 'about';
 		return localePath(targetLocale, `/${targetSlug}`);
+	}
+
+	// Handle localized directory slugs
+	const allDirSlugs = Object.values(directorySlugs);
+	const bareSegments = barePath.replace(/^\/|\/$/g, '').split('/');
+	if (allDirSlugs.includes(bareSegments[0])) {
+		const targetDirSlug = directorySlugs[targetLocale] ?? 'directory';
+		const rest = bareSegments.slice(1).join('/');
+		const targetPath = rest ? `/${targetDirSlug}/${rest}` : `/${targetDirSlug}`;
+		return localePath(targetLocale, targetPath);
 	}
 
 	return localePath(targetLocale, barePath);

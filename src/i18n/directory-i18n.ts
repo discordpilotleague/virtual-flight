@@ -4,6 +4,17 @@
 // Généré par setup-directory.sh
 // =============================================================================
 
+export const directorySlugs: Record<string, string> = {
+  en: "directory",
+  fr: "annuaire",
+  es: "directorio",
+  pt: "diretorio",
+  de: "verzeichnis",
+  zh: "directory",
+  id: "direktori",
+  ja: "directory",
+};
+
 export const directoryLabels = {
   pageTitle: {
     en: "Flight Simulation Directory",

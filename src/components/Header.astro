@@ -1,11 +1,13 @@
 ---
 import type { Locale } from '../i18n/locales';
 import { getLocaleFromUrl, localePath, useTranslations } from '../i18n/utils';
+import { directorySlugs } from '../i18n/directory-i18n';
 import HeaderLink from './HeaderLink.astro';
 import LanguageSelector from './LanguageSelector.astro';
 
 const locale = (Astro.currentLocale ?? getLocaleFromUrl(Astro.url.pathname)) as Locale;
 const t = useTranslations(locale);
+const dirHref = locale === 'en' ? '/directory/' : `/${locale}/${directorySlugs[locale]}/`;
 ---
 
 <header>
@@ -18,7 +20,7 @@ const t = useTranslations(locale);
 			<div class="internal-links">
 				<HeaderLink href={localePath(locale, '/')}>{t('nav.home')}</HeaderLink>
 				<HeaderLink href={localePath(locale, '/blog')}>{t('nav.blog')}</HeaderLink>
-				<HeaderLink href="/directory">{t('nav.directory')}</HeaderLink>
+				<HeaderLink href={dirHref}>{t('nav.directory')}</HeaderLink>
 				<HeaderLink href={localePath(locale, '/' + t('slug.about'))}>{t('nav.about')}</HeaderLink>
 			</div>
 			<div class="nav-right">
