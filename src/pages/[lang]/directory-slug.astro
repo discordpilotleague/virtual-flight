@@ -1,0 +1,114 @@
+---
+import { getCollection, render } from "astro:content";
+import BaseHead from "../../components/BaseHead.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import FormattedDate from "../../components/FormattedDate.astro";
+import { directoryLabels } from "../../i18n/directory-i18n";
+import type { SiteLang, ServiceCategory } from "../../i18n/directory-i18n";
+
+export async function getStaticPaths() {
+  const all = await getCollection("directory", ({ data }) => data.lang !== "en" && !data.draft);
+  return all.map(e => ({ params: { lang: e.data.lang, slug: e.id }, props: { entry: e } }));
+}
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const lang = entry.data.lang as SiteLang;
+
+const byCategory = entry.data.services.reduce((acc, s) => {
+  if (!acc[s.category]) acc[s.category] = [];
+  acc[s.category].push(s); return acc;
+}, {} as Record<string, typeof entry.data.services>);
+const catOrder: ServiceCategory[] = ["network","virtual-airline","community","addon-developer","media","event","training","shop"];
+function getFlagEmoji(cc: string): string {
+  return String.fromCodePoint(...cc.toUpperCase().split("").map(c => 127397 + c.charCodeAt(0)));
+}
+const simColors: Record<string,string> = { msfs:"#0ea5e9", xplane:"#8b5cf6", dcs:"#ef4444", general:"#64748b" };
+---
+<!doctype html>
+<html lang={lang}>
+<head>
+  <BaseHead title={entry.data.title} description={entry.data.description} />
+  <style>
+    .dir-c{max-width:860px;margin:0 auto;padding:2rem 1.5rem 4rem}
+    .bc{font-size:.85rem;margin-bottom:1.5rem;opacity:.6}.bc a{text-decoration:none;color:rgb(var(--accent))}.bc .s{margin:0 .4rem;opacity:.4}
+    .ch{display:flex;align-items:center;gap:1.25rem;margin-bottom:2rem}.fl{font-size:3.5rem;line-height:1}
+    .ch h1{font-size:2rem;margin:0 0 .2rem}.hm{font-size:.85rem;opacity:.6;display:flex;gap:1.25rem}
+    .cn{display:flex;flex-wrap:wrap;gap:.4rem;margin-bottom:2rem;padding-bottom:1.25rem;border-bottom:1px solid rgba(128,128,128,.2)}
+    .cp{display:inline-flex;align-items:center;gap:.3rem;padding:.35rem .75rem;border-radius:100px;border:1px solid rgba(128,128,128,.2);font-size:.78rem;text-decoration:none;color:inherit;transition:all .15s;white-space:nowrap}
+    .cp:hover{border-color:rgb(var(--accent))}.ci2{font-size:.95rem}
+    .cc{background:rgba(128,128,128,.15);border-radius:100px;padding:0 .35rem;font-size:.68rem;font-weight:600}
+    .art{margin-bottom:2.5rem;line-height:1.75}.art :global(h2){font-size:1.4rem;margin-top:2.25rem}.art :global(h3){font-size:1.15rem;margin-top:1.5rem}
+    .sd>h2{font-size:1.5rem;margin-bottom:1.5rem;padding-bottom:.4rem;border-bottom:2px solid rgba(128,128,128,.2)}
+    .cs{margin-bottom:2rem}.cs h3{display:flex;align-items:center;gap:.4rem;font-size:1.15rem;margin-bottom:.75rem}
+    .sl{display:flex;flex-direction:column;gap:.6rem}
+    .sc{padding:1.1rem 1.25rem;border-radius:8px;border:1px solid rgba(128,128,128,.2);transition:border-color .15s}
+    .sc:hover{border-color:rgb(var(--accent))}.sc.ft{border-color:#f59e0b;background:rgba(245,158,11,.05)}
+    .sn{font-weight:600;font-size:1rem;text-decoration:none;color:rgb(var(--accent));display:inline-flex;align-items:center;gap:.4rem}.sn:hover{text-decoration:underline}
+    .sde{font-size:.88rem;margin:.3rem 0 .5rem;opacity:.8;line-height:1.5}
+    .sm{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.4rem}
+    .st{display:flex;gap:.3rem}
+    .stg{font-size:.68rem;font-weight:700;padding:.12rem .45rem;border-radius:3px;letter-spacing:.03em;background:color-mix(in srgb,var(--sim-color) 15%,transparent);color:var(--sim-color)}
+    .sb{display:flex;gap:.3rem}.bdg{font-size:.68rem;padding:.12rem .45rem;border-radius:3px;font-weight:600}
+    .vb{background:#dcfce7;color:#16a34a}.fb{background:#fef3c7;color:#d97706}.lb{background:rgba(128,128,128,.15);opacity:.7}
+    .sug{margin-top:2.5rem;padding:1.75rem;border-radius:10px;background:rgba(128,128,128,.06);text-align:center}
+    .sug p{margin:0 0 .75rem;font-size:.95rem}
+    .sugb{display:inline-flex;align-items:center;gap:.4rem;padding:.5rem 1.25rem;border-radius:6px;background:rgb(var(--accent));color:white;text-decoration:none;font-weight:600;font-size:.85rem}.sugb:hover{opacity:.9}
+    @media(max-width:640px){.ch{flex-direction:column;text-align:center}.ch h1{font-size:1.5rem}.hm{flex-direction:column;gap:.2rem}.sm{flex-direction:column;align-items:flex-start}}
+  </style>
+</head>
+<body>
+  <Header />
+  <main class="dir-c">
+    <nav class="bc"><a href={`/${lang}/directory-index/`}>{directoryLabels.navLabel[lang]}</a><span class="s">/</span><span>{entry.data.country}</span></nav>
+    <header class="ch">
+      <span class="fl">{getFlagEmoji(entry.data.countryCode)}</span>
+      <div>
+        <h1>{entry.data.country}</h1>
+        <p class="hm">
+          <span><strong>{entry.data.totalServices}</strong> {directoryLabels.ui.resources[lang]}</span>
+          {entry.data.updatedDate && <span>{directoryLabels.ui.lastUpdated[lang]}: <FormattedDate date={entry.data.updatedDate} /></span>}
+        </p>
+      </div>
+    </header>
+    <nav class="cn">
+      {catOrder.map(cat => {
+        const svcs = byCategory[cat]; if (!svcs?.length) return null;
+        return <a href={`#cat-${cat}`} class="cp"><span class="ci2">{directoryLabels.categoryIcons[cat]}</span>{directoryLabels.categories[cat][lang]}<span class="cc">{svcs.length}</span></a>;
+      })}
+    </nav>
+    <article class="art"><Content /></article>
+    <section class="sd">
+      <h2>{directoryLabels.ui.completeDirectory[lang]}</h2>
+      {catOrder.map(cat => {
+        const svcs = byCategory[cat]; if (!svcs?.length) return null;
+        return (
+          <div class="cs" id={`cat-${cat}`}>
+            <h3><span class="ci2">{directoryLabels.categoryIcons[cat]}</span>{directoryLabels.categories[cat][lang]}</h3>
+            <div class="sl">
+              {svcs.map(s => (
+                <div class:list={["sc",{ft:s.featured}]}>
+                  <div><a href={s.url} target="_blank" rel="noopener noreferrer" class="sn">{s.name}{s.featured && <span class="bdg fb">★ {directoryLabels.ui.featured[lang]}</span>}</a></div>
+                  <p class="sde">{s.description}</p>
+                  <div class="sm">
+                    <div class="st">{s.simulators.map(sim => <span class="stg" style={`--sim-color:${simColors[sim]||simColors.general}`}>{sim.toUpperCase()}</span>)}</div>
+                    <div class="sb">
+                      {s.verified && <span class="bdg vb">✓ {directoryLabels.ui.verified[lang]}</span>}
+                      {s.language && <span class="bdg lb">{s.language.toUpperCase()}</span>}
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        );
+      })}
+    </section>
+    <aside class="sug">
+      <p>{directoryLabels.ui.suggestResource[lang]}</p>
+      <a href="https://discord.gg/your-invite-link" target="_blank" rel="noopener" class="sugb">💬 Discord</a>
+    </aside>
+  </main>
+  <Footer />
+</body>
+</html>

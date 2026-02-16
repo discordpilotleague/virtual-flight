@@ -1,0 +1,74 @@
+---
+import { getCollection } from "astro:content";
+import BaseHead from "../../components/BaseHead.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import { directoryLabels } from "../../i18n/directory-i18n";
+import type { SiteLang, Continent } from "../../i18n/directory-i18n";
+
+export function getStaticPaths() {
+  return ["fr","es","pt","de","zh","id","ja"].map(l => ({ params:{lang:l}, props:{lang:l as SiteLang} }));
+}
+const { lang } = Astro.props;
+const countries = await getCollection("directory", ({ data }) => data.lang === lang && !data.draft);
+const byContinent = countries.reduce((acc, c) => {
+  if (!acc[c.data.continent]) acc[c.data.continent] = [];
+  acc[c.data.continent].push(c); return acc;
+}, {} as Record<string, typeof countries>);
+const continentOrder: Continent[] = ["europe","north-america","south-america","asia","oceania","africa"];
+function getFlagEmoji(cc: string): string {
+  return String.fromCodePoint(...cc.toUpperCase().split("").map(c => 127397 + c.charCodeAt(0)));
+}
+const totalResources = countries.reduce((s, c) => s + c.data.totalServices, 0);
+---
+<!doctype html>
+<html lang={lang}>
+<head>
+  <BaseHead title={directoryLabels.pageTitle[lang]} description={directoryLabels.pageDescription[lang]} />
+  <style>
+    .dir-idx{max-width:1100px;margin:0 auto;padding:2rem 1.5rem 4rem}
+    .dir-hero{text-align:center;margin-bottom:3rem;padding:2.5rem 1rem}
+    .dir-hero h1{font-size:2.25rem;margin-bottom:.5rem}
+    .dir-hero .sub{font-size:1.1rem;opacity:.75;max-width:560px;margin:0 auto 1.5rem;line-height:1.6}
+    .stats{display:flex;gap:2rem;justify-content:center}
+    .stat{font-size:.9rem;opacity:.65}.stat strong{font-size:1.4rem;display:block;opacity:1}
+    .cont-sec{margin-bottom:2.5rem}
+    .cont-sec h2{font-size:1.35rem;margin-bottom:1rem;padding-bottom:.4rem;border-bottom:2px solid rgba(128,128,128,.2)}
+    .cgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:.85rem}
+    .ccard{display:flex;align-items:center;gap:1rem;padding:1.1rem 1.25rem;border-radius:10px;border:1px solid rgba(128,128,128,.2);text-decoration:none;color:inherit;transition:all .2s}
+    .ccard:hover{border-color:rgb(var(--accent));box-shadow:0 4px 12px rgba(0,0,0,.06);transform:translateY(-1px)}
+    .flag{font-size:2.25rem;line-height:1}.ci h3{font-size:1.05rem;margin:0 0 .15rem}.ci .cnt{font-size:.8rem;opacity:.55}
+    @media(max-width:640px){.dir-hero h1{font-size:1.65rem}.cgrid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <Header />
+  <main class="dir-idx">
+    <header class="dir-hero">
+      <h1>{directoryLabels.pageTitle[lang]}</h1>
+      <p class="sub">{directoryLabels.pageDescription[lang]}</p>
+      <div class="stats">
+        <span class="stat"><strong>{countries.length}</strong>{directoryLabels.ui.countries[lang]}</span>
+        <span class="stat"><strong>{totalResources}</strong>{directoryLabels.ui.resources[lang]}</span>
+      </div>
+    </header>
+    {continentOrder.map(cont => {
+      const list = byContinent[cont]; if (!list?.length) return null;
+      return (
+        <section class="cont-sec">
+          <h2>{directoryLabels.continents[cont][lang]}</h2>
+          <div class="cgrid">
+            {list.sort((a,b) => b.data.totalServices - a.data.totalServices).map(c => (
+              <a href={`/${lang}/directory/${c.id}/`} class="ccard">
+                <span class="flag">{getFlagEmoji(c.data.countryCode)}</span>
+                <div class="ci"><h3>{c.data.country}</h3><span class="cnt">{c.data.totalServices} {directoryLabels.ui.resources[lang]}</span></div>
+              </a>
+            ))}
+          </div>
+        </section>
+      );
+    })}
+  </main>
+  <Footer />
+</body>
+</html>
