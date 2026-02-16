@@ -7,7 +7,7 @@ import { directoryLabels } from "../../i18n/directory-i18n";
 import type { Continent } from "../../i18n/directory-i18n";
 
 const lang = "en";
-const countries = await getCollection("directory", ({ data }) => !data.draft);
+const countries = await getCollection("directory", ({ data }) => data.lang === "en" && !data.draft);
 
 const byContinent = countries.reduce((acc, c) => {
   const cont = c.data.continent;
@@ -63,7 +63,7 @@ const totalResources = countries.reduce((s, c) => s + c.data.totalServices, 0);
           <h2>{directoryLabels.continents[cont][lang]}</h2>
           <div class="cgrid">
             {list.sort((a,b) => b.data.totalServices - a.data.totalServices).map(c => (
-              <a href={`/directory/${c.id}/`} class="ccard">
+              <a href={`/directory/${c.id.split('/').pop()}/`} class="ccard">
                 <span class="flag">{getFlagEmoji(c.data.countryCode)}</span>
                 <div class="ci">
                   <h3>{c.data.country}</h3>

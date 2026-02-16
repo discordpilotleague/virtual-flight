@@ -10,7 +10,7 @@ export function getStaticPaths() {
   return ["fr","es","pt","de","zh","id","ja"].map(l => ({ params:{lang:l}, props:{lang:l as SiteLang} }));
 }
 const { lang } = Astro.props;
-const countries = await getCollection("directory", ({ data }) => !data.draft);
+const countries = await getCollection("directory", ({ data }) => data.lang === lang && !data.draft);
 const byContinent = countries.reduce((acc, c) => {
   if (!acc[c.data.continent]) acc[c.data.continent] = [];
   acc[c.data.continent].push(c); return acc;
@@ -59,7 +59,7 @@ const totalResources = countries.reduce((s, c) => s + c.data.totalServices, 0);
           <h2>{directoryLabels.continents[cont][lang]}</h2>
           <div class="cgrid">
             {list.sort((a,b) => b.data.totalServices - a.data.totalServices).map(c => (
-              <a href={`/${lang}/directory/${c.id}/`} class="ccard">
+              <a href={`/${lang}/directory/${c.id.split('/').pop()}/`} class="ccard">
                 <span class="flag">{getFlagEmoji(c.data.countryCode)}</span>
                 <div class="ci"><h3>{c.data.country}</h3><span class="cnt">{c.data.totalServices} {directoryLabels.ui.resources[lang]}</span></div>
               </a>

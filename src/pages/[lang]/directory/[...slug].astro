@@ -8,11 +8,11 @@ import { directoryLabels } from "../../../i18n/directory-i18n";
 import type { SiteLang, ServiceCategory } from "../../../i18n/directory-i18n";
 
 export async function getStaticPaths() {
-  const langs: SiteLang[] = ["fr","es","pt","de","zh","id","ja"];
-  const all = await getCollection("directory", ({ data }) => !data.draft);
-  return langs.flatMap(lang =>
-    all.map(e => ({ params: { lang, slug: e.id }, props: { entry: e, lang } }))
-  );
+  const all = await getCollection("directory", ({ data }) => data.lang !== "en" && !data.draft);
+  return all.map(e => ({
+    params: { lang: e.data.lang, slug: e.id.split('/').pop() },
+    props: { entry: e, lang: e.data.lang as SiteLang }
+  }));
 }
 const { entry, lang } = Astro.props;
 const { Content } = await render(entry);
