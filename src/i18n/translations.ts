@@ -320,6 +320,84 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'terms.p5': 'Reservamo-nos o direito de modificar estes termos a qualquer momento. A continuação da utilização do site implica a aceitação dos termos atualizados.',
 	},
 
+	br: {
+		'site.title': 'Virtual Flight',
+		'site.description': 'Notícias de hardware e software para pilotos virtuais',
+		'nav.home': 'Início',
+		'nav.blog': 'Blog',
+		'nav.about': 'Sobre',
+		'nav.directory': 'Diretório',
+		'home.heading': 'Bem-vindo ao Virtual Flight',
+		'home.p1':
+			'O Virtual Flight é a sua revista digital dedicada à simulação de voo. Seja voando no MSFS 2024, X-Plane ou DCS, você vai encontrar aqui todas as novidades de hardware e software que importam para pilotos virtuais.',
+		'home.p2':
+			'Análises de periféricos, comparativos de cenários, guias de configuração, novidades de add-ons: nossa equipe editorial cobre todo o ecossistema para ajudar você a tirar o máximo do seu cockpit.',
+		'home.p3':
+			'Apaixonado por voo online ou por circuitos solo, junte-se a uma comunidade de simmers exigentes e fique por dentro dos últimos lançamentos que vão elevar suas sessões a outro nível.',
+		'slug.about': 'sobre',
+		'about.title': 'Sobre',
+		'about.description':
+			'Conheça a equipe por trás do Virtual Flight, sua revista de simulação de voo.',
+		'about.p1':
+			'O Virtual Flight é sua revista digital independente dedicada à simulação de voo. Nossa missão é simples: oferecer aos pilotos virtuais uma fonte de informação confiável, aprofundada e atualizada regularmente sobre os simuladores, hardware e software que mais importam.',
+		'about.p2':
+			'Nossa equipe editorial reúne simmers experientes com milhares de horas de voo no MSFS 2024, X-Plane e DCS. Testamos hardware — joysticks, pedais de leme, painéis de rádio — com o mesmo rigor que os add-ons de software, cenários e aeronaves que alimentam nossos simuladores favoritos.',
+		'about.p3':
+			'Além das análises, o Virtual Flight cobre as novidades do voo online, atualizações de plataformas e eventos comunitários que marcam a vida das esquadrilhas virtuais. Nosso objetivo: dar a você as chaves para aproveitar ao máximo cada sessão, seja você iniciante ou piloto experiente.',
+		'about.p4':
+			'Agradecemos seu feedback, sugestões e contribuições. Entre em contato conosco em vf@virtual-flight.com — adoraríamos ouvir você.',
+		'footer.copyright': 'Todos os direitos reservados.',
+		'blog.lastUpdated': 'Última atualização em',
+		'social.mastodon': 'Seguir no Mastodon',
+		'social.twitter': 'Seguir no Twitter',
+		'social.github': 'Ir para o repositório GitHub',
+		'social.discord': 'Entrar no Discord',
+
+		'nav.methodology': 'Metodologia',
+		'nav.privacy': 'Privacidade',
+		'nav.terms': 'Termos',
+
+		'methodology.title': 'Nossa metodologia',
+		'methodology.description': 'Saiba como o Virtual Flight testa hardware e software de simulação de voo.',
+		'methodology.intro': 'O rigor está no centro de cada análise que publicamos. Veja como trabalhamos.',
+		'methodology.h1': 'Testes de hardware',
+		'methodology.p1': 'Cada joystick, manete e pedaleira passa mais de 100 horas nas nossas mãos. Testamos em cenários de voo reais no MSFS 2024, X-Plane e DCS, e comparamos os resultados entre plataformas para entregar um veredito confiável.',
+		'methodology.h2': 'Avaliações de software',
+		'methodology.p2': 'Para cada add-on avaliamos a instalação, o impacto no desempenho, a qualidade visual e o custo-benefício. Os testes são repetidos em várias configurações para garantir conclusões representativas.',
+		'methodology.h3': 'Independência editorial',
+		'methodology.p3': 'Nenhum conteúdo patrocinado é publicado no Virtual Flight. Compramos nosso próprio hardware e software. Qualquer relação comercial é declarada com total transparência.',
+		'methodology.h4': 'Correções e atualizações',
+		'methodology.p4': 'Atualizamos nossos artigos quando um produto recebe uma atualização de firmware ou uma nova versão é lançada, para que nossas recomendações continuem relevantes.',
+
+		'privacy.title': 'Política de privacidade',
+		'privacy.description': 'Como o Virtual Flight protege seus dados pessoais.',
+		'privacy.intro': 'Sua privacidade é importante. Veja como tratamos seus dados no Virtual Flight.',
+		'privacy.h1': 'Coleta de dados',
+		'privacy.p1': 'Coletamos o mínimo de dados possível. Apenas estatísticas anônimas de visita são registradas. Não é necessário criar conta para navegar no site.',
+		'privacy.h2': 'Cookies',
+		'privacy.p2': 'Usamos apenas cookies essenciais para o funcionamento do site. Nenhum rastreador publicitário é utilizado.',
+		'privacy.h3': 'Serviços de terceiros',
+		'privacy.p3': 'O site utiliza uma CDN para distribuição de conteúdo, uma ferramenta de analytics que respeita a privacidade (como o Plausible) e pode incorporar conteúdo de terceiros (vídeos, mapas).',
+		'privacy.h4': 'Seus direitos',
+		'privacy.p4': 'De acordo com o RGPD, você tem o direito de acessar, retificar e excluir seus dados. Você pode exercer esses direitos a qualquer momento.',
+		'privacy.h5': 'Contato',
+		'privacy.p5': 'Para qualquer dúvida relacionada à privacidade, entre em contato com RENFELD LEBANON — Building St Michel, Ghazir, Líbano. Nos comprometemos a responder o mais rápido possível.',
+
+		'terms.title': 'Termos de uso',
+		'terms.description': 'Termos de uso do site Virtual Flight.',
+		'terms.intro': 'Ao usar o Virtual Flight, você concorda com os seguintes termos.',
+		'terms.h1': 'Aceitação',
+		'terms.p1': 'Ao acessar e usar este site, você concorda em ficar vinculado a estes termos de uso.',
+		'terms.h2': 'Propriedade intelectual',
+		'terms.p2': 'Todo o conteúdo publicado no Virtual Flight é protegido por direitos autorais. É destinado exclusivamente ao uso pessoal. A reprodução sem autorização é proibida.',
+		'terms.h3': 'Conduta do usuário',
+		'terms.p3': 'Esperamos um comportamento respeitoso de todos os visitantes. Scraping automatizado ou coleta de dados do site são estritamente proibidos.',
+		'terms.h4': 'Avisos legais',
+		'terms.p4': 'Nossas análises e opiniões refletem o ponto de vista da equipe editorial e não constituem garantia. Links de afiliados, quando existentes, são claramente identificados.',
+		'terms.h5': 'Modificações',
+		'terms.p5': 'Reservamo-nos o direito de modificar estes termos a qualquer momento. O uso continuado do site implica a aceitação dos termos atualizados.',
+	},
+
 	de: {
 		'site.title': 'Virtual Flight',
 		'site.description': 'Hardware- und Software-News für virtuelle Piloten',

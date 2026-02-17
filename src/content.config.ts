@@ -23,7 +23,7 @@ const directory = defineCollection({
 	schema: z.object({
 		title: z.string().max(100),
 		description: z.string().max(200),
-		lang: z.enum(["en", "fr", "es", "pt", "de", "zh", "id", "ja"]),
+		lang: z.enum(["en", "fr", "es", "pt", "br", "de", "zh", "id", "ja"]),
 		pubDate: z.coerce.date(),
 		updatedDate: z.coerce.date().optional(),
 		draft: z.boolean().default(false),

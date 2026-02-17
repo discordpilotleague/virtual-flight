@@ -7,7 +7,7 @@ import { directoryLabels, directorySlugs } from "../../../i18n/directory-i18n";
 import type { SiteLang, Continent } from "../../../i18n/directory-i18n";
 
 export function getStaticPaths() {
-  return ["fr","es","pt","de","zh","id","ja"].map(l => ({
+  return ["fr","es","pt","br","de","zh","id","ja"].map(l => ({
     params: { lang: l, dirSlug: directorySlugs[l] },
     props: { lang: l as SiteLang }
   }));

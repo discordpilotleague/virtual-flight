@@ -4,7 +4,7 @@
 
 Tu travailles sur virtual-flight.com, un magazine de simulation de vol.
 Le site est construit avec Astro, le contenu est en Markdown avec frontmatter Zod-validé.
-Le site couvre 8 langues : en, fr, es, pt, de, zh, id, ja.
+Le site couvre 9 langues : en, fr, es, pt, br, de, zh, id, ja.
 
 ## Mission annuaire
 
@@ -31,6 +31,7 @@ Quand on te demande de travailler sur l'annuaire (directory), ta mission est de 
 | México | MX | es | mexico |
 | Argentina | AR | es | argentina |
 | Brasil | BR | pt | brasil |
+| Brasil (pt-BR) | BR | br | brazil |
 | Portugal | PT | pt | portugal |
 | Deutschland | DE | de | deutschland |
 | Österreich | AT | de | osterreich |
@@ -84,7 +85,7 @@ Adapter les termes selon la langue :
 - `"aerolínea virtual" {país}`
 - `"simulador de vuelo" foro Discord {país}`
 
-**Português (pt):**
+**Português (pt / br):**
 - `"simulador de voo" comunidade {país}`
 - `"companhia aérea virtual" {país}`
 - `"simulador de voo" fórum Discord {país}`
@@ -132,7 +133,7 @@ Si un site ne répond pas ou est clairement abandonné → NE PAS inclure.
 ---
 title: "Flight Simulation in {Country} — Community Directory"  # DANS LA LANGUE LOCALE
 description: "Complete directory of {country} flight sim..."     # DANS LA LANGUE LOCALE, ≤200 car
-lang: en                # en|fr|es|pt|de|zh|id|ja
+lang: en                # en|fr|es|pt|br|de|zh|id|ja
 pubDate: 2026-02-16
 country: "France"       # Nom local du pays
 countryEN: "France"     # Nom en anglais (toujours)
@@ -175,7 +176,14 @@ services:
 - Variante neutre (ni España ni Latam spécifiquement) sauf pour le pays concerné
 
 ### Português (pt)
-- Português brasileiro pour le Brésil, européen pour le Portugal
+- Português européen pour le Portugal
+- "Simulador de voo" / "Simulação de voo"
+
+### Português brasileiro (br)
+- Portugais brésilien, ton plus direct et informel que le pt-PT
+- "você" au lieu de la forme implicite formelle
+- "contato" (pas "contacto"), "conosco" (pas "connosco")
+- "equipe" (pas "equipa"), "treinamento" (pas "formação")
 - "Simulador de voo" / "Simulação de voo"
 
 ### Deutsch (de)
