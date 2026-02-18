@@ -18,6 +18,10 @@ const t = useTranslations(locale);
 </div>
 
 <form id="vf-contact-form" class="contact-form" novalidate>
+	<input type="hidden" name="_subject" value="[Virtual Flight] Nouveau message de contact" />
+	<input type="hidden" name="_template" value="table" />
+	<input type="hidden" name="_captcha" value="false" />
+	<input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" />
 	<div class="form-row form-row--half">
 		<div class="form-field">
 			<label for="contact-name">{t('contact.name')}</label>
@@ -40,7 +44,7 @@ const t = useTranslations(locale);
 		</div>
 		<div class="form-field">
 			<label for="contact-subject">{t('contact.subject')}</label>
-			<select id="contact-subject" name="subject" required>
+			<select id="contact-subject" name="topic" required>
 				<option value="" disabled selected>{t('contact.subject.placeholder')}</option>
 				<option value="info">{t('contact.subject.info')}</option>
 				<option value="support">{t('contact.subject.support')}</option>
@@ -86,6 +90,7 @@ const t = useTranslations(locale);
 	var partnershipHint = document.getElementById('partnership-hint-field');
 	var statusEl = document.getElementById('contact-status');
 	var submitBtn = document.getElementById('contact-submit');
+	var submitLabel = submitBtn.textContent;
 
 	// Conditional fields based on subject
 	subjectSelect.addEventListener('change', function() {
@@ -94,20 +99,20 @@ const t = useTranslations(locale);
 		partnershipHint.hidden = val !== 'partnership';
 	});
 
-	// Form submission
+	// Form submission via Web3Forms API
 	form.addEventListener('submit', function(e) {
 		e.preventDefault();
 
 		// Basic validation
 		var name = form.elements.name.value.trim();
 		var email = form.elements.email.value.trim();
-		var subject = form.elements.subject.value;
+		var topic = form.elements.topic.value;
 		var message = form.elements.message.value.trim();
 
-		if (!name || !email || !subject || !message) {
+		if (!name || !email || !topic || !message) {
 			statusEl.hidden = false;
 			statusEl.className = 'form-status form-status--error';
-			statusEl.textContent = statusEl.dataset.error || 'Please fill in all required fields.';
+			statusEl.textContent = statusEl.dataset.error;
 			return;
 		}
 
@@ -115,7 +120,7 @@ const t = useTranslations(locale);
 		if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
 			statusEl.hidden = false;
 			statusEl.className = 'form-status form-status--error';
-			statusEl.textContent = statusEl.dataset.error || 'Please enter a valid email.';
+			statusEl.textContent = statusEl.dataset.error;
 			return;
 		}
 
@@ -128,33 +133,47 @@ const t = useTranslations(locale);
 			return;
 		}
 
+		// Disable button and show loading
 		submitBtn.disabled = true;
-		submitBtn.style.opacity = '0.6';
+		submitBtn.textContent = '...';
+		statusEl.hidden = true;
 
-		// Build mailto fallback (works without backend)
-		var mailSubject = '[VF] ' + subject + ' — ' + name;
-		var mailBody = 'From: ' + name + ' (' + email + ')\n';
-		mailBody += 'Type: ' + (form.elements.user_type.value) + '\n';
-		mailBody += 'Subject: ' + subject + '\n';
-		if (form.elements.update_url && form.elements.update_url.value) {
-			mailBody += 'URL: ' + form.elements.update_url.value + '\n';
-		}
-		mailBody += '\n' + message;
+		// Build FormData (supports file attachments)
+		var formData = new FormData(form);
 
-		var mailtoLink = 'mailto:info@virtual-flight.com?subject=' +
-			encodeURIComponent(mailSubject) + '&body=' + encodeURIComponent(mailBody);
+		// Set dynamic subject line
+		formData.set('_subject', '[Virtual Flight] ' + topic + ' — ' + name);
 
-		window.location.href = mailtoLink;
+		console.log('[Contact] Sending form via FormSubmit...');
 
-		// Show success
-		setTimeout(function() {
+		fetch('https://formsubmit.co/ajax/info@virtual-flight.com', {
+			method: 'POST',
+			body: formData
+		})
+		.then(function(res) { return res.json(); })
+		.then(function(data) {
+			if (data.success === 'true' || data.success === true) {
+				statusEl.hidden = false;
+				statusEl.className = 'form-status form-status--success';
+				statusEl.textContent = statusEl.dataset.success;
+				form.reset();
+				urlField.hidden = true;
+				partnershipHint.hidden = true;
+				console.log('[Contact] Message sent successfully:', data);
+			} else {
+				throw new Error(data.message || 'Submission failed');
+			}
+		})
+		.catch(function(err) {
 			statusEl.hidden = false;
-			statusEl.className = 'form-status form-status--success';
-			statusEl.textContent = statusEl.dataset.success;
+			statusEl.className = 'form-status form-status--error';
+			statusEl.textContent = statusEl.dataset.error;
+			console.error('[Contact] Error:', err);
+		})
+		.finally(function() {
 			submitBtn.disabled = false;
-			submitBtn.style.opacity = '1';
-			console.log('[Contact] Form submitted via mailto');
-		}, 500);
+			submitBtn.textContent = submitLabel;
+		});
 	});
 })();
 </script>
