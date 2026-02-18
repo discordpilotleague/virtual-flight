@@ -51,6 +51,13 @@ export function switchLocalePath(currentPath: string, targetLocale: Locale): str
 		return localePath(targetLocale, `/${targetSlug}`);
 	}
 
+	// Handle localized contact page slugs
+	const contactSlugs = ['contact', 'contacto', 'contato', 'kontakt', 'lianxi', 'kontak', 'otoiawase'];
+	if (contactSlugs.includes(bareSegment)) {
+		const targetSlug = translations[targetLocale]?.['slug.contact'] ?? 'contact';
+		return localePath(targetLocale, `/${targetSlug}`);
+	}
+
 	// Handle localized directory slugs
 	const allDirSlugs = Object.values(directorySlugs);
 	const bareSegments = barePath.replace(/^\/|\/$/g, '').split('/');

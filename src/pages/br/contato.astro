@@ -1,0 +1,12 @@
+---
+import Layout from '../../layouts/StaticPage.astro';
+import ContactForm from '../../components/ContactForm.astro';
+import { useTranslations } from '../../i18n/utils';
+
+const t = useTranslations('br');
+---
+
+<Layout title={t('contact.title')} description={t('contact.description')} locale="br">
+	<p>{t('contact.intro')}</p>
+	<ContactForm locale="br" />
+</Layout>

@@ -1,0 +1,306 @@
+---
+import type { Locale } from '../i18n/locales';
+import { useTranslations } from '../i18n/utils';
+
+interface Props {
+	locale: Locale;
+}
+
+const { locale } = Astro.props;
+const t = useTranslations(locale);
+---
+
+<div class="contact-discord">
+	<a href="https://discord.gg/X3zUdkVGPX" target="_blank" rel="noopener noreferrer">
+		<svg viewBox="0 0 16 16" aria-hidden="true" width="20" height="20"><path fill="currentColor" d="M13.545 2.907a13.2 13.2 0 0 0-3.257-1.011.05.05 0 0 0-.052.025c-.141.25-.297.577-.406.833a12.2 12.2 0 0 0-3.658 0 8 8 0 0 0-.412-.833.05.05 0 0 0-.052-.025c-1.125.194-2.22.534-3.257 1.011a.04.04 0 0 0-.021.018C.356 6.024-.213 9.047.066 12.032q.003.022.021.037a13.3 13.3 0 0 0 3.996 2.02.05.05 0 0 0 .056-.019q.463-.63.818-1.329a.05.05 0 0 0-.01-.059.05.05 0 0 0-.018-.011 8.8 8.8 0 0 1-1.248-.595.05.05 0 0 1-.02-.066.05.05 0 0 1 .015-.019q.084-.06.168-.123a.05.05 0 0 1 .048-.006c2.619 1.196 5.454 1.196 8.041 0a.05.05 0 0 1 .05.006q.082.063.167.123a.05.05 0 0 1-.004.085 8.3 8.3 0 0 1-1.249.594.05.05 0 0 0-.03.07q.36.7.818 1.329a.05.05 0 0 0 .056.019 13.2 13.2 0 0 0 4.001-2.02.05.05 0 0 0 .021-.037c.334-3.451-.559-6.449-2.366-9.106a.03.03 0 0 0-.02-.019m-8.198 7.307c-.789 0-1.438-.724-1.438-1.612s.637-1.613 1.438-1.613c.807 0 1.45.73 1.438 1.613 0 .888-.637 1.612-1.438 1.612m5.316 0c-.788 0-1.438-.724-1.438-1.612s.637-1.613 1.438-1.613c.807 0 1.451.73 1.438 1.613 0 .888-.631 1.612-1.438 1.612"></path></svg>
+		{t('contact.discord')}
+	</a>
+</div>
+
+<form id="vf-contact-form" class="contact-form" novalidate>
+	<div class="form-row form-row--half">
+		<div class="form-field">
+			<label for="contact-name">{t('contact.name')}</label>
+			<input type="text" id="contact-name" name="name" placeholder={t('contact.name.placeholder')} required />
+		</div>
+		<div class="form-field">
+			<label for="contact-email">{t('contact.email')}</label>
+			<input type="email" id="contact-email" name="email" placeholder={t('contact.email.placeholder')} required />
+		</div>
+	</div>
+
+	<div class="form-row form-row--half">
+		<div class="form-field">
+			<label for="contact-usertype">{t('contact.usertype')}</label>
+			<select id="contact-usertype" name="user_type">
+				<option value="reader">{t('contact.usertype.reader')}</option>
+				<option value="developer">{t('contact.usertype.developer')}</option>
+				<option value="brand">{t('contact.usertype.brand')}</option>
+			</select>
+		</div>
+		<div class="form-field">
+			<label for="contact-subject">{t('contact.subject')}</label>
+			<select id="contact-subject" name="subject" required>
+				<option value="" disabled selected>{t('contact.subject.placeholder')}</option>
+				<option value="info">{t('contact.subject.info')}</option>
+				<option value="support">{t('contact.subject.support')}</option>
+				<option value="update">{t('contact.subject.update')}</option>
+				<option value="partnership">{t('contact.subject.partnership')}</option>
+				<option value="news">{t('contact.subject.news')}</option>
+			</select>
+		</div>
+	</div>
+
+	<div class="form-field form-field--contextual" id="context-url-field" hidden>
+		<label for="contact-url">{t('contact.url')}</label>
+		<input type="url" id="contact-url" name="update_url" placeholder={t('contact.url.placeholder')} />
+	</div>
+
+	<div class="form-field form-field--contextual" id="partnership-hint-field" hidden>
+		<p class="form-hint">{t('contact.partnership.hint')}</p>
+	</div>
+
+	<div class="form-field">
+		<label for="contact-message">{t('contact.message')}</label>
+		<textarea id="contact-message" name="message" rows="6" placeholder={t('contact.message.placeholder')} required></textarea>
+	</div>
+
+	<div class="form-field">
+		<label for="contact-attachment">{t('contact.attachment')}</label>
+		<input type="file" id="contact-attachment" name="attachment" accept=".pdf,.png,.jpg,.jpeg,.gif,.webp,.zip" />
+		<span class="form-hint">{t('contact.attachment.hint')}</span>
+	</div>
+
+	<div id="contact-status" class="form-status" hidden data-success={t('contact.success')} data-error={t('contact.error')}></div>
+
+	<button type="submit" class="form-submit" id="contact-submit">
+		{t('contact.submit')}
+	</button>
+</form>
+
+<script is:inline>
+(function() {
+	var form = document.getElementById('vf-contact-form');
+	var subjectSelect = document.getElementById('contact-subject');
+	var urlField = document.getElementById('context-url-field');
+	var partnershipHint = document.getElementById('partnership-hint-field');
+	var statusEl = document.getElementById('contact-status');
+	var submitBtn = document.getElementById('contact-submit');
+
+	// Conditional fields based on subject
+	subjectSelect.addEventListener('change', function() {
+		var val = this.value;
+		urlField.hidden = !(val === 'update' || val === 'partnership');
+		partnershipHint.hidden = val !== 'partnership';
+	});
+
+	// Form submission
+	form.addEventListener('submit', function(e) {
+		e.preventDefault();
+
+		// Basic validation
+		var name = form.elements.name.value.trim();
+		var email = form.elements.email.value.trim();
+		var subject = form.elements.subject.value;
+		var message = form.elements.message.value.trim();
+
+		if (!name || !email || !subject || !message) {
+			statusEl.hidden = false;
+			statusEl.className = 'form-status form-status--error';
+			statusEl.textContent = statusEl.dataset.error || 'Please fill in all required fields.';
+			return;
+		}
+
+		// Email format check
+		if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+			statusEl.hidden = false;
+			statusEl.className = 'form-status form-status--error';
+			statusEl.textContent = statusEl.dataset.error || 'Please enter a valid email.';
+			return;
+		}
+
+		// File size check (5 MB)
+		var fileInput = form.elements.attachment;
+		if (fileInput.files.length > 0 && fileInput.files[0].size > 5 * 1024 * 1024) {
+			statusEl.hidden = false;
+			statusEl.className = 'form-status form-status--error';
+			statusEl.textContent = '5 MB max.';
+			return;
+		}
+
+		submitBtn.disabled = true;
+		submitBtn.style.opacity = '0.6';
+
+		// Build mailto fallback (works without backend)
+		var mailSubject = '[VF] ' + subject + ' — ' + name;
+		var mailBody = 'From: ' + name + ' (' + email + ')\n';
+		mailBody += 'Type: ' + (form.elements.user_type.value) + '\n';
+		mailBody += 'Subject: ' + subject + '\n';
+		if (form.elements.update_url && form.elements.update_url.value) {
+			mailBody += 'URL: ' + form.elements.update_url.value + '\n';
+		}
+		mailBody += '\n' + message;
+
+		var mailtoLink = 'mailto:info@virtual-flight.com?subject=' +
+			encodeURIComponent(mailSubject) + '&body=' + encodeURIComponent(mailBody);
+
+		window.location.href = mailtoLink;
+
+		// Show success
+		setTimeout(function() {
+			statusEl.hidden = false;
+			statusEl.className = 'form-status form-status--success';
+			statusEl.textContent = statusEl.dataset.success;
+			submitBtn.disabled = false;
+			submitBtn.style.opacity = '1';
+			console.log('[Contact] Form submitted via mailto');
+		}, 500);
+	});
+})();
+</script>
+
+<style>
+	.contact-discord {
+		margin-bottom: 2em;
+		padding: 1em 1.25em;
+		background: rgba(88, 101, 242, 0.08);
+		border: 1px solid rgba(88, 101, 242, 0.2);
+		border-radius: 8px;
+		text-align: center;
+	}
+	.contact-discord a {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.5em;
+		color: #5865f2;
+		text-decoration: none;
+		font-weight: 600;
+		font-size: 0.95em;
+	}
+	.contact-discord a:hover {
+		text-decoration: underline;
+	}
+
+	.contact-form {
+		display: flex;
+		flex-direction: column;
+		gap: 1.25em;
+	}
+
+	.form-row {
+		display: flex;
+		gap: 1.25em;
+	}
+	.form-row--half > .form-field {
+		flex: 1;
+	}
+
+	.form-field {
+		display: flex;
+		flex-direction: column;
+		gap: 0.35em;
+	}
+
+	.form-field label {
+		font-weight: 600;
+		font-size: 0.9em;
+		color: rgb(var(--black));
+	}
+
+	.form-field input,
+	.form-field select,
+	.form-field textarea {
+		padding: 0.65em 0.85em;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 6px;
+		font-size: 0.95em;
+		font-family: inherit;
+		background: #fff;
+		color: rgb(var(--gray-dark));
+		transition: border-color 0.2s ease, box-shadow 0.2s ease;
+	}
+
+	.form-field input:focus,
+	.form-field select:focus,
+	.form-field textarea:focus {
+		outline: none;
+		border-color: var(--accent);
+		box-shadow: 0 0 0 3px rgba(26, 95, 180, 0.15);
+	}
+
+	.form-field textarea {
+		resize: vertical;
+		min-height: 120px;
+	}
+
+	.form-field select {
+		cursor: pointer;
+	}
+
+	.form-field input[type="file"] {
+		padding: 0.5em;
+		cursor: pointer;
+	}
+
+	.form-hint {
+		font-size: 0.8em;
+		color: rgb(var(--gray));
+		margin: 0;
+	}
+
+	.form-field--contextual {
+		animation: slideDown 0.2s ease;
+	}
+
+	@keyframes slideDown {
+		from { opacity: 0; transform: translateY(-8px); }
+		to { opacity: 1; transform: translateY(0); }
+	}
+
+	.form-status {
+		padding: 0.85em 1em;
+		border-radius: 6px;
+		font-size: 0.9em;
+		font-weight: 500;
+	}
+	.form-status--success {
+		background: rgba(46, 160, 67, 0.1);
+		border: 1px solid rgba(46, 160, 67, 0.3);
+		color: #1a7f37;
+	}
+	.form-status--error {
+		background: rgba(207, 34, 46, 0.1);
+		border: 1px solid rgba(207, 34, 46, 0.3);
+		color: #cf222e;
+	}
+
+	.form-submit {
+		align-self: flex-start;
+		padding: 0.75em 2em;
+		background: var(--accent);
+		color: #fff;
+		border: none;
+		border-radius: 6px;
+		font-size: 1em;
+		font-weight: 600;
+		cursor: pointer;
+		transition: background 0.2s ease, transform 0.1s ease;
+	}
+	.form-submit:hover {
+		background: var(--accent-dark, #1550a0);
+	}
+	.form-submit:active {
+		transform: scale(0.97);
+	}
+
+	@media (max-width: 600px) {
+		.form-row {
+			flex-direction: column;
+		}
+		.form-submit {
+			align-self: stretch;
+			text-align: center;
+			min-height: 44px;
+		}
+	}
+</style>
