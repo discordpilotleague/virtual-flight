@@ -80,6 +80,17 @@ const fr = {
 	'terms.p4': 'Nos tests et avis reflètent l\'opinion de la rédaction et ne constituent pas une garantie. Les liens d\'affiliation éventuels sont clairement identifiés.',
 	'terms.h5': 'Modifications',
 	'terms.p5': 'Nous nous réservons le droit de modifier ces conditions à tout moment. La poursuite de l\'utilisation du site vaut acceptation des conditions mises à jour.',
+
+	'cookie.text': 'Nous utilisons des cookies pour améliorer votre expérience et analyser le trafic du site.',
+	'cookie.accept': 'Tout accepter',
+	'cookie.reject': 'Tout refuser',
+	'cookie.settings': 'Paramétrer',
+	'cookie.settings.title': 'Paramètres des cookies',
+	'cookie.analytics': 'Cookies analytiques',
+	'cookie.analytics.desc': 'Nous aident à comprendre comment les visiteurs interagissent avec le site.',
+	'cookie.ads': 'Cookies publicitaires',
+	'cookie.ads.desc': 'Utilisés pour afficher des publicités pertinentes.',
+	'cookie.save': 'Enregistrer',
 } as const;
 
 export type TranslationKey = keyof typeof fr;
@@ -162,6 +173,17 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'terms.p4': 'Our reviews and opinions reflect the editorial team\'s views and do not constitute a guarantee. Any affiliate links are clearly identified.',
 		'terms.h5': 'Modifications',
 		'terms.p5': 'We reserve the right to update these terms at any time. Continued use of the site constitutes acceptance of the updated terms.',
+
+		'cookie.text': 'We use cookies to improve your experience and analyse site traffic.',
+		'cookie.accept': 'Accept all',
+		'cookie.reject': 'Reject all',
+		'cookie.settings': 'Settings',
+		'cookie.settings.title': 'Cookie settings',
+		'cookie.analytics': 'Analytics cookies',
+		'cookie.analytics.desc': 'Help us understand how visitors interact with the site.',
+		'cookie.ads': 'Advertising cookies',
+		'cookie.ads.desc': 'Used to display relevant advertisements.',
+		'cookie.save': 'Save',
 	},
 
 	es: {
@@ -240,6 +262,17 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'terms.p4': 'Nuestros análisis y opiniones reflejan el punto de vista de la redacción y no constituyen una garantía. Los enlaces de afiliación, si los hay, se identifican claramente.',
 		'terms.h5': 'Modificaciones',
 		'terms.p5': 'Nos reservamos el derecho de modificar estas condiciones en cualquier momento. El uso continuado del sitio implica la aceptación de las condiciones actualizadas.',
+
+		'cookie.text': 'Utilizamos cookies para mejorar su experiencia y analizar el tráfico del sitio.',
+		'cookie.accept': 'Aceptar todo',
+		'cookie.reject': 'Rechazar todo',
+		'cookie.settings': 'Configurar',
+		'cookie.settings.title': 'Configuración de cookies',
+		'cookie.analytics': 'Cookies analíticas',
+		'cookie.analytics.desc': 'Nos ayudan a entender cómo los visitantes interactúan con el sitio.',
+		'cookie.ads': 'Cookies publicitarias',
+		'cookie.ads.desc': 'Se utilizan para mostrar anuncios relevantes.',
+		'cookie.save': 'Guardar',
 	},
 
 	pt: {
@@ -318,6 +351,17 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'terms.p4': 'As nossas análises e opiniões refletem o ponto de vista da redação e não constituem garantia. Eventuais links de afiliação são claramente identificados.',
 		'terms.h5': 'Modificações',
 		'terms.p5': 'Reservamo-nos o direito de modificar estes termos a qualquer momento. A continuação da utilização do site implica a aceitação dos termos atualizados.',
+
+		'cookie.text': 'Utilizamos cookies para melhorar a sua experiência e analisar o tráfego do site.',
+		'cookie.accept': 'Aceitar tudo',
+		'cookie.reject': 'Rejeitar tudo',
+		'cookie.settings': 'Configurar',
+		'cookie.settings.title': 'Definições de cookies',
+		'cookie.analytics': 'Cookies analíticos',
+		'cookie.analytics.desc': 'Ajudam-nos a compreender como os visitantes interagem com o site.',
+		'cookie.ads': 'Cookies publicitários',
+		'cookie.ads.desc': 'Utilizados para apresentar anúncios relevantes.',
+		'cookie.save': 'Guardar',
 	},
 
 	br: {
@@ -396,6 +440,17 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'terms.p4': 'Nossas análises e opiniões refletem o ponto de vista da equipe editorial e não constituem garantia. Links de afiliados, quando existentes, são claramente identificados.',
 		'terms.h5': 'Modificações',
 		'terms.p5': 'Reservamo-nos o direito de modificar estes termos a qualquer momento. O uso continuado do site implica a aceitação dos termos atualizados.',
+
+		'cookie.text': 'Usamos cookies para melhorar sua experiência e analisar o tráfego do site.',
+		'cookie.accept': 'Aceitar tudo',
+		'cookie.reject': 'Rejeitar tudo',
+		'cookie.settings': 'Configurar',
+		'cookie.settings.title': 'Configurações de cookies',
+		'cookie.analytics': 'Cookies analíticos',
+		'cookie.analytics.desc': 'Nos ajudam a entender como os visitantes interagem com o site.',
+		'cookie.ads': 'Cookies de publicidade',
+		'cookie.ads.desc': 'Usados para exibir anúncios relevantes.',
+		'cookie.save': 'Salvar',
 	},
 
 	de: {
@@ -474,6 +529,17 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'terms.p4': 'Unsere Tests und Meinungen spiegeln die Ansicht der Redaktion wider und stellen keine Garantie dar. Etwaige Affiliate-Links werden klar gekennzeichnet.',
 		'terms.h5': 'Änderungen',
 		'terms.p5': 'Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu ändern. Die fortgesetzte Nutzung der Website gilt als Annahme der aktualisierten Bedingungen.',
+
+		'cookie.text': 'Wir verwenden Cookies, um Ihre Erfahrung zu verbessern und den Website-Traffic zu analysieren.',
+		'cookie.accept': 'Alle akzeptieren',
+		'cookie.reject': 'Alle ablehnen',
+		'cookie.settings': 'Einstellungen',
+		'cookie.settings.title': 'Cookie-Einstellungen',
+		'cookie.analytics': 'Analyse-Cookies',
+		'cookie.analytics.desc': 'Helfen uns zu verstehen, wie Besucher mit der Website interagieren.',
+		'cookie.ads': 'Werbe-Cookies',
+		'cookie.ads.desc': 'Werden verwendet, um relevante Werbung anzuzeigen.',
+		'cookie.save': 'Speichern',
 	},
 
 	zh: {
@@ -551,6 +617,17 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'terms.p4': '我们的评测和意见反映编辑团队的观点，不构成任何保证。联盟链接（如有）会被清楚标识。',
 		'terms.h5': '条款修改',
 		'terms.p5': '我们保留随时更新这些条款的权利。继续使用本站即视为接受更新后的条款。',
+
+		'cookie.text': '我们使用 Cookie 来改善您的体验并分析网站流量。',
+		'cookie.accept': '全部接受',
+		'cookie.reject': '全部拒绝',
+		'cookie.settings': '设置',
+		'cookie.settings.title': 'Cookie 设置',
+		'cookie.analytics': '分析 Cookie',
+		'cookie.analytics.desc': '帮助我们了解访客如何与网站互动。',
+		'cookie.ads': '广告 Cookie',
+		'cookie.ads.desc': '用于展示相关广告。',
+		'cookie.save': '保存',
 	},
 
 	id: {
@@ -629,6 +706,17 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'terms.p4': 'Ulasan dan opini kami mencerminkan pandangan tim redaksi dan bukan merupakan jaminan. Tautan afiliasi, jika ada, diidentifikasi dengan jelas.',
 		'terms.h5': 'Perubahan',
 		'terms.p5': 'Kami berhak memperbarui ketentuan ini kapan saja. Penggunaan situs secara berkelanjutan dianggap sebagai penerimaan ketentuan yang diperbarui.',
+
+		'cookie.text': 'Kami menggunakan cookie untuk meningkatkan pengalaman Anda dan menganalisis lalu lintas situs.',
+		'cookie.accept': 'Terima semua',
+		'cookie.reject': 'Tolak semua',
+		'cookie.settings': 'Pengaturan',
+		'cookie.settings.title': 'Pengaturan cookie',
+		'cookie.analytics': 'Cookie analitik',
+		'cookie.analytics.desc': 'Membantu kami memahami bagaimana pengunjung berinteraksi dengan situs.',
+		'cookie.ads': 'Cookie iklan',
+		'cookie.ads.desc': 'Digunakan untuk menampilkan iklan yang relevan.',
+		'cookie.save': 'Simpan',
 	},
 
 	ja: {
@@ -706,5 +794,16 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'terms.p4': '当サイトのレビューや意見は編集チームの見解を反映したものであり、保証を構成するものではありません。アフィリエイトリンクがある場合は明確に表示されます。',
 		'terms.h5': '規約の変更',
 		'terms.p5': '当サイトはいつでも本規約を更新する権利を有します。サイトの継続的な利用は、更新された規約への同意とみなされます。',
+
+		'cookie.text': 'Cookie を使用して、お客様の体験を向上させ、サイトのトラフィックを分析しています。',
+		'cookie.accept': 'すべて許可',
+		'cookie.reject': 'すべて拒否',
+		'cookie.settings': '設定',
+		'cookie.settings.title': 'Cookie の設定',
+		'cookie.analytics': '分析 Cookie',
+		'cookie.analytics.desc': '訪問者がサイトとどのようにやり取りするかを理解するのに役立ちます。',
+		'cookie.ads': '広告 Cookie',
+		'cookie.ads.desc': '関連性の高い広告を表示するために使用されます。',
+		'cookie.save': '保存',
 	},
 };

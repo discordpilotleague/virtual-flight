@@ -32,7 +32,35 @@ for (const loc of locales) {
 }
 ---
 
-<!-- Google tag (gtag.js) -->
+<!-- Google Consent Mode v2 — default: denied -->
+<script is:inline>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+
+  // 1. Set default consent BEFORE loading gtag.js
+  gtag('consent', 'default', {
+    ad_storage: 'denied',
+    analytics_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    wait_for_update: 500
+  });
+  console.log('[Consent] Default: all denied');
+
+  // 2. If user already made a choice, restore it immediately
+  (function() {
+    var saved = localStorage.getItem('vf-cookie-consent');
+    if (saved) {
+      try {
+        var prefs = JSON.parse(saved);
+        gtag('consent', 'update', prefs);
+        console.log('[Consent] Restored from localStorage:', prefs);
+      } catch(e) {}
+    }
+  })();
+</script>
+
+<!-- Google tag (gtag.js) — loads AFTER consent defaults -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-MJXB6CZWNN"></script>
 <script is:inline>
   window.dataLayer = window.dataLayer || [];
