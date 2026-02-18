@@ -3,7 +3,7 @@ title: 'iniBuilds L-1011 TriStar: The Legendary Trijet is Coming to MSFS 2024'
 description: 'iniBuilds announces the Lockheed L-1011 TriStar for MSFS 2024 with full flight engineer station, CAT IIIB autoland, and period-correct systems.'
 lang: 'en'
 pubDate: 'Feb 14 2026'
-heroImage: '../../assets/hero-inibuilds-tristar.svg'
+heroImage: '../../assets/hero-inibuilds-tristar.jpg'
 ---
 
 There are aircraft that defined their era, and then there are aircraft that arrived ahead of it. The Lockheed L-1011 TriStar belongs firmly in the second category. When it entered service in 1972, it carried technology that would not become standard on commercial airliners for another decade: a direct-lift control system for buttery smooth landings, a fully automated landing capability down to CAT IIIA on day one, and a level of structural and aerodynamic refinement that made pilots speak of it in terms usually reserved for fighter jets. Only around 250 were ever built, the victim of a financial catastrophe that had nothing to do with the quality of the airframe itself. Now, more than half a century after the first TriStar rolled off the Palmdale assembly line, [iniBuilds](https://inibuilds.com/) is bringing the L-1011-500 to Microsoft Flight Simulator 2024 -- and the level of ambition on display suggests this will be one of the defining add-ons of the platform.

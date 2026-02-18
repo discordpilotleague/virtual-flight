@@ -3,7 +3,7 @@ title: 'iniBuilds L-1011 三星客机：传奇三发喷气机即将登陆 MSFS 2
 description: 'iniBuilds 宣布为 MSFS 2024 开发洛克希德 L-1011 三星客机，配备飞行工程师站、CAT IIIB 自动着陆和原版系统。'
 lang: 'zh'
 pubDate: 'Feb 14 2026'
-heroImage: '../../assets/hero-inibuilds-tristar.svg'
+heroImage: '../../assets/hero-inibuilds-tristar.jpg'
 ---
 
 在航空史上，有些飞机因为商业成功而被铭记，有些飞机因为技术突破而被铭记，还有极少数飞机——因为它们本不该被遗忘却偏偏被命运辜负——而在几十年后依然令人心生敬意。洛克希德 L-1011 三星客机就是这样一架飞机。它是第一架宽体三发喷气客机，搭载了同时代最先进的自动飞行控制系统，赢得了几乎所有驾驶过它的飞行员的深切热爱，却因为一场跨越大西洋的工业危机而只生产了约250架便黯然退场。

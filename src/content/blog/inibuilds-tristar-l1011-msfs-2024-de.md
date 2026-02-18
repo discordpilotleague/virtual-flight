@@ -3,7 +3,7 @@ title: 'iniBuilds L-1011 TriStar: Der legendäre Dreistrahljet kommt für MSFS 2
 description: 'iniBuilds kündigt die Lockheed L-1011 TriStar für MSFS 2024 an — mit Flugingenieur-Station, CAT IIIB Autoland und originalgetreuen Systemen.'
 lang: 'de'
 pubDate: 'Feb 14 2026'
-heroImage: '../../assets/hero-inibuilds-tristar.svg'
+heroImage: '../../assets/hero-inibuilds-tristar.jpg'
 ---
 
 Es gibt Flugzeuge, die eine Epoche definiert haben, und es gibt Flugzeuge, die ihrer Epoche voraus waren. Die Lockheed L-1011 TriStar gehört zu beiden Kategorien. Als erster Widebody-Trijet der Luftfahrtgeschichte verband sie Ingenieurskunst auf höchstem Niveau mit einem technologischen Ehrgeiz, der selbst Jahrzehnte nach ihrem letzten kommerziellen Flug Bewunderung hervorruft. Jetzt bringt [iniBuilds](https://inibuilds.com/) dieses außergewöhnliche Flugzeug als L-1011-500 TriStar für Microsoft Flight Simulator 2024 — und die bisher bekannten Details deuten auf eine Simulation, die der Legende gerecht werden könnte.

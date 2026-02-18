@@ -3,7 +3,7 @@ title: 'iniBuilds L-1011 TriStar: Pesawat Trijet Legendaris Hadir di MSFS 2024'
 description: 'iniBuilds mengumumkan Lockheed L-1011 TriStar untuk MSFS 2024 dengan stasiun flight engineer, autoland CAT IIIB, dan sistem otentik.'
 lang: 'id'
 pubDate: 'Feb 14 2026'
-heroImage: '../../assets/hero-inibuilds-tristar.svg'
+heroImage: '../../assets/hero-inibuilds-tristar.jpg'
 ---
 
 Ada pesawat-pesawat tertentu yang melampaui sejarah aviasi dan menjadi legenda. Lockheed L-1011 TriStar adalah salah satunya — sebuah widebody trijet yang lahir dari ambisi teknik tak tertandingi, namun juga dari tragedi industri yang mengubah wajah penerbangan komersial selamanya. Kini, [iniBuilds](https://inibuilds.com/) tengah mempersiapkan reproduksi digital L-1011-500 TriStar untuk **Microsoft Flight Simulator 2024**, dan dari apa yang telah diperlihatkan sejauh ini, ini bukan sekadar addon pesawat biasa. Ini adalah proyek restorasi sejarah penerbangan dalam bentuk simulasi.

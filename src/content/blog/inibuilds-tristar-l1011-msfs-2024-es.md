@@ -3,7 +3,7 @@ title: 'iniBuilds L-1011 TriStar: el legendario trirreactor llega a MSFS 2024'
 description: 'iniBuilds anuncia el Lockheed L-1011 TriStar para MSFS 2024 con puesto de ingeniero de vuelo, autoland CAT IIIB y sistemas de época.'
 lang: 'es'
 pubDate: 'Feb 14 2026'
-heroImage: '../../assets/hero-inibuilds-tristar.svg'
+heroImage: '../../assets/hero-inibuilds-tristar.jpg'
 ---
 
 Hay aviones que se diseñan para cumplir una especificación y aviones que se diseñan para cambiar la industria. El **Lockheed L-1011 TriStar** pertenece categóricamente al segundo grupo. Cuando rodó por primera vez en Palmdale, California, en noviembre de 1970, el TriStar era el avión comercial más avanzado que la humanidad había producido: el primero en certificar un sistema de aterrizaje automático CAT IIIB, el primero en integrar un sistema de gestión de vuelo computerizado con controles de empuje automáticos, y uno de los primeros en ofrecer una experiencia de pasajero genuinamente silenciosa gracias a la ubicación del motor central en el fuselaje trasero con un conducto en S que atenuaba el ruido hacia la cabina. Fue un avión adelantado a su tiempo, construido por ingenieros que no aceptaban compromisos.

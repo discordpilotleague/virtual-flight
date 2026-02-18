@@ -3,7 +3,7 @@ title: "iniBuilds L-1011 TriStar : le légendaire triréacteur arrive sur MSFS 2
 description: "iniBuilds annonce le Lockheed L-1011 TriStar pour MSFS 2024 avec poste mécanicien navigant, autoland CAT IIIB et systèmes d'époque."
 lang: 'fr'
 pubDate: 'Feb 14 2026'
-heroImage: '../../assets/hero-inibuilds-tristar.svg'
+heroImage: '../../assets/hero-inibuilds-tristar.jpg'
 ---
 
 Il y a les avions qui ont marque leur epoque, et il y a ceux qui l'ont devancee. Le Lockheed L-1011 TriStar appartient resolument a la seconde categorie. Lorsqu'il entra en service en 1972, il embarquait des technologies qui ne deviendraient la norme dans l'aviation commerciale qu'une decennie plus tard : un systeme de controle par portance directe pour des atterrissages d'une douceur remarquable, une capacite d'atterrissage automatique CAT IIIA des sa certification initiale, et un degre de raffinement structural qui faisait parler les pilotes en des termes habituellement reserves aux avions de chasse. Seulement 250 exemplaires environ furent construits, victimes d'une catastrophe financiere qui n'avait strictement rien a voir avec la qualite de la cellule elle-meme. Aujourd'hui, plus d'un demi-siecle apres que le premier TriStar ait quitte les chaines d'assemblage de Palmdale, [iniBuilds](https://inibuilds.com/) prepare le L-1011-500 pour Microsoft Flight Simulator 2024 -- et le niveau d'ambition affiche laisse presager l'un des add-ons majeurs de la plateforme.

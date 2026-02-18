@@ -3,7 +3,7 @@ title: 'iniBuilds L-1011 トライスター：伝説の3発ジェットがMSFS 2
 description: 'iniBuildsがMSFS 2024向けにロッキード L-1011 トライスターを発表。フライトエンジニア席、CAT IIIB自動着陸、時代考証に基づくシステムを搭載。'
 lang: 'ja'
 pubDate: 'Feb 14 2026'
-heroImage: '../../assets/hero-inibuilds-tristar.svg'
+heroImage: '../../assets/hero-inibuilds-tristar.jpg'
 ---
 
 航空史には、技術的に優れていながら商業的には報われなかった悲運の名機が存在します。ロッキード L-1011 トライスターは、まさにその筆頭に挙げられる機体です。世界初のワイドボディ・トライジェットとして1970年代に登場し、当時の技術水準をはるかに超えたシステムを搭載しながら、エンジンメーカーの経営破綻という想定外の危機に翻弄され、わずか約250機の生産で幕を閉じました。

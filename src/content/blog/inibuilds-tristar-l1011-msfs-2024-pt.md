@@ -3,7 +3,7 @@ title: 'iniBuilds L-1011 TriStar: o lendário trimotor chega ao MSFS 2024'
 description: 'iniBuilds anuncia o Lockheed L-1011 TriStar para MSFS 2024 com estação de engenheiro de voo, autoland CAT IIIB e sistemas de época.'
 lang: 'pt'
 pubDate: 'Feb 14 2026'
-heroImage: '../../assets/hero-inibuilds-tristar.svg'
+heroImage: '../../assets/hero-inibuilds-tristar.jpg'
 ---
 
 Existem aeronaves que são projetadas para cumprir uma especificação de mercado e existem aeronaves que são projetadas para redefinir o que a engenharia aeronáutica consegue alcançar. O **Lockheed L-1011 TriStar** pertence inequivocamente à segunda categoria. Quando fez o seu rollout em Palmdale, Califórnia, em novembro de 1970, o TriStar era a aeronave comercial mais sofisticada que a humanidade havia construído: a primeira a certificar um sistema de pouso automático CAT IIIB, a primeira a integrar um sistema computadorizado de gestão de voo com autothrottle, e uma das primeiras a oferecer uma experiência de passageiro genuinamente silenciosa graças ao duto em S que alimentava o motor central montado na fuselagem traseira. Era um avião que chegou antes do seu tempo — e pagou o preço por isso.
