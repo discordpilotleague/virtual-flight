@@ -28,7 +28,7 @@ const fr = {
 	'about.p3':
 		"Au-delà des tests, Virtual Flight couvre l'actualité du vol réseau, les mises à jour des plateformes et les événements communautaires qui rythment la vie des escadrilles virtuelles. Notre objectif : vous fournir les clés pour profiter pleinement de chaque session, que vous soyez débutant ou pilote confirmé.",
 	'about.p4':
-		"Vos retours, suggestions et contributions sont les bienvenus. Contactez-nous à vf@virtual-flight.com — nous serons ravis d'échanger avec vous.",
+		"Vos retours, suggestions et contributions sont les bienvenus. Rendez-vous sur notre page contact — nous serons ravis d'échanger avec vous.",
 
 	'footer.copyright': 'Tous droits réservés.',
 	'blog.lastUpdated': 'Dernière mise à jour le',
@@ -59,13 +59,13 @@ const fr = {
 	'privacy.h1': 'Collecte de données',
 	'privacy.p1': 'Nous collectons un minimum de données. Seules des statistiques anonymes de visite sont recueillies. Aucun compte personnel n\'est requis pour consulter le site.',
 	'privacy.h2': 'Cookies',
-	'privacy.p2': 'Nous utilisons uniquement des cookies essentiels au fonctionnement du site. Aucun traceur publicitaire n\'est déployé.',
+	'privacy.p2': 'Nous utilisons des cookies pour améliorer votre expérience et analyser l\'utilisation de notre site. Un « cookie » est un petit fichier texte déposé sur votre terminal. Nous utilisons Google Analytics pour collecter des informations sur la navigation des utilisateurs (pages vues, temps passé, origine du trafic). Conformément au Consent Mode v2 de Google, aucun cookie de mesure d\'audience n\'est déposé sans votre consentement préalable via notre bannière de cookies. Vous pouvez modifier votre choix à tout moment.',
 	'privacy.h3': 'Services tiers',
 	'privacy.p3': 'Le site fait appel à un CDN pour la diffusion du contenu, à un outil d\'analyse respectueux de la vie privée (type Plausible) et peut intégrer du contenu embarqué (vidéos, cartes).',
 	'privacy.h4': 'Vos droits',
 	'privacy.p4': 'Conformément au RGPD, vous disposez d\'un droit d\'accès, de rectification et de suppression de vos données. Vous pouvez exercer ces droits à tout moment.',
 	'privacy.h5': 'Contact',
-	'privacy.p5': 'Pour toute question relative à la confidentialité, contactez RENFELD LEBANON — Building St Michel, Ghazir, Liban. Nous nous engageons à répondre dans les meilleurs délais.',
+	'privacy.p5': 'Pour toute question relative à la confidentialité, rendez-vous sur notre page contact ou écrivez à RENFELD LEBANON — Building St Michel, Ghazir, Liban. Nous nous engageons à répondre dans les meilleurs délais.',
 
 	'terms.title': 'Conditions d\'utilisation',
 	'terms.description': 'Les conditions d\'utilisation du site Virtual Flight.',
@@ -154,7 +154,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'about.p3':
 			'Beyond reviews, Virtual Flight covers online flying news, platform updates and community events that drive the life of virtual squadrons. Our goal: to give you the keys to fully enjoy every session, whether you are a beginner or a seasoned pilot.',
 		'about.p4':
-			'We welcome your feedback, suggestions and contributions. Get in touch with us at vf@virtual-flight.com — we would love to hear from you.',
+			'We welcome your feedback, suggestions and contributions. Visit our contact page — we would love to hear from you.',
 		'footer.copyright': 'All rights reserved.',
 		'blog.lastUpdated': 'Last updated on',
 		'social.mastodon': 'Follow on Mastodon',
@@ -184,13 +184,13 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h1': 'Data Collection',
 		'privacy.p1': 'We collect minimal data. Only anonymous visit statistics are gathered. No personal account is required to browse the site.',
 		'privacy.h2': 'Cookies',
-		'privacy.p2': 'We use only essential cookies required for the site to function. No advertising trackers are deployed.',
+		'privacy.p2': 'We use cookies to improve your experience and analyse site usage. A "cookie" is a small text file stored on your device. We use Google Analytics to collect information about user navigation (pages viewed, time spent, traffic sources). In accordance with Google Consent Mode v2, no analytics cookies are set without your prior consent via our cookie banner. You can change your choice at any time.',
 		'privacy.h3': 'Third-Party Services',
 		'privacy.p3': 'The site uses a CDN for content delivery, a privacy-friendly analytics tool (such as Plausible) and may embed third-party content (videos, maps).',
 		'privacy.h4': 'Your Rights',
 		'privacy.p4': 'Under GDPR you have the right to access, rectify and delete your data. You may exercise these rights at any time.',
 		'privacy.h5': 'Contact',
-		'privacy.p5': 'For any privacy-related questions, contact RENFELD LEBANON — Building St Michel, Ghazir, Lebanon. We are committed to responding promptly.',
+		'privacy.p5': 'For any privacy-related questions, visit our contact page or write to RENFELD LEBANON — Building St Michel, Ghazir, Lebanon. We are committed to responding promptly.',
 
 		'terms.title': 'Terms of Service',
 		'terms.description': 'Terms of service for the Virtual Flight website.',
@@ -275,7 +275,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'about.p3':
 			'Más allá de los análisis, Virtual Flight cubre las noticias del vuelo en red, las actualizaciones de plataformas y los eventos comunitarios que marcan la vida de las escuadrillas virtuales. Nuestro objetivo: darte las claves para disfrutar plenamente de cada sesión, seas principiante o piloto experimentado.',
 		'about.p4':
-			'Agradecemos tus comentarios, sugerencias y contribuciones. Contáctanos en vf@virtual-flight.com — nos encantará saber de ti.',
+			'Agradecemos tus comentarios, sugerencias y contribuciones. Visite nuestra página de contacto — nos encantará saber de usted.',
 		'footer.copyright': 'Todos los derechos reservados.',
 		'blog.lastUpdated': 'Última actualización el',
 		'social.mastodon': 'Seguir en Mastodon',
@@ -305,13 +305,13 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h1': 'Recopilación de datos',
 		'privacy.p1': 'Recopilamos un mínimo de datos. Solo se recogen estadísticas de visita anónimas. No se necesita ninguna cuenta personal para navegar por el sitio.',
 		'privacy.h2': 'Cookies',
-		'privacy.p2': 'Utilizamos únicamente cookies esenciales para el funcionamiento del sitio. No se utilizan rastreadores publicitarios.',
+		'privacy.p2': 'Utilizamos cookies para mejorar su experiencia y analizar el uso del sitio. Una \"cookie\" es un pequeño archivo de texto almacenado en su dispositivo. Utilizamos Google Analytics para recopilar información sobre la navegación de los usuarios (páginas vistas, tiempo de permanencia, origen del tráfico). Conforme al Consent Mode v2 de Google, no se instalan cookies de medición sin su consentimiento previo a través de nuestro banner de cookies. Puede modificar su elección en cualquier momento.',
 		'privacy.h3': 'Servicios de terceros',
 		'privacy.p3': 'El sitio utiliza una CDN para la distribución de contenido, una herramienta de analítica respetuosa con la privacidad (como Plausible) y puede integrar contenido de terceros (vídeos, mapas).',
 		'privacy.h4': 'Tus derechos',
 		'privacy.p4': 'En virtud del RGPD, tienes derecho a acceder, rectificar y eliminar tus datos. Puedes ejercer estos derechos en cualquier momento.',
 		'privacy.h5': 'Contacto',
-		'privacy.p5': 'Para cualquier consulta relacionada con la privacidad, contacta con RENFELD LEBANON — Building St Michel, Ghazir, Líbano. Nos comprometemos a responder con la mayor brevedad.',
+		'privacy.p5': 'Para cualquier consulta relacionada con la privacidad, visite nuestra página de contacto o escriba a RENFELD LEBANON — Building St Michel, Ghazir, Líbano. Nos comprometemos a responder con la mayor brevedad.',
 
 		'terms.title': 'Condiciones de uso',
 		'terms.description': 'Condiciones de uso del sitio web Virtual Flight.',
@@ -396,7 +396,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'about.p3':
 			'Para além das análises, o Virtual Flight cobre as notícias do voo em rede, as atualizações das plataformas e os eventos comunitários que marcam a vida das esquadrilhas virtuais. O nosso objetivo: dar-lhe as chaves para desfrutar plenamente de cada sessão, seja principiante ou piloto confirmado.',
 		'about.p4':
-			'Agradecemos o seu feedback, sugestões e contribuições. Entre em contacto connosco em vf@virtual-flight.com — teremos muito gosto em ouvir a sua opinião.',
+			'Agradecemos o seu feedback, sugestões e contribuições. Visite a nossa página de contacto — teremos muito gosto em ouvir a sua opinião.',
 		'footer.copyright': 'Todos os direitos reservados.',
 		'blog.lastUpdated': 'Última atualização em',
 		'social.mastodon': 'Seguir no Mastodon',
@@ -426,13 +426,13 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h1': 'Recolha de dados',
 		'privacy.p1': 'Recolhemos um mínimo de dados. Apenas estatísticas anónimas de visita são registadas. Não é necessária qualquer conta pessoal para navegar no site.',
 		'privacy.h2': 'Cookies',
-		'privacy.p2': 'Utilizamos apenas cookies essenciais para o funcionamento do site. Nenhum rastreador publicitário é utilizado.',
+		'privacy.p2': 'Utilizamos cookies para melhorar a sua experiência e analisar a utilização do site. Um \"cookie\" é um pequeno ficheiro de texto armazenado no seu dispositivo. Utilizamos o Google Analytics para recolher informações sobre a navegação dos utilizadores (páginas visitadas, tempo passado, origem do tráfego). Em conformidade com o Consent Mode v2 da Google, nenhum cookie de medição é instalado sem o seu consentimento prévio através do nosso banner de cookies. Pode alterar a sua escolha a qualquer momento.',
 		'privacy.h3': 'Serviços de terceiros',
 		'privacy.p3': 'O site utiliza uma CDN para distribuição de conteúdo, uma ferramenta de analítica respeitadora da privacidade (como o Plausible) e pode incorporar conteúdo de terceiros (vídeos, mapas).',
 		'privacy.h4': 'Os seus direitos',
 		'privacy.p4': 'Ao abrigo do RGPD, tem o direito de aceder, retificar e eliminar os seus dados. Pode exercer estes direitos a qualquer momento.',
 		'privacy.h5': 'Contacto',
-		'privacy.p5': 'Para qualquer questão relacionada com privacidade, contacte RENFELD LEBANON — Building St Michel, Ghazir, Líbano. Comprometemo-nos a responder com a maior brevidade.',
+		'privacy.p5': 'Para qualquer questão relacionada com privacidade, visite a nossa página de contacto ou escreva a RENFELD LEBANON — Building St Michel, Ghazir, Líbano. Comprometemo-nos a responder com a maior brevidade.',
 
 		'terms.title': 'Termos de utilização',
 		'terms.description': 'Termos de utilização do site Virtual Flight.',
@@ -517,7 +517,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'about.p3':
 			'Além das análises, o Virtual Flight cobre as novidades do voo online, atualizações de plataformas e eventos comunitários que marcam a vida das esquadrilhas virtuais. Nosso objetivo: dar a você as chaves para aproveitar ao máximo cada sessão, seja você iniciante ou piloto experiente.',
 		'about.p4':
-			'Agradecemos seu feedback, sugestões e contribuições. Entre em contato conosco em vf@virtual-flight.com — adoraríamos ouvir você.',
+			'Agradecemos seu feedback, sugestões e contribuições. Visite nossa página de contato — adoraríamos ouvir você.',
 		'footer.copyright': 'Todos os direitos reservados.',
 		'blog.lastUpdated': 'Última atualização em',
 		'social.mastodon': 'Seguir no Mastodon',
@@ -547,13 +547,13 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h1': 'Coleta de dados',
 		'privacy.p1': 'Coletamos o mínimo de dados possível. Apenas estatísticas anônimas de visita são registradas. Não é necessário criar conta para navegar no site.',
 		'privacy.h2': 'Cookies',
-		'privacy.p2': 'Usamos apenas cookies essenciais para o funcionamento do site. Nenhum rastreador publicitário é utilizado.',
+		'privacy.p2': 'Usamos cookies para melhorar sua experiência e analisar o uso do site. Um \"cookie\" é um pequeno arquivo de texto armazenado no seu dispositivo. Usamos o Google Analytics para coletar informações sobre a navegação dos usuários (páginas visitadas, tempo gasto, origem do tráfego). De acordo com o Consent Mode v2 do Google, nenhum cookie de medição é instalado sem seu consentimento prévio por meio do nosso banner de cookies. Você pode alterar sua escolha a qualquer momento.',
 		'privacy.h3': 'Serviços de terceiros',
 		'privacy.p3': 'O site utiliza uma CDN para distribuição de conteúdo, uma ferramenta de analytics que respeita a privacidade (como o Plausible) e pode incorporar conteúdo de terceiros (vídeos, mapas).',
 		'privacy.h4': 'Seus direitos',
 		'privacy.p4': 'De acordo com o RGPD, você tem o direito de acessar, retificar e excluir seus dados. Você pode exercer esses direitos a qualquer momento.',
 		'privacy.h5': 'Contato',
-		'privacy.p5': 'Para qualquer dúvida relacionada à privacidade, entre em contato com RENFELD LEBANON — Building St Michel, Ghazir, Líbano. Nos comprometemos a responder o mais rápido possível.',
+		'privacy.p5': 'Para qualquer dúvida relacionada à privacidade, visite nossa página de contato ou escreva para RENFELD LEBANON — Building St Michel, Ghazir, Líbano. Nos comprometemos a responder o mais rápido possível.',
 
 		'terms.title': 'Termos de uso',
 		'terms.description': 'Termos de uso do site Virtual Flight.',
@@ -638,7 +638,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'about.p3':
 			'Über Tests hinaus berichtet Virtual Flight über Online-Flug-Neuigkeiten, Plattform-Updates und Community-Events, die das Leben virtueller Staffeln prägen. Unser Ziel: Ihnen die Schlüssel zu geben, um jede Session voll zu genießen — ob Anfänger oder erfahrener Pilot.',
 		'about.p4':
-			'Wir freuen uns über Ihr Feedback, Ihre Vorschläge und Beiträge. Kontaktieren Sie uns unter vf@virtual-flight.com — wir hören gerne von Ihnen.',
+			'Wir freuen uns über Ihr Feedback, Ihre Vorschläge und Beiträge. Besuchen Sie unsere Kontaktseite — wir hören gerne von Ihnen.',
 		'footer.copyright': 'Alle Rechte vorbehalten.',
 		'blog.lastUpdated': 'Zuletzt aktualisiert am',
 		'social.mastodon': 'Auf Mastodon folgen',
@@ -668,13 +668,13 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h1': 'Datenerhebung',
 		'privacy.p1': 'Wir erheben nur ein Minimum an Daten. Es werden lediglich anonyme Besuchsstatistiken erfasst. Zum Durchsuchen der Seite ist kein Benutzerkonto erforderlich.',
 		'privacy.h2': 'Cookies',
-		'privacy.p2': 'Wir verwenden ausschließlich essenzielle Cookies, die für den Betrieb der Website notwendig sind. Werbe-Tracker werden nicht eingesetzt.',
+		'privacy.p2': 'Wir verwenden Cookies, um Ihre Erfahrung zu verbessern und die Nutzung der Website zu analysieren. Ein „Cookie" ist eine kleine Textdatei, die auf Ihrem Gerät gespeichert wird. Wir verwenden Google Analytics, um Informationen über die Navigation der Nutzer zu sammeln (besuchte Seiten, Verweildauer, Herkunft des Traffics). Gemäß dem Consent Mode v2 von Google werden keine Analyse-Cookies ohne Ihre vorherige Zustimmung über unser Cookie-Banner gesetzt. Sie können Ihre Wahl jederzeit ändern.',
 		'privacy.h3': 'Drittanbieter-Dienste',
 		'privacy.p3': 'Die Website nutzt ein CDN zur Inhaltsbereitstellung, ein datenschutzfreundliches Analysetool (wie Plausible) und kann Inhalte Dritter einbetten (Videos, Karten).',
 		'privacy.h4': 'Ihre Rechte',
 		'privacy.p4': 'Gemäß der DSGVO haben Sie das Recht auf Auskunft, Berichtigung und Löschung Ihrer Daten. Sie können diese Rechte jederzeit ausüben.',
 		'privacy.h5': 'Kontakt',
-		'privacy.p5': 'Bei Fragen zum Datenschutz wenden Sie sich an RENFELD LEBANON — Building St Michel, Ghazir, Libanon. Wir sind bestrebt, zeitnah zu antworten.',
+		'privacy.p5': 'Bei Fragen zum Datenschutz besuchen Sie unsere Kontaktseite oder schreiben Sie an RENFELD LEBANON — Building St Michel, Ghazir, Libanon. Wir sind bestrebt, zeitnah zu antworten.',
 
 		'terms.title': 'Nutzungsbedingungen',
 		'terms.description': 'Nutzungsbedingungen der Website Virtual Flight.',
@@ -758,7 +758,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'about.p3':
 			'除了评测之外，Virtual Flight 还报道联网飞行新闻、平台更新和社区活动。我们的目标：为您提供充分享受每次飞行的钥匙，无论您是新手还是资深飞行员。',
 		'about.p4':
-			'我们欢迎您的反馈、建议和贡献。请通过 vf@virtual-flight.com 与我们联系——期待您的来信。',
+			'我们欢迎您的反馈、建议和贡献。请访问我们的联系页面——期待您的来信。',
 		'footer.copyright': '保留所有权利。',
 		'blog.lastUpdated': '最后更新于',
 		'social.mastodon': '在 Mastodon 上关注',
@@ -788,13 +788,13 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h1': '数据收集',
 		'privacy.p1': '我们只收集最少量的数据，仅记录匿名访问统计。浏览本站无需注册个人账户。',
 		'privacy.h2': 'Cookie',
-		'privacy.p2': '我们仅使用网站运行所必需的 Cookie，不部署任何广告追踪器。',
+		'privacy.p2': '我们使用 Cookie 来改善您的体验并分析网站使用情况。「Cookie」是存储在您设备上的小型文本文件。我们使用 Google Analytics 收集用户浏览信息（页面浏览量、停留时间、流量来源）。根据 Google Consent Mode v2，未经您通过 Cookie 横幅事先同意，不会设置任何分析 Cookie。您可以随时更改您的选择。',
 		'privacy.h3': '第三方服务',
 		'privacy.p3': '本站使用 CDN 分发内容、采用注重隐私的分析工具（如 Plausible），并可能嵌入第三方内容（视频、地图）。',
 		'privacy.h4': '您的权利',
 		'privacy.p4': '根据 GDPR，您有权访问、更正和删除您的数据。您可以随时行使这些权利。',
 		'privacy.h5': '联系方式',
-		'privacy.p5': '如有任何隐私相关问题，请联系 RENFELD LEBANON — Building St Michel, Ghazir, Lebanon。我们承诺尽快回复。',
+		'privacy.p5': '如有任何隐私相关问题，请访问我们的联系页面或联系 RENFELD LEBANON — Building St Michel, Ghazir, Lebanon。我们承诺尽快回复。',
 
 		'terms.title': '使用条款',
 		'terms.description': 'Virtual Flight 网站的使用条款。',
@@ -879,7 +879,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'about.p3':
 			'Di luar ulasan, Virtual Flight meliput berita terbang online, pembaruan platform, dan acara komunitas yang mewarnai kehidupan skuadron virtual. Tujuan kami: memberi Anda kunci untuk menikmati sepenuhnya setiap sesi, baik Anda pemula maupun pilot berpengalaman.',
 		'about.p4':
-			'Kami menyambut masukan, saran, dan kontribusi Anda. Hubungi kami di vf@virtual-flight.com — kami senang mendengar dari Anda.',
+			'Kami menyambut masukan, saran, dan kontribusi Anda. Kunjungi halaman kontak kami — kami senang mendengar dari Anda.',
 		'footer.copyright': 'Hak cipta dilindungi.',
 		'blog.lastUpdated': 'Terakhir diperbarui pada',
 		'social.mastodon': 'Ikuti di Mastodon',
@@ -909,13 +909,13 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h1': 'Pengumpulan Data',
 		'privacy.p1': 'Kami mengumpulkan data seminimal mungkin. Hanya statistik kunjungan anonim yang dikumpulkan. Tidak diperlukan akun pribadi untuk menjelajahi situs.',
 		'privacy.h2': 'Cookie',
-		'privacy.p2': 'Kami hanya menggunakan cookie esensial yang diperlukan agar situs berfungsi. Tidak ada pelacak iklan yang digunakan.',
+		'privacy.p2': 'Kami menggunakan cookie untuk meningkatkan pengalaman Anda dan menganalisis penggunaan situs. \"Cookie\" adalah file teks kecil yang disimpan di perangkat Anda. Kami menggunakan Google Analytics untuk mengumpulkan informasi tentang navigasi pengguna (halaman yang dilihat, waktu yang dihabiskan, sumber lalu lintas). Sesuai dengan Google Consent Mode v2, tidak ada cookie analitik yang dipasang tanpa persetujuan Anda sebelumnya melalui banner cookie kami. Anda dapat mengubah pilihan Anda kapan saja.',
 		'privacy.h3': 'Layanan Pihak Ketiga',
 		'privacy.p3': 'Situs ini menggunakan CDN untuk distribusi konten, alat analitik yang menghormati privasi (seperti Plausible), dan dapat menyematkan konten pihak ketiga (video, peta).',
 		'privacy.h4': 'Hak Anda',
 		'privacy.p4': 'Berdasarkan GDPR, Anda memiliki hak untuk mengakses, memperbaiki, dan menghapus data Anda. Anda dapat menggunakan hak ini kapan saja.',
 		'privacy.h5': 'Kontak',
-		'privacy.p5': 'Untuk pertanyaan terkait privasi, hubungi RENFELD LEBANON — Building St Michel, Ghazir, Lebanon. Kami berkomitmen untuk merespons dengan cepat.',
+		'privacy.p5': 'Untuk pertanyaan terkait privasi, kunjungi halaman kontak kami atau hubungi RENFELD LEBANON — Building St Michel, Ghazir, Lebanon. Kami berkomitmen untuk merespons dengan cepat.',
 
 		'terms.title': 'Ketentuan Layanan',
 		'terms.description': 'Ketentuan layanan situs web Virtual Flight.',
@@ -999,7 +999,7 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'about.p3':
 			'レビューだけでなく、Virtual Flight はオンラインフライトニュース、プラットフォームアップデート、バーチャル飛行隊の活動を彩るコミュニティイベントもカバーしています。初心者からベテランパイロットまで、すべてのセッションを存分に楽しむための鍵をお届けすることが私たちの目標です。',
 		'about.p4':
-			'フィードバック、ご提案、ご寄稿を歓迎いたします。vf@virtual-flight.com までお気軽にご連絡ください。皆様からのメッセージをお待ちしております。',
+			'フィードバック、ご提案、ご寄稿を歓迎いたします。お問い合わせページよりお気軽にご連絡ください。皆様からのメッセージをお待ちしております。',
 		'footer.copyright': 'All rights reserved.',
 		'blog.lastUpdated': '最終更新日',
 		'social.mastodon': 'Mastodon でフォロー',
@@ -1029,13 +1029,13 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h1': 'データ収集',
 		'privacy.p1': '収集するデータは最小限です。匿名の訪問統計のみを記録しています。サイトの閲覧にアカウント登録は不要です。',
 		'privacy.h2': 'Cookie',
-		'privacy.p2': 'サイトの動作に必要な最低限の Cookie のみを使用しています。広告トラッカーは一切使用していません。',
+		'privacy.p2': 'Cookie を使用して、お客様の体験を向上させ、サイトの利用状況を分析しています。「Cookie」とは、お客様のデバイスに保存される小さなテキストファイルです。Google Analytics を使用して、ユーザーの閲覧情報（閲覧ページ、滞在時間、トラフィックの出所）を収集しています。Google Consent Mode v2 に従い、Cookie バナーによる事前の同意なしに分析 Cookie が設定されることはありません。選択はいつでも変更できます。',
 		'privacy.h3': 'サードパーティサービス',
 		'privacy.p3': '本サイトはコンテンツ配信に CDN、プライバシー重視のアナリティクスツール（Plausible 等）を利用し、サードパーティコンテンツ（動画、地図）を埋め込む場合があります。',
 		'privacy.h4': 'お客様の権利',
 		'privacy.p4': 'GDPR に基づき、お客様にはデータへのアクセス、訂正、削除を求める権利があります。これらの権利はいつでも行使できます。',
 		'privacy.h5': 'お問い合わせ',
-		'privacy.p5': 'プライバシーに関するご質問は、RENFELD LEBANON — Building St Michel, Ghazir, Lebanon までお問い合わせください。迅速な対応をお約束します。',
+		'privacy.p5': 'プライバシーに関するご質問は、お問い合わせページまたは RENFELD LEBANON — Building St Michel, Ghazir, Lebanon までご連絡ください。迅速な対応をお約束します。',
 
 		'terms.title': '利用規約',
 		'terms.description': 'Virtual Flight ウェブサイトの利用規約。',
