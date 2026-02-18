@@ -3,7 +3,7 @@ title: 'Melhores aeronaves pagas para simulacao de voo em 2026'
 description: 'Guia especializado das melhores aeronaves pagas para MSFS 2024, X-Plane 12 e DCS World em 2026. PMDG, Fenix, Leonardo, iniBuilds, Heatblur e mais.'
 lang: 'pt'
 pubDate: 'Feb 12 2026'
-heroImage: '../../assets/hero-payware-aircraft.svg'
+heroImage: '../../assets/hero-payware-aircraft.jpg'
 ---
 
 As aeronaves freeware nunca estiveram tao boas — confira nosso [top 10 addons gratuitos para simulação](/pt/blog/top-10-addons-gratuitos-simulacao) — mas o payware continua sendo o territorio onde a simulacao de voo atinge seu mais alto nivel de fidelidade. Os melhores complementos comerciais de 2026 entregam modelagem de sistemas comparavel a manuais de habilitacao de tipo, dinamicas de voo ajustadas por pilotos reais e qualidade visual que resiste ao escrutinio em realidade virtual. Nao sao baratos — uma unica aeronave pode custar tanto quanto o proprio simulador — mas para simmers que querem a versao definitiva de uma determinada celula, nada mais chega perto.
