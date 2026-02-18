@@ -8,10 +8,6 @@ interface Props {
 
 const { locale } = Astro.props;
 const t = useTranslations(locale);
-
-// Build the _next redirect URL (same page with ?sent=1)
-const currentPath = Astro.url.pathname.replace(/\/$/, '') + '/';
-const nextUrl = new URL(currentPath + '?sent=1', Astro.site).toString();
 ---
 
 <div class="contact-discord">
@@ -21,23 +17,7 @@ const nextUrl = new URL(currentPath + '?sent=1', Astro.site).toString();
 	</a>
 </div>
 
-<!-- Success message (shown after redirect) -->
-<div id="contact-success" class="form-status form-status--success" hidden>
-	{t('contact.success')}
-</div>
-
-<form
-	id="vf-contact-form"
-	class="contact-form"
-	action="https://formsubmit.co/info@virtual-flight.com"
-	method="POST"
-	enctype="multipart/form-data"
->
-	<!-- FormSubmit config -->
-	<input type="hidden" name="_next" value={nextUrl} />
-	<input type="hidden" name="_subject" value="[Virtual Flight] Nouveau message" />
-	<input type="hidden" name="_template" value="table" />
-	<input type="hidden" name="_captcha" value="false" />
+<form id="vf-contact-form" class="contact-form" novalidate>
 	<input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" />
 
 	<div class="form-row form-row--half">
@@ -93,6 +73,8 @@ const nextUrl = new URL(currentPath + '?sent=1', Astro.site).toString();
 		<span class="form-hint">{t('contact.attachment.hint')}</span>
 	</div>
 
+	<div id="contact-status" class="form-status" hidden data-success={t('contact.success')} data-error={t('contact.error')}></div>
+
 	<button type="submit" class="form-submit" id="contact-submit">
 		{t('contact.submit')}
 	</button>
@@ -104,17 +86,9 @@ const nextUrl = new URL(currentPath + '?sent=1', Astro.site).toString();
 	var subjectSelect = document.getElementById('contact-subject');
 	var urlField = document.getElementById('context-url-field');
 	var partnershipHint = document.getElementById('partnership-hint-field');
-	var successEl = document.getElementById('contact-success');
-
-	// Show success message if redirected back with ?sent=1
-	if (window.location.search.indexOf('sent=1') !== -1) {
-		successEl.hidden = false;
-		form.style.display = 'none';
-		window.scrollTo({ top: 0, behavior: 'smooth' });
-		console.log('[Contact] Message sent successfully');
-		// Clean URL without reloading
-		history.replaceState(null, '', window.location.pathname);
-	}
+	var statusEl = document.getElementById('contact-status');
+	var submitBtn = document.getElementById('contact-submit');
+	var submitLabel = submitBtn.textContent;
 
 	// Conditional fields based on subject
 	subjectSelect.addEventListener('change', function() {
@@ -123,24 +97,75 @@ const nextUrl = new URL(currentPath + '?sent=1', Astro.site).toString();
 		partnershipHint.hidden = val !== 'partnership';
 	});
 
-	// Dynamic subject line before submit
-	form.addEventListener('submit', function() {
-		var name = form.elements.name.value.trim();
-		var topic = form.elements.topic.value;
-		var subjectField = form.querySelector('input[name="_subject"]');
-		if (subjectField && name && topic) {
-			subjectField.value = '[Virtual Flight] ' + topic + ' — ' + name;
-		}
+	form.addEventListener('submit', function(e) {
+		e.preventDefault();
 
-		// File size check (5 MB)
-		var fileInput = form.elements.attachment;
-		if (fileInput.files.length > 0 && fileInput.files[0].size > 5 * 1024 * 1024) {
-			event.preventDefault();
-			alert('5 MB max.');
+		var name = form.elements.name.value.trim();
+		var email = form.elements.email.value.trim();
+		var topic = form.elements.topic.value;
+		var message = form.elements.message.value.trim();
+
+		if (!name || !email || !topic || !message) {
+			statusEl.hidden = false;
+			statusEl.className = 'form-status form-status--error';
+			statusEl.textContent = statusEl.dataset.error;
 			return;
 		}
 
-		console.log('[Contact] Submitting form to FormSubmit...');
+		if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+			statusEl.hidden = false;
+			statusEl.className = 'form-status form-status--error';
+			statusEl.textContent = statusEl.dataset.error;
+			return;
+		}
+
+		var fileInput = form.elements.attachment;
+		if (fileInput.files.length > 0 && fileInput.files[0].size > 5 * 1024 * 1024) {
+			statusEl.hidden = false;
+			statusEl.className = 'form-status form-status--error';
+			statusEl.textContent = '5 MB max.';
+			return;
+		}
+
+		submitBtn.disabled = true;
+		submitBtn.textContent = '...';
+		statusEl.hidden = true;
+
+		var formData = new FormData(form);
+
+		console.log('[Contact] Sending form to /api/contact...');
+
+		fetch('/api/contact', {
+			method: 'POST',
+			body: formData
+		})
+		.then(function(res) {
+			console.log('[Contact] Response:', res.status);
+			return res.json();
+		})
+		.then(function(data) {
+			console.log('[Contact] Data:', data);
+			if (data.success) {
+				statusEl.hidden = false;
+				statusEl.className = 'form-status form-status--success';
+				statusEl.textContent = statusEl.dataset.success;
+				form.reset();
+				urlField.hidden = true;
+				partnershipHint.hidden = true;
+			} else {
+				throw new Error(data.message || 'Failed');
+			}
+		})
+		.catch(function(err) {
+			statusEl.hidden = false;
+			statusEl.className = 'form-status form-status--error';
+			statusEl.textContent = statusEl.dataset.error;
+			console.error('[Contact] Error:', err);
+		})
+		.finally(function() {
+			submitBtn.disabled = false;
+			submitBtn.textContent = submitLabel;
+		});
 	});
 })();
 </script>
@@ -253,6 +278,11 @@ const nextUrl = new URL(currentPath + '?sent=1', Astro.site).toString();
 		background: rgba(46, 160, 67, 0.1);
 		border: 1px solid rgba(46, 160, 67, 0.3);
 		color: #1a7f37;
+	}
+	.form-status--error {
+		background: rgba(207, 34, 46, 0.1);
+		border: 1px solid rgba(207, 34, 46, 0.3);
+		color: #cf222e;
 	}
 
 	.form-submit {
