@@ -150,8 +150,24 @@ const t = useTranslations(locale);
 			method: 'POST',
 			body: formData
 		})
-		.then(function(res) { return res.json(); })
+		.then(function(res) {
+			console.log('[Contact] Response status:', res.status);
+			var ct = res.headers.get('content-type') || '';
+			if (ct.indexOf('application/json') !== -1) {
+				return res.json();
+			}
+			// FormSubmit may return HTML (e.g. activation page)
+			return res.text().then(function(html) {
+				console.log('[Contact] Non-JSON response:', html.substring(0, 500));
+				// If activation is needed, FormSubmit returns 200 with HTML
+				if (res.ok) {
+					return { success: 'true', message: 'Activation may be required — check info@virtual-flight.com' };
+				}
+				return { success: 'false', message: 'HTTP ' + res.status };
+			});
+		})
 		.then(function(data) {
+			console.log('[Contact] Parsed response:', data);
 			if (data.success === 'true' || data.success === true) {
 				statusEl.hidden = false;
 				statusEl.className = 'form-status form-status--success';
@@ -159,7 +175,7 @@ const t = useTranslations(locale);
 				form.reset();
 				urlField.hidden = true;
 				partnershipHint.hidden = true;
-				console.log('[Contact] Message sent successfully:', data);
+				console.log('[Contact] Message sent successfully');
 			} else {
 				throw new Error(data.message || 'Submission failed');
 			}
@@ -168,7 +184,7 @@ const t = useTranslations(locale);
 			statusEl.hidden = false;
 			statusEl.className = 'form-status form-status--error';
 			statusEl.textContent = statusEl.dataset.error;
-			console.error('[Contact] Error:', err);
+			console.error('[Contact] Error:', err.message || err);
 		})
 		.finally(function() {
 			submitBtn.disabled = false;
