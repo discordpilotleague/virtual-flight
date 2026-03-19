@@ -91,7 +91,7 @@ The retail price is **€80.66** including tax (currently on sale at roughly €
 
 The arrival of the A340-600 Pro in the MSFS ecosystem fills a void that virtual pilots have been waiting for. The long-haul quadjet — a category of aircraft increasingly rare in real skies — now has a study-level simulation that makes no compromises on system depth. The Aerosoft-ToLiss collaboration brings ToLiss's proven expertise in Airbus system modelling together with Aerosoft's strengths in 3D modelling and distribution.
 
-For pilots who dream of flying Singapore to New York or Johannesburg to Atlanta at the controls of a quadjet, the A340-600 Pro finally makes that possible in MSFS with a level of fidelity that justifies the investment. To discover more study-level add-ons, check out our [selection of the best payware aircraft for flight simulation](/en/blog/best-payware-aircraft-addons-2026).
+For pilots who dream of flying Singapore to New York or Johannesburg to Atlanta at the controls of a quadjet, the A340-600 Pro finally makes that possible in MSFS with a level of fidelity that justifies the investment. To discover more study-level add-ons, check out our [selection of the best payware aircraft for flight simulation](/blog/best-payware-aircraft-addons-2026).
 
 The four Trent 556 engines are waiting for your clearance.
 

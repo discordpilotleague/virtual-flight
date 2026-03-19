@@ -59,7 +59,7 @@ The Rafale M is compatible with **MSFS 2020** and **MSFS 2024**. The file weighs
 
 ## What This Means for the Community
 
-alpha60's Rafale M demonstrates what freeware can achieve when a passionate developer invests five years of continuous work into a project. With a 3D model reworked in Blender, a functional cockpit, carrier operations, detailed fuel management, and a remarkable livery collection, this add-on competes with commercial products in its category. If you want to experience carrier-based military aviation in MSFS without spending a dime, the Rafale M deserves a spot in your Community folder. To discover more quality freeware, check out our [selection of the best free add-ons for flight simulation](/en/blog/top-free-addons-flight-simulation-2026).
+alpha60's Rafale M demonstrates what freeware can achieve when a passionate developer invests five years of continuous work into a project. With a 3D model reworked in Blender, a functional cockpit, carrier operations, detailed fuel management, and a remarkable livery collection, this add-on competes with commercial products in its category. If you want to experience carrier-based military aviation in MSFS without spending a dime, the Rafale M deserves a spot in your Community folder. To discover more quality freeware, check out our [selection of the best free add-ons for flight simulation](/blog/top-free-addons-flight-simulation-2026).
 
 The Rafale is ready for your catapult launch.
 
