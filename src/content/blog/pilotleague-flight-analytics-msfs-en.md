@@ -6,7 +6,7 @@ pubDate: 'Mar 19 2026'
 heroImage: '../../assets/hero-pilotleague-msfs.webp'
 ---
 
-What if every flight in MSFS 2024 actually mattered? That is the promise of **PilotLeague**, a performance analytics platform created by **Rodolphe**, a real-world Airbus A320/A330 instructor. The concept is simple yet powerful: a lightweight desktop application captures **79 SimConnect variables** during your flight, sends them to a computation server, then delivers a detailed score out of 100 points with phase-by-phase analysis. It is free, compatible with **MSFS 2024**, and accessible at [pilotleague.com](https://pilotleague.com/features/). If Strava transformed running by measuring every stride, PilotLeague aims to do the same for flight simulation.
+What if every flight in MSFS 2024 actually mattered? That is the promise of **PilotLeague**, a performance analytics platform created by **Rodolphe**, a real-world Airbus A320/A330 instructor. The concept is simple yet powerful: a lightweight desktop application captures **79 SimConnect variables** during your flight, sends them to a computation server, then delivers a detailed score out of 100 points with phase-by-phase analysis. It is free, compatible with **MSFS 2024**, and accessible at [pilotleague.com](https://pilotleague.com/en/features/). If Strava transformed running by measuring every stride, PilotLeague aims to do the same for flight simulation.
 
 ![PilotLeague overlay on approach in MSFS 2024 — METAR, TOD, wind and safety alerts](/images/pilotleague-msfs/overlay-approach.webp)
 
@@ -88,7 +88,7 @@ The 79 SimConnect variables captured cover position, attitude, engines, control 
 
 Setup is deliberately straightforward:
 
-1. Download the executable from [pilotleague.com](https://pilotleague.com)
+1. Download the executable from [pilotleague.com](https://pilotleague.com/en/)
 2. Launch MSFS 2024 with an aircraft loaded at the gate
 3. Start PilotLeague — the diagnostic LEDs confirm the SimConnect connection
 4. Release the parking brake — recording starts automatically
@@ -109,4 +109,4 @@ The cockpit has never been this demanding — and that is a good thing.
 
 ---
 
-*Source: [PilotLeague Features](https://pilotleague.com/features/). Images: PilotLeague. Community: [Discord PilotLeague](https://discord.gg/pilotleague).*
+*Source: [PilotLeague Features](https://pilotleague.com/en/features/). Images: PilotLeague. Community: [Discord PilotLeague](https://discord.gg/pilotleague).*

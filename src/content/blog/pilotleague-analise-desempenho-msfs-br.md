@@ -6,7 +6,7 @@ pubDate: 'Mar 19 2026'
 heroImage: '../../assets/hero-pilotleague-msfs.webp'
 ---
 
-E se cada voo no MSFS 2024 realmente contasse? Essa é a proposta da **PilotLeague**, uma plataforma de análise de desempenho criada por **Rodolphe**, instrutor de Airbus A320/A330 na vida real. A ideia é simples e extremamente eficaz: um aplicativo desktop leve captura **79 variáveis SimConnect** durante o seu voo, transmite para um servidor de cálculo e depois entrega uma nota detalhada de 0 a 100 pontos com análises fase por fase. Tudo isso é gratuito, compatível com **MSFS 2024**, e acessível em [pilotleague.com](https://pilotleague.com/features/). Se o Strava transformou a corrida medindo cada passada, a PilotLeague quer fazer o mesmo pela simulação de voo.
+E se cada voo no MSFS 2024 realmente contasse? Essa é a proposta da **PilotLeague**, uma plataforma de análise de desempenho criada por **Rodolphe**, instrutor de Airbus A320/A330 na vida real. A ideia é simples e extremamente eficaz: um aplicativo desktop leve captura **79 variáveis SimConnect** durante o seu voo, transmite para um servidor de cálculo e depois entrega uma nota detalhada de 0 a 100 pontos com análises fase por fase. Tudo isso é gratuito, compatível com **MSFS 2024**, e acessível em [pilotleague.com](https://pilotleague.com/pt/recursos/). Se o Strava transformou a corrida medindo cada passada, a PilotLeague quer fazer o mesmo pela simulação de voo.
 
 ![Overlay PilotLeague em aproximação no MSFS 2024 — METAR, TOD, vento e alertas de segurança](/images/pilotleague-msfs/overlay-approach.webp)
 
@@ -88,7 +88,7 @@ As 79 variáveis SimConnect capturadas cobrem posição, atitude, motores, super
 
 A instalação é intencionalmente simples:
 
-1. Baixar o executável em [pilotleague.com](https://pilotleague.com)
+1. Baixar o executável em [pilotleague.com](https://pilotleague.com/pt/)
 2. Abrir o MSFS 2024 com uma aeronave carregada no estacionamento
 3. Iniciar a PilotLeague — os LEDs de diagnóstico confirmam a conexão SimConnect
 4. Soltar o freio de estacionamento — a gravação começa automaticamente
@@ -109,4 +109,4 @@ O cockpit nunca foi tão exigente — e isso é ótimo.
 
 ---
 
-*Fonte: [PilotLeague Features](https://pilotleague.com/features/). Imagens: PilotLeague. Comunidade: [Discord PilotLeague](https://discord.gg/pilotleague).*
+*Fonte: [PilotLeague Features](https://pilotleague.com/pt/recursos/). Imagens: PilotLeague. Comunidade: [Discord PilotLeague](https://discord.gg/pilotleague).*

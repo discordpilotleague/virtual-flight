@@ -6,7 +6,7 @@ pubDate: 'Mar 19 2026'
 heroImage: '../../assets/hero-pilotleague-msfs.webp'
 ---
 
-Was wäre, wenn jeder Flug in MSFS 2024 wirklich zählen würde? Genau das verspricht **PilotLeague**, eine Plattform zur Leistungsanalyse, entwickelt von **Rodolphe**, einem Airbus-A320/A330-Fluglehrer im echten Leben. Die Idee ist einfach und äußerst wirkungsvoll: Eine schlanke Desktop-Anwendung erfasst **79 SimConnect-Variablen** während Ihres Fluges, übermittelt sie an einen Berechnungsserver und liefert anschließend einen detaillierten Score von 100 Punkten mit phasenweiser Analyse. Das Ganze ist kostenlos, kompatibel mit **MSFS 2024** und zugänglich auf [pilotleague.com](https://pilotleague.com/features/). Wenn Strava das Laufen revolutioniert hat, indem es jeden Schritt misst, will PilotLeague dasselbe für die Flugsimulation erreichen.
+Was wäre, wenn jeder Flug in MSFS 2024 wirklich zählen würde? Genau das verspricht **PilotLeague**, eine Plattform zur Leistungsanalyse, entwickelt von **Rodolphe**, einem Airbus-A320/A330-Fluglehrer im echten Leben. Die Idee ist einfach und äußerst wirkungsvoll: Eine schlanke Desktop-Anwendung erfasst **79 SimConnect-Variablen** während Ihres Fluges, übermittelt sie an einen Berechnungsserver und liefert anschließend einen detaillierten Score von 100 Punkten mit phasenweiser Analyse. Das Ganze ist kostenlos, kompatibel mit **MSFS 2024** und zugänglich auf [pilotleague.com](https://pilotleague.com/de/funktionen/). Wenn Strava das Laufen revolutioniert hat, indem es jeden Schritt misst, will PilotLeague dasselbe für die Flugsimulation erreichen.
 
 ![PilotLeague-Overlay im Anflug auf MSFS 2024 — METAR, TOD, Wind und Sicherheitswarnungen](/images/pilotleague-msfs/overlay-approach.webp)
 
@@ -88,7 +88,7 @@ Die 79 erfassten SimConnect-Variablen umfassen Position, Fluglage, Triebwerke, S
 
 Die Installation ist bewusst einfach gehalten:
 
-1. Laden Sie die Anwendung von [pilotleague.com](https://pilotleague.com) herunter
+1. Laden Sie die Anwendung von [pilotleague.com](https://pilotleague.com/de/) herunter
 2. Starten Sie MSFS 2024 mit einem Flugzeug am Parkplatz
 3. Starten Sie PilotLeague — die Diagnose-LEDs bestätigen die SimConnect-Verbindung
 4. Lösen Sie die Parkbremse — die Aufzeichnung beginnt automatisch
@@ -109,4 +109,4 @@ Das Cockpit war noch nie so anspruchsvoll — und das ist gut so.
 
 ---
 
-*Quelle: [PilotLeague Features](https://pilotleague.com/features/). Bilder: PilotLeague. Community: [Discord PilotLeague](https://discord.gg/pilotleague).*
+*Quelle: [PilotLeague Features](https://pilotleague.com/de/funktionen/). Bilder: PilotLeague. Community: [Discord PilotLeague](https://discord.gg/pilotleague).*

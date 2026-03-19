@@ -6,7 +6,7 @@ pubDate: 'Mar 19 2026'
 heroImage: '../../assets/hero-pilotleague-msfs.webp'
 ---
 
-¿Y si cada vuelo en MSFS 2024 contara de verdad? Esa es la promesa de **PilotLeague**, una plataforma de análisis de rendimiento creada por **Rodolphe**, instructor de Airbus A320/A330 en la vida real. La idea es simple y extraordinariamente eficaz: una aplicación de escritorio ligera captura **79 variables SimConnect** durante el vuelo, las transmite a un servidor de cálculo y devuelve una puntuación detallada sobre 100 puntos acompañada de análisis fase por fase. Todo es gratuito, compatible con **MSFS 2024** y accesible en [pilotleague.com](https://pilotleague.com/features/). Si Strava transformó el running al medir cada zancada, PilotLeague aspira a hacer lo mismo con la simulación de vuelo.
+¿Y si cada vuelo en MSFS 2024 contara de verdad? Esa es la promesa de **PilotLeague**, una plataforma de análisis de rendimiento creada por **Rodolphe**, instructor de Airbus A320/A330 en la vida real. La idea es simple y extraordinariamente eficaz: una aplicación de escritorio ligera captura **79 variables SimConnect** durante el vuelo, las transmite a un servidor de cálculo y devuelve una puntuación detallada sobre 100 puntos acompañada de análisis fase por fase. Todo es gratuito, compatible con **MSFS 2024** y accesible en [pilotleague.com](https://pilotleague.com/es/caracteristicas/). Si Strava transformó el running al medir cada zancada, PilotLeague aspira a hacer lo mismo con la simulación de vuelo.
 
 ![Overlay PilotLeague en aproximación en MSFS 2024 — METAR, TOD, viento y alertas de seguridad](/images/pilotleague-msfs/overlay-approach.webp)
 
@@ -88,7 +88,7 @@ Las 79 variables SimConnect capturadas cubren la posición, la actitud, los moto
 
 La instalación es intencionadamente sencilla:
 
-1. Descargar el ejecutable desde [pilotleague.com](https://pilotleague.com)
+1. Descargar el ejecutable desde [pilotleague.com](https://pilotleague.com/es/)
 2. Iniciar MSFS 2024 con una aeronave cargada en el estacionamiento
 3. Ejecutar PilotLeague — los LEDs de diagnóstico confirman la conexión SimConnect
 4. Soltar el freno de estacionamiento — la grabación se inicia automáticamente
@@ -109,4 +109,4 @@ La cabina nunca ha sido tan exigente — y eso es algo positivo.
 
 ---
 
-*Fuente: [PilotLeague Features](https://pilotleague.com/features/). Imágenes: PilotLeague. Comunidad: [Discord PilotLeague](https://discord.gg/pilotleague).*
+*Fuente: [PilotLeague Features](https://pilotleague.com/es/caracteristicas/). Imágenes: PilotLeague. Comunidad: [Discord PilotLeague](https://discord.gg/pilotleague).*

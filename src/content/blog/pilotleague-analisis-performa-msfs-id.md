@@ -6,7 +6,7 @@ pubDate: 'Mar 19 2026'
 heroImage: '../../assets/hero-pilotleague-msfs.webp'
 ---
 
-Bagaimana jika setiap penerbangan di MSFS 2024 benar-benar berarti? Itulah janji dari **PilotLeague**, sebuah platform analisis performa yang diciptakan oleh **Rodolphe**, instruktur Airbus A320/A330 di dunia nyata. Konsepnya sederhana namun sangat efektif: sebuah aplikasi desktop ringan menangkap **79 variabel SimConnect** selama penerbangan Anda, mengirimkannya ke server kalkulasi, lalu menghasilkan skor terperinci dari 100 poin beserta analisis fase demi fase. Semuanya gratis, kompatibel dengan **MSFS 2024**, dan dapat diakses di [pilotleague.com](https://pilotleague.com/features/). Jika Strava telah mengubah dunia lari dengan mengukur setiap langkah, PilotLeague berambisi melakukan hal yang sama untuk simulasi penerbangan.
+Bagaimana jika setiap penerbangan di MSFS 2024 benar-benar berarti? Itulah janji dari **PilotLeague**, sebuah platform analisis performa yang diciptakan oleh **Rodolphe**, instruktur Airbus A320/A330 di dunia nyata. Konsepnya sederhana namun sangat efektif: sebuah aplikasi desktop ringan menangkap **79 variabel SimConnect** selama penerbangan Anda, mengirimkannya ke server kalkulasi, lalu menghasilkan skor terperinci dari 100 poin beserta analisis fase demi fase. Semuanya gratis, kompatibel dengan **MSFS 2024**, dan dapat diakses di [pilotleague.com](https://pilotleague.com/id/fitur/). Jika Strava telah mengubah dunia lari dengan mengukur setiap langkah, PilotLeague berambisi melakukan hal yang sama untuk simulasi penerbangan.
 
 ![Overlay PilotLeague saat approach di MSFS 2024 — METAR, TOD, angin, dan peringatan keselamatan](/images/pilotleague-msfs/overlay-approach.webp)
 
@@ -88,7 +88,7 @@ Di balik layar, PilotLeague mendeteksi secara otomatis **11 fase penerbangan** d
 
 Instalasi dirancang sesederhana mungkin:
 
-1. Unduh executable dari [pilotleague.com](https://pilotleague.com)
+1. Unduh executable dari [pilotleague.com](https://pilotleague.com/id/)
 2. Jalankan MSFS 2024 dengan pesawat yang dimuat di parking
 3. Jalankan PilotLeague — LED diagnostik mengonfirmasi koneksi SimConnect
 4. Lepaskan parking brake — perekaman dimulai secara otomatis
@@ -109,4 +109,4 @@ Kokpit tidak pernah sedemikian menuntut — dan itu adalah hal yang baik.
 
 ---
 
-*Sumber: [PilotLeague Features](https://pilotleague.com/features/). Gambar: PilotLeague. Komunitas: [Discord PilotLeague](https://discord.gg/pilotleague).*
+*Sumber: [PilotLeague Features](https://pilotleague.com/id/fitur/). Gambar: PilotLeague. Komunitas: [Discord PilotLeague](https://discord.gg/pilotleague).*
