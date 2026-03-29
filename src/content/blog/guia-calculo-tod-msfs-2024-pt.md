@@ -94,17 +94,17 @@ Para tirar o máximo partido:
 2. Verifique se os dados de vento estão atualizados
 3. Confirme o peso estimado à chegada
 
-### Overlay PilotLeague em tempo real
+### Aplicações e overlays de terceiros
 
-O [PilotLeague](https://pilotleague.com/pt/funcionalidades/) oferece um overlay integrado com o MSFS 2024 que apresenta o **TOD em tempo real** diretamente no ecrã. Este indicador tem em conta a posição atual, a altitude, a velocidade ground e o aeroporto de destino, atualizando-se continuamente ao longo do voo.
+Existem diversas aplicações e overlays compatíveis com o MSFS 2024 que apresentam o **TOD em tempo real** diretamente no ecrã. Estes indicadores têm em conta a posição atual, a altitude, a velocidade ground e o aeroporto de destino, atualizando-se continuamente ao longo do voo.
 
-Esta funcionalidade é particularmente valiosa para:
+Este tipo de ferramenta é particularmente valioso para:
 
 - Aeronaves sem FMS (aviação geral, aeronaves por defeito)
 - Validação cruzada do TOD calculado pelo FMS
 - Pilotos que estão a aprender a gerir descidas
 
-A plataforma está disponível em [pilots.pilotleague.com](https://pilots.pilotleague.com) e funciona tanto com o MSFS 2024 como com o MSFS 2020.
+Procure por "MSFS TOD calculator" ou "MSFS flight tracker overlay" para encontrar as opções disponíveis, tanto gratuitas como pagas.
 
 ## Erros comuns no cálculo do TOD
 
@@ -128,11 +128,11 @@ Quando se apercebe que iniciou a descida tarde demais, a tentação é aumentar 
 
 O VNAV dos FMS add-on é uma ferramenta poderosa, mas não é infalível. Alterações meteorológicas súbitas, rerouting pelo ATC ou erros na programação da STAR podem tornar o perfil VNAV inadequado. Verifique sempre o TOD com um cálculo mental rápido.
 
-## Eficiência de combustível e pontuação PilotLeague
+## Eficiência de combustível e desempenho
 
 Uma descida eficiente tem impacto direto no consumo de combustível. Uma descida idle (motores em ralenti) desde o TOD correto pode poupar centenas de quilogramas de combustível num voo longo, comparativamente a uma descida escalonada com patamares intermédios.
 
-No sistema de pontuação do [PilotLeague](https://pilotleague.com/pt/funcionalidades/), a **eficiência de combustível representa 15% da nota final** de cada voo. Uma descida mal planeada — seja por excesso de combustível gasto em patamares baixos ou por utilização prolongada de speedbrakes — reflete-se diretamente na pontuação. O cálculo correto do TOD é, assim, uma das formas mais diretas de melhorar o desempenho global na plataforma.
+Muitas plataformas de tracking de voo avaliam a eficiência de combustível como parte da pontuação global de cada voo. Uma descida mal planeada — seja por excesso de combustível gasto em patamares baixos ou por utilização prolongada de speedbrakes — reflete-se diretamente nessa avaliação. O cálculo correto do TOD é, assim, uma das formas mais diretas de melhorar o desempenho nos seus voos simulados.
 
 ## Resumo prático
 
@@ -144,4 +144,4 @@ No sistema de pontuação do [PilotLeague](https://pilotleague.com/pt/funcionali
 | Ajuste vento de frente | − 1 NM por 10 kt | −30 kt → −3 NM |
 | Margem desaceleração | + 5 a 10 NM | Airliners em descida |
 
-O TOD não é um conceito complexo, mas a sua execução consistente exige prática e atenção aos detalhes. Comece por aplicar a regra dos 3 nos próximos voos, ajuste para o vento, e compare os resultados com o FMS ou com o overlay do PilotLeague. Em poucas sessões, a descida deixará de ser a fase mais imprevisível do voo e passará a ser a mais satisfatória.
+O TOD não é um conceito complexo, mas a sua execução consistente exige prática e atenção aos detalhes. Comece por aplicar a regra dos 3 nos próximos voos, ajuste para o vento, e compare os resultados com o FMS ou com um overlay de terceiros. Em poucas sessões, a descida deixará de ser a fase mais imprevisível do voo e passará a ser a mais satisfatória.

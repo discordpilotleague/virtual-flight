@@ -86,11 +86,9 @@ Many MSFS 2024 aircraft have no FMS at all. Older jets, military trainers, and b
 
 The PMDG 737 and 777, Fenix A320, and FlyByWire A380X all include sophisticated VNAV logic. Enter your route, set the arrival runway and approach, and the FMS draws the descent path for you. Trust it when ATC allows, override it when they do not.
 
-### PilotLeague Overlay
+### Third-Party Overlay Tools
 
-If you fly with [PilotLeague](https://pilotleague.com/en/features/), the in-flight overlay provides a real-time TOD calculation based on your current altitude, target altitude, and distance to destination. It removes the mental arithmetic entirely. As you cruise, the overlay shows when and where to begin your descent, adjusting dynamically as conditions change. This is particularly useful in aircraft that lack VNAV or when flying with custom routes that do not have a full FMS flight plan loaded.
-
-The [PilotLeague features page](https://pilotleague.com/en/features/) details how the overlay integrates with MSFS 2024, working alongside the simulator without interfering with your cockpit instruments.
+Several third-party overlay tools can provide a real-time TOD calculation based on your current altitude, target altitude, and distance to destination. They remove the mental arithmetic entirely. As you cruise, the overlay shows when and where to begin your descent, adjusting dynamically as conditions change. This is particularly useful in aircraft that lack VNAV or when flying with custom routes that do not have a full FMS flight plan loaded.
 
 ### Charts and Approach Plates
 
@@ -108,12 +106,6 @@ Jeppesen-style charts in MSFS 2024 and third-party tools like Navigraph show cro
 
 **Descending at a fixed rate regardless of speed.** A 2,000 fpm descent at 450 knots ground speed gives a much shallower path than the same rate at 250 knots. Always recalculate your required vertical speed when your ground speed changes significantly during descent.
 
-## How PilotLeague Scores Your Descent
-
-PilotLeague evaluates every flight across multiple performance pillars. Descent planning falls under the fuel efficiency pillar, which accounts for 15% of your overall flight score. An optimal descent, one that avoids level-offs, excessive speed brake use, and unnecessary low-altitude cruise segments, earns you higher marks because it burns less fuel.
-
-The scoring rewards pilots who start their descent at the right point and maintain a smooth, continuous profile all the way to the approach phase. Erratic descents with multiple level segments or late dive-and-drive profiles are penalized. This mirrors real-world airline efficiency metrics, where fuel burn during descent is one of the most controllable cost factors.
-
 ## Putting It All Together
 
 Here is a step-by-step workflow you can apply to any flight in MSFS 2024:
@@ -127,5 +119,3 @@ Here is a step-by-step workflow you can apply to any flight in MSFS 2024:
 7. **Adjust as you go:** Conditions change. If ATC gives you a shortcut or a hold, recalculate on the fly.
 
 TOD calculation is one of those skills that separates passengers-who-press-buttons from actual pilots. The math is elementary. The discipline of applying it consistently is what makes the difference. Whether you use mental arithmetic, the FMS, or an overlay tool, the goal remains the same: arrive at the approach fix at the right altitude, at the right speed, fully configured, and completely in control.
-
-Ready to see how your descents measure up? Create your free pilot profile on [PilotLeague](https://pilots.pilotleague.com) and let the scoring system show you exactly where your descent planning stands.

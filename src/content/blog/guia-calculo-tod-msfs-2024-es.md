@@ -103,12 +103,6 @@ Los aviones de línea incluidos en MSFS 2024 disponen de un sistema de gestión 
 
 Sin embargo, es fundamental entender el cálculo manual: el FMS puede no estar disponible en todas las aeronaves, las condiciones pueden cambiar en vuelo y algunos add-on no implementan esta función correctamente.
 
-### PilotLeague: TOD en tiempo real con overlay
-
-[PilotLeague](https://pilotleague.com/es/caracteristicas/) ofrece un overlay en tiempo real que, entre otras funciones, proporciona información de descenso directamente sobre la pantalla del simulador. Esto resulta especialmente útil en aeronaves de aviación general que no disponen de FMS, o cuando desea una referencia visual adicional que complemente los instrumentos de cabina.
-
-La herramienta analiza su posición, altitud, velocidad y ruta para ofrecer indicaciones de descenso contextualizadas. Puede registrarse y comenzar a utilizarla en [pilots.pilotleague.com](https://pilots.pilotleague.com).
-
 ### Calculadoras externas y EFB
 
 Aplicaciones EFB como Navigraph Charts o SimBrief también incluyen el cálculo del TOD. SimBrief genera un OFP (Operational Flight Plan) con el punto de TOD y la distancia exacta al destino.
@@ -129,7 +123,7 @@ Aplicaciones EFB como Navigraph Charts o SimBrief también incluyen el cálculo 
 
 Un descenso bien planificado tiene un impacto directo en la eficiencia del vuelo. Descender en ralentí a lo largo de una senda de 3 grados consume significativamente menos combustible que nivelar a baja altitud durante decenas de millas.
 
-[PilotLeague](https://pilotleague.com/es/caracteristicas/) incorpora un sistema de puntuación de eficiencia de combustible que representa el 15 % de la calificación total de cada vuelo. Un descenso óptimo contribuye directamente a mejorar esta puntuación, incentivando prácticas realistas y eficientes.
+En redes de vuelo virtual como VATSIM o IVAO, un descenso bien ejecutado también facilita el trabajo de los controladores y le permite cumplir las instrucciones de ATC sin maniobras correctivas de último momento.
 
 ## Resumen práctico
 

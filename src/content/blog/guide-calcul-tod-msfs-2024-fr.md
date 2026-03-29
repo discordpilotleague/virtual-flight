@@ -97,9 +97,9 @@ Pour les avions qui ne disposent pas de VNAV — qu'il s'agisse d'appareils anci
 
 Les appareils study-level de PMDG, Fenix ou iniBuilds intègrent des systèmes VNAV complets. Programmez correctement les contraintes d'altitude dans le plan de vol et le FMS calculera le profil optimal.
 
-### L'overlay PilotLeague
+### Outils d'overlay tiers
 
-L'overlay [PilotLeague](https://pilotleague.com/fr/fonctionnalites/) affiche en temps réel, pendant votre vol MSFS 2024, un **indicateur TOD calculé automatiquement**. L'application analyse votre altitude, votre vitesse sol, l'altitude du terrain de destination et le vent pour vous indiquer la distance restante avant le TOD. C'est un outil particulièrement utile sur les appareils dépourvus de FMS ou pour valider le calcul VNAV de votre avion. L'overlay affiche également le METAR de destination, le vent en temps réel et des alertes de sécurité — autant d'informations qui affinent votre gestion de la descente.
+Certains outils d'overlay tiers peuvent afficher en temps réel, pendant votre vol MSFS 2024, un **indicateur TOD calculé automatiquement**. Ces applications analysent votre altitude, votre vitesse sol, l'altitude du terrain de destination et le vent pour vous indiquer la distance restante avant le TOD. C'est particulièrement utile sur les appareils dépourvus de FMS ou pour valider le calcul VNAV de votre avion. Selon l'outil choisi, vous pouvez également obtenir le METAR de destination, le vent en temps réel et des alertes de sécurité — autant d'informations qui affinent votre gestion de la descente.
 
 ### Cartes d'approche
 
@@ -123,14 +123,12 @@ Sur les réseaux en ligne, le contrôleur peut vous demander de maintenir un niv
 
 Sous FL100, la vitesse maximale est de **250 nœuds**. Si vous descendez à Mach 0.78, votre vitesse sol chute brutalement au passage de FL100. Prévoyez ce ralentissement dans votre calcul.
 
-## Comment PilotLeague évalue l'efficience de votre descente
+## L'impact d'un bon TOD sur l'efficience carburant
 
-Le système de notation de PilotLeague repose sur quatre piliers, et le **pilier Efficience carburant** représente **15 % du score total**. Ce pilier mesure votre consommation en kg par mille nautique et la compare à la médiane communautaire pour le même type d'appareil. Une descente bien planifiée — amorcée au bon moment, au bon taux, sans recours excessif aux aérofreins — réduit significativement votre consommation et améliore votre note d'efficience.
+Une descente bien planifiée — amorcée au bon moment, au bon taux, sans recours excessif aux aérofreins — réduit significativement votre consommation de carburant. En mesurant votre consommation en kg par mille nautique, vous pouvez constater la différence entre un profil de descente optimal et une descente mal anticipée.
 
-Un pilote qui calcule son TOD avec précision et maintient un plan régulier à 3° obtiendra systématiquement une meilleure note qu'un pilote qui reste en croisière trop longtemps puis plonge en sortant les speed brakes.
+Un pilote qui calcule son TOD avec précision et maintient un plan régulier à 3° obtiendra systématiquement une meilleure efficience qu'un pilote qui reste en croisière trop longtemps puis plonge en sortant les speed brakes. Les outils de suivi de performance disponibles pour MSFS 2024 permettent de quantifier ces progrès vol après vol.
 
 ## En résumé
 
-Calculer son TOD n'est pas un exercice réservé aux pilotes avancés. C'est une compétence fondamentale qui améliore chaque vol. Retenez la formule du « fois trois », ajustez en fonction du vent et des contraintes, et utilisez les outils à votre disposition — FMS, overlay PilotLeague ou calcul mental — pour arriver à chaque approche dans les meilleures conditions.
-
-Si vous souhaitez mesurer vos progrès en descente et en gestion de carburant, créez votre profil gratuit sur [PilotLeague](https://pilots.pilotleague.com) et laissez l'application analyser vos vols. Chaque descente devient une occasion de progresser.
+Calculer son TOD n'est pas un exercice réservé aux pilotes avancés. C'est une compétence fondamentale qui améliore chaque vol. Retenez la formule du « fois trois », ajustez en fonction du vent et des contraintes, et utilisez les outils à votre disposition — FMS, outils d'overlay tiers ou calcul mental — pour arriver à chaque approche dans les meilleures conditions. Chaque descente devient une occasion de progresser.

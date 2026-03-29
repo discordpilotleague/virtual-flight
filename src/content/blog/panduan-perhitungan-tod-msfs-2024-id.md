@@ -1,6 +1,6 @@
 ---
 title: "Panduan Lengkap: Cara Menghitung TOD di MSFS 2024"
-description: "Pelajari cara menghitung Top of Descent (TOD) di MSFS 2024 dengan rumus sederhana, koreksi angin, skenario GA dan airliner, serta alat bantu FMS dan overlay PilotLeague."
+description: "Pelajari cara menghitung Top of Descent (TOD) di MSFS 2024 dengan rumus sederhana, koreksi angin, skenario GA dan airliner, serta alat bantu FMS dan aplikasi pihak ketiga."
 lang: 'id'
 pubDate: 'Apr 01 2026'
 heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.svg'
@@ -83,11 +83,11 @@ Meskipun FMS menangani sebagian besar perhitungan, ada beberapa hal penting yang
 
 Pesawat airliner premium di MSFS 2024 umumnya menyediakan perhitungan TOD otomatis. Anda cukup memasukkan rute, STAR, dan approach yang diinginkan ke dalam FMS, lalu sistem akan menghitung TOD berdasarkan semua parameter yang relevan. Ini adalah metode yang paling akurat karena memperhitungkan profil kinerja spesifik pesawat tersebut.
 
-### PilotLeague: Overlay TOD Real-Time
+### Aplikasi Overlay Pihak Ketiga
 
-Bagi pilot virtual yang menginginkan bantuan tambahan tanpa bergantung sepenuhnya pada FMS, [PilotLeague](https://pilotleague.com/id/fitur/) menawarkan fitur overlay dalam penerbangan yang menampilkan informasi TOD secara real-time. Overlay ini menghitung posisi TOD berdasarkan data SimConnect aktual — ketinggian Anda, groundspeed, jarak ke tujuan, dan kondisi angin — lalu menampilkan jarak tersisa menuju titik descent ideal langsung di layar simulator Anda.
+Bagi pilot virtual yang menginginkan bantuan tambahan tanpa bergantung sepenuhnya pada FMS, beberapa aplikasi pihak ketiga menawarkan fitur overlay dalam penerbangan yang menampilkan informasi TOD secara real-time. Aplikasi ini menghitung posisi TOD berdasarkan data SimConnect aktual — ketinggian Anda, groundspeed, jarak ke tujuan, dan kondisi angin — lalu menampilkan jarak tersisa menuju titik descent ideal langsung di layar simulator Anda.
 
-Keunggulan pendekatan ini adalah universalitasnya: overlay PilotLeague berfungsi pada semua pesawat di MSFS 2024, termasuk pesawat GA dan warbird yang tidak memiliki FMS. Anda mendapatkan panduan visual TOD yang konsisten di seluruh armada virtual Anda.
+Keunggulan pendekatan ini adalah universalitasnya: overlay semacam ini berfungsi pada semua pesawat di MSFS 2024, termasuk pesawat GA dan warbird yang tidak memiliki FMS. Anda mendapatkan panduan visual TOD yang konsisten di seluruh armada virtual Anda.
 
 ## Kesalahan Umum yang Harus Dihindari
 
@@ -103,7 +103,7 @@ Berikut adalah kesalahan TOD yang paling sering terjadi di komunitas simulasi pe
 
 Perhitungan TOD yang akurat memiliki dampak langsung pada efisiensi bahan bakar. Descent yang terlalu curam memaksa mesin bekerja lebih keras saat level-off, sementara descent yang terlalu landai memperpanjang waktu di ketinggian rendah di mana konsumsi bahan bakar per nautical mile lebih tinggi.
 
-Platform [PilotLeague](https://pilots.pilotleague.com) mengukur efisiensi ini secara kuantitatif. Dalam sistem penilaian PilotLeague, **efisiensi bahan bakar menyumbang 15% dari total skor** penerbangan Anda. Konsumsi bahan bakar Anda dibandingkan dengan median komunitas untuk jenis pesawat yang sama, sehingga Anda mendapatkan gambaran objektif tentang seberapa efisien profil descent Anda dibandingkan pilot lain. Descent yang direncanakan dengan baik — dimulai tepat di TOD dan mengikuti profil 3 derajat yang halus — secara konsisten menghasilkan skor efisiensi yang lebih tinggi.
+Beberapa platform pelacak penerbangan mengukur efisiensi ini secara kuantitatif, membandingkan konsumsi bahan bakar Anda dengan rata-rata komunitas untuk jenis pesawat yang sama. Dengan demikian, Anda mendapatkan gambaran objektif tentang seberapa efisien profil descent Anda. Descent yang direncanakan dengan baik — dimulai tepat di TOD dan mengikuti profil 3 derajat yang halus — secara konsisten menghasilkan efisiensi yang lebih tinggi.
 
 ## Rangkuman Rumus Cepat
 
@@ -119,4 +119,4 @@ Berikut ringkasan yang dapat Anda jadikan referensi cepat sebelum setiap penerba
 | Target descent rate (airliner) | 1.500–2.000 fpm |
 | Target descent rate (GA) | 500–700 fpm |
 
-Menguasai perhitungan TOD adalah langkah penting menuju penerbangan yang lebih realistis dan memuaskan di MSFS 2024. Dengan rumus dasar yang sederhana, kesadaran terhadap kondisi angin, dan bantuan alat seperti FMS serta [overlay PilotLeague](https://pilotleague.com/id/fitur/), setiap descent Anda akan menjadi lebih halus, lebih efisien, dan lebih mendekati standar penerbangan profesional. Selamat terbang.
+Menguasai perhitungan TOD adalah langkah penting menuju penerbangan yang lebih realistis dan memuaskan di MSFS 2024. Dengan rumus dasar yang sederhana, kesadaran terhadap kondisi angin, dan bantuan alat seperti FMS serta aplikasi overlay pihak ketiga, setiap descent Anda akan menjadi lebih halus, lebih efisien, dan lebih mendekati standar penerbangan profesional. Selamat terbang.

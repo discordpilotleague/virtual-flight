@@ -1,6 +1,6 @@
 ---
 title: "Guia completo: como calcular o TOD no MSFS 2024"
-description: "Aprenda a calcular o Top of Descent (TOD) no MSFS 2024 com fórmulas práticas, ajustes de vento, cenários GA e airliner, e ferramentas como FMS e PilotLeague."
+description: "Aprenda a calcular o Top of Descent (TOD) no MSFS 2024 com fórmulas práticas, ajustes de vento, cenários GA e airliner, e ferramentas como FMS e apps de tracking."
 lang: 'br'
 pubDate: 'Apr 01 2026'
 heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.svg'
@@ -101,19 +101,19 @@ Nesses casos, o FMS da aeronave calcula o TOD automaticamente e mostra a marca n
 
 Nos airliners do MSFS 2024 com FMS funcional, o TOD é calculado automaticamente quando você programa a rota, a STAR e a approach. No PMDG 737, por exemplo, basta ativar o VNAV e a aeronave gerencia a descida inteira.
 
-### PilotLeague: monitoramento em tempo real
+### Apps de tracking de voo
 
-O [PilotLeague](https://pilotleague.com/pt/funcionalidades/) oferece um overlay que acompanha seus voos em tempo real no MSFS 2024. Entre as funcionalidades, o sistema monitora o seu perfil de descida e inclui o TOD como parte da análise de eficiência do voo. Isso é especialmente útil para quem quer melhorar a precisão das descidas sem depender exclusivamente do FMS.
+Existem diversas ferramentas e aplicativos de tracking que acompanham seus voos em tempo real no MSFS 2024. Muitos oferecem overlays que monitoram o seu perfil de descida e incluem o TOD como parte da análise de eficiência do voo. Isso é especialmente útil para quem quer melhorar a precisão das descidas sem depender exclusivamente do FMS.
 
-Na plataforma [pilots.pilotleague.com](https://pilots.pilotleague.com), você acompanha o histórico dos seus voos e pode comparar seus perfis de descida ao longo do tempo — identificando onde você tende a descer cedo demais ou tarde demais.
+Com essas ferramentas, você acompanha o histórico dos seus voos e pode comparar seus perfis de descida ao longo do tempo — identificando onde você tende a descer cedo demais ou tarde demais.
 
-## O scoring de eficiência de combustível do PilotLeague
+## Por que a descida eficiente importa
 
 Um detalhe que muitos pilotos virtuais ignoram: a forma como você desce impacta diretamente o consumo de combustível. Uma descida bem planejada em idle thrust consome muito menos querosene do que uma descida escalonada com ajustes constantes de potência.
 
-No sistema de pontuação do [PilotLeague](https://pilotleague.com/pt/funcionalidades/), a **eficiência de combustível representa 15% da nota final** do voo. Isso inclui o planejamento da descida: iniciar o TOD no ponto certo, manter um perfil estável e evitar correções bruscas. Se você costuma chegar alto demais e precisa usar spoilers para compensar, essa pontuação vai refletir.
+Várias plataformas de tracking avaliam a eficiência de combustível como parte da análise do voo. Isso inclui o planejamento da descida: iniciar o TOD no ponto certo, manter um perfil estável e evitar correções bruscas. Se você costuma chegar alto demais e precisa usar spoilers para compensar, essa ineficiência vai aparecer nos dados.
 
-É uma motivação concreta para aperfeiçoar o cálculo de TOD — não apenas por realismo, mas porque impacta diretamente o seu ranking na plataforma.
+É uma motivação concreta para aperfeiçoar o cálculo de TOD — não apenas por realismo, mas porque reflete diretamente a qualidade da sua operação.
 
 ## Erros comuns no cálculo de TOD
 
@@ -146,4 +146,4 @@ Se o aeroporto de destino está a 5.000 pés de elevação (como muitos na Amér
 | Taxa de descida | Ground Speed × 5,3 = fpm |
 | Correção de vento | ±2 NM por cada 10 kts |
 
-O cálculo de TOD é a habilidade que separa o piloto virtual casual do piloto que realmente entende o que está fazendo. Não exige matemática avançada e faz uma diferença enorme nos seus voos no MSFS 2024. Pratique com a fórmula manual, confie no FMS quando disponível, acompanhe seus resultados no [PilotLeague](https://pilots.pilotleague.com) e em pouco tempo a descida perfeita vira automática.
+O cálculo de TOD é a habilidade que separa o piloto virtual casual do piloto que realmente entende o que está fazendo. Não exige matemática avançada e faz uma diferença enorme nos seus voos no MSFS 2024. Pratique com a fórmula manual, confie no FMS quando disponível, acompanhe seus resultados com ferramentas de tracking e em pouco tempo a descida perfeita vira automática.

@@ -105,11 +105,11 @@ Verlassen Sie sich jedoch nicht blind auf das FMS. Überprüfen Sie die berechne
 
 Die Standardflugzeuge in MSFS 2024 bieten kein vollwertiges FMS. Hier sind Sie auf manuelle Berechnung angewiesen — oder nutzen externe Tools.
 
-### PilotLeague: Echtzeit-TOD-Overlay
+### Externe Overlay-Tools
 
-[PilotLeague](https://pilotleague.com/de/funktionen/) bietet ein Overlay-Tool, das Ihnen den optimalen TOD in Echtzeit anzeigt, während Sie in MSFS 2024 fliegen. Das Overlay berechnet den Sinkflugpunkt basierend auf Ihrer aktuellen Flughöhe, Geschwindigkeit, der Zielflughöhe und den Windbedingungen — und aktualisiert die Anzeige kontinuierlich.
+Es gibt verschiedene Community-Tools und Overlays, die Ihnen den optimalen TOD in Echtzeit anzeigen, während Sie in MSFS 2024 fliegen. Diese Overlays berechnen den Sinkflugpunkt basierend auf Ihrer aktuellen Flughöhe, Geschwindigkeit, der Zielflughöhe und den Windbedingungen — und aktualisieren die Anzeige kontinuierlich.
 
-Dieses Tool ist besonders nützlich, wenn Sie Standardflugzeuge ohne FMS fliegen oder wenn Sie die FMS-Berechnung Ihres Add-ons verifizieren möchten. Die Anmeldung erfolgt über [pilots.pilotleague.com](https://pilots.pilotleague.com), und das Overlay lässt sich mit wenigen Klicks aktivieren.
+Solche Tools sind besonders nützlich, wenn Sie Standardflugzeuge ohne FMS fliegen oder wenn Sie die FMS-Berechnung Ihres Add-ons verifizieren möchten. Bekannte Beispiele finden Sie in den einschlägigen Flight-Sim-Foren und auf Plattformen wie flightsim.to.
 
 ## Häufige Fehler bei der Sinkflugplanung
 
@@ -133,11 +133,11 @@ Ein Sinkflug mit 4.000 ft/min und Bremsklappen mag funktionieren, ist aber weder
 
 Ein häufig übersehener Punkt: Die Platzhöhe (Elevation) des Zielflughafens fließt direkt in die Berechnung ein. Wenn der Flughafen auf 5.000 ft liegt, müssen Sie entsprechend weniger Höhe verlieren.
 
-## Treibstoffeffizienz und Scoring
+## Treibstoffeffizienz im Sinkflug
 
-Ein gut geplanter Sinkflug spart nicht nur Kerosin, sondern wird auch von Bewertungssystemen honoriert. [PilotLeague](https://pilotleague.com/de/funktionen/) bewertet Ihre Flüge unter anderem anhand der **Treibstoffeffizienz**, die mit **15 %** in die Gesamtbewertung einfließt. Ein Idle Descent — also ein Sinkflug bei Leerlaufschub — ist dabei die effizienteste Methode und bringt die höchste Punktzahl.
+Ein gut geplanter Sinkflug spart nicht nur Kerosin, sondern verbessert die gesamte Flugqualität spürbar. Ein **Idle Descent** — also ein Sinkflug bei Leerlaufschub — ist dabei die effizienteste Methode und wird auch von virtuellen Airlines und Bewertungsplattformen als Best Practice angesehen.
 
-Das bedeutet konkret: Wer den TOD korrekt berechnet und einen sauberen, kontinuierlichen Sinkflug durchführt, wird mit einer besseren Bewertung belohnt. Hektische Korrekturen, Zwischenplateau-Phasen mit erhöhtem Schub oder der Einsatz von Bremsklappen verschlechtern hingegen die Treibstoffbilanz — und damit Ihren Score.
+Das bedeutet konkret: Wer den TOD korrekt berechnet und einen sauberen, kontinuierlichen Sinkflug durchführt, verbraucht deutlich weniger Treibstoff. Hektische Korrekturen, Zwischenplateau-Phasen mit erhöhtem Schub oder der Einsatz von Bremsklappen verschlechtern hingegen die Treibstoffbilanz erheblich.
 
 ## Zusammenfassung: Checkliste für den perfekten Sinkflug
 
@@ -149,4 +149,4 @@ Das bedeutet konkret: Wer den TOD korrekt berechnet und einen sauberen, kontinui
 6. **FMS-Wert überprüfen** — Manuelle Gegenrechnung mit der Dreierregel
 7. **Rechtzeitig beginnen** — Lieber 2 NM zu früh als 10 NM zu spät
 
-Mit etwas Übung wird die TOD-Berechnung zur Routine. Sie werden feststellen, dass ein sauber geplanter Sinkflug nicht nur effizienter ist, sondern auch deutlich mehr Zufriedenheit beim Fliegen bringt — egal ob in der kleinen Cessna oder im vollausgestatteten Airliner auf dem Weg nach [pilots.pilotleague.com](https://pilots.pilotleague.com).
+Mit etwas Übung wird die TOD-Berechnung zur Routine. Sie werden feststellen, dass ein sauber geplanter Sinkflug nicht nur effizienter ist, sondern auch deutlich mehr Zufriedenheit beim Fliegen bringt — egal ob in der kleinen Cessna oder im vollausgestatteten Airliner.
