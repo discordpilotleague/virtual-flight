@@ -55,6 +55,9 @@ Se a sua velocidade solo é de 450 knots:
 
 Arredonde para **2.400 fpm** e você tem uma descida suave e estável a 3°. Se a sua ground speed mudar durante a descida (e vai mudar, conforme você desacelera), ajuste a VS proporcionalmente.
 
+![Cockpit do PMDG 737-800 no MSFS 2024 — PFD e Navigation Display durante descida ILS a 10 000 pés](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1817/738_FS24_7__25562.1766086749.jpg?c=2)
+*Crédito: [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
+
 ## Ajustes para o vento
 
 O vento é o fator que mais estraga um cálculo de TOD perfeito. A regra geral:
@@ -94,6 +97,9 @@ Em aeronaves de linha como o PMDG 737, Fenix A320 ou o 787 do MSFS 2024, o cálc
 - **Perfis VNAV** com múltiplos segmentos de descida
 
 Nesses casos, o FMS da aeronave calcula o TOD automaticamente e mostra a marca no ND. Confie no FMS quando disponível — ele considera todos esses fatores. Use a fórmula manual como verificação cruzada: se o FMS diz 110 NM e sua conta dá 96 NM, provavelmente há restrições de altitude no caminho.
+
+![Vista do cockpit do PMDG 737-800 em aproximação final no MSFS 2024 com pista visível](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1811/738_FS24_1__50887.1766086793.jpg?c=2)
+*Crédito: [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
 
 ## Ferramentas para calcular e monitorar o TOD
 

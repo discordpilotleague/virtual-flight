@@ -40,6 +40,9 @@ Der Wert 318 ergibt sich aus dem Tangens eines 3-Grad-Sinkwinkels bei einer typi
 
 Der leichte Unterschied zur Dreierregel entsteht durch Rundungen — beide Methoden sind in der Praxis ausreichend genau. Die Dreierregel ist leichter im Kopf zu rechnen und wird daher von den meisten Piloten bevorzugt.
 
+![PMDG 737-800 Cockpit in MSFS 2024 — PFD und Navigation Display waehrend ILS-Sinkflug auf 10 000 Fuss](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1817/738_FS24_7__25562.1766086749.jpg?c=2)
+*Bildnachweis: [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
+
 ## Windkorrekturen: Gegen- und Rückenwind
 
 Wind beeinflusst Ihren Sinkflug erheblich. Die Dreierregel geht von einer konstanten Groundspeed aus, aber in der Realität verändert Wind die tatsächliche Entfernung, die Sie im Sinkflug zurücklegen.
@@ -92,6 +95,9 @@ Typische Parameter für einen Airliner-Sinkflug:
 - **Idle Descent:** Schub auf Leerlauf, Geschwindigkeit durch Pitch gesteuert
 
 Verkehrsflugzeuge in MSFS 2024 profitieren besonders von einer präzisen TOD-Berechnung, weil ein zu steiler Sinkflug zu Geschwindigkeitsüberschreitungen führt und ein zu flacher Sinkflug unnötig Treibstoff verbraucht.
+
+![PMDG 737-800 Cockpit im Endanflug in MSFS 2024 mit sichtbarer Landebahn](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1811/738_FS24_1__50887.1766086793.jpg?c=2)
+*Bildnachweis: [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
 
 ## Tools zur TOD-Berechnung in MSFS 2024
 

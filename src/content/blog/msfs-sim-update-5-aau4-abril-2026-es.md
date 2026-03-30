@@ -47,9 +47,6 @@ AAU4 introduce por primera vez en MSFS la aviónica **Avidyne** con dos modelos:
 El modelo estrella es el **IFD 550**, que incluye **visión sintética (SVS)** — una representación 3D del terreno en la pantalla del navegador que mejora drásticamente la conciencia situacional, especialmente en aproximaciones instrumentales a aeropuertos montañosos. Ambos modelos integran **charts FAA y Lido** directamente en la pantalla, eliminando la necesidad de consultar documentación externa durante el vuelo.
 
 La primera aeronave equipada con la aviónica Avidyne será el **Cessna 172 Classic**, una elección lógica dado que muchos Cessna 172 reales han sido actualizados con estos equipos. Es probable que futuras actualizaciones extiendan la compatibilidad Avidyne a otras aeronaves de aviación general.
-
-Si busca llevar un registro detallado de sus vuelos con estas nuevas aviónicas y seguir su progresión como piloto virtual, [PilotLeague ofrece herramientas de análisis de rendimiento](https://pilotleague.com/es/caracteristicas/) diseñadas específicamente para los pilotos de MSFS.
-
 ## PSVR2: realidad virtual para más de cien aviones
 
 La **Sim Update 5** trae consigo una de las funcionalidades más esperadas por los usuarios de PC con casco PlayStation VR2: el **soporte nativo de PSVR2** en MSFS 2024. Con más de **100 aviones compatibles** desde el primer día, esta integración posiciona al PSVR2 como una opción seria para la simulación de vuelo en PC, junto a los cascos Meta Quest y los HP Reverb.
@@ -65,7 +62,5 @@ Asimismo, las actualizaciones **AAU5** y **AAU6** ya están planificadas, lo que
 ## Un simulador en plena aceleración
 
 La Sim Update 5 y AAU4 confirman que MSFS 2024 ha encontrado su ritmo de crucero. La conversión de cinco aviones europeos a formato nativo, con integración completa en el modo carrera y modelos aerodinámicos CFD, demuestra que Asobo no se limita a trasladar contenido del simulador anterior — lo reconstruye desde cero cuando es necesario. La llegada de la aviónica Avidyne diversifica los paneles de instrumentos más allá del monopolio Garmin, y el soporte PSVR2 abre las puertas de la realidad virtual a un público más amplio.
-
-Para los pilotos virtuales que desean sacar el máximo partido a estas novedades, registrar sus vuelos y comparar su rendimiento con otros entusiastas, [PilotLeague](https://pilots.pilotleague.com) es la plataforma de referencia. Ya sea volando un ATR 42 en rutas regionales o un An-2 en misiones de fumigación, cada vuelo cuenta — y merece ser registrado.
 
 Abril se presenta cargado de novedades. Prepare su lista de verificación.

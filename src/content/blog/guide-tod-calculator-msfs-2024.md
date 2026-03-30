@@ -44,6 +44,9 @@ Once you know where to start, you also need to know how fast to descend. The req
 
 At 250 knots ground speed, that gives you roughly 1,250 fpm. At 450 knots, you need about 2,250 fpm. This is why fast jets descend more aggressively than piston singles.
 
+![PMDG 737-800 cockpit in MSFS 2024 showing PFD and Navigation Display during ILS descent at 10000 feet](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1817/738_FS24_7__25562.1766086749.jpg?c=2)
+*Credit: [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
+
 ## Adjustments You Cannot Ignore
 
 The rule of three assumes still air, a constant speed, and no ATC restrictions. Real flights rarely deliver all three.
@@ -79,6 +82,9 @@ In selected mode (where you manually set the altitude and vertical speed), knowi
 ### Aircraft Without FMS
 
 Many MSFS 2024 aircraft have no FMS at all. Older jets, military trainers, and bush planes leave descent planning entirely to you. This is where the rule of three earns its keep. Calculate TOD mentally, set a reminder on the GPS distance readout, and fly the descent by hand. It is satisfying when done correctly and immediately obvious when done poorly.
+
+![PMDG 737-800 cockpit on final approach in MSFS 2024 with runway visible through windshield](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1811/738_FS24_1__50887.1766086793.jpg?c=2)
+*Credit: [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
 
 ## Tools That Help You Nail Every Descent
 

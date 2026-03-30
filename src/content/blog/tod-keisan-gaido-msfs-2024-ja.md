@@ -65,6 +65,9 @@ TOD距離（NM）= 降下する高度（ft）÷ 318
 | 400 kt | -2,000 ft/min |
 | 480 kt | -2,400 ft/min |
 
+![PMDG 737-800 コックピット MSFS 2024 — ILS降下中のPFDとナビゲーションディスプレイ（10,000フィート）](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1817/738_FS24_7__25562.1766086749.jpg?c=2)
+*画像提供：[PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
+
 ## 風の影響と補正
 
 実際のフライトでは、風がTODの計算に大きく影響します。
@@ -106,6 +109,9 @@ PMDG 737、Fenix A320、iniBuilds A310などの高精度アドオンでは、**F
 - **ただし、FMSの計算を過信せず、手動計算で「サニティチェック」を行うことが推奨されます**
 
 FMSが使えないデフォルト機体の場合は、上記の公式を用いた手動計算が唯一の方法となります。
+
+![PMDG 737-800 ファイナルアプローチ MSFS 2024 — コックピットから滑走路が見える](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1811/738_FS24_1__50887.1766086793.jpg?c=2)
+*画像提供：[PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
 
 ## TOD計算に使えるツール
 

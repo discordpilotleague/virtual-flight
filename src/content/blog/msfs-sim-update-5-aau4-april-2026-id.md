@@ -48,8 +48,7 @@ Salah satu penambahan paling penting dalam AAU4 bukanlah pesawat, melainkan **av
 
 Avidyne IFD adalah sistem navigasi dan manajemen penerbangan yang banyak digunakan pada pesawat general aviation di dunia nyata, terutama sebagai upgrade untuk pesawat yang sebelumnya menggunakan Garmin GNS 430/530. Implementasi di MSFS 2024 mencakup fitur-fitur utama: FMS dengan database navigasi lengkap, tampilan peta bergerak, integrasi weather overlay, flight plan management, dan kemampuan approach prosedural (RNAV, ILS, VOR).
 
-Bagi pilot virtual yang berlatih untuk sertifikasi di dunia nyata atau yang ingin membiasakan diri dengan avionik Avidyne sebelum terbang dengan pesawat sungguhan, ini adalah penambahan yang sangat berharga. Anda dapat melacak dan menganalisis setiap penerbangan Anda yang menggunakan avionik baru ini melalui [PilotLeague](https://pilotleague.com/id/fitur/), platform yang menilai kualitas penerbangan berdasarkan 79 parameter termasuk kepatuhan terhadap prosedur navigasi.
-
+Bagi pilot virtual yang berlatih untuk sertifikasi di dunia nyata atau yang ingin membiasakan diri dengan avionik Avidyne sebelum terbang dengan pesawat sungguhan, ini adalah penambahan yang sangat berharga.
 ## Dukungan PSVR2: VR Baru untuk PC
 
 Sim Update 5 menghadirkan dukungan resmi untuk **PlayStation VR2 (PSVR2)** di PC. Headset Sony ini, yang kini kompatibel dengan PC melalui adaptor resmi, menawarkan resolusi 2000x2040 per mata dengan panel OLED, refresh rate 120 Hz, dan eye-tracking terintegrasi.
@@ -64,12 +63,8 @@ Lima pesawat yang hadir di AAU4 hanyalah sebagian kecil dari program konversi be
 
 Proses konversi ini menunjukkan komitmen jangka panjang terhadap MSFS 2024 sebagai platform simulasi penerbangan utama. Setiap pembaruan bulanan diharapkan membawa batch pesawat baru, secara bertahap membangun armada native yang komprehensif.
 
-## Lacak Kemajuan Anda sebagai Pilot Virtual
-
-Dengan begitu banyak pesawat baru yang mendapatkan konversi native, ini adalah waktu yang tepat untuk mulai mengukur dan melacak kualitas penerbangan Anda secara objektif. [PilotLeague](https://pilotleague.com/id/fitur/) menganalisis setiap penerbangan MSFS 2024 Anda secara real-time — dari kualitas pendaratan hingga kepatuhan SOP, efisiensi bahan bakar, dan keselamatan — menghasilkan skor terperinci dari 100 poin. Apakah Anda menerbangkan ATR 72 baru di rute regional atau mencoba pendaratan air dengan Latécoère 631, setiap penerbangan menjadi kesempatan untuk meningkatkan keterampilan.
-
 ## Kesimpulan
 
 Sim Update 5 dan AAU4 menegaskan bahwa MSFS 2024 terus berevolusi secara agresif. Lima pesawat Eropa legendaris dengan konversi native penuh, avionik Avidyne yang membuka opsi baru untuk general aviation, dukungan PSVR2 yang memperluas akses VR, dan lebih dari 30 pesawat dalam antrean konversi — semua ini menunjukkan bahwa ekosistem simulator ini akan terus berkembang dalam beberapa bulan ke depan.
 
-Bagi Anda yang ingin memaksimalkan setiap penerbangan dan bersaing dengan pilot virtual dari seluruh dunia, daftarkan akun Anda di [pilots.pilotleague.com](https://pilots.pilotleague.com) dan mulai lacak kemajuan Anda hari ini. Setiap penerbangan layak untuk diukur.
+Bagi Anda yang ingin memaksimalkan setiap penerbangan, manfaatkan fitur Career Mode dan sistem penilaian bawaan MSFS 2024 untuk melacak kemajuan Anda sebagai pilot virtual.

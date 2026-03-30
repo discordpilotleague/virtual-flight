@@ -69,16 +69,10 @@ A Asobo confirmou que **mais de 30 aeronaves** estão na fila para receber o tra
 
 Embora a lista completa não tenha sido revelada, a tendência é clara: a cada atualização mensal, novas aeronaves são promovidas do motor legado para o nativo. Para quem comprou o MSFS 2024 esperando que todo o catálogo funcionasse perfeitamente desde o dia um, a paciência está sendo recompensada de forma constante.
 
-## Acompanhe sua evolução com a PilotLeague
-
-Com tantas aeronaves novas e sistemas atualizados, é o momento ideal para medir seu progresso de forma objetiva. A **PilotLeague** analisa cada voo em tempo real, atribuindo uma nota de 0 a 100 baseada em pouso, segurança, conformidade SOP e eficiência de combustível. O ATR 42/72 nativo com TCAS funcional e o An-2 em pistas de terra são cenários perfeitos para testar suas habilidades e comparar seu desempenho com pilotos do mundo inteiro.
-
-A plataforma oferece overlay em voo com METAR, alertas de segurança e cálculos de TOD, além de um sistema de conquistas e desafios diários que mantém a motivação em alta. Você pode explorar todas as funcionalidades em [pilotleague.com/pt/funcionalidades](https://pilotleague.com/pt/funcionalidades/) e começar a acompanhar cada detalhe dos seus voos.
-
 ## O que esperar de abril
 
 A SU5 combinada com a AAU4 representa uma das maiores atualizações de conteúdo desde o lançamento do MSFS 2024. Cinco aeronaves europeias convertidas para o motor nativo, um sistema de aviônicos totalmente novo para a aviação geral, suporte a um headset VR acessível e a promessa de mais de 30 aeronaves na fila — tudo isso em uma única atualização.
 
 Para pilotos virtuais brasileiros, o ATR nativo é particularmente relevante: o Brasil possui uma das maiores redes de rotas regionais do mundo, e poder operar esses turboélices com fidelidade total ao modelo real é um marco. Combine isso com os cinco modos de carreira do An-2 para operações bush no interior da Amazônia, e abril se torna um mês imperdível.
 
-Se você quer acompanhar como essas novas aeronaves afetam seu desempenho e comparar seus pousos e procedimentos com a comunidade global, crie sua conta gratuita em [pilots.pilotleague.com](https://pilots.pilotleague.com) e comece a registrar seus voos desde o primeiro dia da atualização. Bons voos!
+Se você quer testar essas novidades desde o primeiro dia, prepare seu simulador, atualize seus add-ons e conecte-se a uma rede online como VATSIM ou IVAO para aproveitar ao máximo o que abril tem a oferecer. Bons voos!

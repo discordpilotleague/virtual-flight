@@ -48,7 +48,7 @@ Cette mise à jour modifie en profondeur la manière dont vous pouvez aborder MS
 
 Les nouvelles avioniques Avidyne ouvrent la voie à des vols IFR plus réalistes en aviation générale, avec des procédures d'approche complètes affichées directement sur le GPS. Et le PSVR2 rend la VR accessible à une audience bien plus large.
 
-Pour mesurer concrètement vos progrès sur ces nouveaux appareils, **PilotLeague** analyse chaque vol en temps réel et attribue un score sur 100 couvrant l'atterrissage, la sécurité, le respect des SOP et l'efficience carburant. Que vous appreniez à maîtriser les approches court-terrain de l'ATR ou les amerrissages du Latécoère, chaque vol compte et alimente votre progression. Découvrez toutes les fonctionnalités sur [pilotleague.com/fr/fonctionnalites](https://pilotleague.com/fr/fonctionnalites/).
+Pour mesurer concrètement vos progrès sur ces nouveaux appareils, pensez à utiliser un outil d'analyse de vol qui enregistre vos paramètres et vous restitue un feedback détaillé après chaque session. Que vous appreniez à maîtriser les approches court-terrain de l'ATR ou les amerrissages du Latécoère, chaque vol compte et alimente votre progression.
 
 ## Et après : AAU5, AAU6 et 30+ avions payants
 
@@ -56,10 +56,8 @@ Asobo a confirmé que plus de **30 avions payants** sont actuellement en file d'
 
 Le message est clair : MSFS 2024 entre dans une phase de maturation où le contenu natif rattrape — et parfois dépasse — la qualité des add-on tiers. Pour les développeurs indépendants, c'est à la fois un défi et une opportunité : le niveau de référence monte, mais l'écosystème reste ouvert.
 
-## Comment en profiter avec PilotLeague
+## Tirer le meilleur parti de cette mise à jour
 
-Chaque nouveau vol sur les appareils de l'AAU4 est une occasion de perfectionner votre pilotage. **PilotLeague** capture automatiquement 79 variables SimConnect pendant vos vols et vous restitue une analyse détaillée phase par phase. Le mode carrière de MSFS 2024 vous donne la mission ; PilotLeague vous donne le feedback.
+Chaque nouveau vol sur les appareils de l'AAU4 est une occasion de perfectionner votre pilotage. Les outils d'analyse de vol disponibles dans l'écosystème MSFS 2024 permettent d'enregistrer vos paramètres SimConnect et de restituer une analyse détaillée phase par phase. Le mode carrière vous donne la mission ; les outils communautaires vous donnent le feedback.
 
-Les défis quotidiens et le classement mondial ajoutent une dimension compétitive à chaque session. Maîtriser un atterrissage court en ATR 42 sur une piste de 1 200 mètres en conditions de vent de travers n'a pas la même saveur quand un score précis et un classement viennent récompenser votre technique.
-
-Créez votre profil gratuitement sur [pilots.pilotleague.com](https://pilots.pilotleague.com) et commencez à tracker vos vols dès la sortie du Sim Update 5. Chaque atterrissage, chaque approche, chaque vol devient une donnée exploitable pour progresser.
+Les réseaux en ligne comme VATSIM et IVAO ajoutent une dimension immersive à chaque session. Maîtriser un atterrissage court en ATR 42 sur une piste de 1 200 mètres en conditions de vent de travers prend tout son sens quand le contrôle aérien en ligne et la présence d'autres pilotes virtuels viennent enrichir l'expérience.

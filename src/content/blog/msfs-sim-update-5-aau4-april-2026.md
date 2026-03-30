@@ -64,9 +64,9 @@ Converting an aircraft to native MSFS 2024 standard is not a simple recompile. E
 
 Sim Update 5 is not just a technical milestone; it reshapes how pilots interact with the simulator on a daily basis. The career mode expansions alone add dozens of new mission types. A pilot who previously flew the An-2 for scenic bush flights can now build an entire crop-dusting or firefighting career around it. The ATR family opens up regional airline operations that were previously the domain of third-party aircraft. And the Avidyne avionics give GA pilots a reason to revisit familiar routes with fresh eyes and new procedures to learn.
 
-For pilots who track their flights and measure their progress, these updates create new opportunities to [build a structured flying career with tools like PilotLeague](https://pilotleague.com/en/features/). The diversity of mission types — from VIP charters in the ATR to skydiving drops in the An-2 — rewards versatility, and having a platform that logs and analyzes each flight makes the progression tangible rather than abstract.
+For pilots who track their flights and measure their progress, these updates create new opportunities to build a structured flying career. The diversity of mission types — from VIP charters in the ATR to skydiving drops in the An-2 — rewards versatility, and using a flight logbook or analytics tool to track each session makes the progression tangible rather than abstract.
 
-PSVR2 support also lowers the barrier for immersive flying. Pilots who have experienced MSFS only on a flat screen will find that VR fundamentally changes spatial awareness during approaches and traffic pattern work. Combined with the [flight tracking and performance analytics available on PilotLeague](https://pilotleague.com/en/features/), VR pilots can quantify whether immersion translates to better flying — tighter approaches, smoother landings, more consistent altitude holds.
+PSVR2 support also lowers the barrier for immersive flying. Pilots who have experienced MSFS only on a flat screen will find that VR fundamentally changes spatial awareness during approaches and traffic pattern work. With flight tracking tools and performance analytics, VR pilots can quantify whether immersion translates to better flying — tighter approaches, smoother landings, more consistent altitude holds.
 
 ## Looking Ahead
 
@@ -74,4 +74,4 @@ April's Sim Update 5 and AAU4 represent a turning point in the MSFS 2024 lifecyc
 
 With AAU5 and AAU6 on the roadmap and more than 30 aircraft still awaiting conversion, the coming months will be busy. PSVR2 support opens the door to a new segment of VR pilots. And the Avidyne avionics hint at a future where cockpit variety extends beyond airframes to the glass itself.
 
-Whether you are a career mode enthusiast, a VR pilot exploring foveated rendering, or a systems-oriented aviator eager to learn the Avidyne workflow, SU5 has something worth your time. Track your progress and connect with the community at [pilots.pilotleague.com](https://pilots.pilotleague.com) — because every flight counts when you are measuring improvement.
+Whether you are a career mode enthusiast, a VR pilot exploring foveated rendering, or a systems-oriented aviator eager to learn the Avidyne workflow, SU5 has something worth your time. Track your progress and keep a detailed logbook — because every flight counts when you are measuring improvement.

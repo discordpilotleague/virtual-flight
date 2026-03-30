@@ -43,6 +43,9 @@ Angka 318 berasal dari konversi trigonometri: pada sudut penurunan 3 derajat, se
 
 Dalam praktik nyata, tambahkan sekitar **10 NM** ekstra untuk mengakomodasi fase deselerasi dan transisi dari cruise ke descent. Pesawat tidak langsung mencapai descent rate optimal — dibutuhkan waktu untuk mengurangi thrust dan membangun descent rate yang stabil.
 
+![Kokpit PMDG 737-800 di MSFS 2024 — PFD dan Navigation Display saat penurunan ILS di 10.000 kaki](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1817/738_FS24_7__25562.1766086749.jpg?c=2)
+*Kredit: [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
+
 ## Koreksi Angin: Faktor yang Sering Diabaikan
 
 Angin memiliki pengaruh signifikan terhadap profil penurunan Anda. Mengabaikan koreksi angin adalah salah satu kesalahan paling umum yang dilakukan pilot virtual.
@@ -76,6 +79,9 @@ Meskipun FMS menangani sebagian besar perhitungan, ada beberapa hal penting yang
 - **VNAV Path vs VNAV Speed** — Pastikan Anda memahami mode descent yang aktif. VNAV Path mengikuti profil vertikal yang dihitung, sementara VNAV Speed mempertahankan kecepatan target
 - **Speed constraint** — Banyak STAR memiliki batasan kecepatan pada waypoint tertentu, yang memengaruhi profil descent
 - **Ketinggian 10.000 kaki** — Di bawah FL100, batasan kecepatan 250 knot berlaku (di kebanyakan wilayah), yang memperlambat pesawat dan memengaruhi profil akhir penurunan
+
+![Tampilan kokpit PMDG 737-800 saat final approach di MSFS 2024 dengan landasan terlihat](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1811/738_FS24_1__50887.1766086793.jpg?c=2)
+*Kredit: [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
 
 ## Alat Bantu untuk Menghitung dan Memantau TOD
 

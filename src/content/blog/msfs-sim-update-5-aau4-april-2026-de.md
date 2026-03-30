@@ -16,8 +16,6 @@ Im Zentrum steht die Integration des **Computational Fluid Dynamics (CFD)**-Aero
 
 Dazu kommen **Karrieremissionen**, die direkt in das neue Karrieresystem von MSFS 2024 eingebunden sind. Piloten koennen sich vom Ersten Offizier auf Kurzstrecken bis zum erfahrenen ATR-Kapitaen auf anspruchsvollen Hochgebirgsanfluegen hocharbeiten. Die Integration von **Lido-Navigationskarten** ergaenzt das Cockpit um professionelle Anflugkarten, wie sie auch reale ATR-Betreiber verwenden. Abgerundet wird das Paket durch ein funktionsfaehiges **TCAS-II-System**, das den Verkehr in der Umgebung ueberwacht und bei Konflikten Resolution Advisories ausgibt.
 
-Fuer alle, die ihre ATR-Fluege objektiv bewerten moechten, bietet [PilotLeague](https://pilotleague.com/de/funktionen/) eine praezise Nachfluganalyse. Der Score von 100 Punkten deckt Landung, Sicherheit, SOP-Konformitaet und Treibstoffeffizienz ab — ideal, um die eigenen Fortschritte auf der ATR systematisch zu verfolgen.
-
 ## Antonov An-2: Der sowjetische Doppeldecker wird zum Karriere-Star
 
 Die Antonov An-2 ist eines der charismatischsten Flugzeuge der Luftfahrtgeschichte — ein einmotoriger Doppeldecker mit ueber 18.000 gebauten Exemplaren, der bis heute in entlegenen Regionen der Welt im Einsatz ist. In MSFS 2024 erhaelt sie mit AAU4 eine Aufwertung, die das Flugzeug vom Kuriosum zum vollwertigen Karriere-Erlebnis befoeerdert.
@@ -60,16 +58,10 @@ Neben den fuenf Flugzeugen, die im April nativ konvertiert werden, hat Asobo bes
 
 Diese Zahl unterstreicht das langfristige Engagement von Asobo und Microsoft fuer MSFS 2024. Waehrend die Community nach dem Launch teilweise ungeduldig auf Inhalte wartete, zeigt die wachsende Konvertierungspipeline, dass der Simulator systematisch aufgebaut wird. Die Frage ist nicht mehr ob, sondern wann die verbleibenden Muster folgen.
 
-## Ihre Fluege messen, vergleichen und verbessern
-
-Ein Update wie SU5/AAU4 bringt nicht nur neue Flugzeuge, sondern auch neue Gelegenheiten, die eigenen Faehigkeiten auf die Probe zu stellen. Ob Sie zum ersten Mal mit der ATR einen ILS-Anflug auf Innsbruck versuchen oder mit der An-2 auf einer 400-Meter-Piste in Sibirien landen — die Qualitaet Ihres Fluges wird von vielen Faktoren bestimmt, die sich ohne Analyse kaum erfassen lassen.
-
-[PilotLeague](https://pilotleague.com/de/funktionen/) erfasst waehrend des Fluges 79 SimConnect-Variablen und berechnet daraus einen detaillierten Score. Landungsqualitaet, Sicherheitsgrenzen, Verfahrenstreue und Treibstoffeffizienz werden einzeln bewertet und in einer Nachfluganalyse aufgeschluesselt. Eine Weltrangliste, 47 Erfolge und taegliche Herausforderungen sorgen dafuer, dass jeder Flug zaehlt.
-
 ## Fazit: Ein gewichtiges April-Update
 
 Sim Update 5 und AAU4 markieren einen deutlichen Schritt nach vorn fuer MSFS 2024. Die Kombination aus fuenf nativ konvertierten europaeischen Flugzeugen, einem neuen Avionik-System und erweiterter VR-Unterstuetzung adressiert drei zentrale Wuensche der Community gleichzeitig: mehr Inhalte, mehr Cockpit-Vielfalt und mehr Zugaenglichkeit.
 
 Besonders die Bandbreite der Flugzeuge — vom Turboprop-Arbeitstier ATR ueber den historischen Doppeldecker An-2 bis zum Transatlantik-Pionier Fokker F.VII — zeigt, dass Asobo die Flugsimulation in ihrer ganzen Breite versteht. Nicht nur die neuesten Airliner verdienen Aufmerksamkeit, sondern auch die Flugzeuge, die die Geschichte der Luftfahrt geschrieben haben.
 
-Wenn Sie bereit sind, Ihre Fluege auf das naechste Niveau zu heben, erstellen Sie Ihr kostenloses Pilotenprofil auf [pilots.pilotleague.com](https://pilots.pilotleague.com) — und finden Sie heraus, wie gut Sie wirklich fliegen.
+Wenn Sie bereit sind, die neuen Flugzeuge auszuprobieren, starten Sie den Simulator und entdecken Sie selbst, was SU5 und AAU4 zu bieten haben.

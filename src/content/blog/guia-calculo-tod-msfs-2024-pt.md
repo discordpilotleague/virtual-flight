@@ -45,6 +45,9 @@ Utilizando o mesmo exemplo:
 
 A ligeira diferença deve-se ao arredondamento. Ambas as fórmulas assumem 3 graus, sem vento e velocidade ground constante. Na prática, a regra dos 3 é suficiente para a maioria dos cenários; a divisão por 318 é útil quando se pretende maior rigor em descidas longas.
 
+![Cockpit do PMDG 737-800 no MSFS 2024 — PFD e Navigation Display durante descida ILS a 10 000 pés](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1817/738_FS24_7__25562.1766086749.jpg?c=2)
+*Crédito: [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
+
 ## Ajustes para o vento
 
 O vento é o fator que mais frequentemente invalida um cálculo de TOD perfeito no papel. A lógica é simples:
@@ -81,6 +84,9 @@ Nos airliners do MSFS 2024 — como o PMDG 737, o Fenix A320 ou o aeronave por d
 > 28 × 3 = **84 NM** do ponto de restrição
 
 A esta distância, convém adicionar uma margem de 5–10 NM para desaceleração e configuração. A maioria dos FMS de airliners add-on calcula o TOD automaticamente com base no perfil vertical programado.
+
+![Vista do cockpit do PMDG 737-800 em aproximação final no MSFS 2024 com pista visível](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1811/738_FS24_1__50887.1766086793.jpg?c=2)
+*Crédito: [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
 
 ## Ferramentas disponíveis no MSFS 2024
 

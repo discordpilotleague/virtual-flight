@@ -54,6 +54,9 @@ Si su velocidad sobre el suelo es de 450 nudos:
 
 Este valor le mantendrá en una senda de 3 grados de forma consistente. Recuerde que la velocidad sobre el suelo — no la indicada — es la que determina el perfil real del descenso.
 
+![Cockpit del PMDG 737-800 en MSFS 2024 — PFD y Navigation Display durante descenso ILS a 10 000 pies](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1817/738_FS24_7__25562.1766086749.jpg?c=2)
+*Crédito: [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
+
 ## Ajustes por viento
 
 Las fórmulas anteriores funcionan perfectamente en condiciones de viento nulo, pero la realidad es distinta. El viento afecta significativamente el momento y la pendiente del descenso.
@@ -94,6 +97,9 @@ Ejemplo con un Boeing 787 a FL390 descendiendo a 3000 pies para la aproximación
 - VS recomendada a Mach 0,78 (≈ 460 kts GS): 460 × 5 = **2300 fpm**
 
 En este escenario, un descenso tardío significa llegar al punto de aproximación con exceso de altitud, lo que obligaría a maniobras agresivas o incluso a un circuito de espera.
+
+![Vista del cockpit del PMDG 737-800 en aproximación final en MSFS 2024 con pista visible](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1811/738_FS24_1__50887.1766086793.jpg?c=2)
+*Crédito: [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
 
 ## Herramientas para calcular el TOD
 

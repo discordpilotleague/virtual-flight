@@ -51,6 +51,9 @@ Pour maintenir un plan de 3°, votre taux de descente en pieds par minute dépen
 
 À une vitesse sol de 450 nœuds, cela donne environ **2 385 ft/min**. À 250 nœuds sous FL100, comptez environ **1 325 ft/min**. Gardez ces valeurs en tête : elles vous serviront de repère tout au long de la descente.
 
+![Cockpit du PMDG 737-800 dans MSFS 2024 — PFD et Navigation Display pendant une descente ILS à 10 000 pieds](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1817/738_FS24_7__25562.1766086749.jpg?c=2)
+*Crédit : [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
+
 ## Ajustements indispensables
 
 La formule de base suppose des conditions idéales : pas de vent, pas de contrainte ATC, un appareil propre en configuration lisse. En pratique, plusieurs facteurs imposent des corrections.
@@ -90,6 +93,9 @@ Votre travail consiste à **vérifier** que le TOD du FMS est cohérent avec vot
 ### Appareils sans FMS
 
 Pour les avions qui ne disposent pas de VNAV — qu'il s'agisse d'appareils anciens, de warbirds ou de modules moins complets — le calcul mental est votre seul outil embarqué. C'est là que la formule du « fois trois » prend toute sa valeur. Notez votre TOD estimé avant la descente, surveillez votre DME ou votre GPS, et amorcez la descente au bon moment.
+
+![Vue cockpit du PMDG 737-800 en approche finale dans MSFS 2024 — piste visible à travers le pare-brise](https://cdn11.bigcommerce.com/s-wfhahv80h3/images/stencil/1024x1024/products/212/1811/738_FS24_1__50887.1766086793.jpg?c=2)
+*Crédit : [PMDG Simulations](https://pmdg.com/pmdg-737-800-for-microsoft-flight-simulator-2024/)*
 
 ## Outils pour calculer et surveiller votre TOD
 
