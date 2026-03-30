@@ -3,7 +3,7 @@ title: "SimWorks Studios Kodiak 100: Pesawat Bush Legendaris Kini Hadir di MSFS 
 description: "Ulasan SimWorks Studios Kodiak 100 untuk MSFS 2024: sistem kelistrikan dirombak total, G1000 NXi, varian amfibi, Smart AutoStart, walk-around, dan mode karir. Tersedia EUR 34,99."
 lang: 'id'
 pubDate: 'Apr 02 2026'
-heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.svg'
+heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 
 Quest Kodiak 100 adalah salah satu pesawat turboprop single-engine paling serbaguna di dunia nyata — mampu mendarat di landasan tanah pendek, mengangkut kargo ke daerah terpencil, dan bahkan beroperasi dari permukaan air dengan konfigurasi amfibi. Dalam ekosistem simulasi penerbangan, **SimWorks Studios** (SWS) telah lama dikenal sebagai pengembang yang memberikan perhatian khusus pada pesawat bush dan utilitas. Setelah sukses besar dengan versi MSFS 2020, kini mereka membawa **Kodiak 100** ke **Microsoft Flight Simulator 2024** dengan perombakan sistem yang menyeluruh. Dirilis pada **27 Maret 2026** dengan harga **EUR 34,99** — dan diskon 50% bagi pemilik versi MSFS 2020 — add-on ini menjanjikan pengalaman bush flying yang lebih dalam dan lebih realistis dari sebelumnya.

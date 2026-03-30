@@ -3,7 +3,7 @@ title: "SimWorks Studios Kodiak 100: der ultimative Buschflieger für MSFS 2024"
 description: "Die SimWorks Studios Kodiak 100 ist ab sofort für MSFS 2024 verfügbar: G1000 NXi, ESI500, Amphibienversion inklusive, komplett überarbeitete Systeme und animierte Passagiere für 34,99 €."
 lang: 'de'
 pubDate: 'Apr 02 2026'
-heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.svg'
+heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 
 Die Kodiak 100 von **SimWorks Studios** (SWS) gehört seit ihrer Erstveröffentlichung zu den beliebtesten Turboprop-Add-ons im Microsoft Flight Simulator. Am **27. März 2026** hat das Team nun die lang erwartete Version für **MSFS 2024** veröffentlicht — und es handelt sich nicht um ein simples Update, sondern um eine grundlegende Überarbeitung nahezu aller Flugzeugsysteme. Zum Preis von **34,99 €** erhalten Sie ein komplettes Paket, das die **Radversion und die Amphibienversion** umfasst. Besitzer der MSFS-2020-Version profitieren von einem **50-prozentigen Rabatt**, der die Treue der bestehenden Community belohnt.

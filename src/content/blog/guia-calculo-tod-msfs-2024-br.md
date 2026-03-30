@@ -3,7 +3,7 @@ title: "Guia completo: como calcular o TOD no MSFS 2024"
 description: "Aprenda a calcular o Top of Descent (TOD) no MSFS 2024 com fórmulas práticas, ajustes de vento, cenários GA e airliner, e ferramentas como FMS e apps de tracking."
 lang: 'br'
 pubDate: 'Apr 01 2026'
-heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.svg'
+heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 
 Descer cedo demais desperdiça combustível. Descer tarde demais obriga a uma descida brusca, com excesso de velocidade e um ATC nada satisfeito. O **Top of Descent (TOD)** é o ponto exato em que você inicia a descida para chegar na altitude certa, na velocidade certa, no momento certo. Dominar esse cálculo transforma seus voos no MSFS 2024 — seja num Cessna 172 ou num Boeing 787.

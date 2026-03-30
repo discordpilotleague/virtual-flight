@@ -3,7 +3,7 @@ title: "MSFS 2024 Sim Update 5 & AAU4：ヨーロッパ5機種のネイティブ
 description: "Microsoft Flight Simulator 2024のSim Update 5とAAU4が4月に配信。ATR 42/72、An-2など5機種がネイティブ化、Avidyne IFD 540/550アビオニクス、PSVR2対応、30機以上のアップデートキューを詳解。"
 lang: 'ja'
 pubDate: 'Mar 29 2026'
-heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.svg'
+heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.webp'
 ---
 
 Microsoft Flight Simulator 2024（MSFS 2024）のリリース以来、Asoboスタジオは継続的なアップデートでシミュレーターの完成度を高めてきました。そして2026年4月、**Sim Update 5（SU5）**と**Aircraft & Avionics Update 4（AAU4）**が同時配信されることが発表されました。今回のアップデートは、ヨーロッパ航空史を彩る5機種のネイティブ化、新しいAvidyneアビオニクススイート、そしてPlayStation VR2（PSVR2）への対応という、フライトシミュレーション愛好家にとって見逃せない内容が盛りだくさんです。

@@ -3,7 +3,7 @@ title: "MSFS 2024 Sim Update 5 与 AAU4 四月更新：五架欧洲飞机、Avid
 description: "微软飞行模拟器 2024 四月更新详解：Sim Update 5 带来 ATR 42/72、An-2 等五架原生欧洲飞机，全新 Avidyne IFD 航电系统，以及 PlayStation VR2 支持。"
 lang: 'zh'
 pubDate: 'Mar 29 2026'
-heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.svg'
+heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.webp'
 ---
 
 2026 年四月，Microsoft Flight Simulator 2024 迎来双重更新：**Sim Update 5 (SU5)** 与 **AAU4（Aircraft & Avionics Update 4）** 将同步推送。这是自去年发布以来规模最大的一次内容投放——五架经典欧洲飞机从旧版移植为完全原生版本，一套全新的 Avidyne IFD 航电系统首次登场，以及万众期待的 **PlayStation VR2** 头显支持。与此同时，开发团队确认已有 **30 余款机型** 排入后续原生化队列，持续兑现 MSFS 2024 作为长期平台的承诺。

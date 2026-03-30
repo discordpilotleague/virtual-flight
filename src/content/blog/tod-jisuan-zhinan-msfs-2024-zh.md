@@ -3,7 +3,7 @@ title: '完整指南：如何在 MSFS 2024 中计算下降顶点（TOD）'
 description: '详解 MSFS 2024 下降顶点（TOD）计算方法：公式推导、风修正、通航与客机场景对比、FMS 工具应用，以及常见错误规避。'
 lang: 'zh'
 pubDate: 'Apr 01 2026'
-heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.svg'
+heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 
 在飞行模拟中，精确管理下降阶段是区分普通飞行员与专业飞行员的关键能力之一。无论你驾驶的是 Cessna 172 还是 Boeing 787，过早或过晚开始下降都会导致燃油浪费、乘客不适或者进近不稳定。本指南将系统性地讲解**下降顶点（Top of Descent，简称 TOD）**的计算方法，帮助你在 MSFS 2024 中实现平滑、高效的下降剖面。

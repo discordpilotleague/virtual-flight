@@ -3,7 +3,7 @@ title: "SimWorks Studios Kodiak 100：フルシステムリワークと水陸両
 description: "SimWorks Studios Kodiak 100がMSFS 2024対応で新登場。G1000 NXi、ESI500、電気系統の完全リライト、Smart AutoStart、ウォークアラウンド、キャリアモード、アニメーションパッセンジャー。水陸両用フロートバージョン同梱。"
 lang: 'ja'
 pubDate: 'Apr 02 2026'
-heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.svg'
+heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 
 Quest Kodiak 100は、現実世界においてブッシュオペレーション、カーゴ輸送、人道支援フライトで高い評価を受けるシングルターボプロップ機です。**SimWorks Studios**（SWS）はMSFS 2020時代からこの機体のアドオンを提供してきましたが、2026年3月27日、MSFS 2024向けに大規模なリワークを施した新バージョンをリリースしました。価格は**34.99ユーロ**、MSFS 2020版のオーナーには**50%ディスカウント**が適用されます。特筆すべきは、**水陸両用フロートバージョン（アンフィビアン）**が追加料金なしで同梱されている点です。

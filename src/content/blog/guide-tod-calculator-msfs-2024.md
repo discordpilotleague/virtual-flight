@@ -3,7 +3,7 @@ title: 'Complete Guide: How to Calculate Your Top of Descent (TOD) in MSFS 2024'
 description: 'Learn how to calculate your Top of Descent in Microsoft Flight Simulator 2024. Master the TOD formula, apply it to GA and airliner flights, and use tools to nail every descent.'
 lang: 'en'
 pubDate: 'Apr 01 2026'
-heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.svg'
+heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 
 You are fifteen minutes from your destination, cruising at FL350, and a question hits: when exactly should you start descending? Push the nose over too early and you waste fuel dragging through thick, low-altitude air. Start too late and you arrive high, fast, and scrambling for speed brakes while ATC gives you a disappointed "expedite descent." Neither scenario is what a competent pilot aims for. The answer to both problems is one concept: **Top of Descent**, or TOD.

@@ -3,7 +3,7 @@ title: "Guide complet : calculer son TOD sur MSFS 2024"
 description: "Apprenez à calculer votre Top of Descent (TOD) dans MSFS 2024 : formule de base, ajustements vent et vitesse, scénarios GA et airliners, outils et erreurs à éviter."
 lang: 'fr'
 pubDate: 'Apr 01 2026'
-heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.svg'
+heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 
 Vous êtes en croisière à FL350, le paysage défile sous les ailes de votre A320, et une question revient : à quel moment amorcer la descente pour rejoindre le terrain sans se retrouver trop haut, trop vite, ou les deux à la fois ? Ce moment précis porte un nom : le **Top of Descent** (TOD). Maîtriser son calcul est l'une des compétences qui séparent un vol approximatif d'un vol réaliste dans MSFS 2024.

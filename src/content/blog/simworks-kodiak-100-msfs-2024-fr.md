@@ -3,7 +3,7 @@ title: "SimWorks Studios Kodiak 100 : le bush plane de référence arrive sur MS
 description: "Le Kodiak 100 de SimWorks Studios débarque sur MSFS 2024 avec version amphibie incluse, G1000 NXi complet, systèmes réécrits et walk-around natif. Test complet."
 lang: 'fr'
 pubDate: 'Apr 02 2026'
-heroImage: ../../assets/hero-simworks-kodiak-100-msfs-2024.svg
+heroImage: ../../assets/hero-simworks-kodiak-100-msfs-2024.webp
 ---
 
 Le Kodiak 100 de **SimWorks Studios** (SWS) s'est imposé comme l'un des add-ons les plus populaires de MSFS 2020 — un avion utilitaire polyvalent, capable de se poser sur des pistes impossibles et de transporter du fret comme des passagers dans les régions les plus reculées du globe. Le 27 mars 2026, le studio a publié la version entièrement retravaillée pour **MSFS 2024**, et le résultat va bien au-delà d'un simple portage. Affiché à **34,99 EUR** (avec une réduction de 50 % pour les propriétaires de la version MSFS 2020), ce nouveau Kodiak 100 intègre la **version amphibie** directement dans le pack de base — plus besoin d'acheter un DLC séparé. C'est un signal fort : SWS mise sur la générosité pour accompagner la transition vers le nouveau simulateur.

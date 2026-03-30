@@ -3,7 +3,7 @@ title: 'SimWorks Studios Kodiak 100: The Bush Plane Benchmark Returns to MSFS 20
 description: 'SimWorks Studios releases the Kodiak 100 for MSFS 2024 with rewritten systems, amphibian variant included, native walk-around, and G1000 NXi avionics.'
 lang: 'en'
 pubDate: 'Apr 02 2026'
-heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.svg'
+heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 
 Few add-on aircraft have earned the kind of loyalty that the SimWorks Studios Kodiak 100 commands. For years it has been one of the most recommended turboprop add-ons in the MSFS ecosystem -- a genuinely versatile bush plane that performs as convincingly on a gravel strip in Alaska as it does flying a scheduled island-hopper in the Maldives. On March 27, 2026, SimWorks Studios released the Kodiak 100 for Microsoft Flight Simulator 2024, and this is not a port. It is a ground-up rework that takes advantage of every major platform feature MSFS 2024 offers, from the native walk-around system to the Career Mode integration. The amphibian variant, previously sold separately, is now included in the base package.

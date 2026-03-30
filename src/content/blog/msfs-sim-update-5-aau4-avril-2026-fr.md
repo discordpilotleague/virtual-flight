@@ -3,7 +3,7 @@ title: "MSFS 2024 Sim Update 5 & AAU4 : cinq avions européens, Avidyne et PSVR2
 description: "Le Sim Update 5 de MSFS 2024 arrive en avril avec l'AAU4, cinq avions européens convertis en natif, les avioniques Avidyne IFD et le support PSVR2."
 lang: 'fr'
 pubDate: 'Mar 29 2026'
-heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.svg'
+heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.webp'
 ---
 
 Le mois d'avril 2026 s'annonce comme l'un des plus chargés depuis le lancement de Microsoft Flight Simulator 2024. Asobo Studio a confirmé la sortie simultanée du **Sim Update 5** et de l'**Aircraft & Avionics Update 4** (AAU4), un double patch qui touche aussi bien le cœur du simulateur que le contenu embarqué. Au programme : cinq avions européens convertis en avions natifs avec intégration carrière, de nouvelles avioniques Avidyne pour l'aviation générale, et l'arrivée tant attendue du support **PlayStation VR2** sur PC. Voici le détail de ce qui vous attend.

@@ -3,7 +3,7 @@ title: "SimWorks Studios Kodiak 100：丛林飞行传奇全面重制登陆 MSFS 
 description: "SimWorks Studios Kodiak 100 现已登陆 MSFS 2024，包含水上飞机版本、G1000 NXi 航电、全新电气系统和职业模式，售价 34.99 欧元，MSFS 2020 老用户享半价优惠。"
 lang: 'zh'
 pubDate: 'Apr 02 2026'
-heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.svg'
+heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 
 Quest Kodiak 100 在现实世界中是一款传奇的单发涡桨飞机，以其超强的短距起降能力和丛林跑道适应性闻名遐迩。SimWorks Studios（以下简称 SWS）长期以来在 MSFS 2020 平台上将这款飞机打造成了最受欢迎的丛林 add-on 之一。2026 年 3 月 27 日，SWS 正式发布了面向 **MSFS 2024** 的全面重制版 Kodiak 100——这不是简单的移植，而是一次从核心系统到视觉呈现的深度重构。售价 **34.99 欧元**，已拥有 MSFS 2020 版本的用户可享受 **50% 折扣**。更值得一提的是，**水上飞机（Amphibian）版本**首次作为标准内容随附提供，无需额外购买。

@@ -3,7 +3,7 @@ title: "完全ガイド：MSFS 2024でのTOD（降下開始点）計算方法"
 description: "MSFS 2024でのTOD（Top of Descent）計算方法を徹底解説。基本公式、風補正、GA機とエアライナーの違い、FMSや外部ツールの活用法、よくあるミスまで網羅したエバーグリーンガイド。"
 lang: 'ja'
 pubDate: 'Apr 01 2026'
-heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.svg'
+heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 
 降下を開始するタイミングが早すぎると燃料を無駄にし、遅すぎると急降下を余儀なくされます。どちらのシナリオも、バーチャルパイロットとしてのスコアやリアリズムに悪影響を与えます。**TOD（Top of Descent＝降下開始点）**を正確に計算する能力は、初心者と熟練パイロットを分ける重要なスキルの一つです。このガイドでは、MSFS 2024で使える基本公式から高度なテクニックまで、TODに関するすべてを解説します。

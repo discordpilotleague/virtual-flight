@@ -3,7 +3,7 @@ title: "Sim Update 5 y AAU4 en abril: cinco aviones europeos nativos, aviónica 
 description: "Todo sobre la Sim Update 5 y AAU4 de MSFS 2024 en abril 2026: ATR 42/72-600, Antonov An-2, Fokker F.VII, aviónica Avidyne IFD, soporte PSVR2 y más de 30 aviones de pago en cola."
 lang: 'es'
 pubDate: 'Mar 29 2026'
-heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.svg'
+heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.webp'
 ---
 
 Abril de 2026 se perfila como un mes decisivo para Microsoft Flight Simulator 2024. La **Sim Update 5 (SU5)**, acompañada de la actualización gratuita **Aircraft & Avionics Update 4 (AAU4)**, promete una de las entregas de contenido más ambiciosas desde el lanzamiento del simulador. Cinco aviones europeos históricos reciben por fin su conversión a nativo, las cabinas de aviación general estrenan aviónica Avidyne de última generación, y los pilotos que utilizan PlayStation VR2 podrán sumergirse en más de cien aeronaves compatibles. Todo ello sin coste adicional para los poseedores del simulador.

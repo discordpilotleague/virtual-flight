@@ -3,7 +3,7 @@ title: "SimWorks Studios Kodiak 100: el turbohélice bush-plane de referencia ll
 description: "Análisis del SimWorks Studios Kodiak 100 para MSFS 2024: sistemas eléctricos reescritos, G1000 NXi, versión anfibio incluida, Smart AutoStart y modo carrera."
 lang: 'es'
 pubDate: 'Apr 02 2026'
-heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.svg'
+heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 
 El **Kodiak 100** de SimWorks Studios se ha consolidado durante años como una de las aeronaves más queridas de la comunidad bush-flying en MSFS 2020. El 27 de marzo de 2026, el estudio ha lanzado oficialmente su versión para **MSFS 2024**, y no se trata de un simple port: es una reconstrucción profunda de los sistemas internos, acompañada de novedades que sitúan a este turbohélice monomotor en un nuevo nivel de fidelidad. Disponible por **34,99 EUR** — con un descuento del 50 % para los propietarios de la versión MSFS 2020 —, el paquete incluye además la **variante anfibio** sin coste adicional, una decisión generosa que amplía considerablemente el abanico de operaciones posibles.

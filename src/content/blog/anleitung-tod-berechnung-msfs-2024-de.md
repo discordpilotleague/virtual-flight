@@ -3,7 +3,7 @@ title: "Kompletter Leitfaden: TOD-Berechnung in MSFS 2024"
 description: "Lernen Sie, den Top of Descent (TOD) in MSFS 2024 präzise zu berechnen — mit Formeln, Windkorrekturen, GA- und Airliner-Szenarien sowie Echtzeit-Tools."
 lang: 'de'
 pubDate: 'Apr 01 2026'
-heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.svg'
+heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 
 Ein sauberer Sinkflug gehört zu den anspruchsvollsten Elementen einer realistischen Flugsimulation. Wer den **Top of Descent (TOD)** korrekt berechnet, vermeidet hektische Korrekturen im Endanflug, spart Treibstoff und fliegt wie ein Profi. Dieser Leitfaden erklärt Ihnen Schritt für Schritt, wie Sie den TOD in Microsoft Flight Simulator 2024 berechnen — ob in einer Cessna 172 oder einem Airbus A320.

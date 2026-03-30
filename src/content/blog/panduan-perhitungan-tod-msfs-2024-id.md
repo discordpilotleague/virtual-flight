@@ -3,7 +3,7 @@ title: "Panduan Lengkap: Cara Menghitung TOD di MSFS 2024"
 description: "Pelajari cara menghitung Top of Descent (TOD) di MSFS 2024 dengan rumus sederhana, koreksi angin, skenario GA dan airliner, serta alat bantu FMS dan aplikasi pihak ketiga."
 lang: 'id'
 pubDate: 'Apr 01 2026'
-heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.svg'
+heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 
 Salah satu keterampilan paling krusial dalam simulasi penerbangan adalah mengetahui kapan harus memulai penurunan. Titik ini dikenal sebagai **Top of Descent (TOD)** — posisi di mana pesawat meninggalkan ketinggian jelajah dan memulai profil penurunan menuju bandara tujuan. Menghitung TOD dengan tepat bukan hanya soal kenyamanan penumpang virtual; ini adalah fondasi dari penerbangan yang efisien, hemat bahan bakar, dan sesuai prosedur operasi standar (SOP). Baik Anda menerbangkan Cessna 172 maupun Boeing 787, memahami TOD akan meningkatkan kualitas setiap penerbangan Anda di MSFS 2024.

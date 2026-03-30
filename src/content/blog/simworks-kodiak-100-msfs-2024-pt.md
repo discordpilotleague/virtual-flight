@@ -3,7 +3,7 @@ title: "SimWorks Studios Kodiak 100: o bush plane de referência renasce no MSFS
 description: "O SimWorks Studios Kodiak 100 chega ao MSFS 2024 com anfíbio incluído, G1000 NXi, sistema eléctrico reescrito, passageiros animados e modo carreira. EUR 34,99."
 lang: 'pt'
 pubDate: 'Apr 02 2026'
-heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.svg'
+heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 
 O **Quest Kodiak 100**, da SimWorks Studios (SWS), foi durante anos um dos add-ons mais apreciados do MSFS 2020 — a escolha natural para quem queria voar para pistas curtas, cascalho e relva sem perder o rigor de sistemas. No dia **27 de março de 2026**, a equipa lançou finalmente a versão totalmente reescrita para o **Microsoft Flight Simulator 2024**, disponível no marketplace in-sim e nas lojas parceiras por **EUR 34,99**. Os proprietários da versão MSFS 2020 beneficiam de um desconto de **50 %**, reconhecendo a fidelidade da comunidade que acompanhou o Kodiak desde o início.

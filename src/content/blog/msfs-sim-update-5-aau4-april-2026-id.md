@@ -3,7 +3,7 @@ title: "MSFS 2024 Sim Update 5 dan AAU4 di Bulan April: Pesawat Eropa Legendaris
 description: "Sim Update 5 dan AAU4 hadir di bulan April untuk MSFS 2024 — lima pesawat Eropa dikonversi ke native, avionik Avidyne baru, dukungan PSVR2, dan 30+ pesawat dalam antrean konversi."
 lang: 'id'
 pubDate: 'Mar 29 2026'
-heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.svg'
+heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.webp'
 ---
 
 Microsoft Flight Simulator 2024 memasuki fase krusial dalam siklus pembaruannya. **Sim Update 5 (SU5)** dan **Aircraft & Avionics Update 4 (AAU4)** dijadwalkan rilis pada bulan April 2026, membawa gelombang besar konversi pesawat Eropa ke format native, sistem avionik Avidyne yang telah lama ditunggu, serta dukungan resmi untuk headset PlayStation VR2 di PC. Bagi komunitas simulasi penerbangan, ini adalah salah satu pembaruan paling substansial sejak peluncuran simulator pada November 2024. Lima pesawat ikonik mendapatkan perlakuan konversi penuh, ratusan perbaikan diterapkan, dan fondasi avionik semakin diperkuat untuk mendukung armada yang terus berkembang.
