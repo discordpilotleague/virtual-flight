@@ -6,7 +6,7 @@ pubDate: 'Apr 01 2026'
 heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 
-Descer cedo demais desperdiça combustível. Descer tarde demais obriga a uma descida brusca, com excesso de velocidade e um ATC nada satisfeito. O **Top of Descent (TOD)** é o ponto exato em que você inicia a descida para chegar na altitude certa, na velocidade certa, no momento certo. Dominar esse cálculo transforma seus voos no MSFS 2024 — seja num Cessna 172 ou num Boeing 787.
+Descer cedo demais desperdiça combustível. Descer tarde demais obriga a uma descida brusca, com excesso de velocidade e um ATC nada satisfeito. O **Top of Descent (TOD)** é o ponto exato em que você inicia a descida para chegar na altitude certa, na velocidade certa, no momento certo. Dominar esse cálculo transforma seus voos no [MSFS 2024](https://www.flightsimulator.com/) — seja num Cessna 172 ou num Boeing 787.
 
 Este guia cobre tudo o que você precisa saber: a definição do TOD, as fórmulas de cálculo, os ajustes para vento, as diferenças entre aviação geral e airliners, as ferramentas disponíveis e os erros mais comuns que todo piloto virtual comete pelo menos uma vez.
 
@@ -89,7 +89,7 @@ Se você está a 6.500 pés e precisa chegar a 1.500 pés para o padrão de trá
 
 ### Airliners
 
-Em aeronaves de linha como o PMDG 737, Fenix A320 ou o 787 do MSFS 2024, o cálculo é mais complexo porque envolve:
+Em aeronaves de linha como o [PMDG](https://pmdg.com/) 737, Fenix A320 ou o 787 do MSFS 2024, o cálculo é mais complexo porque envolve:
 
 - **Restrições de altitude** nas STARs (ex: "cruzar ABCD a FL180 ou abaixo")
 - **Restrições de velocidade** (tipicamente 250 kts abaixo de FL100)

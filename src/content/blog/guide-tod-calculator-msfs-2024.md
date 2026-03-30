@@ -8,13 +8,13 @@ heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 
 You are fifteen minutes from your destination, cruising at FL350, and a question hits: when exactly should you start descending? Push the nose over too early and you waste fuel dragging through thick, low-altitude air. Start too late and you arrive high, fast, and scrambling for speed brakes while ATC gives you a disappointed "expedite descent." Neither scenario is what a competent pilot aims for. The answer to both problems is one concept: **Top of Descent**, or TOD.
 
-This guide teaches you the math behind TOD, shows you how to apply it in every aircraft category in MSFS 2024, and introduces tools that do the heavy lifting for you in real time.
+This guide teaches you the math behind TOD, shows you how to apply it in every aircraft category in [MSFS 2024](https://www.flightsimulator.com/), and introduces tools that do the heavy lifting for you in real time.
 
 ## What Is Top of Descent?
 
 Top of Descent is the exact point in your cruise where you begin descending to reach your target altitude at the correct distance from the runway. Think of it as a waypoint in the sky. If you were drawing a straight line from your cruising altitude down to the airport at a standard 3-degree descent angle, TOD is where that line begins.
 
-Why does it matter? Because a well-planned descent is the foundation of a stabilized approach. Airlines measure this obsessively. A stabilized approach means you arrive at the final approach fix at the right altitude, the right speed, and the right configuration. Everything upstream of that moment depends on starting your descent at the right place. In MSFS 2024, whether you are flying a Cessna 172 on a VFR pattern or managing a PMDG 777 on a transatlantic arrival, understanding TOD separates rough flying from polished piloting.
+Why does it matter? Because a well-planned descent is the foundation of a stabilized approach. Airlines measure this obsessively. A stabilized approach means you arrive at the final approach fix at the right altitude, the right speed, and the right configuration. Everything upstream of that moment depends on starting your descent at the right place. In MSFS 2024, whether you are flying a Cessna 172 on a VFR pattern or managing a [PMDG](https://pmdg.com/) 777 on a transatlantic arrival, understanding TOD separates rough flying from polished piloting.
 
 ## The Basic TOD Formula
 

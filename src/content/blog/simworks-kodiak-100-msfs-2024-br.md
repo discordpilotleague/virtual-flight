@@ -6,7 +6,7 @@ pubDate: 'Apr 02 2026'
 heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 
-O Kodiak 100 da SimWorks Studios é uma daquelas aeronaves que define uma categoria no simulador. Desde seu lançamento original no MSFS 2020, ele se tornou a referência para quem gosta de bush flying — pousos em pistas curtas, operações em terrenos remotos e voos visuais onde a técnica de pilotagem importa mais do que o gerenciamento de FMS. Em **27 de março de 2026**, a SimWorks Studios lançou a versão nativa para o **MSFS 2024**, trazendo uma reformulação completa dos sistemas, a versão anfíbia incluída no pacote e uma série de funcionalidades novas que elevam o nível do add-on. O preço é de **EUR 34,99**, com **desconto de 50% para quem já possui a versão MSFS 2020** — uma política de atualização justa que valoriza os clientes antigos.
+O Kodiak 100 da [SimWorks Studios](https://simworksstudios.com/) é uma daquelas aeronaves que define uma categoria no simulador. Desde seu lançamento original no MSFS 2020, ele se tornou a referência para quem gosta de bush flying — pousos em pistas curtas, operações em terrenos remotos e voos visuais onde a técnica de pilotagem importa mais do que o gerenciamento de FMS. Em **27 de março de 2026**, a SimWorks Studios [lançou a versão nativa](https://fselite.net/content/simworks-kodiak-100-for-msfs-2024-released-now/) para o **MSFS 2024**, trazendo uma reformulação completa dos sistemas, a versão anfíbia incluída no pacote e uma série de funcionalidades novas que elevam o nível do add-on. O preço é de **EUR 34,99**, com **desconto de 50% para quem já possui a versão MSFS 2020** — uma política de atualização justa que valoriza os clientes antigos.
 
 ## Cockpit e aviônicos: G1000 NXi e ESI500
 

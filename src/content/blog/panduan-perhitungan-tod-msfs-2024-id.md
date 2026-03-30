@@ -6,7 +6,7 @@ pubDate: 'Apr 01 2026'
 heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 
-Salah satu keterampilan paling krusial dalam simulasi penerbangan adalah mengetahui kapan harus memulai penurunan. Titik ini dikenal sebagai **Top of Descent (TOD)** — posisi di mana pesawat meninggalkan ketinggian jelajah dan memulai profil penurunan menuju bandara tujuan. Menghitung TOD dengan tepat bukan hanya soal kenyamanan penumpang virtual; ini adalah fondasi dari penerbangan yang efisien, hemat bahan bakar, dan sesuai prosedur operasi standar (SOP). Baik Anda menerbangkan Cessna 172 maupun Boeing 787, memahami TOD akan meningkatkan kualitas setiap penerbangan Anda di MSFS 2024.
+Salah satu keterampilan paling krusial dalam simulasi penerbangan adalah mengetahui kapan harus memulai penurunan. Titik ini dikenal sebagai **Top of Descent (TOD)** — posisi di mana pesawat meninggalkan ketinggian jelajah dan memulai profil penurunan menuju bandara tujuan. Menghitung TOD dengan tepat bukan hanya soal kenyamanan penumpang virtual; ini adalah fondasi dari penerbangan yang efisien, hemat bahan bakar, dan sesuai prosedur operasi standar (SOP). Baik Anda menerbangkan Cessna 172 maupun Boeing 787, memahami TOD akan meningkatkan kualitas setiap penerbangan Anda di [MSFS 2024](https://www.flightsimulator.com/).
 
 ## Apa Itu Top of Descent (TOD)?
 
@@ -72,7 +72,7 @@ Tips untuk GA di MSFS 2024: mulai penurunan sedikit lebih awal dan gunakan desce
 
 ### Pesawat Airliner
 
-Pada pesawat seperti PMDG 737, Fenix A320, atau Leonardo MD-80, FMS menghitung TOD secara otomatis berdasarkan STAR (Standard Terminal Arrival Route), ketinggian constraint pada waypoint, berat pesawat, angin, dan banyak variabel lainnya. Simbol TOD biasanya muncul sebagai panah putih atau lingkaran hijau pada ND.
+Pada pesawat seperti [PMDG](https://pmdg.com/) 737, Fenix A320, atau Leonardo MD-80, FMS menghitung TOD secara otomatis berdasarkan STAR (Standard Terminal Arrival Route), ketinggian constraint pada waypoint, berat pesawat, angin, dan banyak variabel lainnya. Simbol TOD biasanya muncul sebagai panah putih atau lingkaran hijau pada ND.
 
 Meskipun FMS menangani sebagian besar perhitungan, ada beberapa hal penting yang perlu Anda perhatikan:
 

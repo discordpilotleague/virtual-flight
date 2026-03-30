@@ -6,13 +6,13 @@ pubDate: 'Mar 29 2026'
 heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.webp'
 ---
 
-Microsoft Flight Simulator 2024 is about to receive its most substantial update yet. Sim Update 5, bundled with Aircraft and Avionics Update 4, is targeted for April and delivers five European-heritage aircraft converted to native MSFS 2024 standard, a brand-new Avidyne avionics suite, and long-awaited PlayStation VR2 support. For virtual pilots who have been tracking the transition from legacy MSFS 2020 aircraft, this is the milestone where Asobo's conversion pipeline shifts from promise to proof.
+Microsoft Flight Simulator 2024 is about to receive its most substantial update yet. Sim Update 5, bundled with Aircraft and Avionics Update 4, is [targeted for April](https://www.flightsimulator.com/march-26th-2026-msfs-weekly-briefing/) and delivers five European-heritage aircraft converted to native MSFS 2024 standard, a brand-new Avidyne avionics suite, and long-awaited PlayStation VR2 support. For virtual pilots who have been tracking the transition from legacy MSFS 2020 aircraft, this is the milestone where Asobo's conversion pipeline shifts from promise to proof.
 
 Here is a complete breakdown of what is coming and why it matters.
 
 ## Five Aircraft Converted to Native
 
-The headline feature of AAU4 is the conversion of five aircraft — all with deep European aviation roots — from legacy MSFS 2020 compatibility mode to fully native MSFS 2024 status. Native conversion means each aircraft benefits from the new CFD-based aerodynamic model, full career mode integration, updated systems, and modern rendering. These are not cosmetic refreshes; they are ground-up reworks.
+The [headline feature of AAU4](https://msfsaddons.com/2026/03/21/msfs-sim-update-5-will-bring-aau4-five-aircraft-updates-and-new-avionics/) is the conversion of five aircraft — all with deep European aviation roots — from legacy MSFS 2020 compatibility mode to fully native MSFS 2024 status. Native conversion means each aircraft benefits from the new CFD-based aerodynamic model, full career mode integration, updated systems, and modern rendering. These are not cosmetic refreshes; they are ground-up reworks.
 
 ### ATR 42/72-600
 

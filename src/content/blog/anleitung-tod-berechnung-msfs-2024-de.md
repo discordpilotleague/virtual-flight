@@ -6,7 +6,7 @@ pubDate: 'Apr 01 2026'
 heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 
-Ein sauberer Sinkflug gehört zu den anspruchsvollsten Elementen einer realistischen Flugsimulation. Wer den **Top of Descent (TOD)** korrekt berechnet, vermeidet hektische Korrekturen im Endanflug, spart Treibstoff und fliegt wie ein Profi. Dieser Leitfaden erklärt Ihnen Schritt für Schritt, wie Sie den TOD in Microsoft Flight Simulator 2024 berechnen — ob in einer Cessna 172 oder einem Airbus A320.
+Ein sauberer Sinkflug gehört zu den anspruchsvollsten Elementen einer realistischen Flugsimulation. Wer den **Top of Descent (TOD)** korrekt berechnet, vermeidet hektische Korrekturen im Endanflug, spart Treibstoff und fliegt wie ein Profi. Dieser Leitfaden erklärt Ihnen Schritt für Schritt, wie Sie den TOD in [Microsoft Flight Simulator 2024](https://www.flightsimulator.com/) berechnen — ob in einer Cessna 172 oder einem Airbus A320.
 
 ## Was ist der Top of Descent?
 
@@ -103,7 +103,7 @@ Verkehrsflugzeuge in MSFS 2024 profitieren besonders von einer präzisen TOD-Ber
 
 ### Das integrierte FMS
 
-Viele Payware-Add-ons wie der Fenix A320, die PMDG 737 oder der iniBuilds A310 berechnen den TOD automatisch im Flight Management System (FMS). Der TOD erscheint als grüner Bogen auf dem ND (Navigation Display) und wird basierend auf der eingegebenen Route, der Zielflughöhe und den aktuellen Winddaten berechnet.
+Viele Payware-Add-ons wie der Fenix A320, die [PMDG](https://pmdg.com/) 737 oder der iniBuilds A310 berechnen den TOD automatisch im Flight Management System (FMS). Der TOD erscheint als grüner Bogen auf dem ND (Navigation Display) und wird basierend auf der eingegebenen Route, der Zielflughöhe und den aktuellen Winddaten berechnet.
 
 Verlassen Sie sich jedoch nicht blind auf das FMS. Überprüfen Sie die berechnete Distanz stets mit der Dreierregel — insbesondere bei fehlerhaften oder unvollständigen Wetterdaten kann die FMS-Berechnung abweichen.
 

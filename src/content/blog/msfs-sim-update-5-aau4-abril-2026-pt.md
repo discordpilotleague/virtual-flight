@@ -6,7 +6,7 @@ pubDate: 'Mar 29 2026'
 heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.webp'
 ---
 
-Abril promete ser um mês decisivo para o Microsoft Flight Simulator 2024. A Asobo Studio confirmou a chegada simultânea do **Sim Update 5 (SU5)** e do **Aircraft & Avionics Update 4 (AAU4)**, uma actualização dupla que traz cinco aeronaves europeias convertidas para o motor nativo, um novo pacote de aviónicos Avidyne e, pela primeira vez, suporte oficial para o headset PlayStation VR2 em PC. Com mais de trinta aeronaves já na fila de espera para futuras conversões, o ritmo de modernização do catálogo do simulador de voo não mostra sinais de abrandamento.
+Abril promete ser um mês decisivo para o Microsoft Flight Simulator 2024. A Asobo Studio [confirmou a chegada simultânea](https://www.flightsimulator.com/march-26th-2026-msfs-weekly-briefing/) do **Sim Update 5 (SU5)** e do **Aircraft & Avionics Update 4 (AAU4)**, uma actualização dupla que traz cinco aeronaves europeias convertidas para o motor nativo, um novo pacote de aviónicos Avidyne e, pela primeira vez, suporte oficial para o headset PlayStation VR2 em PC. Com mais de trinta aeronaves já na fila de espera para futuras conversões, o ritmo de modernização do catálogo do simulador de voo não mostra sinais de abrandamento.
 
 ## ATR 42/72: a turbohélice regional torna-se nativa
 
@@ -35,7 +35,7 @@ O **Savoia-Marchetti S.55**, o elegante hidroavião italiano de duplo casco que 
 
 ## Avidyne IFD 540/550: aviónicos modernos para a aviação geral
 
-Do lado dos aviónicos, o AAU4 introduz os **Avidyne IFD 540 e IFD 550**, dois GPS/NAV/COM de nova geração que representam uma alternativa real aos omnipresentes Garmin no mundo da simulação de voo. A Avidyne é um fabricante americano cujos equipamentos equipam milhares de aeronaves de aviação geral em todo o mundo, mas que até agora não tinha representação adequada nos simuladores.
+Do lado dos aviónicos, o AAU4 [introduz os **Avidyne IFD 540 e IFD 550**](https://msfsaddons.com/2026/03/21/msfs-sim-update-5-will-bring-aau4-five-aircraft-updates-and-new-avionics/), dois GPS/NAV/COM de nova geração que representam uma alternativa real aos omnipresentes Garmin no mundo da simulação de voo. A Avidyne é um fabricante americano cujos equipamentos equipam milhares de aeronaves de aviação geral em todo o mundo, mas que até agora não tinha representação adequada nos simuladores.
 
 O IFD 540 oferece um ecrã táctil de 5,7 polegadas com mapas em movimento, gestão de planos de voo, aproximações por instrumentos e integração com sistemas de piloto automático. O IFD 550, versão mais avançada, adiciona funcionalidades como sobreposição de radar meteorológico, perfis de terreno e conectividade com outros equipamentos de bordo.
 

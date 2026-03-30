@@ -6,7 +6,7 @@ pubDate: 'Mar 29 2026'
 heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.webp'
 ---
 
-Microsoft hat den Zeitplan fuer das naechste grosse Doppelpaket von MSFS 2024 bestaetigt: **Sim Update 5 (SU5)** und das vierte Aircraft & Avionics Update **(AAU4)** erscheinen gemeinsam im April 2026. Der Umfang ist beachtlich — fuenf europaeische Flugzeuge werden nativ in den neuen Simulator konvertiert, ein komplett neues Avionik-Paket erhaelt Einzug ins Cockpit, und die VR-Piloten unter Ihnen duerfen sich ueber offizielle PlayStation-VR2-Unterstuetzung freuen. Dazu kommen ueber 30 weitere Flugzeuge in der aktiven Warteschlange. Dieser Artikel fasst zusammen, was Sie im April erwartet und warum dieses Update einen Wendepunkt fuer die Plattform darstellen koennte.
+Microsoft hat den Zeitplan fuer das naechste grosse Doppelpaket von MSFS 2024 [bestaetigt](https://www.flightsimulator.com/march-26th-2026-msfs-weekly-briefing/): **Sim Update 5 (SU5)** und das vierte Aircraft & Avionics Update **(AAU4)** erscheinen gemeinsam im April 2026. Der Umfang ist beachtlich — fuenf europaeische Flugzeuge werden nativ in den neuen Simulator konvertiert, ein komplett neues Avionik-Paket erhaelt Einzug ins Cockpit, und die VR-Piloten unter Ihnen duerfen sich ueber offizielle PlayStation-VR2-Unterstuetzung freuen. Dazu kommen ueber 30 weitere Flugzeuge in der aktiven Warteschlange. Dieser Artikel fasst zusammen, was Sie im April erwartet und warum dieses Update einen Wendepunkt fuer die Plattform darstellen koennte.
 
 ## ATR 42/72: Endlich auf dem Niveau, das Turboprop-Fans verdienen
 
@@ -42,7 +42,7 @@ Die fuenfte europaeische Ergaenzung ist die Savoia-Marchetti S.55, ein italienis
 
 ## Avidyne IFD 540/550: Neues Avionik-Paket fuer die General Aviation
 
-Neben den Flugzeugen bringt AAU4 ein komplett neues Avionik-System in den Simulator. Die **Avidyne IFD 540 und IFD 550** sind in der realen Allgemeinen Luftfahrt weit verbreitet und stellen eine Alternative zu den omnipraesenten Garmin-Geraeten dar. Die Integration in MSFS 2024 umfasst GPS-Navigation mit LPV-Anflugfaehigkeit, Moving Map, Flugplanverwaltung und Schnittstellen zu Autopilot-Systemen.
+Neben den Flugzeugen [bringt AAU4 ein komplett neues Avionik-System](https://msfsaddons.com/2026/03/21/msfs-sim-update-5-will-bring-aau4-five-aircraft-updates-and-new-avionics/) in den Simulator. Die **Avidyne IFD 540 und IFD 550** sind in der realen Allgemeinen Luftfahrt weit verbreitet und stellen eine Alternative zu den omnipraesenten Garmin-Geraeten dar. Die Integration in MSFS 2024 umfasst GPS-Navigation mit LPV-Anflugfaehigkeit, Moving Map, Flugplanverwaltung und Schnittstellen zu Autopilot-Systemen.
 
 Fuer den Simulator bedeutet dies vor allem Vielfalt im Cockpit. Bisher waren nahezu alle GA-Flugzeuge mit Garmin G1000, G3X oder den klassischen GNS-430/530-Einheiten ausgestattet. Die Avidyne-Integration eroeffnet den Entwicklern von Drittanbieter-Flugzeugen neue Moeglichkeiten und gibt den Piloten die Wahl zwischen verschiedenen Avionik-Philosophien — aehnlich wie in der realen Fliegerei, wo Flugschulen und Privatpiloten oft bewusst zwischen Garmin und Avidyne waehlen.
 

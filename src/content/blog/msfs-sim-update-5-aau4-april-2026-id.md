@@ -6,7 +6,7 @@ pubDate: 'Mar 29 2026'
 heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.webp'
 ---
 
-Microsoft Flight Simulator 2024 memasuki fase krusial dalam siklus pembaruannya. **Sim Update 5 (SU5)** dan **Aircraft & Avionics Update 4 (AAU4)** dijadwalkan rilis pada bulan April 2026, membawa gelombang besar konversi pesawat Eropa ke format native, sistem avionik Avidyne yang telah lama ditunggu, serta dukungan resmi untuk headset PlayStation VR2 di PC. Bagi komunitas simulasi penerbangan, ini adalah salah satu pembaruan paling substansial sejak peluncuran simulator pada November 2024. Lima pesawat ikonik mendapatkan perlakuan konversi penuh, ratusan perbaikan diterapkan, dan fondasi avionik semakin diperkuat untuk mendukung armada yang terus berkembang.
+Microsoft Flight Simulator 2024 memasuki fase krusial dalam siklus pembaruannya. **Sim Update 5 (SU5)** dan **Aircraft & Avionics Update 4 (AAU4)** [dijadwalkan rilis pada bulan April 2026](https://www.flightsimulator.com/march-26th-2026-msfs-weekly-briefing/), membawa gelombang besar konversi pesawat Eropa ke format native, sistem avionik Avidyne yang telah lama ditunggu, serta dukungan resmi untuk headset PlayStation VR2 di PC. Bagi komunitas simulasi penerbangan, ini adalah salah satu pembaruan paling substansial sejak peluncuran simulator pada November 2024. Lima pesawat ikonik mendapatkan perlakuan konversi penuh, ratusan perbaikan diterapkan, dan fondasi avionik semakin diperkuat untuk mendukung armada yang terus berkembang.
 
 ## ATR 42-600 dan ATR 72-600: Turboprop Regional yang Sesungguhnya
 
@@ -44,7 +44,7 @@ Desain twin-hull yang unik menciptakan karakteristik aerodinamis dan hidrodinami
 
 ## Avionik Avidyne IFD 540 dan IFD 550
 
-Salah satu penambahan paling penting dalam AAU4 bukanlah pesawat, melainkan **avionik**. Sistem **Avidyne IFD 540** dan **IFD 550** kini tersedia sebagai opsi avionik di MSFS 2024, melengkapi ekosistem yang sebelumnya didominasi oleh Garmin.
+Salah satu [penambahan paling penting dalam AAU4](https://msfsaddons.com/2026/03/21/msfs-sim-update-5-will-bring-aau4-five-aircraft-updates-and-new-avionics/) bukanlah pesawat, melainkan **avionik**. Sistem **Avidyne IFD 540** dan **IFD 550** kini tersedia sebagai opsi avionik di MSFS 2024, melengkapi ekosistem yang sebelumnya didominasi oleh Garmin.
 
 Avidyne IFD adalah sistem navigasi dan manajemen penerbangan yang banyak digunakan pada pesawat general aviation di dunia nyata, terutama sebagai upgrade untuk pesawat yang sebelumnya menggunakan Garmin GNS 430/530. Implementasi di MSFS 2024 mencakup fitur-fitur utama: FMS dengan database navigasi lengkap, tampilan peta bergerak, integrasi weather overlay, flight plan management, dan kemampuan approach prosedural (RNAV, ILS, VOR).
 

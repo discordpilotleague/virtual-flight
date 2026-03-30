@@ -6,7 +6,7 @@ pubDate: 'Apr 01 2026'
 heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 
-Uma descida bem planeada é o que separa um voo rotineiro de um voo profissional no simulador de voo. No MSFS 2024, quer esteja a pilotar um Cessna 172 em VFR ou um Boeing 787 numa rota transatlântica, o cálculo correto do **Top of Descent (TOD)** — o ponto exato onde deve iniciar a descida — determina se chegará à altitude de aproximação de forma suave ou se acabará por mergulhar abruptamente nos últimos quilómetros.
+Uma descida bem planeada é o que separa um voo rotineiro de um voo profissional no simulador de voo. No [MSFS 2024](https://www.flightsimulator.com/), quer esteja a pilotar um Cessna 172 em VFR ou um Boeing 787 numa rota transatlântica, o cálculo correto do **Top of Descent (TOD)** — o ponto exato onde deve iniciar a descida — determina se chegará à altitude de aproximação de forma suave ou se acabará por mergulhar abruptamente nos últimos quilómetros.
 
 Este guia apresenta as fórmulas essenciais, os ajustes para diferentes condições e as ferramentas disponíveis para descidas precisas.
 
@@ -77,7 +77,7 @@ Em aeronaves GA sem piloto automático sofisticado, é comum iniciar a descida u
 
 ### Airliners
 
-Nos airliners do MSFS 2024 — como o PMDG 737, o Fenix A320 ou o aeronave por defeito A320neo — a precisão do TOD é crítica. As descidas partem frequentemente de FL350–FL410, envolvem restrições STAR com altitude e velocidade, e exigem uma gestão cuidadosa da energia cinética.
+Nos airliners do MSFS 2024 — como o [PMDG](https://pmdg.com/) 737, o Fenix A320 ou o aeronave por defeito A320neo — a precisão do TOD é crítica. As descidas partem frequentemente de FL350–FL410, envolvem restrições STAR com altitude e velocidade, e exigem uma gestão cuidadosa da energia cinética.
 
 **Cenário airliner típico:** cruzeiro a FL380, restrição STAR de 10 000 pés a 30 NM do aeroporto.
 

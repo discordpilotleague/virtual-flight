@@ -6,7 +6,7 @@ pubDate: 'Mar 29 2026'
 heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.webp'
 ---
 
-Abril de 2026 se perfila como un mes decisivo para Microsoft Flight Simulator 2024. La **Sim Update 5 (SU5)**, acompañada de la actualización gratuita **Aircraft & Avionics Update 4 (AAU4)**, promete una de las entregas de contenido más ambiciosas desde el lanzamiento del simulador. Cinco aviones europeos históricos reciben por fin su conversión a nativo, las cabinas de aviación general estrenan aviónica Avidyne de última generación, y los pilotos que utilizan PlayStation VR2 podrán sumergirse en más de cien aeronaves compatibles. Todo ello sin coste adicional para los poseedores del simulador.
+Abril de 2026 se perfila como un mes decisivo para Microsoft Flight Simulator 2024. La **Sim Update 5 (SU5)**, acompañada de la actualización gratuita **Aircraft & Avionics Update 4 (AAU4)**, [promete una de las entregas de contenido más ambiciosas](https://www.flightsimulator.com/march-26th-2026-msfs-weekly-briefing/) desde el lanzamiento del simulador. Cinco aviones europeos históricos reciben por fin su conversión a nativo, las cabinas de aviación general estrenan aviónica Avidyne de última generación, y los pilotos que utilizan PlayStation VR2 podrán sumergirse en más de cien aeronaves compatibles. Todo ello sin coste adicional para los poseedores del simulador.
 
 El mensaje de Asobo y Microsoft es claro: MSFS 2024 no es solo un simulador de vuelo comercial moderno. Es una plataforma que acoge desde biplanos de entreguerras hasta turbopropulsores regionales, pasando por hidroaviones transatlánticos de los años treinta. Veamos en detalle todo lo que trae esta actualización.
 
@@ -42,7 +42,7 @@ El **Savoia-Marchetti S.55**, el icónico hidroavión bimotor italiano conocido 
 
 ## Aviónica Avidyne IFD 540 y IFD 550: la aviación general se moderniza
 
-AAU4 introduce por primera vez en MSFS la aviónica **Avidyne** con dos modelos: el **IFD 540** y el **IFD 550**. Estos navegadores GPS/NAV/COM, muy populares en la aviación general real como alternativa a la gama Garmin GTN, aportan una opción bienvenida para diversificar los paneles de instrumentos del simulador.
+AAU4 [introduce por primera vez en MSFS](https://msfsaddons.com/2026/03/21/msfs-sim-update-5-will-bring-aau4-five-aircraft-updates-and-new-avionics/) la aviónica **Avidyne** con dos modelos: el **IFD 540** y el **IFD 550**. Estos navegadores GPS/NAV/COM, muy populares en la aviación general real como alternativa a la gama Garmin GTN, aportan una opción bienvenida para diversificar los paneles de instrumentos del simulador.
 
 El modelo estrella es el **IFD 550**, que incluye **visión sintética (SVS)** — una representación 3D del terreno en la pantalla del navegador que mejora drásticamente la conciencia situacional, especialmente en aproximaciones instrumentales a aeropuertos montañosos. Ambos modelos integran **charts FAA y Lido** directamente en la pantalla, eliminando la necesidad de consultar documentación externa durante el vuelo.
 

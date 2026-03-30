@@ -6,7 +6,7 @@ pubDate: 'Mar 29 2026'
 heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.webp'
 ---
 
-O mês de abril de 2026 pode ser o mais significativo para o MSFS 2024 desde o lançamento. A Microsoft e a Asobo Studio confirmaram a chegada simultânea da **Sim Update 5 (SU5)** e da **Aircraft & Avionics Update 4 (AAU4)**, trazendo cinco aeronaves europeias convertidas para o motor nativo, um sistema de aviônicos completamente novo e a compatibilidade oficial com o headset **PlayStation VR2** no PC. Se você estava esperando um motivo concreto para voltar ao simulador com energia renovada, este é ele.
+O mês de abril de 2026 pode ser o mais significativo para o MSFS 2024 desde o lançamento. A Microsoft e a Asobo Studio [confirmaram a chegada simultânea](https://www.flightsimulator.com/march-26th-2026-msfs-weekly-briefing/) da **Sim Update 5 (SU5)** e da **Aircraft & Avionics Update 4 (AAU4)**, trazendo cinco aeronaves europeias convertidas para o motor nativo, um sistema de aviônicos completamente novo e a compatibilidade oficial com o headset **PlayStation VR2** no PC. Se você estava esperando um motivo concreto para voltar ao simulador com energia renovada, este é ele.
 
 ## ATR 42/72: o turboélice regional que faltava
 
@@ -51,7 +51,7 @@ O **S.55** italiano, com seu design de casco duplo único na história da aviaç
 
 ## Avidyne IFD 540 e IFD 550: aviônicos modernos para a aviação geral
 
-Uma das adições mais esperadas pela comunidade de aviação geral é a implementação dos **Avidyne IFD 540** e **IFD 550**. Esses dois GPS/NAV/COM integrados são amplamente utilizados em aeronaves de aviação geral no mundo real, especialmente como upgrade para painéis mais antigos.
+Uma das [adições mais esperadas](https://msfsaddons.com/2026/03/21/msfs-sim-update-5-will-bring-aau4-five-aircraft-updates-and-new-avionics/) pela comunidade de aviação geral é a implementação dos **Avidyne IFD 540** e **IFD 550**. Esses dois GPS/NAV/COM integrados são amplamente utilizados em aeronaves de aviação geral no mundo real, especialmente como upgrade para painéis mais antigos.
 
 O IFD 540 oferece uma tela touchscreen de 5,7 polegadas com mapas em movimento, gestão de planos de voo, procedimentos de aproximação por GPS e muito mais. Já o IFD 550, a versão de tela maior, adiciona funcionalidades avançadas como perfis verticais e integração com sistemas de piloto automático.
 

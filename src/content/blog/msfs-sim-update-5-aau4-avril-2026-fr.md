@@ -6,7 +6,7 @@ pubDate: 'Mar 29 2026'
 heroImage: '../../assets/hero-msfs-sim-update-5-aau4-april-2026.webp'
 ---
 
-Le mois d'avril 2026 s'annonce comme l'un des plus chargés depuis le lancement de Microsoft Flight Simulator 2024. Asobo Studio a confirmé la sortie simultanée du **Sim Update 5** et de l'**Aircraft & Avionics Update 4** (AAU4), un double patch qui touche aussi bien le cœur du simulateur que le contenu embarqué. Au programme : cinq avions européens convertis en avions natifs avec intégration carrière, de nouvelles avioniques Avidyne pour l'aviation générale, et l'arrivée tant attendue du support **PlayStation VR2** sur PC. Voici le détail de ce qui vous attend.
+Le mois d'avril 2026 s'annonce comme l'un des plus chargés depuis le lancement de Microsoft Flight Simulator 2024. Asobo Studio a [confirmé la sortie simultanée](https://www.flightsimulator.com/march-26th-2026-msfs-weekly-briefing/) du **Sim Update 5** et de l'**Aircraft & Avionics Update 4** (AAU4), un double patch qui touche aussi bien le cœur du simulateur que le contenu embarqué. Au programme : cinq avions européens convertis en avions natifs avec intégration carrière, de nouvelles avioniques Avidyne pour l'aviation générale, et l'arrivée tant attendue du support **PlayStation VR2** sur PC. Voici le détail de ce qui vous attend.
 
 ## ATR 42/72-600 : le turbopropulseur régional passe en natif
 
@@ -30,7 +30,7 @@ Le **Savoia-Marchetti S.55**, hydravion bimoteur italien, continue de recevoir d
 
 ## Avioniques Avidyne IFD 540 & 550 : le GPS nouvelle génération
 
-L'une des nouveautés les plus attendues par les pilotes d'aviation générale concerne l'arrivée des avioniques **Avidyne IFD 540** et **IFD 550**. Ces deux unités GPS/NAV/COM remplacent en drop-in le vénérable **GNS 500** de Garmin, offrant une interface tactile moderne avec des cartes vectorielles haute résolution et un moteur de navigation conforme aux procédures RNAV et LPV.
+L'une des [nouveautés les plus attendues](https://msfsaddons.com/2026/03/21/msfs-sim-update-5-will-bring-aau4-five-aircraft-updates-and-new-avionics/) par les pilotes d'aviation générale concerne l'arrivée des avioniques **Avidyne IFD 540** et **IFD 550**. Ces deux unités GPS/NAV/COM remplacent en drop-in le vénérable **GNS 500** de Garmin, offrant une interface tactile moderne avec des cartes vectorielles haute résolution et un moteur de navigation conforme aux procédures RNAV et LPV.
 
 La différence principale entre les deux modèles réside dans la **vision synthétique** : l'IFD 550 intègre un affichage SVS (Synthetic Vision System) qui reproduit le terrain en 3D sur l'écran du GPS, un atout considérable pour les approches en conditions IMC ou dans des régions montagneuses. Les deux unités affichent les **charts FAA** et **Lido** directement sur l'écran, éliminant le besoin de consulter un EFB séparé pour les procédures d'approche.
 

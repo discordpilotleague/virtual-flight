@@ -6,7 +6,7 @@ pubDate: 'Apr 01 2026'
 heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 
-Vous êtes en croisière à FL350, le paysage défile sous les ailes de votre A320, et une question revient : à quel moment amorcer la descente pour rejoindre le terrain sans se retrouver trop haut, trop vite, ou les deux à la fois ? Ce moment précis porte un nom : le **Top of Descent** (TOD). Maîtriser son calcul est l'une des compétences qui séparent un vol approximatif d'un vol réaliste dans MSFS 2024.
+Vous êtes en croisière à FL350, le paysage défile sous les ailes de votre A320, et une question revient : à quel moment amorcer la descente pour rejoindre le terrain sans se retrouver trop haut, trop vite, ou les deux à la fois ? Ce moment précis porte un nom : le **Top of Descent** (TOD). Maîtriser son calcul est l'une des compétences qui séparent un vol approximatif d'un vol réaliste dans [MSFS 2024](https://www.flightsimulator.com/).
 
 Ce guide vous donne toutes les clés pour calculer votre TOD avec précision, quel que soit l'appareil que vous pilotez — du Cessna 172 au Boeing 737, en passant par les appareils dépourvus de FMS.
 
@@ -101,7 +101,7 @@ Pour les avions qui ne disposent pas de VNAV — qu'il s'agisse d'appareils anci
 
 ### FMS et VNAV intégrés
 
-Les appareils study-level de PMDG, Fenix ou iniBuilds intègrent des systèmes VNAV complets. Programmez correctement les contraintes d'altitude dans le plan de vol et le FMS calculera le profil optimal.
+Les appareils study-level de [PMDG](https://pmdg.com/), Fenix ou iniBuilds intègrent des systèmes VNAV complets. Programmez correctement les contraintes d'altitude dans le plan de vol et le FMS calculera le profil optimal.
 
 ### Outils d'overlay tiers
 
