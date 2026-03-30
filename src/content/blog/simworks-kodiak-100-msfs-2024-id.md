@@ -2,7 +2,7 @@
 title: "SimWorks Studios Kodiak 100: Pesawat Bush Legendaris Kini Hadir di MSFS 2024"
 description: "Ulasan SimWorks Studios Kodiak 100 untuk MSFS 2024: sistem kelistrikan dirombak total, G1000 NXi, varian amfibi, Smart AutoStart, walk-around, dan mode karir. Tersedia EUR 34,99."
 lang: 'id'
-pubDate: 'Apr 02 2026'
+pubDate: 'Mar 30 2026'
 heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 

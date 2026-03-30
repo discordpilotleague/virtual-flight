@@ -2,7 +2,7 @@
 title: '完整指南：如何在 MSFS 2024 中计算下降顶点（TOD）'
 description: '详解 MSFS 2024 下降顶点（TOD）计算方法：公式推导、风修正、通航与客机场景对比、FMS 工具应用，以及常见错误规避。'
 lang: 'zh'
-pubDate: 'Apr 01 2026'
+pubDate: 'Mar 29 2026'
 heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 

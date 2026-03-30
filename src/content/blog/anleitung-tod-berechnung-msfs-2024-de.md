@@ -2,7 +2,7 @@
 title: "Kompletter Leitfaden: TOD-Berechnung in MSFS 2024"
 description: "Lernen Sie, den Top of Descent (TOD) in MSFS 2024 präzise zu berechnen — mit Formeln, Windkorrekturen, GA- und Airliner-Szenarien sowie Echtzeit-Tools."
 lang: 'de'
-pubDate: 'Apr 01 2026'
+pubDate: 'Mar 29 2026'
 heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 

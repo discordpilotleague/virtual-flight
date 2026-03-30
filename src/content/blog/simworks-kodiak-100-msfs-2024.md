@@ -2,7 +2,7 @@
 title: 'SimWorks Studios Kodiak 100: The Bush Plane Benchmark Returns to MSFS 2024'
 description: 'SimWorks Studios releases the Kodiak 100 for MSFS 2024 with rewritten systems, amphibian variant included, native walk-around, and G1000 NXi avionics.'
 lang: 'en'
-pubDate: 'Apr 02 2026'
+pubDate: 'Mar 30 2026'
 heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 

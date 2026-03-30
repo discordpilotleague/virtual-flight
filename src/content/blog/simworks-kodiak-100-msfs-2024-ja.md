@@ -2,7 +2,7 @@
 title: "SimWorks Studios Kodiak 100：フルシステムリワークと水陸両用フロート付きでMSFS 2024に登場"
 description: "SimWorks Studios Kodiak 100がMSFS 2024対応で新登場。G1000 NXi、ESI500、電気系統の完全リライト、Smart AutoStart、ウォークアラウンド、キャリアモード、アニメーションパッセンジャー。水陸両用フロートバージョン同梱。"
 lang: 'ja'
-pubDate: 'Apr 02 2026'
+pubDate: 'Mar 30 2026'
 heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 

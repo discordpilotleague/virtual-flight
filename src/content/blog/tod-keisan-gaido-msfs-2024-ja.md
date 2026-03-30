@@ -2,7 +2,7 @@
 title: "完全ガイド：MSFS 2024でのTOD（降下開始点）計算方法"
 description: "MSFS 2024でのTOD（Top of Descent）計算方法を徹底解説。基本公式、風補正、GA機とエアライナーの違い、FMSや外部ツールの活用法、よくあるミスまで網羅したエバーグリーンガイド。"
 lang: 'ja'
-pubDate: 'Apr 01 2026'
+pubDate: 'Mar 29 2026'
 heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 

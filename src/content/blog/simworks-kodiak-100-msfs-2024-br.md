@@ -2,7 +2,7 @@
 title: "SimWorks Studios Kodiak 100: o turboélice de bush flying de referência chega ao MSFS 2024"
 description: "Review do SimWorks Studios Kodiak 100 para MSFS 2024: sistemas elétricos reescritos, G1000 NXi, versão anfíbia incluída, Smart AutoStart e modo carreira por EUR 34,99."
 lang: 'br'
-pubDate: 'Apr 02 2026'
+pubDate: 'Mar 30 2026'
 heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 

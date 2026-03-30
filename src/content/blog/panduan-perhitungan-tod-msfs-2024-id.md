@@ -2,7 +2,7 @@
 title: "Panduan Lengkap: Cara Menghitung TOD di MSFS 2024"
 description: "Pelajari cara menghitung Top of Descent (TOD) di MSFS 2024 dengan rumus sederhana, koreksi angin, skenario GA dan airliner, serta alat bantu FMS dan aplikasi pihak ketiga."
 lang: 'id'
-pubDate: 'Apr 01 2026'
+pubDate: 'Mar 29 2026'
 heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 

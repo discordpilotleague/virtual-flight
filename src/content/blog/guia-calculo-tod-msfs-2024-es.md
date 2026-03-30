@@ -2,7 +2,7 @@
 title: "Guía completa: cómo calcular el TOD en MSFS 2024"
 description: 'Aprenda a calcular el Top of Descent (TOD) en MSFS 2024 con fórmulas, ajustes por viento y herramientas para un descenso perfecto.'
 lang: 'es'
-pubDate: 'Apr 01 2026'
+pubDate: 'Mar 29 2026'
 heroImage: '../../assets/hero-guide-tod-calculator-msfs-2024.webp'
 ---
 

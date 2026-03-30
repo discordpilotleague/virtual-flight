@@ -2,7 +2,7 @@
 title: "SimWorks Studios Kodiak 100 : le bush plane de référence arrive sur MSFS 2024"
 description: "Le Kodiak 100 de SimWorks Studios débarque sur MSFS 2024 avec version amphibie incluse, G1000 NXi complet, systèmes réécrits et walk-around natif. Test complet."
 lang: 'fr'
-pubDate: 'Apr 02 2026'
+pubDate: 'Mar 30 2026'
 heroImage: ../../assets/hero-simworks-kodiak-100-msfs-2024.webp
 ---
 

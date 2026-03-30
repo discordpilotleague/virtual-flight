@@ -2,7 +2,7 @@
 title: "SimWorks Studios Kodiak 100: o bush plane de referência renasce no MSFS 2024"
 description: "O SimWorks Studios Kodiak 100 chega ao MSFS 2024 com anfíbio incluído, G1000 NXi, sistema eléctrico reescrito, passageiros animados e modo carreira. EUR 34,99."
 lang: 'pt'
-pubDate: 'Apr 02 2026'
+pubDate: 'Mar 30 2026'
 heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 

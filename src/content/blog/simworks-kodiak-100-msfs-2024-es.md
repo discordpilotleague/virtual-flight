@@ -2,7 +2,7 @@
 title: "SimWorks Studios Kodiak 100: el turbohélice bush-plane de referencia llega a MSFS 2024"
 description: "Análisis del SimWorks Studios Kodiak 100 para MSFS 2024: sistemas eléctricos reescritos, G1000 NXi, versión anfibio incluida, Smart AutoStart y modo carrera."
 lang: 'es'
-pubDate: 'Apr 02 2026'
+pubDate: 'Mar 30 2026'
 heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 

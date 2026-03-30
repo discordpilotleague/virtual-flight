@@ -2,7 +2,7 @@
 title: "SimWorks Studios Kodiak 100: der ultimative Buschflieger für MSFS 2024"
 description: "Die SimWorks Studios Kodiak 100 ist ab sofort für MSFS 2024 verfügbar: G1000 NXi, ESI500, Amphibienversion inklusive, komplett überarbeitete Systeme und animierte Passagiere für 34,99 €."
 lang: 'de'
-pubDate: 'Apr 02 2026'
+pubDate: 'Mar 30 2026'
 heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 

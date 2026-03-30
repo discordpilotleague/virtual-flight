@@ -2,7 +2,7 @@
 title: "SimWorks Studios Kodiak 100：丛林飞行传奇全面重制登陆 MSFS 2024"
 description: "SimWorks Studios Kodiak 100 现已登陆 MSFS 2024，包含水上飞机版本、G1000 NXi 航电、全新电气系统和职业模式，售价 34.99 欧元，MSFS 2020 老用户享半价优惠。"
 lang: 'zh'
-pubDate: 'Apr 02 2026'
+pubDate: 'Mar 30 2026'
 heroImage: '../../assets/hero-simworks-kodiak-100-msfs-2024.webp'
 ---
 
