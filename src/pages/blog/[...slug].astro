@@ -15,6 +15,11 @@ const post = Astro.props;
 const { Content } = await render(post);
 ---
 
-<BlogPost {...post.data} locale="en">
+<BlogPost
+	{...post.data}
+	locale="en"
+	showPartnerCard={post.id.startsWith('msfs-2024-development-update-')}
+	partnerCardSeed={post.id}
+>
 	<Content />
 </BlogPost>

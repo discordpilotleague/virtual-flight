@@ -126,6 +126,11 @@ const fr = {
 	'contact.submit': 'Envoyer le message',
 	'contact.success': 'Votre message a bien été envoyé. Nous vous répondrons rapidement.',
 	'contact.error': 'Une erreur est survenue. Veuillez réessayer ou nous contacter par e-mail.',
+
+	'pilotleague.badge': 'Outil recommandé',
+	'pilotleague.title': 'Analyse tes vols MSFS 2024 comme un vrai pilote',
+	'pilotleague.desc': 'PilotLeague décortique chaque phase de vol et note ta performance. Bêta gratuite.',
+	'pilotleague.cta': 'Découvrir PilotLeague',
 } as const;
 
 export type TranslationKey = keyof typeof fr;
@@ -253,6 +258,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'contact.submit': 'Send message',
 		'contact.success': 'Your message has been sent. We will get back to you shortly.',
 		'contact.error': 'Something went wrong. Please try again or email us directly.',
+
+		'pilotleague.badge': 'Recommended tool',
+		'pilotleague.title': 'Track your MSFS 2024 flights like a real pilot',
+		'pilotleague.desc': 'PilotLeague breaks down every flight phase and grades your performance. Free beta.',
+		'pilotleague.cta': 'Discover PilotLeague',
 	},
 
 	es: {
@@ -376,6 +386,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'contact.submit': 'Enviar mensaje',
 		'contact.success': 'Su mensaje ha sido enviado. Le responderemos a la brevedad.',
 		'contact.error': 'Ha ocurrido un error. Por favor, inténtelo de nuevo o contáctenos por correo electrónico.',
+
+		'pilotleague.badge': 'Herramienta recomendada',
+		'pilotleague.title': 'Analiza tus vuelos MSFS 2024 como un piloto de verdad',
+		'pilotleague.desc': 'PilotLeague desglosa cada fase de vuelo y puntúa tu rendimiento. Beta gratuita.',
+		'pilotleague.cta': 'Descubrir PilotLeague',
 	},
 
 	pt: {
@@ -499,6 +514,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'contact.submit': 'Enviar mensagem',
 		'contact.success': 'A sua mensagem foi enviada. Responderemos com a maior brevidade.',
 		'contact.error': 'Ocorreu um erro. Por favor, tente novamente ou contacte-nos por e-mail.',
+
+		'pilotleague.badge': 'Ferramenta recomendada',
+		'pilotleague.title': 'Analise os seus voos MSFS 2024 como um verdadeiro piloto',
+		'pilotleague.desc': 'A PilotLeague decompõe cada fase do voo e pontua o seu desempenho. Beta gratuita.',
+		'pilotleague.cta': 'Descobrir a PilotLeague',
 	},
 
 	br: {
@@ -622,6 +642,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'contact.submit': 'Enviar mensagem',
 		'contact.success': 'Sua mensagem foi enviada. Responderemos o mais rápido possível.',
 		'contact.error': 'Ocorreu um erro. Tente novamente ou entre em contato por e-mail.',
+
+		'pilotleague.badge': 'Ferramenta recomendada',
+		'pilotleague.title': 'Analise seus voos MSFS 2024 como um piloto de verdade',
+		'pilotleague.desc': 'A PilotLeague detalha cada fase do voo e avalia seu desempenho. Beta gratuita.',
+		'pilotleague.cta': 'Conhecer a PilotLeague',
 	},
 
 	de: {
@@ -745,6 +770,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'contact.submit': 'Nachricht senden',
 		'contact.success': 'Ihre Nachricht wurde gesendet. Wir werden Ihnen zeitnah antworten.',
 		'contact.error': 'Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns per E-Mail.',
+
+		'pilotleague.badge': 'Empfohlenes Tool',
+		'pilotleague.title': 'Analysieren Sie Ihre MSFS-2024-Flüge wie ein echter Pilot',
+		'pilotleague.desc': 'PilotLeague zerlegt jede Flugphase und bewertet Ihre Leistung. Kostenlose Beta.',
+		'pilotleague.cta': 'PilotLeague entdecken',
 	},
 
 	zh: {
@@ -867,6 +897,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'contact.submit': '发送消息',
 		'contact.success': '您的消息已发送，我们将尽快回复。',
 		'contact.error': '发生错误，请重试或通过电子邮件联系我们。',
+
+		'pilotleague.badge': '推荐工具',
+		'pilotleague.title': '像真正的飞行员一样分析您的 MSFS 2024 飞行',
+		'pilotleague.desc': 'PilotLeague 精细解读每个飞行阶段并为您的表现评分。免费测试版。',
+		'pilotleague.cta': '了解 PilotLeague',
 	},
 
 	id: {
@@ -990,6 +1025,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'contact.submit': 'Kirim pesan',
 		'contact.success': 'Pesan Anda telah terkirim. Kami akan segera merespons.',
 		'contact.error': 'Terjadi kesalahan. Silakan coba lagi atau hubungi kami melalui email.',
+
+		'pilotleague.badge': 'Alat yang direkomendasikan',
+		'pilotleague.title': 'Analisis penerbangan MSFS 2024 Anda seperti pilot sungguhan',
+		'pilotleague.desc': 'PilotLeague memecah setiap fase penerbangan dan menilai performa Anda. Beta gratis.',
+		'pilotleague.cta': 'Jelajahi PilotLeague',
 	},
 
 	ja: {
@@ -1112,5 +1152,10 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'contact.submit': 'メッセージを送信',
 		'contact.success': 'メッセージが送信されました。速やかにご返信いたします。',
 		'contact.error': 'エラーが発生しました。再度お試しいただくか、メールでお問い合わせください。',
+
+		'pilotleague.badge': 'おすすめツール',
+		'pilotleague.title': 'プロのパイロットのようにMSFS 2024のフライトを分析',
+		'pilotleague.desc': 'PilotLeagueは各フライトフェーズを分析し、あなたのパフォーマンスを評価します。ベータ版は無料。',
+		'pilotleague.cta': 'PilotLeagueを見る',
 	},
 };

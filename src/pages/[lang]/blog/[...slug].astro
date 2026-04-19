@@ -22,6 +22,11 @@ const { post, locale } = Astro.props as { post: CollectionEntry<'blog'>; locale:
 const { Content } = await render(post);
 ---
 
-<BlogPost {...post.data} locale={locale}>
+<BlogPost
+	{...post.data}
+	locale={locale}
+	showPartnerCard={post.id.startsWith('msfs-2024-development-update-')}
+	partnerCardSeed={post.id}
+>
 	<Content />
 </BlogPost>

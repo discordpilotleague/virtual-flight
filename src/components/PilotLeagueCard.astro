@@ -1,0 +1,169 @@
+---
+import { Image } from 'astro:assets';
+import type { Locale } from '../i18n/locales';
+import { useTranslations } from '../i18n/utils';
+import img1 from '../assets/adv/1.png';
+import img2 from '../assets/adv/2.png';
+import img3 from '../assets/adv/3.png';
+import img4 from '../assets/adv/4.png';
+import img5 from '../assets/adv/5.png';
+import img6 from '../assets/adv/6.png';
+import img7 from '../assets/adv/7.png';
+
+interface Props {
+	locale: Locale;
+	seed?: string;
+}
+
+const { locale, seed = '' } = Astro.props;
+const t = useTranslations(locale);
+
+const featuresUrl: Record<Locale, string> = {
+	en: 'https://pilotleague.com/en/features/',
+	fr: 'https://pilotleague.com/fr/fonctionnalites/',
+	es: 'https://pilotleague.com/es/caracteristicas/',
+	pt: 'https://pilotleague.com/pt/recursos/',
+	br: 'https://pilotleague.com/pt/recursos/',
+	de: 'https://pilotleague.com/de/funktionen/',
+	zh: 'https://pilotleague.com/zh/features/',
+	id: 'https://pilotleague.com/id/fitur/',
+	ja: 'https://pilotleague.com/ja/features/',
+};
+
+const visuals = [
+	{ src: img1, alt: 'PilotLeague — flight detail with route and landing analysis' },
+	{ src: img2, alt: 'PilotLeague — global leaderboard' },
+	{ src: img3, alt: 'PilotLeague — my flights list' },
+	{ src: img4, alt: 'PilotLeague — pilot dashboard overview' },
+	{ src: img5, alt: 'PilotLeague — rank path and progression' },
+	{ src: img6, alt: 'PilotLeague — flight efficiency and fuel analysis' },
+	{ src: img7, alt: 'PilotLeague — in-sim overlay on Airbus A320 cockpit' },
+];
+
+function hash(input: string): number {
+	let h = 0;
+	for (let i = 0; i < input.length; i++) {
+		h = (h * 31 + input.charCodeAt(i)) | 0;
+	}
+	return Math.abs(h);
+}
+
+const pick = visuals[hash(seed || Astro.url.pathname) % visuals.length];
+---
+
+<aside class="pl-card">
+	<div class="pl-content">
+		<span class="pl-badge">{t('pilotleague.badge')}</span>
+		<h3 class="pl-title">{t('pilotleague.title')}</h3>
+		<p class="pl-desc">{t('pilotleague.desc')}</p>
+		<a href={featuresUrl[locale]} target="_blank" rel="sponsored noopener" class="pl-cta">
+			{t('pilotleague.cta')}
+			<span aria-hidden="true">→</span>
+		</a>
+	</div>
+	<a
+		href={featuresUrl[locale]}
+		target="_blank"
+		rel="sponsored noopener"
+		aria-label={t('pilotleague.cta')}
+		class="pl-visual"
+	>
+		<Image src={pick.src} alt={pick.alt} widths={[480, 720]} loading="lazy" decoding="async" />
+	</a>
+</aside>
+
+<style>
+	.pl-card {
+		margin: 3em 0 1em;
+		padding: 1.75em;
+		border: 1px solid rgb(var(--gray-light));
+		border-left: 4px solid var(--accent);
+		border-radius: var(--radius);
+		background: linear-gradient(135deg, rgba(26, 95, 180, 0.03), rgba(26, 95, 180, 0.08));
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 1.75em;
+		align-items: stretch;
+	}
+	.pl-content {
+		min-width: 0;
+	}
+	.pl-badge {
+		display: inline-block;
+		font-size: 0.7em;
+		font-weight: 700;
+		letter-spacing: 0.1em;
+		text-transform: uppercase;
+		color: rgb(var(--gray));
+		margin-bottom: 0.75em;
+	}
+	.pl-title {
+		margin: 0 0 0.5em;
+		font-size: 1.2em;
+		line-height: 1.3;
+		color: rgb(var(--black));
+	}
+	.pl-desc {
+		margin: 0 0 1.25em;
+		font-size: 0.95em;
+		line-height: 1.55;
+		color: rgb(var(--gray-dark));
+	}
+	.pl-cta {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4em;
+		background: var(--accent);
+		color: white;
+		padding: 0.65em 1.3em;
+		border-radius: 8px;
+		text-decoration: none;
+		font-weight: 600;
+		font-size: 0.95em;
+		transition: transform 0.2s ease, box-shadow 0.2s ease;
+	}
+	.pl-cta:hover {
+		transform: translateY(-1px);
+		box-shadow: 0 4px 12px rgba(26, 95, 180, 0.25);
+		color: white;
+	}
+	.pl-visual {
+		position: relative;
+		display: block;
+		height: 100%;
+		min-height: 240px;
+		border-radius: 10px;
+		overflow: hidden;
+		box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+		transition: transform 0.25s ease, box-shadow 0.25s ease;
+		background: rgba(26, 95, 180, 0.06);
+	}
+	.pl-visual:hover {
+		transform: translateY(-2px);
+		box-shadow: 0 8px 24px rgba(26, 95, 180, 0.25);
+	}
+	.pl-visual :global(img) {
+		position: absolute;
+		inset: 0;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		object-position: center center;
+		margin: 0;
+		border-radius: 0;
+		display: block;
+	}
+	@media (max-width: 640px) {
+		.pl-card {
+			grid-template-columns: 1fr;
+			gap: 1.25em;
+			padding: 1.5em;
+		}
+		.pl-visual {
+			order: -1;
+			aspect-ratio: 16 / 10;
+			height: auto;
+			min-height: 0;
+		}
+	}
+</style>

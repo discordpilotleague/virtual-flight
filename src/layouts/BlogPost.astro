@@ -5,14 +5,26 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import PilotLeagueCard from '../components/PilotLeagueCard.astro';
 import { bcp47, defaultLocale, type Locale } from '../i18n/locales';
 import { useTranslations } from '../i18n/utils';
 
 type Props = CollectionEntry<'blog'>['data'] & {
 	locale?: Locale;
+	showPartnerCard?: boolean;
+	partnerCardSeed?: string;
 };
 
-const { title, description, pubDate, updatedDate, heroImage, locale = defaultLocale } = Astro.props;
+const {
+	title,
+	description,
+	pubDate,
+	updatedDate,
+	heroImage,
+	locale = defaultLocale,
+	showPartnerCard = false,
+	partnerCardSeed,
+} = Astro.props;
 const t = useTranslations(locale);
 ---
 
@@ -146,6 +158,7 @@ const t = useTranslations(locale);
 						<hr />
 					</div>
 					<slot />
+					{showPartnerCard && <PilotLeagueCard locale={locale} seed={partnerCardSeed} />}
 				</div>
 			</article>
 		</main>
