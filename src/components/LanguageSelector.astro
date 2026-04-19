@@ -108,4 +108,13 @@ const currentLocale = (Astro.currentLocale ?? getLocaleFromUrl(currentPath)) as 
 			btn.setAttribute('aria-expanded', String(!expanded));
 		});
 	});
+
+	const ONE_YEAR = 60 * 60 * 24 * 365;
+	document.querySelectorAll<HTMLAnchorElement>('.lang-dropdown a[hreflang]').forEach((link) => {
+		link.addEventListener('click', () => {
+			const lang = link.getAttribute('hreflang');
+			if (!lang) return;
+			document.cookie = `preferred_lang=${encodeURIComponent(lang)}; path=/; max-age=${ONE_YEAR}; SameSite=Lax`;
+		});
+	});
 </script>
