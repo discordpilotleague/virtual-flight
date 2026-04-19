@@ -10,7 +10,7 @@ category: "tutorial"
 pilotleagueLink: "https://pilotleague.com/pt/"
 ---
 
-Um Boeing 747 consome aproximadamente **uma tonelada de querosene** em 15 minutos de rodagem. Um A320, entre 100 e 150 kg. A escala mundial, a fase de taxi representa cerca de **1 % do consumo total de combustivel** da aviacao — um numero aparentemente modesto, mas que se traduz em milhoes de toneladas de CO2 e milhares de milhoes de dolares gastos todos os anos simplesmente para deslocar avioes entre as portas de embarque e as pistas. A industria aeronautica desenvolveu solucoes concretas para reduzir este desperdicio, e os pilotos virtuais exigentes na [PilotLeague](https://pilotleague.com/pt/funcionalidades/) sabem-no bem: a gestao do combustivel no solo e um indicador de competencia que a plataforma mede voo apos voo.
+Um Boeing 747 consome aproximadamente **uma tonelada de querosene** em 15 minutos de rodagem. Um A320, entre 100 e 150 kg. A escala mundial, a fase de taxi representa cerca de **1 % do consumo total de combustivel** da aviacao — um numero aparentemente modesto, mas que se traduz em milhoes de toneladas de CO2 e milhares de milhoes de dolares gastos todos os anos simplesmente para deslocar avioes entre as portas de embarque e as pistas. A industria aeronautica desenvolveu solucoes concretas para reduzir este desperdicio, e os pilotos virtuais exigentes na [PilotLeague](https://pilotleague.com/pt/recursos/) sabem-no bem: a gestao do combustivel no solo e um indicador de competencia que a plataforma mede voo apos voo.
 
 ![Boeing 737 KLM rebocado por um TaxiBot no aeroporto de Schiphol](/images/taxi-fuel-saving/taxibot-klm.webp)
 
@@ -96,7 +96,7 @@ Os pilotos virtuais serios podem reproduzir estas praticas no Microsoft Flight S
 - **Arranque retardado** — Esperar estar pronto para rolar antes de arrancar os motores, em vez de os ligar assim que o aviao e alimentado eletricamente
 - **Gate-holding** — Preparar o voo (FMS, briefing, ATIS) com os motores desligados na porta antes de solicitar o pushback
 
-Na [PilotLeague](https://pilotleague.com/pt/funcionalidades/), o pilar **Eficiencia de combustivel** da sua pontuacao mede com precisao o seu consumo em kg/nm por fase de voo — incluindo a rodagem. Um taxi bem gerido com um consumo controlado contribui diretamente para uma melhor pontuacao global. A analise pos-voo detalha o seu consumo fase a fase com notas de A a D, permitindo-lhe identificar exatamente onde o combustivel foi desperdicado.
+Na [PilotLeague](https://pilotleague.com/pt/recursos/), o pilar **Eficiencia de combustivel** da sua pontuacao mede com precisao o seu consumo em kg/nm por fase de voo — incluindo a rodagem. Um taxi bem gerido com um consumo controlado contribui diretamente para uma melhor pontuacao global. A analise pos-voo detalha o seu consumo fase a fase com notas de A a D, permitindo-lhe identificar exatamente onde o combustivel foi desperdicado.
 
 ## Sintese das tecnicas
 
@@ -112,7 +112,7 @@ Na [PilotLeague](https://pilotleague.com/pt/funcionalidades/), o pilar **Eficien
 
 A poupanca de combustivel na rodagem nao e um detalhe anedotico — e uma alavanca concreta que a industria ja esta a acionar. O taxi com um motor tornou-se um procedimento padrao na maioria das grandes companhias. O TaxiBot passa da fase experimental para a exploracao comercial. A rodagem eletrica progride. E cada tecnica, da mais simples gate-holding a mais tecnologica EGTS, contribui para reduzir a pegada de carbono de uma industria sob pressao ambiental crescente.
 
-Para os pilotos virtuais, integrar estas praticas na sua rotina de voo acrescenta uma camada de realismo operacional que poucos simmers exploram. E com ferramentas como a [PilotLeague](https://pilotleague.com/pt/funcionalidades/) que medem a eficiencia de combustivel em cada voo, nunca foi tao facil quantificar o impacto destas boas praticas.
+Para os pilotos virtuais, integrar estas praticas na sua rotina de voo acrescenta uma camada de realismo operacional que poucos simmers exploram. E com ferramentas como a [PilotLeague](https://pilotleague.com/pt/recursos/) que medem a eficiencia de combustivel em cada voo, nunca foi tao facil quantificar o impacto destas boas praticas.
 
 Os motores podem esperar. A sua pontuacao, essa, nao espera.
 

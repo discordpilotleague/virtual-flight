@@ -10,7 +10,7 @@ category: "tutorial"
 pilotleagueLink: "https://pilotleague.com/pt/"
 ---
 
-Um Boeing 747 consome cerca de **uma tonelada de querosene** em 15 minutos de taxi. Um A320, entre 100 e 150 kg. Em escala mundial, a fase de taxi representa quase **1 % do consumo total de combustivel** da aviacao — um numero aparentemente modesto, mas que se traduz em milhoes de toneladas de CO2 e bilhoes de dolares gastos todos os anos apenas para mover avioes entre os portoes de embarque e as pistas. A industria aeronautica desenvolveu solucoes concretas para reduzir esse desperdicio, e os pilotos virtuais exigentes no [PilotLeague](https://pilotleague.com/pt/funcionalidades/) sabem bem disso: a gestao de combustivel no solo e um indicador de competencia que a plataforma mede voo apos voo.
+Um Boeing 747 consome cerca de **uma tonelada de querosene** em 15 minutos de taxi. Um A320, entre 100 e 150 kg. Em escala mundial, a fase de taxi representa quase **1 % do consumo total de combustivel** da aviacao — um numero aparentemente modesto, mas que se traduz em milhoes de toneladas de CO2 e bilhoes de dolares gastos todos os anos apenas para mover avioes entre os portoes de embarque e as pistas. A industria aeronautica desenvolveu solucoes concretas para reduzir esse desperdicio, e os pilotos virtuais exigentes no [PilotLeague](https://pilotleague.com/pt/recursos/) sabem bem disso: a gestao de combustivel no solo e um indicador de competencia que a plataforma mede voo apos voo.
 
 ![Boeing 737 KLM rebocado por um TaxiBot no aeroporto de Schiphol](/images/taxi-fuel-saving/taxibot-klm.webp)
 
@@ -96,7 +96,7 @@ Os pilotos virtuais dedicados podem reproduzir essas praticas no Microsoft Fligh
 - **Partida atrasada** — Esperar estar pronto para taxiar antes de ligar os motores, em vez de liga-los assim que o aviao e energizado
 - **Gate-holding** — Preparar seu voo (FMS, briefing, ATIS) com os motores desligados no portao antes de solicitar o pushback
 
-No [PilotLeague](https://pilotleague.com/pt/funcionalidades/), o pilar **Eficiencia de combustivel** da sua pontuacao mede exatamente seu consumo em kg/nm por fase de voo — incluindo o taxi. Um taxi bem gerenciado com consumo controlado contribui diretamente para uma pontuacao global melhor. A analise pos-voo detalha seu consumo fase por fase com notas de A a D, permitindo identificar exatamente onde o combustivel foi desperdicado.
+No [PilotLeague](https://pilotleague.com/pt/recursos/), o pilar **Eficiencia de combustivel** da sua pontuacao mede exatamente seu consumo em kg/nm por fase de voo — incluindo o taxi. Um taxi bem gerenciado com consumo controlado contribui diretamente para uma pontuacao global melhor. A analise pos-voo detalha seu consumo fase por fase com notas de A a D, permitindo identificar exatamente onde o combustivel foi desperdicado.
 
 ## Sintese das tecnicas
 
@@ -112,7 +112,7 @@ No [PilotLeague](https://pilotleague.com/pt/funcionalidades/), o pilar **Eficien
 
 A economia de combustivel no taxi nao e um detalhe irrelevante — e uma alavanca concreta que a industria ja aciona. O taxi com um motor se tornou um procedimento padrao na maioria das grandes companhias. O TaxiBot esta passando do estagio experimental para a operacao comercial. O taxi eletrico avanca. E cada tecnica, do mais simples gate-holding ao mais tecnologico EGTS, contribui para reduzir a pegada de carbono de uma industria sob pressao ambiental crescente.
 
-Para os pilotos virtuais, integrar essas praticas em sua rotina de voo adiciona uma camada de realismo operacional que poucos simmers exploram. E com ferramentas como o [PilotLeague](https://pilotleague.com/pt/funcionalidades/) que medem a eficiencia de combustivel em cada voo, nunca foi tao facil quantificar o impacto dessas boas praticas.
+Para os pilotos virtuais, integrar essas praticas em sua rotina de voo adiciona uma camada de realismo operacional que poucos simmers exploram. E com ferramentas como o [PilotLeague](https://pilotleague.com/pt/recursos/) que medem a eficiencia de combustivel em cada voo, nunca foi tao facil quantificar o impacto dessas boas praticas.
 
 Os motores podem esperar. Sua pontuacao, nao.
 

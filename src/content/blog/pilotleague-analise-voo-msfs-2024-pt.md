@@ -17,7 +17,7 @@ O Microsoft Flight Simulator 2024 elevou a fasquia do realismo a um patamar que 
 É precisamente este vazio que a **PilotLeague** se propõe preencher. Desenvolvida por uma equipa de apaixonados pela simulação de vol, esta plataforma assume-se como a camada de análise pós-voo que faltava ao ecossistema MSFS 2024. Gratuita durante toda a fase beta, a ferramenta recebe os seus dados de voo em tempo real via SimConnect e devolve-lhe um verdadeiro debriefing digno de uma linha aérea. Muitos chamam-lhe já o **«Strava para pilotos virtuais»**, e a comparação faz todo o sentido.
 
 ![Painel PilotLeague — vista geral dos voos registados no MSFS 2024](/images/pilotleague-msfs-2024/dashboard.webp)
-*Crédito: [PilotLeague](https://pilotleague.com/pt/funcionalidades/)*
+*Crédito: [PilotLeague](https://pilotleague.com/pt/recursos/)*
 
 ## Porque é que o MSFS 2024 precisa de uma camada de análise externa
 
@@ -36,7 +36,7 @@ Por ser totalmente automática, evita o erro clássico das ferramentas manuais d
 ## Pilar 2: análise da aterragem e da aproximação estabilizada
 
 ![Análise de aterragem PilotLeague — taxa de descida, fator de carga, alinhamento de pista](/images/pilotleague-msfs-2024/landing.webp)
-*Crédito: [PilotLeague](https://pilotleague.com/pt/funcionalidades/)*
+*Crédito: [PilotLeague](https://pilotleague.com/pt/recursos/)*
 
 É provavelmente o pilar mais exigente tecnicamente, e também o mais apreciado pela comunidade. A PilotLeague não se contenta em anunciar-lhe um número vago: a ferramenta avalia a aterragem segundo critérios derivados diretamente dos padrões das companhias aéreas.
 
@@ -49,7 +49,7 @@ Para quem tem a pretensão de voar de forma rigorosa, é um instrumento pedagóg
 ## Pilar 3: consumo de combustível por fase de voo
 
 ![Análise de consumo de combustível por fase de voo na PilotLeague](/images/pilotleague-msfs-2024/fuel.webp)
-*Crédito: [PilotLeague](https://pilotleague.com/pt/funcionalidades/)*
+*Crédito: [PilotLeague](https://pilotleague.com/pt/recursos/)*
 
 A gestão do combustível é um dos temas que mais separa o simmer ocasional do simmer dedicado, e é também uma das áreas onde o MSFS 2024 dá pouquíssima informação útil. A PilotLeague decompõe o consumo etapa a etapa: quantas libras queimou ao taxi, quanto custou a subida até ao nível de cruzeiro, qual foi o consumo horário em cruzeiro, quanto foi gasto na descida e na aproximação.
 
@@ -60,7 +60,7 @@ Com várias etapas registadas no mesmo aparelho, é inclusive possível identifi
 ## Pilar 4: leaderboards segmentados
 
 ![Classificação PilotLeague — pilotos virtuais ordenados por desempenho](/images/pilotleague-msfs-2024/rank.webp)
-*Crédito: [PilotLeague](https://pilotleague.com/pt/funcionalidades/)*
+*Crédito: [PilotLeague](https://pilotleague.com/pt/recursos/)*
 
 O quarto pilar introduz a dimensão comunitária. A PilotLeague publica **classificações segmentadas** que permitem comparar o seu desempenho com o de outros pilotos virtuais — mas com inteligência. Em vez de um único ranking global que mistura um Cessna 152 com um 747, a plataforma segmenta os leaderboards por categoria de aeronave, por tipo de voo e por critério avaliado.
 
@@ -86,6 +86,6 @@ Para os pilotos VATSIM e IVAO, as análises de estabilização da aproximação 
 
 A PilotLeague chega num momento certo. O MSFS 2024 estabeleceu um novo padrão de realismo visual e de sistemas, mas deixou por preencher a camada de análise pós-voo que transforma uma sessão num verdadeiro treino. Com os seus quatro pilares — tracking automático, análise da aterragem e da aproximação estabilizada, consumo por fase, leaderboards segmentados — a plataforma devolve ao simmer exigente o debriefing rigoroso que o simulador não lhe oferece.
 
-Durante a fase beta, o acesso é totalmente gratuito. É uma janela ideal para experimentar, ajudar a equipa de desenvolvimento com feedback concreto, e começar desde já a acumular um histórico de voos analisados em profundidade. Para descobrir o detalhe completo das funcionalidades, visite a página [funcionalidades da PilotLeague](https://pilotleague.com/pt/funcionalidades/). Para instalar a aplicação, dirija-se à página oficial de [download](https://pilotleague.com/download/).
+Durante a fase beta, o acesso é totalmente gratuito. É uma janela ideal para experimentar, ajudar a equipa de desenvolvimento com feedback concreto, e começar desde já a acumular um histórico de voos analisados em profundidade. Para descobrir o detalhe completo das funcionalidades, visite a página [funcionalidades da PilotLeague](https://pilotleague.com/pt/recursos/). Para instalar a aplicação, dirija-se à página oficial de [download](https://pilotleague.com/download/).
 
 O seu próximo voo merece mais do que um ecrã final com três linhas de texto. Merece um verdadeiro debriefing.
