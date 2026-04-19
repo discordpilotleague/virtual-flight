@@ -17,6 +17,9 @@ const fr = {
 	'home.p3':
 		'Passionné de vol réseau ou de tours de piste en solo, rejoignez une communauté de simmers exigeants et restez informé des dernières sorties qui feront décoller vos sessions.',
 
+	'home.latestArticles': 'Derniers articles',
+	'home.viewAll': 'Voir tous les articles →',
+
 	'slug.about': 'a-propos',
 	'about.title': 'À propos',
 	'about.description':
@@ -144,6 +147,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'Peripheral reviews, scenery comparisons, configuration guides, add-on releases: our editorial team covers the entire ecosystem to help you get the most from your cockpit.',
 		'home.p3':
 			'Whether you enjoy online flying or solo pattern work, join a community of discerning simmers and stay informed about the latest releases that will take your sessions to new heights.',
+		'home.latestArticles': 'Latest articles',
+		'home.viewAll': 'View all articles →',
 		'slug.about': 'about',
 		'about.title': 'About',
 		'about.description': 'Discover the team behind Virtual Flight, your flight simulation magazine.',
@@ -264,6 +269,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'Análisis de periféricos, comparativas de escenarios, guías de configuración, novedades de add-ons: nuestra redacción cubre todo el ecosistema para ayudarte a sacar el máximo de tu cockpit.',
 		'home.p3':
 			'Apasionado del vuelo en red o de los circuitos en solitario, únete a una comunidad de simmers exigentes y mantente informado de los últimos lanzamientos que harán despegar tus sesiones.',
+		'home.latestArticles': 'Últimos artículos',
+		'home.viewAll': 'Ver todos los artículos →',
 		'slug.about': 'acerca-de',
 		'about.title': 'Acerca de',
 		'about.description':
@@ -385,6 +392,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'Análises de periféricos, comparativos de cenários, guias de configuração, novidades de add-ons: a nossa redação cobre todo o ecossistema para o ajudar a tirar o máximo do seu cockpit.',
 		'home.p3':
 			'Apaixonado por voo em rede ou por circuitos a solo, junte-se a uma comunidade de simmers exigentes e mantenha-se informado sobre os últimos lançamentos que farão descolar as suas sessões.',
+		'home.latestArticles': 'Últimos artigos',
+		'home.viewAll': 'Ver todos os artigos →',
 		'slug.about': 'sobre',
 		'about.title': 'Sobre',
 		'about.description':
@@ -506,6 +515,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'Análises de periféricos, comparativos de cenários, guias de configuração, novidades de add-ons: nossa equipe editorial cobre todo o ecossistema para ajudar você a tirar o máximo do seu cockpit.',
 		'home.p3':
 			'Apaixonado por voo online ou por circuitos solo, junte-se a uma comunidade de simmers exigentes e fique por dentro dos últimos lançamentos que vão elevar suas sessões a outro nível.',
+		'home.latestArticles': 'Últimos artigos',
+		'home.viewAll': 'Ver todos os artigos →',
 		'slug.about': 'sobre',
 		'about.title': 'Sobre',
 		'about.description':
@@ -627,6 +638,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'Peripherie-Tests, Szenerie-Vergleiche, Konfigurationsanleitungen, Add-on-Neuheiten: Unsere Redaktion deckt das gesamte Ökosystem ab, damit Sie das Beste aus Ihrem Cockpit herausholen.',
 		'home.p3':
 			'Ob Online-Fliegen oder Solo-Platzrunden — schließen Sie sich einer Gemeinschaft anspruchsvoller Simmer an und bleiben Sie über die neuesten Veröffentlichungen informiert, die Ihre Sessions auf ein neues Niveau heben.',
+		'home.latestArticles': 'Neueste Artikel',
+		'home.viewAll': 'Alle Artikel ansehen →',
 		'slug.about': 'ueber-uns',
 		'about.title': 'Über uns',
 		'about.description':
@@ -748,6 +761,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'外设评测、场景对比、配置指南、插件新品：我们的编辑团队覆盖整个生态系统，帮助您从座舱中获得最佳体验。',
 		'home.p3':
 			'无论您热衷于联网飞行还是独自起落航线，加入一个高要求的模拟飞行社区，及时了解最新发布，让您的飞行体验更上一层楼。',
+		'home.latestArticles': '最新文章',
+		'home.viewAll': '查看所有文章 →',
 		'slug.about': 'guanyu',
 		'about.title': '关于',
 		'about.description': '了解 Virtual Flight 背后的团队——您的飞行模拟杂志。',
@@ -868,6 +883,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'Ulasan periferal, perbandingan scenery, panduan konfigurasi, rilis add-on: tim redaksi kami mencakup seluruh ekosistem untuk membantu Anda mendapatkan yang terbaik dari cockpit Anda.',
 		'home.p3':
 			'Penggemar terbang online atau latihan solo, bergabunglah dengan komunitas simmer yang selektif dan tetap terinformasi tentang rilis terbaru yang akan membawa sesi Anda ke level baru.',
+		'home.latestArticles': 'Artikel terbaru',
+		'home.viewAll': 'Lihat semua artikel →',
 		'slug.about': 'tentang',
 		'about.title': 'Tentang',
 		'about.description':
@@ -989,6 +1006,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'周辺機器レビュー、シーナリー比較、設定ガイド、アドオン新着情報：編集チームがエコシステム全体をカバーし、コックピットを最大限に活用するお手伝いをします。',
 		'home.p3':
 			'オンラインフライト派もソロ派も、こだわりのシマーコミュニティに参加して、セッションを新たな高みへ導く最新リリース情報をお見逃しなく。',
+		'home.latestArticles': '最新記事',
+		'home.viewAll': 'すべての記事を見る →',
 		'slug.about': 'gaiyou',
 		'about.title': '概要',
 		'about.description': 'Virtual Flight の運営チームをご紹介します。',

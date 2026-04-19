@@ -2,6 +2,7 @@
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
+import LatestPosts from '../../components/LatestPosts.astro';
 import { bcp47, type Locale } from '../../i18n/locales';
 import { getNonDefaultLocales, localePath, useTranslations } from '../../i18n/utils';
 
@@ -59,39 +60,6 @@ const t = useTranslations(locale);
 				box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
 				color: #1a5fb4;
 			}
-			.content {
-				max-width: 900px;
-				margin: 0 auto;
-				padding: clamp(2em, 5vw, 4em) clamp(1em, 4vw, 2em);
-			}
-			.cards {
-				display: grid;
-				grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-				gap: 1.5em;
-				margin-top: 1em;
-			}
-			.card {
-				background: white;
-				border-radius: var(--radius);
-				padding: 1.5em;
-				box-shadow: var(--box-shadow);
-				transition: transform 0.2s ease, box-shadow 0.2s ease;
-			}
-			.card:hover {
-				transform: translateY(-3px);
-				box-shadow: var(--box-shadow-hover);
-			}
-			.card h2 {
-				margin-top: 0;
-				color: var(--accent);
-				font-size: 1.1em;
-			}
-			.card p {
-				margin: 0;
-				color: rgb(var(--gray));
-				font-size: 0.95em;
-				line-height: 1.6;
-			}
 		</style>
 	</head>
 	<body>
@@ -104,18 +72,7 @@ const t = useTranslations(locale);
 					<a href={localePath(locale, '/blog')} class="cta">{t('nav.blog')}</a>
 				</div>
 			</section>
-			<section class="content">
-				<div class="cards">
-					<div class="card">
-						<h2>MSFS 2024</h2>
-						<p>{t('home.p2')}</p>
-					</div>
-					<div class="card">
-						<h2>X-Plane & DCS</h2>
-						<p>{t('home.p3')}</p>
-					</div>
-				</div>
-			</section>
+			<LatestPosts locale={locale} count={6} />
 		</main>
 		<Footer />
 	</body>
