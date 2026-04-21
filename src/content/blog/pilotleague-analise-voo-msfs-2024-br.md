@@ -10,8 +10,6 @@ category: "addon"
 pilotleagueLink: "https://pilotleague.com/pt/"
 ---
 
-# PilotLeague: analise seus voos MSFS 2024 como um debriefing de verdade
-
 O Microsoft Flight Simulator 2024 elevou a régua do realismo a um nível que, há alguns anos, parecia impossível para uma plataforma de consumo. Cartografia global em streaming, sistemas de aeronave modelados em detalhe, meteorologia dinâmica, ATC melhorado. Você decola de Guarulhos, sobe até o FL380 em um A320 com todos os sistemas funcionando, e o simulador entrega uma experiência visual e sistêmica que rivaliza com soluções profissionais.
 
 Só que, quando você estaciona na pista remota de destino e desliga os motores, o MSFS 2024 simplesmente... encerra o voo. Sem relatório. Sem gráfico da descida. Sem histórico dos seus pousos. Sem nada para você olhar depois e entender se aquele flare ficou bom ou se a razão de descida nos últimos 50 pés estava fora do razoável.

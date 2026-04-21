@@ -10,8 +10,6 @@ category: "addon"
 pilotleagueLink: "https://pilotleague.com/es/"
 ---
 
-# PilotLeague: analice por fin sus vuelos MSFS 2024 como un verdadero debriefing
-
 Microsoft Flight Simulator 2024 ofrece un nivel de realismo extraordinario, pero la plataforma de Asobo no propone ninguna herramienta integrada de análisis post-vuelo digna de ese nombre. Usted aterriza, se quita el headset, y sus decisiones de pilotaje se evaporan con el ruido del reactor. PilotLeague llega precisamente para llenar ese vacío, ofreciendo a los simmers serios un entorno completo de tracking, análisis y comparación de vuelos pensado como un verdadero debriefing aeronáutico.
 
 ![Panel PilotLeague — vista general de los vuelos registrados en MSFS 2024](/images/pilotleague-msfs-2024/dashboard.webp)

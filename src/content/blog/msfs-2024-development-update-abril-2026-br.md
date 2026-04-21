@@ -6,8 +6,6 @@ pubDate: "2026-04-19"
 heroImage: "../../assets/hero-msfs-2024-development-update-april-2026.webp"
 ---
 
-# MSFS 2024 Development Update abril 2026: SU5, PSVR2 e o ano à frente
-
 A Asobo Studio e a Microsoft publicaram em 15 de abril o Development Update de abril de 2026 do Microsoft Flight Simulator 2024, e dessa vez o roadmap veio recheado. Além de confirmar a janela da Sim Update 5, o texto detalha a chegada do Marketplace e do suporte PSVR2 no PS5, antecipa os aviões do Aircraft & Avionics Update 4, abre a prévia do World Update 21 dedicado à Austrália e, para a nossa alegria, revela que o próximo Expert Series depois do Piper M600 será o Embraer Praetor 600. Sim, um Embraer brasileiro como referência técnica máxima da plataforma. Vamos por partes.
 
 ## Sim Update 5: janela de 20 a 24 de abril e radar meteorológico com tilt

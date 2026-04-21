@@ -6,8 +6,6 @@ pubDate: "2026-04-19"
 heroImage: "../../assets/hero-msfs-2024-development-update-april-2026.webp"
 ---
 
-# MSFS 2024 開発アップデート 2026年4月：SU5、PSVR2 と今後のロードマップ
-
 Asobo Studio と Microsoft は 4 月 15 日、Microsoft Flight Simulator 2024 の 2026 年 4 月開発アップデートを公開しました。今回の発表は同シミュレーターにとって大きな転換点となり、Sim Update 5 のリリースウィンドウ、PlayStation 5 および PSVR2 への正式対応、そして今後数か月にわたる意欲的な機体ロードマップが示されています。バーチャルパイロットにとって、2026 年の夏から秋にかけては非常に充実した季節となりそうです。
 
 ## Sim Update 5：4 月 20 日から 24 日にリリース予定

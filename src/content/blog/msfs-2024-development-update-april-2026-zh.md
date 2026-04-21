@@ -6,8 +6,6 @@ pubDate: "2026-04-19"
 heroImage: "../../assets/hero-msfs-2024-development-update-april-2026.webp"
 ---
 
-# MSFS 2024 开发更新 2026年4月：SU5、PSVR2 与全年路线图
-
 Asobo Studio 与 Microsoft 于 4 月 15 日联合发布了 2026 年 4 月的《微软模拟飞行 2024》开发更新。这次更新的信息量相当可观：官方不仅明确了 Sim Update 5（SU5）的发布窗口，还首次系统性地披露了覆盖全年的机型路线图。对于长期关注飞行模拟社区的玩家而言，此次公告标志着 MSFS 2024 正式进入"内容爆发期"——从免费的气象雷达升级、PSVR2 首次登陆模拟器，到高度拟真的 Expert Series 旗舰机型，Asobo 正在把 2026 年打造成 MSFS 2024 最重要的一年。
 
 ## Sim Update 5：气象雷达与 PSVR2 正式上线

@@ -6,8 +6,6 @@ pubDate: "2026-04-14"
 heroImage: "../../assets/hero-dc-designs-concorde-msfs-2024.webp"
 ---
 
-# DC Designs Concorde pour MSFS 2024 — La légende supersonique renaît
-
 Le Concorde n'a jamais vraiment quitté l'imaginaire des passionnés d'aviation. Vingt-trois ans après son dernier vol commercial, l'oiseau blanc au nez basculant s'apprête à reprendre du service dans Microsoft Flight Simulator 2024. DC Designs, déjà responsable d'une version remarquée sous MSFS 2020, a entièrement reconstruit son addon pour tirer parti du nouveau moteur de simulation — et les premiers aperçus donnent le frisson.
 
 ![DC Designs Concorde en vol supersonique dans MSFS 2024](../../assets/hero-dc-designs-concorde-msfs-2024.webp)

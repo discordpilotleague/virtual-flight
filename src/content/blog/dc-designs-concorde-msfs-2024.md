@@ -6,8 +6,6 @@ pubDate: "2026-04-14"
 heroImage: "../../assets/hero-dc-designs-concorde-msfs-2024.webp"
 ---
 
-# DC Designs Concorde for MSFS 2024 — Supersonic Legend Reborn
-
 DC Designs is bringing its acclaimed Concorde addon back to life with a full native rebuild for Microsoft Flight Simulator 2024. Originally released for MSFS 2020 in March 2022, the new version has been rebuilt from the ground up to take advantage of the sim's latest engine capabilities. With a highly realistic Mach 2 flight model, a meticulously detailed 3D cockpit, and one of the most complex fuel systems ever modeled in a flight sim addon, this is shaping up to be a landmark release for virtual aviation enthusiasts.
 
 ![DC Designs Concorde flying supersonically in MSFS 2024](../../assets/hero-dc-designs-concorde-msfs-2024.webp)

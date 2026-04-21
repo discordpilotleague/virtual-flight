@@ -6,8 +6,6 @@ pubDate: "2026-04-19"
 heroImage: "../../assets/hero-msfs-2024-development-update-april-2026.webp"
 ---
 
-# MSFS 2024 Development Update April 2026: SU5, PSVR2 dan tahun ke depan
-
 Pada 15 April 2026, Asobo Studio bersama Microsoft merilis Development Update bulanan yang dinanti komunitas simulasi penerbangan. Pembaruan kali ini mungkin yang paling padat isi sejak peluncuran Microsoft Flight Simulator 2024: peta jalan untuk Sim Update 5, debut penuh platform PlayStation, dua Expert Series yang ambisius, World Update untuk Australia, dan deretan pesawat klasik dalam AAU4. Bagi penerbang virtual Indonesia yang mengikuti perkembangan simulator ini, April hingga akhir tahun 2026 akan menjadi periode yang sangat sibuk.
 
 Mari kita telaah setiap pengumuman dan apa artinya bagi pengalaman terbang Anda, baik di PC, Xbox, maupun PlayStation 5.

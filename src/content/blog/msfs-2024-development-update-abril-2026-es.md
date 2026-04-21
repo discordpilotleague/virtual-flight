@@ -6,8 +6,6 @@ pubDate: "2026-04-19"
 heroImage: "../../assets/hero-msfs-2024-development-update-april-2026.webp"
 ---
 
-# MSFS 2024 Development Update abril 2026: SU5, PSVR2 y el año que viene
-
 Asobo Studio y Microsoft publicaron el 15 de abril su Development Update correspondiente a abril de 2026. El calendario que dibuja el equipo es uno de los más densos desde el lanzamiento del simulador: una Sim Update 5 con repercusiones técnicas reales, la apertura del Marketplace a PlayStation 5 y al casco PSVR2, un ATR esperado desde hace meses, un World Update centrado en Australia y dos Expert Series anunciadas para 2026. Por primera vez desde el verano pasado, Asobo detalla no solo lo inmediato sino una ruta a un año, con lanzamientos escalonados hasta noviembre.
 
 Este Development Update confirma también la trayectoria que el estudio había insinuado al final de 2025: el paso de una fase de consolidación técnica a una fase de enriquecimiento de flota, con aeronaves pensadas para pilotos virtuales que exigen fidelidad de sistemas, no solo modelos bonitos. Este artículo repasa, sección por sección, lo que llega en las próximas semanas y las próximas estaciones.

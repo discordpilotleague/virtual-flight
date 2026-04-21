@@ -6,8 +6,6 @@ pubDate: "2026-04-18"
 heroImage: "../../assets/hero-pilotleague-flight-analysis-msfs-2024.webp"
 ---
 
-# PilotLeague：像真正的飞行讲评一样分析您的 MSFS 2024 飞行
-
 Microsoft Flight Simulator 2024 在沉浸感和真实度方面达到了前所未有的高度，但当您关闭驾驶舱之后，一切便戛然而止：没有讲评，没有数据，只有对那次着陆"感觉"的模糊印象。**PilotLeague** 正是为填补这一空白而生——它是一款专为 MSFS 2024 打造的飞行跟踪与分析平台，由一群飞行爱好者团队开发。他们希望每一次起飞都能像真正的航线飞行一样被记录、分析和复盘。
 
 ![PilotLeague 仪表盘——MSFS 2024 已记录飞行概览](/images/pilotleague-msfs-2024/dashboard.webp)

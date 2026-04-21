@@ -6,8 +6,6 @@ pubDate: "2026-04-19"
 heroImage: "../../assets/hero-msfs-2024-development-update-april-2026.webp"
 ---
 
-# MSFS 2024 Development Update April 2026: SU5, PSVR2 and the year ahead
-
 Asobo and Microsoft published the April 2026 Development Update for Microsoft Flight Simulator 2024 on April 15, consolidating news from the developer livestream into one comprehensive post. This edition is particularly dense: Sim Update 5 gets a release window, the PlayStation 5 Marketplace and PSVR2 support finally ship, and the twelve-month aircraft roadmap is now clearly laid out — with two Expert Series aircraft that will define the second half of 2026.
 
 ## Sim Update 5 lands April 20-24, PSVR2 support goes live

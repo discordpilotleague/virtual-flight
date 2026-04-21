@@ -10,8 +10,6 @@ category: "addon"
 pilotleagueLink: "https://pilotleague.com/id/"
 ---
 
-# PilotLeague: analisis penerbangan MSFS 2024 Anda seperti debriefing sungguhan
-
 Microsoft Flight Simulator 2024 memberikan pengalaman visual dan model penerbangan yang luar biasa, tetapi begitu mesin dimatikan, hampir tidak ada jejak dari apa yang baru saja terjadi di kokpit. Tidak ada kurva laju turun, tidak ada faktor beban pada sentuhan roda, tidak ada konsumsi bahan bakar per fase — hanya halaman statistik ringkasan yang cepat dilupakan. PilotLeague mengisi kekosongan ini dengan platform pelacakan dan analisis penerbangan yang dirancang khusus untuk simmer yang ingin menerbangkan pesawat mereka seperti seorang profesional.
 
 ![Dashboard PilotLeague — tinjauan penerbangan MSFS 2024 yang tercatat](/images/pilotleague-msfs-2024/dashboard.webp)

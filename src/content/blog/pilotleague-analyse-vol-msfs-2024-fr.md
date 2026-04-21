@@ -6,8 +6,6 @@ pubDate: "2026-04-18"
 heroImage: "../../assets/hero-pilotleague-flight-analysis-msfs-2024.webp"
 ---
 
-# PilotLeague : analyse enfin vos vols MSFS 2024 comme un vrai debriefing
-
 Microsoft Flight Simulator 2024 est probablement le simulateur de vol grand public le plus abouti de l'histoire. Pourtant, une fois le vol terminé, beaucoup de simmers expérimentés restent sur leur faim : le simulateur met en situation mais ne débriefe pas. C'est pour combler ce vide qu'est née **PilotLeague**, une plateforme de tracking et d'analyse de vol entièrement dédiée à MSFS 2024.
 
 ![Dashboard PilotLeague — vue d'ensemble des vols enregistrés dans MSFS 2024](/images/pilotleague-msfs-2024/dashboard.webp)
