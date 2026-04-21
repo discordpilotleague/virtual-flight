@@ -6,6 +6,7 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import PilotLeagueCard from '../components/PilotLeagueCard.astro';
+import { SITE_TITLE } from '../consts';
 import { bcp47, defaultLocale, type Locale } from '../i18n/locales';
 import { useTranslations } from '../i18n/utils';
 
@@ -26,11 +27,53 @@ const {
 	partnerCardSeed,
 } = Astro.props;
 const t = useTranslations(locale);
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const heroImageURL = heroImage ? new URL(heroImage.src, Astro.site).toString() : undefined;
+
+const jsonLd: Record<string, unknown> = {
+	'@context': 'https://schema.org',
+	'@type': 'Article',
+	headline: title,
+	description,
+	datePublished: pubDate.toISOString(),
+	dateModified: (updatedDate ?? pubDate).toISOString(),
+	inLanguage: bcp47[locale],
+	mainEntityOfPage: {
+		'@type': 'WebPage',
+		'@id': canonicalURL.toString(),
+	},
+	author: {
+		'@type': 'Organization',
+		name: SITE_TITLE,
+		url: new URL('/', Astro.site).toString(),
+	},
+	publisher: {
+		'@type': 'Organization',
+		name: SITE_TITLE,
+		logo: {
+			'@type': 'ImageObject',
+			url: new URL('/favicon.svg', Astro.site).toString(),
+		},
+	},
+};
+if (heroImageURL) {
+	jsonLd.image = heroImageURL;
+}
 ---
 
 <html lang={bcp47[locale]}>
 	<head>
-		<BaseHead title={title} description={description} locale={locale} />
+		<BaseHead
+				title={title}
+				description={description}
+				locale={locale}
+				image={heroImage}
+				ogType="article"
+				publishedTime={pubDate}
+				modifiedTime={updatedDate ?? pubDate}
+				jsonLd={jsonLd}
+			/>
 		<style>
 			main {
 				width: 100%;
