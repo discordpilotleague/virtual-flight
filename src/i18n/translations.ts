@@ -35,6 +35,10 @@ const fr = {
 
 	'footer.copyright': 'Tous droits réservés.',
 	'blog.lastUpdated': 'Dernière mise à jour le',
+	'blog.authorByline': 'Par la rédaction Virtual Flight',
+	'blog.authorBio':
+		"Notre équipe cumule des milliers d'heures de vol sur MSFS 2024, X-Plane et DCS. Nous testons hardware et add-ons avec rigueur et indépendance éditoriale — aucun contenu sponsorisé ne paraît sur Virtual Flight.",
+	'blog.authorLinkLabel': 'En savoir plus sur notre équipe →',
 	'social.mastodon': 'Suivre sur Mastodon',
 	'social.twitter': 'Suivre sur Twitter',
 	'social.github': 'Voir le dépôt GitHub',
@@ -167,6 +171,10 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'We welcome your feedback, suggestions and contributions. Visit our contact page — we would love to hear from you.',
 		'footer.copyright': 'All rights reserved.',
 		'blog.lastUpdated': 'Last updated on',
+		'blog.authorByline': 'By the Virtual Flight editorial team',
+		'blog.authorBio':
+			'Our team has logged thousands of flight hours across MSFS 2024, X-Plane and DCS. We test hardware and add-ons with rigour and editorial independence — Virtual Flight publishes no sponsored content.',
+		'blog.authorLinkLabel': 'Learn more about our team →',
 		'social.mastodon': 'Follow on Mastodon',
 		'social.twitter': 'Follow on Twitter',
 		'social.github': 'Go to GitHub repo',
@@ -295,6 +303,10 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'Agradecemos tus comentarios, sugerencias y contribuciones. Visite nuestra página de contacto — nos encantará saber de usted.',
 		'footer.copyright': 'Todos los derechos reservados.',
 		'blog.lastUpdated': 'Última actualización el',
+		'blog.authorByline': 'Por la redacción de Virtual Flight',
+		'blog.authorBio':
+			'Nuestro equipo acumula miles de horas de vuelo en MSFS 2024, X-Plane y DCS. Probamos hardware y add-ons con rigor e independencia editorial — Virtual Flight no publica contenido patrocinado.',
+		'blog.authorLinkLabel': 'Más información sobre nuestro equipo →',
 		'social.mastodon': 'Seguir en Mastodon',
 		'social.twitter': 'Seguir en Twitter',
 		'social.github': 'Ir al repositorio GitHub',
@@ -423,6 +435,10 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'Agradecemos o seu feedback, sugestões e contribuições. Visite a nossa página de contacto — teremos muito gosto em ouvir a sua opinião.',
 		'footer.copyright': 'Todos os direitos reservados.',
 		'blog.lastUpdated': 'Última atualização em',
+		'blog.authorByline': 'Pela redação da Virtual Flight',
+		'blog.authorBio':
+			'A nossa equipa acumula milhares de horas de voo em MSFS 2024, X-Plane e DCS. Testamos hardware e add-ons com rigor e independência editorial — a Virtual Flight não publica conteúdo patrocinado.',
+		'blog.authorLinkLabel': 'Saber mais sobre a nossa equipa →',
 		'social.mastodon': 'Seguir no Mastodon',
 		'social.twitter': 'Seguir no Twitter',
 		'social.github': 'Ir para o repositório GitHub',
@@ -551,6 +567,10 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'Agradecemos seu feedback, sugestões e contribuições. Visite nossa página de contato — adoraríamos ouvir você.',
 		'footer.copyright': 'Todos os direitos reservados.',
 		'blog.lastUpdated': 'Última atualização em',
+		'blog.authorByline': 'Pela redação da Virtual Flight',
+		'blog.authorBio':
+			'Nossa equipe acumula milhares de horas de voo no MSFS 2024, X-Plane e DCS. Testamos hardware e add-ons com rigor e independência editorial — a Virtual Flight não publica conteúdo patrocinado.',
+		'blog.authorLinkLabel': 'Saiba mais sobre nossa equipe →',
 		'social.mastodon': 'Seguir no Mastodon',
 		'social.twitter': 'Seguir no Twitter',
 		'social.github': 'Ir para o repositório GitHub',
@@ -679,6 +699,10 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'Wir freuen uns über Ihr Feedback, Ihre Vorschläge und Beiträge. Besuchen Sie unsere Kontaktseite — wir hören gerne von Ihnen.',
 		'footer.copyright': 'Alle Rechte vorbehalten.',
 		'blog.lastUpdated': 'Zuletzt aktualisiert am',
+		'blog.authorByline': 'Von der Virtual-Flight-Redaktion',
+		'blog.authorBio':
+			'Unser Team hat Tausende Flugstunden in MSFS 2024, X-Plane und DCS absolviert. Wir testen Hardware und Add-ons mit Gründlichkeit und redaktioneller Unabhängigkeit — Virtual Flight veröffentlicht keine gesponserten Inhalte.',
+		'blog.authorLinkLabel': 'Mehr über unser Team →',
 		'social.mastodon': 'Auf Mastodon folgen',
 		'social.twitter': 'Auf Twitter folgen',
 		'social.github': 'Zum GitHub-Repository',
@@ -806,6 +830,10 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'我们欢迎您的反馈、建议和贡献。请访问我们的联系页面——期待您的来信。',
 		'footer.copyright': '保留所有权利。',
 		'blog.lastUpdated': '最后更新于',
+		'blog.authorByline': 'Virtual Flight 编辑团队',
+		'blog.authorBio':
+			'我们的团队在 MSFS 2024、X-Plane 和 DCS 上累计了数千小时飞行时间。我们以严谨和编辑独立性测试硬件与插件——Virtual Flight 不发布任何赞助内容。',
+		'blog.authorLinkLabel': '了解更多关于我们团队 →',
 		'social.mastodon': '在 Mastodon 上关注',
 		'social.twitter': '在 Twitter 上关注',
 		'social.github': '前往 GitHub 仓库',
@@ -934,6 +962,10 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'Kami menyambut masukan, saran, dan kontribusi Anda. Kunjungi halaman kontak kami — kami senang mendengar dari Anda.',
 		'footer.copyright': 'Hak cipta dilindungi.',
 		'blog.lastUpdated': 'Terakhir diperbarui pada',
+		'blog.authorByline': 'Oleh tim redaksi Virtual Flight',
+		'blog.authorBio':
+			'Tim kami telah mencatat ribuan jam terbang di MSFS 2024, X-Plane, dan DCS. Kami menguji hardware dan add-on dengan ketelitian dan independensi editorial — Virtual Flight tidak memuat konten berbayar.',
+		'blog.authorLinkLabel': 'Pelajari lebih lanjut tentang tim kami →',
 		'social.mastodon': 'Ikuti di Mastodon',
 		'social.twitter': 'Ikuti di Twitter',
 		'social.github': 'Kunjungi repositori GitHub',
@@ -1061,6 +1093,10 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 			'フィードバック、ご提案、ご寄稿を歓迎いたします。お問い合わせページよりお気軽にご連絡ください。皆様からのメッセージをお待ちしております。',
 		'footer.copyright': 'All rights reserved.',
 		'blog.lastUpdated': '最終更新日',
+		'blog.authorByline': 'Virtual Flight 編集部',
+		'blog.authorBio':
+			'私たちのチームは MSFS 2024、X-Plane、DCS で数千時間の飛行経験を重ねています。厳密さと編集上の独立性をもってハードウェアとアドオンをテストしており、Virtual Flight にスポンサー記事は一切掲載されません。',
+		'blog.authorLinkLabel': 'チームについて詳しく →',
 		'social.mastodon': 'Mastodon でフォロー',
 		'social.twitter': 'Twitter でフォロー',
 		'social.github': 'GitHub リポジトリへ',

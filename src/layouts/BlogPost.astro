@@ -8,7 +8,8 @@ import Header from '../components/Header.astro';
 import PilotLeagueCard from '../components/PilotLeagueCard.astro';
 import { SITE_TITLE } from '../consts';
 import { bcp47, defaultLocale, type Locale } from '../i18n/locales';
-import { useTranslations } from '../i18n/utils';
+import { translations } from '../i18n/translations';
+import { localePath, useTranslations } from '../i18n/utils';
 
 type Props = CollectionEntry<'blog'>['data'] & {
 	locale?: Locale;
@@ -30,6 +31,8 @@ const t = useTranslations(locale);
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const heroImageURL = heroImage ? new URL(heroImage.src, Astro.site).toString() : undefined;
+const aboutSlug = translations[locale]?.['slug.about'] ?? 'about';
+const aboutHref = localePath(locale, `/${aboutSlug}`);
 
 const jsonLd: Record<string, unknown> = {
 	'@context': 'https://schema.org',
@@ -46,7 +49,8 @@ const jsonLd: Record<string, unknown> = {
 	author: {
 		'@type': 'Organization',
 		name: SITE_TITLE,
-		url: new URL('/', Astro.site).toString(),
+		url: new URL(aboutHref, Astro.site).toString(),
+		description: t('blog.authorBio'),
 	},
 	publisher: {
 		'@type': 'Organization',
@@ -171,6 +175,34 @@ if (heroImageURL) {
 				border-radius: var(--radius);
 				margin: 1.5em 0;
 			}
+			.author-bio {
+				margin-top: 3em;
+				padding: 1.5em 1.75em;
+				border-left: 4px solid var(--accent);
+				background: rgba(26, 95, 180, 0.05);
+				border-radius: 0 8px 8px 0;
+			}
+			.author-bio .byline {
+				font-weight: 700;
+				margin: 0 0 0.5em 0;
+				color: rgb(var(--black));
+				font-size: 1em;
+			}
+			.author-bio p {
+				margin: 0 0 0.75em 0;
+				color: rgb(var(--gray-dark));
+				font-size: 0.95em;
+				line-height: 1.6;
+			}
+			.author-bio a {
+				color: var(--accent);
+				text-decoration: none;
+				font-weight: 600;
+				font-size: 0.95em;
+			}
+			.author-bio a:hover {
+				text-decoration: underline;
+			}
 		</style>
 	</head>
 
@@ -201,6 +233,11 @@ if (heroImageURL) {
 						<hr />
 					</div>
 					<slot />
+					<aside class="author-bio" aria-label={t('blog.authorByline')}>
+						<p class="byline">{t('blog.authorByline')}</p>
+						<p>{t('blog.authorBio')}</p>
+						<a href={aboutHref}>{t('blog.authorLinkLabel')}</a>
+					</aside>
 					{showPartnerCard && <PilotLeagueCard locale={locale} seed={partnerCardSeed} />}
 				</div>
 			</article>
