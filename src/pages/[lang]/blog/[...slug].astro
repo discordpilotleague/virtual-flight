@@ -25,7 +25,7 @@ const { Content } = await render(post);
 <BlogPost
 	{...post.data}
 	locale={locale}
-	showPartnerCard={post.id.startsWith('msfs-2024-development-update-')}
+	showPartnerCard={post.id.startsWith('msfs-2024-development-update-') || post.id.startsWith('navigraph-')}
 	partnerCardSeed={post.id}
 >
 	<Content />
