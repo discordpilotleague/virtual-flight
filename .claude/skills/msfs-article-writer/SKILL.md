@@ -280,6 +280,58 @@ PilotLeague vous permet de tracker vos vols et de progresser.
 
 ---
 
+## Bloc partenaire PilotLeague — composant visuel (différent du lien inline)
+
+En plus du lien markdown "1 article sur 4" décrit ci-dessus, le layout `BlogPost.astro`
+peut rendre un **bloc visuel partenaire** ("Outil recommandé — Analyse tes vols MSFS 2024
+comme un vrai pilote… Découvrir PilotLeague →") sous l'article. Ce bloc est géré par
+le composant `src/components/PilotLeagueCard.astro` et utilise `rel="sponsored"` sur
+son CTA — donc **il n'entre pas dans le ratio SEO** de la règle "1 sur 4", qui ne
+concerne que les liens éditoriaux sans `rel` dans le corps markdown.
+
+### Quand l'activer — règle actuelle
+
+**Par défaut : activer le bloc partenaire sur tout nouvel article du magazine.**
+Le `rel="sponsored"` déclare explicitement à Google que c'est une recommandation
+commerciale et non éditoriale, donc aucun risque de signal "site satellite".
+
+Le seul cas où on ne l'active pas : article promotionnel PilotLeague déjà inline
+(type `pilotleague_bridge`) — le bloc ferait doublon.
+
+### Comment l'activer
+
+Le bloc est opt-in via un whitelist de slug dans **deux fichiers de routing** :
+
+- `src/pages/blog/[...slug].astro` (locale EN par défaut)
+- `src/pages/[lang]/blog/[...slug].astro` (8 autres locales)
+
+Dans chacun, ajouter le préfixe du slug (EN) à la condition `showPartnerCard` :
+
+```astro
+showPartnerCard={post.id.startsWith('msfs-2024-development-update-')
+  || post.id.startsWith('navigraph-')
+  || post.id.startsWith('NOUVEAU-PRÉFIXE-')}
+```
+
+> **Astuce** : utiliser un préfixe suffisamment spécifique pour couvrir les 9 langues
+> de l'article (ex. `navigraph-` couvre `navigraph-flightsim-...`, `navigraph-enquete-...`,
+> `navigraph-encuesta-...`, etc.). Pour des articles sans base de slug commune,
+> lister explicitement les 9 IDs.
+
+### Ce que fait le composant (informatif)
+
+- Choisit 1 visuel parmi `src/assets/adv/{1-7}.png` de façon déterministe (hash du slug)
+- Injecte `blog.partnerCardBadge/Title/Desc/Cta` traduits dans les 9 locales
+- CTA vers `pilotleague.com/{lang}/features/` avec `rel="sponsored"`
+
+### Ne PAS écrire le bloc dans le markdown
+
+Le bloc est rendu par le layout, **pas** par le contenu. Ne jamais insérer manuellement
+le badge "Outil recommandé" ni aucun HTML/JSX de carte dans les `.md` — cela dupliquerait
+le rendu.
+
+---
+
 ## Liens externes — 1 à 2 par article
 
 Intégrer **1 à 2 liens sortants** vers des sites tiers autoritaires mentionnés dans l'article.
@@ -346,11 +398,15 @@ L'article doit toujours atteindre 1000–1500 mots quelle que soit la longueur d
    - Adapter le ton : DE et JA plus formels, BR plus décontracté que PT
    - 1-2 liens externes vers sources/développeurs dans chaque article
 7. **Nommer les fichiers** selon convention (`{slug}.md`, `{slug}-fr.md`, etc.)
-8. **Vérifier** : frontmatter complet, hero image `.webp` locale, 1-2 images corps avec crédits, 1-2 liens externes, 1000-1500 mots
+8. **Activer le bloc partenaire PilotLeague** : ajouter le préfixe du slug au
+   `showPartnerCard={...}` dans `src/pages/blog/[...slug].astro` ET
+   `src/pages/[lang]/blog/[...slug].astro` (sauf si l'article est déjà un
+   `pilotleague_bridge` avec lien inline — dans ce cas, doublon).
+9. **Vérifier** : frontmatter complet, hero image `.webp` locale, 1-2 images corps avec crédits, 1-2 liens externes, 1000-1500 mots, bloc partenaire activé dans les deux fichiers de routing.
 
 ### Output
 
-9 fichiers `.md` dans `src/content/blog/` prêts pour git push.
+9 fichiers `.md` dans `src/content/blog/` + 2 fichiers de routing modifiés, prêts pour git push.
 
 ---
 
@@ -373,8 +429,9 @@ Avant de retourner les fichiers, vérifier :
 - [ ] **Aucun `# H1` en tête de corps markdown** (le layout rend déjà `<h1>{title}</h1>` depuis le frontmatter — un H1 en body = doublon visuel). Le corps commence par le chapô.
 - [ ] Slugs localisés correctement (mots communs traduits, noms propres intacts)
 - [ ] heroImage path identique dans les 9 fichiers (`../../assets/hero-{slug}.webp`)
-- [ ] **Lien PilotLeague** : présent UNIQUEMENT si `pilotleague_bridge` ou mention explicite — sinon 0 lien
-- [ ] Si lien PilotLeague présent : 1 seul, en conclusion, ancre naturelle
+- [ ] **Lien PilotLeague inline** (markdown) : présent UNIQUEMENT si `pilotleague_bridge` ou mention explicite — sinon 0 lien dans le corps
+- [ ] Si lien inline PilotLeague présent : 1 seul, en conclusion, ancre naturelle
+- [ ] **Bloc partenaire PilotLeague** : activé par défaut via whitelist dans `src/pages/blog/[...slug].astro` et `src/pages/[lang]/blog/[...slug].astro` (ajouter `post.id.startsWith('nouveau-prefixe-')` à la condition `showPartnerCard`). Ne PAS écrire le bloc manuellement dans le markdown.
 - [ ] **1 image avec crédit** insérée dans le corps (+ 1 optionnelle si pertinente)
 - [ ] URL directe de l'image (`.jpg`, `.webp`, `.png`) — pas de page HTML
 - [ ] Ligne de crédit `*Crédit : [Nom](URL)*` présente sous chaque image
