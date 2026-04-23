@@ -12,8 +12,22 @@ async function main() {
   }
 
   const heroOut = `src/assets/hero-${slug}.webp`;
-  const heroInfo = await sharp(path.join(srcDir, 'leaderboard.png'))
-    .resize({ width: 1600, kernel: sharp.kernel.lanczos3 })
+  // 16:9 target for Google Discover (1600x900). Screenshot is ~1.22:1 — fit to
+  // 900 height, then pad left/right with the PilotLeague dark-navy UI bg so
+  // nothing is cropped and the result looks like a natural app banner.
+  const resized = await sharp(path.join(srcDir, 'leaderboard.png'))
+    .resize({ height: 900, kernel: sharp.kernel.lanczos3 })
+    .toBuffer({ resolveWithObject: true });
+  const padLeft = Math.floor((1600 - resized.info.width) / 2);
+  const padRight = 1600 - resized.info.width - padLeft;
+  const heroInfo = await sharp(resized.data)
+    .extend({
+      top: 0,
+      bottom: 0,
+      left: padLeft,
+      right: padRight,
+      background: { r: 15, g: 23, b: 42, alpha: 1 }, // slate-900, close to PL UI
+    })
     .webp({ quality: 88 })
     .toFile(heroOut);
   console.log(`HERO ${heroOut}: ${heroInfo.width}x${heroInfo.height} (${Math.round(heroInfo.size / 1024)}kB)`);
