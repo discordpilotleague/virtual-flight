@@ -43,6 +43,23 @@ export function getEventData(
 				name: 'Flight Simulation Association',
 				url: 'https://flightsimassociation.com/',
 			},
+			performer: [
+				{
+					'@type': 'Organization',
+					name: 'Navigraph',
+					url: 'https://navigraph.com/',
+				},
+				{
+					'@type': 'Organization',
+					name: 'PMDG Simulations',
+					url: 'https://pmdg.com/',
+				},
+				{
+					'@type': 'Organization',
+					name: 'iniBuilds',
+					url: 'https://www.inibuilds.com/',
+				},
+			],
 			offers: [
 				{
 					'@type': 'Offer',
