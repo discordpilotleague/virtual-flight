@@ -3,6 +3,7 @@ import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../../../layouts/BlogPost.astro';
 import type { Locale } from '../../../i18n/locales';
 import { getNonDefaultLocales } from '../../../i18n/utils';
+import { getEventData } from '../../../utils/eventSchema';
 
 export async function getStaticPaths() {
 	const paths = [];
@@ -20,6 +21,10 @@ export async function getStaticPaths() {
 
 const { post, locale } = Astro.props as { post: CollectionEntry<'blog'>; locale: Locale };
 const { Content } = await render(post);
+const heroImageUrl = post.data.heroImage
+	? new URL(post.data.heroImage.src, Astro.site).toString()
+	: undefined;
+const eventData = getEventData(post.id, post.data.description, heroImageUrl);
 ---
 
 <BlogPost
@@ -27,6 +32,7 @@ const { Content } = await render(post);
 	locale={locale}
 	showPartnerCard={post.id.startsWith('msfs-2024-development-update-') || post.id.startsWith('navigraph-') || post.id.startsWith('flightsimexpo-2026-saint-paul-')}
 	partnerCardSeed={post.id}
+	eventData={eventData}
 >
 	<Content />
 </BlogPost>

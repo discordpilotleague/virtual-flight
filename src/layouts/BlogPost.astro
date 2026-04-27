@@ -15,6 +15,7 @@ type Props = CollectionEntry<'blog'>['data'] & {
 	locale?: Locale;
 	showPartnerCard?: boolean;
 	partnerCardSeed?: string;
+	eventData?: Record<string, unknown>;
 };
 
 const {
@@ -26,6 +27,7 @@ const {
 	locale = defaultLocale,
 	showPartnerCard = false,
 	partnerCardSeed,
+	eventData,
 } = Astro.props;
 const t = useTranslations(locale);
 
@@ -34,8 +36,7 @@ const heroImageURL = heroImage ? new URL(heroImage.src, Astro.site).toString() :
 const aboutSlug = translations[locale]?.['slug.about'] ?? 'about';
 const aboutHref = localePath(locale, `/${aboutSlug}`);
 
-const jsonLd: Record<string, unknown> = {
-	'@context': 'https://schema.org',
+const articleNode: Record<string, unknown> = {
 	'@type': 'Article',
 	headline: title,
 	description,
@@ -62,8 +63,15 @@ const jsonLd: Record<string, unknown> = {
 	},
 };
 if (heroImageURL) {
-	jsonLd.image = heroImageURL;
+	articleNode.image = heroImageURL;
 }
+
+const jsonLd: Record<string, unknown> = eventData
+	? {
+		'@context': 'https://schema.org',
+		'@graph': [articleNode, eventData],
+	}
+	: { '@context': 'https://schema.org', ...articleNode };
 ---
 
 <html lang={bcp47[locale]}>

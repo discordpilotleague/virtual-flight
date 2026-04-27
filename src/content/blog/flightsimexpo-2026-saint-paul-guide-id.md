@@ -72,6 +72,8 @@ Tier **Diamond** mencakup OnAir Airline Manager, SayIntentions.AI, FSElite, SKAL
 
 Selain software dan hardware, hall juga menampung organisasi penerbangan dunia nyata, virtual airline, program pelatihan, serta komunitas. Di sini kamu bisa membandingkan platform motion enam derajat kebebasan dengan yoke di bawah US$ 300, mencolok Honeycomb Bravo ke home cockpit pengunjung lain, lalu tiga menit kemudian mendiskusikan roadmap dengan developer PMDG. Kepadatan pengetahuan inilah alasan utama untuk datang.
 
+Penasaran dengan jenis produk yang bisa kamu coba langsung? Review mendalam kami untuk [PMDG 737-600 di MSFS 2024](/id/blog/pmdg-737-600-msfs-2024-id/), [Aerosoft A340-600 PRO](/id/blog/aerosoft-a340-600-pro-msfs-id/), dan [panel overhead ROWSFIRE B107 737](/id/blog/rowsfire-b107-b737-overhead-panel-id/) memberikan gambaran yang bagus tentang apa yang ditawarkan developer dan vendor hardware di acara ini.
+
 ## Seminar, workshop, dan pengumuman Jumat yang legendaris
 
 Dua panggung berjalan terus-menerus pada Sabtu dan Minggu untuk seminar dan diskusi panel, sedangkan panggung ketiga difokuskan pada workshop praktis. Edisi sebelumnya membahas semua sisi hobi ini: konfigurasi home cockpit, langkah pertama di VATSIM, pembuatan scenery dengan SDK MSFS, prosedur helikopter di DCS, mendirikan virtual airline, jalur karier ATC dunia nyata, sampai bedah teknis dari tim developer.

@@ -72,6 +72,8 @@ O **nível Diamond** integra OnAir Airline Manager, SayIntentions.AI, FSElite, S
 
 Para além de software e hardware, o evento acolhe ainda organizações de aviação real, companhias virtuais, programas de formação e grupos comunitários. É o único lugar do ano onde se compara uma plataforma dinâmica de seis eixos com um yoke de menos de 300 $, se liga um Honeycomb Bravo ao home cockpit de outro visitante e, três minutos depois, se discute o roteiro com um programador da PMDG. Essa densidade de experiência é exatamente a razão para se deslocar.
 
+Quer ter uma ideia do tipo de produtos que poderá experimentar in loco? As nossas análises recentes do [PMDG 737-600 para MSFS 2024](/pt/blog/pmdg-737-600-msfs-2024-pt/), do [Aerosoft A340-600 PRO](/pt/blog/aerosoft-a340-600-pro-msfs-pt/) e do [painel overhead ROWSFIRE B107 737](/pt/blog/rowsfire-b107-b737-overhead-panel-pt/) dão uma boa amostra do que os estúdios e fabricantes presentes oferecem.
+
 ## Seminários, workshops e os míticos anúncios de sexta
 
 Dois palcos funcionam em contínuo ao sábado e ao domingo com seminários e mesas redondas, enquanto o terceiro palco é reservado a workshops práticos. As edições anteriores cobriram todos os ângulos do hobby: configurar um home cockpit, começar na VATSIM, criar um cenário com o SDK do MSFS, procedimentos de helicóptero no DCS, montar uma companhia virtual, percursos profissionais no controlo aéreo e mergulhos técnicos com as próprias equipas dos estudios.

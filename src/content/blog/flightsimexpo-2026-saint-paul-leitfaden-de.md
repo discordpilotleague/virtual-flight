@@ -1,6 +1,6 @@
 ---
 title: "FlightSimExpo 2026 in Saint Paul: der komplette Leitfaden"
-description: "FlightSimExpo 2026 findet vom 12. bis 14. Juni in Saint Paul, Minnesota statt. Termine, Veranstaltungsort, Tickets, Hotels, Aussteller und Programm im Überblick."
+description: "FlightSimExpo 2026 findet vom 12.–14. Juni in Saint Paul, Minnesota statt. Termine, Ort, Tickets, Hotels, Aussteller und Programm im Überblick."
 lang: "de"
 pubDate: "2026-04-27"
 heroImage: "../../assets/hero-flightsimexpo-2026-saint-paul-guide.webp"
@@ -71,6 +71,8 @@ Für die FlightSimExpo 2026 sind bereits mehr als 60 Aussteller bestätigt, vert
 Die **Stufe Diamond** umfasst OnAir Airline Manager, SayIntentions.AI, FSElite, SKALARKI Electronics, WINCTRL, Meridian GMT, SimFab, FSReborn, Thrustmaster, Honeycomb Aeronautical und X-Plane. In der **Stufe Platinum** finden sich DOF Reality Motion Simulators, VA Systems, AviaSim, SIMiONIC, Gleim Aviation und Parallel 42. Und die **Stufe Gold** versammelt die lange Liste beliebter Community-Marken: Aerosoft, FlyByWire Simulations, MK Studios, BlueBird Simulations, Tobii Gaming, Sporty's Pilot Shop, TFDi Design, SoFly, Pimax, GeoFS, VATSIM und viele mehr.
 
 Neben Software und Hardware empfängt die Messe zudem reale Luftfahrtorganisationen, virtuelle Fluggesellschaften, Trainingsprogramme und Community-Gruppen. Es ist der einzige Ort des Jahres, an dem sich eine sechs-Achsen-Bewegungsplattform mit einem Yoke unter 300 $ vergleichen lässt, ein Honeycomb Bravo am Home Cockpit eines anderen Besuchers angeschlossen werden kann und drei Minuten später ein Roadmap-Gespräch mit einem PMDG-Entwickler stattfindet. Genau diese Dichte an Expertise ist der Grund, hinzufahren.
+
+Wer wissen möchte, welche Art von Produkten vor Ort wartet, findet einen guten Eindruck in unseren ausführlichen Reviews zur [PMDG 737-600 für MSFS 2024](/de/blog/pmdg-737-600-msfs-2024-de/), zur [Aerosoft A340-600 PRO](/de/blog/aerosoft-a340-600-pro-msfs-de/) und zum [ROWSFIRE B107 737-Overhead-Panel](/de/blog/rowsfire-b107-b737-overhead-panel-de/) — sie zeigen exemplarisch, was Studios und Hardwarehersteller auf der Messe bieten.
 
 ## Seminare, Workshops und die legendären Freitagsankündigungen
 

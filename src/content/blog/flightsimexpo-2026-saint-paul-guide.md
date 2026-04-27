@@ -1,6 +1,6 @@
 ---
 title: "FlightSimExpo 2026 in Saint Paul: The Complete Guide"
-description: "FlightSimExpo 2026 lands in Saint Paul, Minnesota June 12-14. Dates, venue, tickets, hotels, exhibitors, schedule — everything flight simmers need to plan their trip."
+description: "FlightSimExpo 2026 lands in Saint Paul, Minnesota June 12-14. Dates, venue, tickets, hotels, exhibitors and schedule — everything to plan your trip."
 lang: "en"
 pubDate: "2026-04-27"
 heroImage: "../../assets/hero-flightsimexpo-2026-saint-paul-guide.webp"
@@ -71,6 +71,8 @@ FlightSimExpo 2026 already has a confirmed lineup of more than 60 exhibitors, wi
 The **Diamond tier** includes OnAir Airline Manager, SayIntentions.AI, FSElite, SKALARKI Electronics, WINCTRL, Meridian GMT, SimFab, FSReborn, Thrustmaster, Honeycomb Aeronautical and X-Plane itself. The **Platinum tier** brings DOF Reality Motion Simulators, VA Systems, AviaSim, SIMiONIC, Gleim Aviation and Parallel 42. And the **Gold tier** is where the long tail of community-favorite brands sits: Aerosoft, FlyByWire Simulations, MK Studios, BlueBird Simulations, Tobii Gaming, Sporty's Pilot Shop, TFDi Design, SoFly, Pimax, GeoFS, VATSIM and many more.
 
 Beyond software and hardware, the floor also hosts real-world aviation organizations, virtual airlines, training programs and community groups. It's the only place each year where you can compare a six-degrees-of-freedom motion platform against a sub-$300 yoke set, plug a Honeycomb Bravo into a friend's home cockpit, and then walk three minutes to talk roadmap with a PMDG developer. That density of expertise is the whole point of going.
+
+Curious about the kind of products you'll be able to try in person? Our recent in-depth reviews of the [PMDG 737-600 for MSFS 2024](/blog/pmdg-737-600-msfs-2024/), the [Aerosoft A340-600 PRO](/blog/aerosoft-a340-600-pro-msfs-en/) and the [ROWSFIRE B107 737 overhead panel](/blog/rowsfire-b107-b737-overhead-panel/) give a good taste of what the developers and hardware vendors at the show have to offer.
 
 ## Seminars, workshops and the legendary Friday reveals
 

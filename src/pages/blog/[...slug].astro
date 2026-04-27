@@ -1,6 +1,7 @@
 ---
 import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
+import { getEventData } from '../../utils/eventSchema';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog', ({ data }) => data.lang === 'en');
@@ -13,6 +14,10 @@ type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
 const { Content } = await render(post);
+const heroImageUrl = post.data.heroImage
+	? new URL(post.data.heroImage.src, Astro.site).toString()
+	: undefined;
+const eventData = getEventData(post.id, post.data.description, heroImageUrl);
 ---
 
 <BlogPost
@@ -20,6 +25,7 @@ const { Content } = await render(post);
 	locale="en"
 	showPartnerCard={post.id.startsWith('msfs-2024-development-update-') || post.id.startsWith('navigraph-') || post.id.startsWith('flightsimexpo-2026-saint-paul-')}
 	partnerCardSeed={post.id}
+	eventData={eventData}
 >
 	<Content />
 </BlogPost>
