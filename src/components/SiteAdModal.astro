@@ -97,10 +97,12 @@ const adLabels: Record<Locale, string> = {
 		justify-content: center;
 		padding: 1rem;
 		opacity: 0;
+		pointer-events: none;
 		transition: opacity 0.25s ease;
 	}
 	.ad-modal[data-open='true'] {
 		opacity: 1;
+		pointer-events: auto;
 	}
 	.ad-backdrop {
 		position: absolute;
