@@ -5,6 +5,7 @@ import { getLocaleFromUrl, localePath, useTranslations } from '../i18n/utils';
 import { directorySlugs } from '../i18n/directory-i18n';
 import HeaderLink from './HeaderLink.astro';
 import LanguageSelector from './LanguageSelector.astro';
+import SiteAdModal from './SiteAdModal.astro';
 import logoFull from '../assets/logo.webp';
 import logoIcon from '../assets/logo-icon.webp';
 
@@ -46,6 +47,7 @@ const dirHref = locale === 'en' ? '/directory/' : `/${locale}/${directorySlugs[l
 		</div>
 	</nav>
 </header>
+<SiteAdModal />
 <style>
 	header {
 		position: sticky;

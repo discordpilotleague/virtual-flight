@@ -1,0 +1,224 @@
+---
+import { Image } from 'astro:assets';
+import type { Locale } from '../i18n/locales';
+import { getLocaleFromUrl } from '../i18n/utils';
+import adImage from '../assets/adv/ad2026-04.png';
+
+const locale = (Astro.currentLocale ?? getLocaleFromUrl(Astro.url.pathname)) as Locale;
+
+const downloadUrl: Record<Locale, string> = {
+	en: 'https://pilotleague.com/en/download/',
+	fr: 'https://pilotleague.com/fr/telechargement/',
+	es: 'https://pilotleague.com/es/descarga/',
+	pt: 'https://pilotleague.com/pt/download/',
+	br: 'https://pilotleague.com/pt/download/',
+	de: 'https://pilotleague.com/de/download/',
+	zh: 'https://pilotleague.com/zh/download/',
+	id: 'https://pilotleague.com/id/unduh/',
+	ja: 'https://pilotleague.com/ja/download/',
+};
+
+const closeLabels: Record<Locale, string> = {
+	en: 'Close',
+	fr: 'Fermer',
+	es: 'Cerrar',
+	pt: 'Fechar',
+	br: 'Fechar',
+	de: 'Schließen',
+	zh: '关闭',
+	id: 'Tutup',
+	ja: '閉じる',
+};
+
+const adLabels: Record<Locale, string> = {
+	en: 'PilotLeague — Every landing analyzed, every pilot ranked. Click to download.',
+	fr: 'PilotLeague — Chaque atterrissage analysé, chaque pilote classé. Cliquez pour télécharger.',
+	es: 'PilotLeague — Cada aterrizaje analizado, cada piloto clasificado. Haz clic para descargar.',
+	pt: 'PilotLeague — Cada aterragem analisada, cada piloto classificado. Clique para descarregar.',
+	br: 'PilotLeague — Cada pouso analisado, cada piloto ranqueado. Clique para baixar.',
+	de: 'PilotLeague — Jede Landung analysiert, jeder Pilot bewertet. Klicken zum Herunterladen.',
+	zh: 'PilotLeague — 每次降落都被分析,每位飞行员都被排名。点击下载。',
+	id: 'PilotLeague — Setiap pendaratan dianalisis, setiap pilot diberi peringkat. Klik untuk unduh.',
+	ja: 'PilotLeague — すべての着陸を分析、すべてのパイロットをランク付け。クリックでダウンロード。',
+};
+---
+
+<div
+	id="site-ad-modal"
+	class="ad-modal"
+	role="dialog"
+	aria-modal="true"
+	aria-labelledby="site-ad-label"
+	hidden
+>
+	<div class="ad-backdrop" data-ad-close></div>
+	<div class="ad-dialog">
+		<button
+			type="button"
+			class="ad-close"
+			data-ad-close
+			aria-label={closeLabels[locale]}
+		>
+			<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+				<path
+					d="M6 6l12 12M18 6L6 18"
+					stroke="currentColor"
+					stroke-width="2.5"
+					stroke-linecap="round"
+				></path>
+			</svg>
+		</button>
+		<a
+			id="site-ad-label"
+			class="ad-link"
+			href={downloadUrl[locale]}
+			target="_blank"
+			rel="sponsored noopener"
+			aria-label={adLabels[locale]}
+		>
+			<Image
+				src={adImage}
+				alt={adLabels[locale]}
+				widths={[480, 720, 856]}
+				loading="eager"
+				decoding="async"
+			/>
+		</a>
+	</div>
+</div>
+
+<style>
+	.ad-modal {
+		position: fixed;
+		inset: 0;
+		z-index: 9999;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 1rem;
+		opacity: 0;
+		transition: opacity 0.25s ease;
+	}
+	.ad-modal[data-open='true'] {
+		opacity: 1;
+	}
+	.ad-backdrop {
+		position: absolute;
+		inset: 0;
+		background: rgba(0, 0, 0, 0.7);
+		backdrop-filter: blur(6px);
+		-webkit-backdrop-filter: blur(6px);
+		cursor: pointer;
+	}
+	.ad-dialog {
+		position: relative;
+		max-width: min(520px, calc(100vw - 2rem));
+		width: 100%;
+		border-radius: 16px;
+		overflow: hidden;
+		box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+		transform: scale(0.95);
+		transition: transform 0.25s ease;
+	}
+	.ad-modal[data-open='true'] .ad-dialog {
+		transform: scale(1);
+	}
+	.ad-close {
+		position: absolute;
+		top: 12px;
+		right: 12px;
+		z-index: 2;
+		width: 36px;
+		height: 36px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		border: none;
+		border-radius: 50%;
+		background: rgba(0, 0, 0, 0.6);
+		color: white;
+		cursor: pointer;
+		padding: 0;
+		transition: background 0.2s ease, transform 0.2s ease;
+	}
+	.ad-close:hover,
+	.ad-close:focus-visible {
+		background: rgba(0, 0, 0, 0.85);
+		transform: scale(1.05);
+		outline: none;
+	}
+	.ad-close:focus-visible {
+		box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.5);
+	}
+	.ad-link {
+		display: block;
+		line-height: 0;
+	}
+	.ad-link :global(img) {
+		display: block;
+		width: 100%;
+		height: auto;
+		max-height: 85vh;
+		object-fit: contain;
+	}
+</style>
+
+<script>
+	(function () {
+		const STORAGE_KEY = 'vf-ad2026-04-dismissed';
+		const SHOW_DELAY_MS = 800;
+
+		const modal = document.getElementById('site-ad-modal');
+		if (!modal) return;
+
+		// Skip if already dismissed in this session
+		try {
+			if (sessionStorage.getItem(STORAGE_KEY) === '1') return;
+		} catch (_) {
+			// sessionStorage unavailable (private mode, etc.) — show anyway
+		}
+
+		let lastFocused: Element | null = null;
+
+		function open() {
+			lastFocused = document.activeElement;
+			modal!.hidden = false;
+			// Force reflow before adding the open attribute so the transition runs
+			void (modal as HTMLElement).offsetWidth;
+			modal!.setAttribute('data-open', 'true');
+			document.body.style.overflow = 'hidden';
+			const closeBtn = modal!.querySelector<HTMLButtonElement>('.ad-close');
+			closeBtn?.focus();
+		}
+
+		function close() {
+			modal!.removeAttribute('data-open');
+			document.body.style.overflow = '';
+			try {
+				sessionStorage.setItem(STORAGE_KEY, '1');
+			} catch (_) { /* noop */ }
+			window.setTimeout(() => {
+				modal!.hidden = true;
+				if (lastFocused instanceof HTMLElement) lastFocused.focus();
+			}, 250);
+		}
+
+		modal.querySelectorAll<HTMLElement>('[data-ad-close]').forEach((el) => {
+			el.addEventListener('click', (e) => {
+				e.preventDefault();
+				close();
+			});
+		});
+
+		modal.querySelector<HTMLAnchorElement>('.ad-link')?.addEventListener('click', () => {
+			// Mark as dismissed so it doesn't reopen on return navigation
+			try { sessionStorage.setItem(STORAGE_KEY, '1'); } catch (_) { /* noop */ }
+		});
+
+		document.addEventListener('keydown', (e) => {
+			if (e.key === 'Escape' && modal.hasAttribute('data-open')) close();
+		});
+
+		window.setTimeout(open, SHOW_DELAY_MS);
+	})();
+</script>
