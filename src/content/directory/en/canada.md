@@ -7,7 +7,7 @@ country: "Canada"
 countryEN: "Canada"
 countryCode: "CA"
 continent: north-america
-totalServices: 22
+totalServices: 23
 draft: false
 services:
   - name: "VATCAN"
@@ -79,6 +79,14 @@ services:
     category: virtual-airline
     description: "Canadian virtual airline simulating WestJet operations with up-to-date real-world flight schedules. Uses smartCARS for flight tracking with an active community and screenshot contests."
     simulators: [msfs, general]
+    language: "en"
+    verified: true
+    featured: false
+  - name: "WJA Virtual"
+    url: "https://wjavirtual.com/"
+    category: virtual-airline
+    description: "Bilingual EN/FR non-profit virtual airline simulating WestJet with 195 aircraft and 180 destinations. Uses vmsACARS, supports MSFS, X-Plane 11/12, P3D and FSX, partners with VATSIM and IVAO. Quarterly real-schedule updates and Fast Track onboarding for experienced pilots."
+    simulators: [msfs, xplane, general]
     language: "en"
     verified: true
     featured: false
@@ -212,7 +220,7 @@ Canada's virtual airline scene is remarkably diverse. Canadian Xpress has been a
 
 Canada Air Virtual stands as one of the largest Canadian VAs with over 600 pilots and 265,000 flights logged. As an official VATSIM and IVAO partner, it offers complete freedom in aircraft, route, and livery selection. VAC (Virtual Air Canada) brings 27+ years of experience since 1998, featuring accurate real-world schedules across 200+ airports.
 
-vAirCanada replicates real-life Air Canada operations as an official IVAO partner with 1,200+ routes, while virtual WestJet faithfully simulates WestJet's domestic and international network. On the francophone side, QcAir is Quebec's dedicated French-language virtual airline, promoting VATSIM flying and offering pilot training resources.
+vAirCanada replicates real-life Air Canada operations as an official IVAO partner with 1,200+ routes, while virtual WestJet faithfully simulates WestJet's domestic and international network. WJA Virtual offers a second take on WestJet operations with 195 aircraft, 180 destinations and a bilingual EN/FR community using vmsACARS across MSFS, X-Plane, P3D and FSX. On the francophone side, QcAir is Quebec's dedicated French-language virtual airline, promoting VATSIM flying and offering pilot training resources.
 
 ## Communities and Forums
 
