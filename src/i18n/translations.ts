@@ -2,7 +2,12 @@ import type { Locale } from './locales';
 
 const fr = {
 	'site.title': 'Virtual Flight',
-	'site.description': "L'actualité hardware et software pour les pilotes virtuels",
+	'site.description': "L'actualité hardware et software pour pilotes virtuels : tests joysticks, scènes et addons MSFS 2024, X-Plane et DCS, guides et reviews indépendantes.",
+
+	'home.metaTitle': "Virtual Flight — Magazine indépendant de simulation aérienne",
+	'home.metaDescription': "Virtual Flight, magazine indépendant de simulation aérienne : tests hardware, reviews addons et guides pour MSFS 2024, X-Plane et DCS, mis à jour chaque semaine.",
+	'blog.indexTitle': "Blog Virtual Flight — Actualités MSFS 2024, X-Plane et DCS",
+	'blog.indexDescription': "Tous les articles Virtual Flight : actualités MSFS 2024, X-Plane et DCS, reviews addons, tests joysticks, guides de configuration et événements communauté.",
 
 	'nav.home': 'Accueil',
 	'nav.blog': 'Blog',
@@ -21,9 +26,9 @@ const fr = {
 	'home.viewAll': 'Voir tous les articles →',
 
 	'slug.about': 'a-propos',
-	'about.title': 'À propos',
+	'about.title': 'À propos de Virtual Flight — Magazine de simulation aérienne',
 	'about.description':
-		'Découvrez l\'équipe derrière Virtual Flight, votre magazine de simulation aérienne.',
+		"Découvrez l'équipe de Virtual Flight, votre magazine indépendant dédié à la simulation aérienne : tests hardware, reviews addons MSFS 2024, X-Plane et DCS.",
 	'about.p1':
 		"Virtual Flight est votre magazine digital indépendant dédié à la simulation aérienne. Notre mission est simple : offrir aux pilotes virtuels une source d'information fiable, approfondie et régulièrement mise à jour sur les simulateurs, le hardware et les logiciels qui comptent.",
 	'about.p2':
@@ -48,8 +53,8 @@ const fr = {
 	'nav.privacy': 'Confidentialité',
 	'nav.terms': 'Conditions',
 
-	'methodology.title': 'Notre méthodologie',
-	'methodology.description': 'Découvrez comment Virtual Flight teste le hardware et les logiciels de simulation aérienne.',
+	'methodology.title': "Méthodologie de test hardware et logiciels — Virtual Flight",
+	'methodology.description': "Découvrez comment Virtual Flight teste joysticks, palonniers, scènes et addons MSFS 2024, X-Plane et DCS avec rigueur et indépendance éditoriale totale.",
 	'methodology.intro': 'La rigueur est au cœur de chaque test publié sur Virtual Flight. Voici comment nous travaillons.',
 	'methodology.h1': 'Tests hardware',
 	'methodology.p1': 'Chaque joystick, manette des gaz ou palonnier passe entre nos mains pendant plus de 100 heures. Nous les utilisons dans des scénarios de vol réels sur MSFS 2024, X-Plane et DCS, puis comparons les résultats pour vous livrer un verdict fiable.',
@@ -60,8 +65,8 @@ const fr = {
 	'methodology.h4': 'Corrections et mises à jour',
 	'methodology.p4': 'Nous mettons à jour nos articles lorsqu\'un produit reçoit une mise à jour firmware ou qu\'une nouvelle version est publiée, afin que nos recommandations restent pertinentes.',
 
-	'privacy.title': 'Politique de confidentialité',
-	'privacy.description': 'Comment Virtual Flight protège vos données personnelles.',
+	'privacy.title': "Politique de confidentialité et RGPD — Virtual Flight",
+	'privacy.description': "Comment Virtual Flight protège vos données personnelles : cookies, Google Analytics, Consent Mode v2, droits RGPD et options de paramétrage détaillées.",
 	'privacy.intro': 'Votre vie privée est importante. Voici comment nous traitons vos données sur Virtual Flight.',
 	'privacy.h1': 'Collecte de données',
 	'privacy.p1': 'Nous collectons un minimum de données. Seules des statistiques anonymes de visite sont recueillies. Aucun compte personnel n\'est requis pour consulter le site.',
@@ -74,8 +79,8 @@ const fr = {
 	'privacy.h5': 'Contact',
 	'privacy.p5': 'Pour toute question relative à la confidentialité, rendez-vous sur notre page contact ou écrivez à RENFELD LEBANON — Building St Michel, Ghazir, Liban. Nous nous engageons à répondre dans les meilleurs délais.',
 
-	'terms.title': 'Conditions d\'utilisation',
-	'terms.description': 'Les conditions d\'utilisation du site Virtual Flight.',
+	'terms.title': "Conditions générales d'utilisation — Virtual Flight",
+	'terms.description': "Conditions d'utilisation du site Virtual Flight : acceptation, propriété intellectuelle, comportement utilisateurs, avertissements et modifications du site.",
 	'terms.intro': 'En utilisant Virtual Flight, vous acceptez les conditions suivantes.',
 	'terms.h1': 'Acceptation',
 	'terms.p1': 'En accédant à ce site et en l\'utilisant, vous acceptez d\'être lié par les présentes conditions d\'utilisation.',
@@ -101,8 +106,8 @@ const fr = {
 
 	'nav.contact': 'Contact',
 	'slug.contact': 'contact',
-	'contact.title': 'Contactez-nous',
-	'contact.description': 'Une question, un partenariat, une mise à jour ? Contactez l\'équipe Virtual Flight.',
+	'contact.title': "Contactez l'équipe Virtual Flight — Partenariats et reviews",
+	'contact.description': "Question, partenariat ou mise à jour produit ? Contactez l'équipe Virtual Flight pour échanger avec lecteurs, développeurs, marques et partenaires presse.",
 	'contact.intro': 'Vous souhaitez signaler une mise à jour, proposer un partenariat ou corriger une erreur ? Remplissez le formulaire ci-dessous et nous vous répondrons dans les meilleurs délais.',
 	'contact.discord': 'Besoin d\'une réponse rapide ? Rejoignez notre Discord',
 	'contact.name': 'Nom / Pseudo',
@@ -144,7 +149,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 	en: {
 		'site.title': 'Virtual Flight',
-		'site.description': 'Hardware and software news for virtual pilots',
+		'site.description': 'Hardware and software news for virtual pilots: joystick reviews, MSFS 2024, X-Plane and DCS scenery and aircraft addons, guides and independent tests.',
+		'home.metaTitle': 'Virtual Flight — Independent Flight Simulation Magazine',
+		'home.metaDescription': 'Virtual Flight, the independent flight simulation magazine: hardware reviews, addon tests and guides for MSFS 2024, X-Plane and DCS, updated every week.',
+		'blog.indexTitle': 'Virtual Flight Blog — MSFS 2024, X-Plane and DCS News',
+		'blog.indexDescription': 'All Virtual Flight articles: MSFS 2024, X-Plane and DCS news, addon reviews, joystick tests, configuration guides and flight simulation community events.',
 		'nav.home': 'Home',
 		'nav.blog': 'Blog',
 		'nav.about': 'About',
@@ -159,8 +168,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'home.latestArticles': 'Latest articles',
 		'home.viewAll': 'View all articles →',
 		'slug.about': 'about',
-		'about.title': 'About',
-		'about.description': 'Discover the team behind Virtual Flight, your flight simulation magazine.',
+		'about.title': 'About Virtual Flight — Independent Flight Sim Magazine',
+		'about.description': 'Meet the editorial team behind Virtual Flight, your independent flight simulation magazine: hardware reviews and addon tests for MSFS 2024, X-Plane and DCS.',
 		'about.p1':
 			'Virtual Flight is your independent digital magazine dedicated to flight simulation. Our mission is simple: provide virtual pilots worldwide with reliable, in-depth and regularly updated coverage of the simulators, hardware and software that matter most.',
 		'about.p2':
@@ -184,8 +193,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.privacy': 'Privacy',
 		'nav.terms': 'Terms',
 
-		'methodology.title': 'Our Methodology',
-		'methodology.description': 'Learn how Virtual Flight tests flight simulation hardware and software.',
+		'methodology.title': 'Hardware and Software Testing Methodology — Virtual Flight',
+		'methodology.description': 'How Virtual Flight tests joysticks, rudder pedals, sceneries and addons across MSFS 2024, X-Plane and DCS with rigour and full editorial independence.',
 		'methodology.intro': 'Rigour is at the heart of every review we publish. Here is how we work.',
 		'methodology.h1': 'Hardware Testing',
 		'methodology.p1': 'Every joystick, throttle and rudder pedal spends over 100 hours in our hands. We put them through real flight scenarios on MSFS 2024, X-Plane and DCS, then compare results across platforms to deliver a verdict you can trust.',
@@ -196,8 +205,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'methodology.h4': 'Corrections & Updates',
 		'methodology.p4': 'We update our articles whenever a product receives a firmware update or a new version is released, so our recommendations stay relevant.',
 
-		'privacy.title': 'Privacy Policy',
-		'privacy.description': 'How Virtual Flight protects your personal data.',
+		'privacy.title': 'Privacy Policy and GDPR — Virtual Flight',
+		'privacy.description': 'How Virtual Flight protects your personal data: cookies, Google Analytics, Consent Mode v2, your GDPR rights and detailed cookie banner settings.',
 		'privacy.intro': 'Your privacy matters. Here is how we handle your data on Virtual Flight.',
 		'privacy.h1': 'Data Collection',
 		'privacy.p1': 'We collect minimal data. Only anonymous visit statistics are gathered. No personal account is required to browse the site.',
@@ -210,8 +219,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h5': 'Contact',
 		'privacy.p5': 'For any privacy-related questions, visit our contact page or write to RENFELD LEBANON — Building St Michel, Ghazir, Lebanon. We are committed to responding promptly.',
 
-		'terms.title': 'Terms of Service',
-		'terms.description': 'Terms of service for the Virtual Flight website.',
+		'terms.title': 'Terms of Service and Site Use — Virtual Flight',
+		'terms.description': 'Terms of service for Virtual Flight: acceptance, intellectual property, user conduct, disclaimers, modifications and editorial responsibilities.',
 		'terms.intro': 'By using Virtual Flight you agree to the following terms.',
 		'terms.h1': 'Acceptance',
 		'terms.p1': 'By accessing and using this site you agree to be bound by these terms of service.',
@@ -237,8 +246,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 		'nav.contact': 'Contact',
 		'slug.contact': 'contact',
-		'contact.title': 'Contact Us',
-		'contact.description': 'A question, a partnership, an update? Get in touch with the Virtual Flight team.',
+		'contact.title': 'Contact Virtual Flight — Partnerships and Reviews',
+		'contact.description': 'Question, partnership or product update? Contact the Virtual Flight editorial team — fast replies for readers, developers, brands and press partners.',
 		'contact.intro': 'Want to report an update, suggest a partnership or correct an error? Fill in the form below and we will get back to you promptly.',
 		'contact.discord': 'Need a quick answer? Join our Discord',
 		'contact.name': 'Name / Username',
@@ -275,7 +284,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 	es: {
 		'site.title': 'Virtual Flight',
-		'site.description': 'Noticias de hardware y software para pilotos virtuales',
+		'site.description': 'Noticias de hardware y software para pilotos virtuales: análisis de joysticks, escenarios y add-ons MSFS 2024, X-Plane y DCS, guías y reviews independientes.',
+		'home.metaTitle': 'Virtual Flight — Revista independiente de simulación aérea',
+		'home.metaDescription': 'Virtual Flight, la revista independiente de simulación aérea: análisis de hardware, reviews de add-ons y guías para MSFS 2024, X-Plane y DCS, cada semana.',
+		'blog.indexTitle': 'Blog Virtual Flight — Noticias MSFS 2024, X-Plane y DCS',
+		'blog.indexDescription': 'Todos los artículos de Virtual Flight: noticias MSFS 2024, X-Plane y DCS, reviews de add-ons, análisis de joysticks, guías de configuración y eventos comunidad.',
 		'nav.home': 'Inicio',
 		'nav.blog': 'Blog',
 		'nav.about': 'Acerca de',
@@ -290,9 +303,9 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'home.latestArticles': 'Últimos artículos',
 		'home.viewAll': 'Ver todos los artículos →',
 		'slug.about': 'acerca-de',
-		'about.title': 'Acerca de',
+		'about.title': 'Acerca de Virtual Flight — Revista de simulación aérea',
 		'about.description':
-			'Descubre el equipo detrás de Virtual Flight, tu revista de simulación aérea.',
+			'Conoce al equipo de Virtual Flight, tu revista independiente de simulación aérea: análisis de hardware y reviews de add-ons para MSFS 2024, X-Plane y DCS.',
 		'about.p1':
 			'Virtual Flight es tu revista digital independiente dedicada a la simulación aérea. Nuestra misión es sencilla: ofrecer a los pilotos virtuales una fuente de información fiable, profunda y actualizada regularmente sobre los simuladores, el hardware y el software que más importan.',
 		'about.p2':
@@ -316,8 +329,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.privacy': 'Privacidad',
 		'nav.terms': 'Condiciones',
 
-		'methodology.title': 'Nuestra metodología',
-		'methodology.description': 'Descubre cómo Virtual Flight prueba el hardware y el software de simulación aérea.',
+		'methodology.title': 'Metodología de pruebas hardware y software — Virtual Flight',
+		'methodology.description': 'Descubre cómo Virtual Flight prueba joysticks, pedaleras, escenarios y add-ons MSFS 2024, X-Plane y DCS con rigor e independencia editorial total.',
 		'methodology.intro': 'El rigor está en el centro de cada análisis que publicamos. Así es como trabajamos.',
 		'methodology.h1': 'Pruebas de hardware',
 		'methodology.p1': 'Cada joystick, acelerador y pedalera pasa más de 100 horas en nuestras manos. Los ponemos a prueba en escenarios de vuelo reales en MSFS 2024, X-Plane y DCS, y luego comparamos los resultados entre plataformas para ofrecer un veredicto fiable.',
@@ -328,8 +341,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'methodology.h4': 'Correcciones y actualizaciones',
 		'methodology.p4': 'Actualizamos nuestros artículos cuando un producto recibe una actualización de firmware o se publica una nueva versión, para que nuestras recomendaciones sigan siendo pertinentes.',
 
-		'privacy.title': 'Política de privacidad',
-		'privacy.description': 'Cómo Virtual Flight protege tus datos personales.',
+		'privacy.title': 'Política de privacidad y RGPD — Virtual Flight',
+		'privacy.description': 'Cómo Virtual Flight protege tus datos personales: cookies, Google Analytics, Consent Mode v2, derechos RGPD y opciones de configuración detalladas.',
 		'privacy.intro': 'Tu privacidad es importante. Así es como gestionamos tus datos en Virtual Flight.',
 		'privacy.h1': 'Recopilación de datos',
 		'privacy.p1': 'Recopilamos un mínimo de datos. Solo se recogen estadísticas de visita anónimas. No se necesita ninguna cuenta personal para navegar por el sitio.',
@@ -342,8 +355,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h5': 'Contacto',
 		'privacy.p5': 'Para cualquier consulta relacionada con la privacidad, visite nuestra página de contacto o escriba a RENFELD LEBANON — Building St Michel, Ghazir, Líbano. Nos comprometemos a responder con la mayor brevedad.',
 
-		'terms.title': 'Condiciones de uso',
-		'terms.description': 'Condiciones de uso del sitio web Virtual Flight.',
+		'terms.title': 'Condiciones generales de uso — Virtual Flight',
+		'terms.description': 'Condiciones de uso de Virtual Flight: aceptación, propiedad intelectual, conducta del usuario, descargo de responsabilidad y modificaciones del sitio.',
 		'terms.intro': 'Al usar Virtual Flight, aceptas las siguientes condiciones.',
 		'terms.h1': 'Aceptación',
 		'terms.p1': 'Al acceder y utilizar este sitio, aceptas quedar vinculado por estas condiciones de uso.',
@@ -369,8 +382,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 		'nav.contact': 'Contacto',
 		'slug.contact': 'contacto',
-		'contact.title': 'Contáctenos',
-		'contact.description': 'Una pregunta, una colaboración, una actualización? Contacte al equipo de Virtual Flight.',
+		'contact.title': 'Contacta al equipo Virtual Flight — Colaboraciones y reviews',
+		'contact.description': '¿Una pregunta, una colaboración o una actualización de producto? Contacta al equipo Virtual Flight para hablar con lectores, desarrolladores, marcas y prensa.',
 		'contact.intro': 'Desea reportar una actualización, proponer una colaboración o corregir un error? Complete el formulario a continuación y le responderemos a la brevedad.',
 		'contact.discord': '¿Necesita una respuesta rápida? Únase a nuestro Discord',
 		'contact.name': 'Nombre / Alias',
@@ -407,7 +420,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 	pt: {
 		'site.title': 'Virtual Flight',
-		'site.description': 'Notícias de hardware e software para pilotos virtuais',
+		'site.description': 'Notícias de hardware e software para pilotos virtuais: análises de joysticks, cenários e addons MSFS 2024, X-Plane e DCS, guias e reviews independentes.',
+		'home.metaTitle': 'Virtual Flight — Revista independente de simulação de voo',
+		'home.metaDescription': 'O Virtual Flight, a sua revista independente de simulação de voo: análises de hardware, reviews de addons e guias para MSFS 2024, X-Plane e DCS, todas as semanas.',
+		'blog.indexTitle': 'Blog Virtual Flight — Notícias MSFS 2024, X-Plane e DCS',
+		'blog.indexDescription': 'Todos os artigos da Virtual Flight: notícias MSFS 2024, X-Plane e DCS, reviews de addons, análises de joysticks, guias de configuração e eventos comunidade.',
 		'nav.home': 'Início',
 		'nav.blog': 'Blog',
 		'nav.about': 'Sobre',
@@ -422,9 +439,9 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'home.latestArticles': 'Últimos artigos',
 		'home.viewAll': 'Ver todos os artigos →',
 		'slug.about': 'sobre',
-		'about.title': 'Sobre',
+		'about.title': 'Sobre o Virtual Flight — Revista de simulação de voo',
 		'about.description':
-			'Descubra a equipa por trás do Virtual Flight, a sua revista de simulação aérea.',
+			'Descubra a equipa do Virtual Flight, a sua revista independente de simulação de voo: análises de hardware e reviews de addons MSFS 2024, X-Plane e DCS.',
 		'about.p1':
 			'O Virtual Flight é a sua revista digital independente dedicada à simulação aérea. A nossa missão é simples: oferecer aos pilotos virtuais uma fonte de informação fiável, aprofundada e regularmente atualizada sobre os simuladores, o hardware e o software que mais importam.',
 		'about.p2':
@@ -448,8 +465,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.privacy': 'Privacidade',
 		'nav.terms': 'Termos',
 
-		'methodology.title': 'A nossa metodologia',
-		'methodology.description': 'Saiba como o Virtual Flight testa o hardware e o software de simulação de voo.',
+		'methodology.title': 'Metodologia de testes hardware e software — Virtual Flight',
+		'methodology.description': 'Saiba como o Virtual Flight testa joysticks, pedaleiras, cenários e addons MSFS 2024, X-Plane e DCS com rigor e independência editorial total.',
 		'methodology.intro': 'O rigor está no centro de cada análise que publicamos. Eis como trabalhamos.',
 		'methodology.h1': 'Testes de hardware',
 		'methodology.p1': 'Cada joystick, manete de potência e pedaleira passa mais de 100 horas nas nossas mãos. Testamo-los em cenários de voo reais no MSFS 2024, X-Plane e DCS e comparamos os resultados entre plataformas para oferecer um veredicto de confiança.',
@@ -460,8 +477,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'methodology.h4': 'Correções e atualizações',
 		'methodology.p4': 'Atualizamos os nossos artigos quando um produto recebe uma atualização de firmware ou uma nova versão é lançada, para que as nossas recomendações permaneçam pertinentes.',
 
-		'privacy.title': 'Política de privacidade',
-		'privacy.description': 'Como o Virtual Flight protege os seus dados pessoais.',
+		'privacy.title': 'Política de privacidade e RGPD — Virtual Flight',
+		'privacy.description': 'Como o Virtual Flight protege os seus dados pessoais: cookies, Google Analytics, Consent Mode v2, direitos RGPD e opções de configuração detalhadas.',
 		'privacy.intro': 'A sua privacidade é importante. Eis como tratamos os seus dados no Virtual Flight.',
 		'privacy.h1': 'Recolha de dados',
 		'privacy.p1': 'Recolhemos um mínimo de dados. Apenas estatísticas anónimas de visita são registadas. Não é necessária qualquer conta pessoal para navegar no site.',
@@ -474,8 +491,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h5': 'Contacto',
 		'privacy.p5': 'Para qualquer questão relacionada com privacidade, visite a nossa página de contacto ou escreva a RENFELD LEBANON — Building St Michel, Ghazir, Líbano. Comprometemo-nos a responder com a maior brevidade.',
 
-		'terms.title': 'Termos de utilização',
-		'terms.description': 'Termos de utilização do site Virtual Flight.',
+		'terms.title': 'Termos gerais de utilização — Virtual Flight',
+		'terms.description': 'Termos de utilização do Virtual Flight: aceitação, propriedade intelectual, conduta do utilizador, avisos legais e modificações do site.',
 		'terms.intro': 'Ao utilizar o Virtual Flight, aceita os seguintes termos.',
 		'terms.h1': 'Aceitação',
 		'terms.p1': 'Ao aceder e utilizar este site, aceita ficar vinculado por estes termos de utilização.',
@@ -501,8 +518,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 		'nav.contact': 'Contacto',
 		'slug.contact': 'contacto',
-		'contact.title': 'Contacte-nos',
-		'contact.description': 'Uma questão, uma parceria, uma atualização? Contacte a equipa Virtual Flight.',
+		'contact.title': 'Contacte a equipa Virtual Flight — Parcerias e reviews',
+		'contact.description': 'Uma questão, uma parceria ou uma atualização de produto? Contacte a equipa Virtual Flight para falar com leitores, programadores, marcas e parceiros de imprensa.',
 		'contact.intro': 'Pretende reportar uma atualização, propor uma parceria ou corrigir um erro? Preencha o formulário abaixo e responderemos com a maior brevidade.',
 		'contact.discord': 'Precisa de uma resposta rápida? Junte-se ao nosso Discord',
 		'contact.name': 'Nome / Pseudónimo',
@@ -539,7 +556,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 	br: {
 		'site.title': 'Virtual Flight',
-		'site.description': 'Notícias de hardware e software para pilotos virtuais',
+		'site.description': 'Notícias de hardware e software para pilotos virtuais: análises de joysticks, cenários e addons MSFS 2024, X-Plane e DCS, guias e reviews independentes.',
+		'home.metaTitle': 'Virtual Flight — Revista independente de simulação de voo',
+		'home.metaDescription': 'Virtual Flight, sua revista independente de simulação de voo: análises de hardware, reviews de addons e guias para MSFS 2024, X-Plane e DCS, toda semana.',
+		'blog.indexTitle': 'Blog Virtual Flight — Notícias MSFS 2024, X-Plane e DCS',
+		'blog.indexDescription': 'Todos os artigos do Virtual Flight: notícias MSFS 2024, X-Plane e DCS, reviews de addons, análises de joysticks, guias de configuração e eventos comunidade.',
 		'nav.home': 'Início',
 		'nav.blog': 'Blog',
 		'nav.about': 'Sobre',
@@ -554,9 +575,9 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'home.latestArticles': 'Últimos artigos',
 		'home.viewAll': 'Ver todos os artigos →',
 		'slug.about': 'sobre',
-		'about.title': 'Sobre',
+		'about.title': 'Sobre o Virtual Flight — Revista de simulação de voo',
 		'about.description':
-			'Conheça a equipe por trás do Virtual Flight, sua revista de simulação de voo.',
+			'Conheça a equipe do Virtual Flight, sua revista independente de simulação de voo: análises de hardware e reviews de addons MSFS 2024, X-Plane e DCS.',
 		'about.p1':
 			'O Virtual Flight é sua revista digital independente dedicada à simulação de voo. Nossa missão é simples: oferecer aos pilotos virtuais uma fonte de informação confiável, aprofundada e atualizada regularmente sobre os simuladores, hardware e software que mais importam.',
 		'about.p2':
@@ -580,8 +601,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.privacy': 'Privacidade',
 		'nav.terms': 'Termos',
 
-		'methodology.title': 'Nossa metodologia',
-		'methodology.description': 'Saiba como o Virtual Flight testa hardware e software de simulação de voo.',
+		'methodology.title': 'Metodologia de testes hardware e software — Virtual Flight',
+		'methodology.description': 'Saiba como o Virtual Flight testa joysticks, pedaleiras, cenários e addons MSFS 2024, X-Plane e DCS com rigor e independência editorial total.',
 		'methodology.intro': 'O rigor está no centro de cada análise que publicamos. Veja como trabalhamos.',
 		'methodology.h1': 'Testes de hardware',
 		'methodology.p1': 'Cada joystick, manete e pedaleira passa mais de 100 horas nas nossas mãos. Testamos em cenários de voo reais no MSFS 2024, X-Plane e DCS, e comparamos os resultados entre plataformas para entregar um veredito confiável.',
@@ -592,8 +613,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'methodology.h4': 'Correções e atualizações',
 		'methodology.p4': 'Atualizamos nossos artigos quando um produto recebe uma atualização de firmware ou uma nova versão é lançada, para que nossas recomendações continuem relevantes.',
 
-		'privacy.title': 'Política de privacidade',
-		'privacy.description': 'Como o Virtual Flight protege seus dados pessoais.',
+		'privacy.title': 'Política de privacidade e LGPD — Virtual Flight',
+		'privacy.description': 'Como o Virtual Flight protege seus dados pessoais: cookies, Google Analytics, Consent Mode v2, direitos LGPD e opções de configuração detalhadas.',
 		'privacy.intro': 'Sua privacidade é importante. Veja como tratamos seus dados no Virtual Flight.',
 		'privacy.h1': 'Coleta de dados',
 		'privacy.p1': 'Coletamos o mínimo de dados possível. Apenas estatísticas anônimas de visita são registradas. Não é necessário criar conta para navegar no site.',
@@ -606,8 +627,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h5': 'Contato',
 		'privacy.p5': 'Para qualquer dúvida relacionada à privacidade, visite nossa página de contato ou escreva para RENFELD LEBANON — Building St Michel, Ghazir, Líbano. Nos comprometemos a responder o mais rápido possível.',
 
-		'terms.title': 'Termos de uso',
-		'terms.description': 'Termos de uso do site Virtual Flight.',
+		'terms.title': 'Termos gerais de uso — Virtual Flight',
+		'terms.description': 'Termos de uso do Virtual Flight: aceitação, propriedade intelectual, conduta do usuário, avisos legais e modificações dos termos do site.',
 		'terms.intro': 'Ao usar o Virtual Flight, você concorda com os seguintes termos.',
 		'terms.h1': 'Aceitação',
 		'terms.p1': 'Ao acessar e usar este site, você concorda em ficar vinculado a estes termos de uso.',
@@ -633,8 +654,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 		'nav.contact': 'Contato',
 		'slug.contact': 'contato',
-		'contact.title': 'Entre em contato',
-		'contact.description': 'Uma dúvida, uma parceria, uma atualização? Fale com a equipe Virtual Flight.',
+		'contact.title': 'Fale com a equipe Virtual Flight — Parcerias e reviews',
+		'contact.description': 'Uma dúvida, uma parceria ou uma atualização de produto? Fale com a equipe Virtual Flight para conversar com leitores, desenvolvedores, marcas e parceiros de imprensa.',
 		'contact.intro': 'Quer reportar uma atualização, propor uma parceria ou corrigir um erro? Preencha o formulário abaixo e responderemos o mais rápido possível.',
 		'contact.discord': 'Precisa de uma resposta rápida? Entre no nosso Discord',
 		'contact.name': 'Nome / Apelido',
@@ -671,7 +692,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 	de: {
 		'site.title': 'Virtual Flight',
-		'site.description': 'Hardware- und Software-News für virtuelle Piloten',
+		'site.description': 'Hardware- und Software-News für virtuelle Piloten: Joystick-Tests, Szenerien und Addons für MSFS 2024, X-Plane und DCS, Anleitungen und unabhängige Reviews.',
+		'home.metaTitle': 'Virtual Flight — Unabhängiges Magazin für Flugsimulation',
+		'home.metaDescription': 'Virtual Flight, Ihr unabhängiges Magazin für Flugsimulation: Hardware-Tests, Addon-Reviews und Anleitungen für MSFS 2024, X-Plane und DCS, jede Woche neu.',
+		'blog.indexTitle': 'Virtual-Flight-Blog — News zu MSFS 2024, X-Plane und DCS',
+		'blog.indexDescription': 'Alle Artikel von Virtual Flight: News zu MSFS 2024, X-Plane und DCS, Addon-Reviews, Joystick-Tests, Konfigurationsanleitungen und Community-Veranstaltungen.',
 		'nav.home': 'Startseite',
 		'nav.blog': 'Blog',
 		'nav.about': 'Über uns',
@@ -686,9 +711,9 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'home.latestArticles': 'Neueste Artikel',
 		'home.viewAll': 'Alle Artikel ansehen →',
 		'slug.about': 'ueber-uns',
-		'about.title': 'Über uns',
+		'about.title': 'Über uns — Virtual Flight, Magazin für Flugsimulation',
 		'about.description':
-			'Entdecken Sie das Team hinter Virtual Flight, Ihrem Flugsimulations-Magazin.',
+			'Lernen Sie das Team von Virtual Flight kennen, Ihrem unabhängigen Magazin für Flugsimulation: Hardware-Tests und Addon-Reviews für MSFS 2024, X-Plane und DCS.',
 		'about.p1':
 			'Virtual Flight ist Ihr unabhängiges digitales Magazin für Flugsimulation. Unsere Mission ist einfach: virtuellen Piloten eine zuverlässige, fundierte und regelmäßig aktualisierte Berichterstattung über die Simulatoren, Hardware und Software zu bieten, die am meisten zählen.',
 		'about.p2':
@@ -712,8 +737,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.privacy': 'Datenschutz',
 		'nav.terms': 'Nutzungsbedingungen',
 
-		'methodology.title': 'Unsere Methodik',
-		'methodology.description': 'Erfahren Sie, wie Virtual Flight Flugsimulations-Hardware und -Software testet.',
+		'methodology.title': 'Test-Methodik für Hardware und Software — Virtual Flight',
+		'methodology.description': 'Wie Virtual Flight Joysticks, Ruderpedale, Szenerien und Addons für MSFS 2024, X-Plane und DCS mit Sorgfalt und voller redaktioneller Unabhängigkeit testet.',
 		'methodology.intro': 'Sorgfalt steht im Mittelpunkt jedes Tests, den wir veröffentlichen. So arbeiten wir.',
 		'methodology.h1': 'Hardware-Tests',
 		'methodology.p1': 'Jeder Joystick, Schubregler und jedes Ruderpedal verbringt über 100 Stunden in unseren Händen. Wir setzen sie in realen Flugszenarien auf MSFS 2024, X-Plane und DCS ein und vergleichen die Ergebnisse plattformübergreifend, um ein verlässliches Urteil zu liefern.',
@@ -724,8 +749,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'methodology.h4': 'Korrekturen und Aktualisierungen',
 		'methodology.p4': 'Wir aktualisieren unsere Artikel, wenn ein Produkt ein Firmware-Update oder eine neue Version erhält, damit unsere Empfehlungen relevant bleiben.',
 
-		'privacy.title': 'Datenschutzerklärung',
-		'privacy.description': 'Wie Virtual Flight Ihre persönlichen Daten schützt.',
+		'privacy.title': 'Datenschutzerklärung und DSGVO — Virtual Flight',
+		'privacy.description': 'Wie Virtual Flight Ihre persönlichen Daten schützt: Cookies, Google Analytics, Consent Mode v2, Ihre DSGVO-Rechte und detaillierte Cookie-Einstellungen.',
 		'privacy.intro': 'Ihre Privatsphäre ist uns wichtig. So gehen wir bei Virtual Flight mit Ihren Daten um.',
 		'privacy.h1': 'Datenerhebung',
 		'privacy.p1': 'Wir erheben nur ein Minimum an Daten. Es werden lediglich anonyme Besuchsstatistiken erfasst. Zum Durchsuchen der Seite ist kein Benutzerkonto erforderlich.',
@@ -738,8 +763,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h5': 'Kontakt',
 		'privacy.p5': 'Bei Fragen zum Datenschutz besuchen Sie unsere Kontaktseite oder schreiben Sie an RENFELD LEBANON — Building St Michel, Ghazir, Libanon. Wir sind bestrebt, zeitnah zu antworten.',
 
-		'terms.title': 'Nutzungsbedingungen',
-		'terms.description': 'Nutzungsbedingungen der Website Virtual Flight.',
+		'terms.title': 'Allgemeine Nutzungsbedingungen — Virtual Flight',
+		'terms.description': 'Nutzungsbedingungen für Virtual Flight: Annahme, geistiges Eigentum, Nutzerverhalten, Haftungsausschluss und Änderungen der Bedingungen der Website.',
 		'terms.intro': 'Durch die Nutzung von Virtual Flight stimmen Sie den folgenden Bedingungen zu.',
 		'terms.h1': 'Annahme',
 		'terms.p1': 'Durch den Zugriff auf diese Website und deren Nutzung erklären Sie sich mit diesen Nutzungsbedingungen einverstanden.',
@@ -765,8 +790,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 		'nav.contact': 'Kontakt',
 		'slug.contact': 'kontakt',
-		'contact.title': 'Kontaktieren Sie uns',
-		'contact.description': 'Eine Frage, eine Partnerschaft, ein Update? Kontaktieren Sie das Virtual Flight Team.',
+		'contact.title': 'Kontakt — Virtual Flight Redaktion, Partnerschaften & Reviews',
+		'contact.description': 'Eine Frage, Partnerschaft oder ein Produkt-Update? Kontaktieren Sie das Virtual-Flight-Team — schnelle Antworten für Leser, Entwickler, Marken und Pressepartner.',
 		'contact.intro': 'Möchten Sie ein Update melden, eine Partnerschaft vorschlagen oder einen Fehler korrigieren? Füllen Sie das folgende Formular aus und wir antworten Ihnen zeitnah.',
 		'contact.discord': 'Brauchen Sie eine schnelle Antwort? Treten Sie unserem Discord bei',
 		'contact.name': 'Name / Benutzername',
@@ -803,7 +828,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 	zh: {
 		'site.title': 'Virtual Flight',
-		'site.description': '虚拟飞行员的硬件与软件资讯',
+		'site.description': '面向虚拟飞行员的硬件与软件资讯：操纵杆评测、MSFS 2024、X-Plane 12 与 DCS World 场景与机型插件，独立深度评测、配置指南与社区报道。',
+		'home.metaTitle': 'Virtual Flight — 独立飞行模拟杂志，专注 MSFS 2024 与 X-Plane',
+		'home.metaDescription': 'Virtual Flight 是您的独立飞行模拟数字杂志：硬件评测、插件分析与配置指南，覆盖 MSFS 2024、X-Plane 12 和 DCS World，每周更新虚拟飞行员所需的资讯。',
+		'blog.indexTitle': 'Virtual Flight 博客 — MSFS 2024、X-Plane 与 DCS 资讯',
+		'blog.indexDescription': 'Virtual Flight 全部文章：MSFS 2024、X-Plane 与 DCS 最新资讯、插件评测、操纵杆测试、配置指南、机型分析以及虚拟飞行社区活动报道，每周持续更新。',
 		'nav.home': '首页',
 		'nav.blog': '博客',
 		'nav.about': '关于',
@@ -818,8 +847,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'home.latestArticles': '最新文章',
 		'home.viewAll': '查看所有文章 →',
 		'slug.about': 'guanyu',
-		'about.title': '关于',
-		'about.description': '了解 Virtual Flight 背后的团队——您的飞行模拟杂志。',
+		'about.title': '关于 Virtual Flight — 独立飞行模拟杂志的编辑团队',
+		'about.description': '了解 Virtual Flight 编辑团队：经验丰富的虚拟飞行员，独立、深入地为您评测 MSFS 2024、X-Plane 与 DCS 的硬件、机型插件、场景与外设。',
 		'about.p1':
 			'Virtual Flight 是您的独立飞行模拟数字杂志。我们的使命很简单：为虚拟飞行员提供可靠、深入且定期更新的模拟器、硬件和软件报道。',
 		'about.p2':
@@ -843,8 +872,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.privacy': '隐私政策',
 		'nav.terms': '使用条款',
 
-		'methodology.title': '我们的评测方法',
-		'methodology.description': '了解 Virtual Flight 如何测试飞行模拟硬件和软件。',
+		'methodology.title': '硬件与软件评测方法 — Virtual Flight 测试流程',
+		'methodology.description': '了解 Virtual Flight 如何以严谨与编辑独立性测试操纵杆、舵踏板、场景与插件，覆盖 MSFS 2024、X-Plane 与 DCS 三大平台，确保推荐真实可靠。',
 		'methodology.intro': '严谨是我们发布的每篇评测的核心。以下是我们的工作方式。',
 		'methodology.h1': '硬件测试',
 		'methodology.p1': '每款操纵杆、油门和方向舵踏板都会在我们手中使用超过 100 小时。我们在 MSFS 2024、X-Plane 和 DCS 上用真实飞行场景进行测试，并跨平台比较结果，给出值得信赖的评价。',
@@ -855,8 +884,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'methodology.h4': '更正与更新',
 		'methodology.p4': '当产品发布固件更新或新版本时，我们会及时更新文章，确保推荐始终具有参考价值。',
 
-		'privacy.title': '隐私政策',
-		'privacy.description': 'Virtual Flight 如何保护您的个人数据。',
+		'privacy.title': '隐私政策与 GDPR 合规说明 — Virtual Flight',
+		'privacy.description': 'Virtual Flight 如何保护您的个人数据：Cookie 使用、Google Analytics、Consent Mode v2、GDPR 权利与详细的 Cookie 设置选项，让您完全掌控隐私。',
 		'privacy.intro': '您的隐私至关重要。以下是我们在 Virtual Flight 上处理您数据的方式。',
 		'privacy.h1': '数据收集',
 		'privacy.p1': '我们只收集最少量的数据，仅记录匿名访问统计。浏览本站无需注册个人账户。',
@@ -869,8 +898,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h5': '联系方式',
 		'privacy.p5': '如有任何隐私相关问题，请访问我们的联系页面或联系 RENFELD LEBANON — Building St Michel, Ghazir, Lebanon。我们承诺尽快回复。',
 
-		'terms.title': '使用条款',
-		'terms.description': 'Virtual Flight 网站的使用条款。',
+		'terms.title': '网站使用条款与用户行为规范 — Virtual Flight',
+		'terms.description': 'Virtual Flight 网站使用条款：访问与使用、知识产权保护、用户行为、免责声明、修改条款的权利以及与读者权益相关的全部规定说明。',
 		'terms.intro': '使用 Virtual Flight 即表示您同意以下条款。',
 		'terms.h1': '接受条款',
 		'terms.p1': '访问和使用本站即表示您同意受这些使用条款的约束。',
@@ -896,8 +925,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 		'nav.contact': '联系我们',
 		'slug.contact': 'lianxi',
-		'contact.title': '联系我们',
-		'contact.description': '有问题、合作意向或更新信息？请联系 Virtual Flight 团队。',
+		'contact.title': '联系 Virtual Flight 编辑团队 — 合作与产品评测请求',
+		'contact.description': '有问题、合作意向或产品更新信息？请联系 Virtual Flight 编辑团队，我们随时欢迎读者、开发者、品牌与媒体合作伙伴的来信，并尽快回复。',
 		'contact.intro': '想要报告产品更新、提出合作意向或更正错误？请填写下方表单，我们将尽快回复。',
 		'contact.discord': '需要快速回复？加入我们的 Discord',
 		'contact.name': '姓名 / 昵称',
@@ -934,7 +963,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 	id: {
 		'site.title': 'Virtual Flight',
-		'site.description': 'Berita hardware dan software untuk pilot virtual',
+		'site.description': 'Berita hardware dan software untuk pilot virtual: ulasan joystick, scenery dan addon MSFS 2024, X-Plane dan DCS, panduan konfigurasi serta review independen.',
+		'home.metaTitle': 'Virtual Flight — Majalah independen simulasi penerbangan',
+		'home.metaDescription': 'Virtual Flight, majalah independen simulasi penerbangan: ulasan hardware, review addon, dan panduan untuk MSFS 2024, X-Plane, dan DCS, diperbarui setiap pekan.',
+		'blog.indexTitle': 'Blog Virtual Flight — Berita MSFS 2024, X-Plane dan DCS',
+		'blog.indexDescription': 'Semua artikel Virtual Flight: berita MSFS 2024, X-Plane dan DCS, review addon, ulasan joystick, panduan konfigurasi serta acara komunitas simulasi penerbangan.',
 		'nav.home': 'Beranda',
 		'nav.blog': 'Blog',
 		'nav.about': 'Tentang',
@@ -949,9 +982,9 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'home.latestArticles': 'Artikel terbaru',
 		'home.viewAll': 'Lihat semua artikel →',
 		'slug.about': 'tentang',
-		'about.title': 'Tentang',
+		'about.title': 'Tentang Virtual Flight — Majalah simulasi penerbangan',
 		'about.description':
-			'Kenali tim di balik Virtual Flight, majalah simulasi penerbangan Anda.',
+			'Kenali tim Virtual Flight, majalah independen simulasi penerbangan Anda: ulasan hardware dan review addon untuk MSFS 2024, X-Plane, dan DCS World setiap pekan.',
 		'about.p1':
 			'Virtual Flight adalah majalah digital independen Anda yang didedikasikan untuk simulasi penerbangan. Misi kami sederhana: menyediakan liputan yang andal, mendalam, dan diperbarui secara berkala tentang simulator, hardware, dan software yang paling penting bagi pilot virtual.',
 		'about.p2':
@@ -975,8 +1008,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.privacy': 'Privasi',
 		'nav.terms': 'Ketentuan',
 
-		'methodology.title': 'Metodologi Kami',
-		'methodology.description': 'Pelajari bagaimana Virtual Flight menguji hardware dan software simulasi penerbangan.',
+		'methodology.title': 'Metodologi pengujian hardware dan software — Virtual Flight',
+		'methodology.description': 'Bagaimana Virtual Flight menguji joystick, pedal rudder, scenery, dan addon MSFS 2024, X-Plane dan DCS dengan ketelitian dan independensi editorial penuh.',
 		'methodology.intro': 'Ketelitian adalah inti dari setiap ulasan yang kami terbitkan. Begini cara kami bekerja.',
 		'methodology.h1': 'Pengujian Hardware',
 		'methodology.p1': 'Setiap joystick, throttle, dan pedal rudder menghabiskan lebih dari 100 jam di tangan kami. Kami mengujinya dalam skenario penerbangan nyata di MSFS 2024, X-Plane, dan DCS, lalu membandingkan hasilnya lintas platform untuk memberikan penilaian yang dapat dipercaya.',
@@ -987,8 +1020,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'methodology.h4': 'Koreksi dan Pembaruan',
 		'methodology.p4': 'Kami memperbarui artikel ketika sebuah produk mendapat pembaruan firmware atau versi baru dirilis, agar rekomendasi kami tetap relevan.',
 
-		'privacy.title': 'Kebijakan Privasi',
-		'privacy.description': 'Bagaimana Virtual Flight melindungi data pribadi Anda.',
+		'privacy.title': 'Kebijakan Privasi dan GDPR — Virtual Flight',
+		'privacy.description': 'Bagaimana Virtual Flight melindungi data pribadi Anda: cookie, Google Analytics, Consent Mode v2, hak GDPR Anda, serta opsi pengaturan banner cookie terperinci.',
 		'privacy.intro': 'Privasi Anda penting. Begini cara kami menangani data Anda di Virtual Flight.',
 		'privacy.h1': 'Pengumpulan Data',
 		'privacy.p1': 'Kami mengumpulkan data seminimal mungkin. Hanya statistik kunjungan anonim yang dikumpulkan. Tidak diperlukan akun pribadi untuk menjelajahi situs.',
@@ -1001,8 +1034,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h5': 'Kontak',
 		'privacy.p5': 'Untuk pertanyaan terkait privasi, kunjungi halaman kontak kami atau hubungi RENFELD LEBANON — Building St Michel, Ghazir, Lebanon. Kami berkomitmen untuk merespons dengan cepat.',
 
-		'terms.title': 'Ketentuan Layanan',
-		'terms.description': 'Ketentuan layanan situs web Virtual Flight.',
+		'terms.title': 'Ketentuan Umum Layanan dan Penggunaan — Virtual Flight',
+		'terms.description': 'Ketentuan layanan Virtual Flight: penerimaan, kekayaan intelektual, perilaku pengguna, penyangkalan, dan perubahan pada ketentuan situs simulasi penerbangan.',
 		'terms.intro': 'Dengan menggunakan Virtual Flight, Anda menyetujui ketentuan berikut.',
 		'terms.h1': 'Penerimaan',
 		'terms.p1': 'Dengan mengakses dan menggunakan situs ini, Anda setuju untuk terikat oleh ketentuan layanan ini.',
@@ -1028,8 +1061,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 		'nav.contact': 'Kontak',
 		'slug.contact': 'kontak',
-		'contact.title': 'Hubungi Kami',
-		'contact.description': 'Ada pertanyaan, kemitraan, atau pembaruan? Hubungi tim Virtual Flight.',
+		'contact.title': 'Hubungi tim redaksi Virtual Flight — Kemitraan dan review',
+		'contact.description': 'Ada pertanyaan, kemitraan, atau pembaruan produk? Hubungi tim redaksi Virtual Flight — kami menerima pesan dari pembaca, pengembang, merek, dan mitra pers.',
 		'contact.intro': 'Ingin melaporkan pembaruan, mengajukan kemitraan, atau mengoreksi kesalahan? Isi formulir di bawah ini dan kami akan segera merespons.',
 		'contact.discord': 'Butuh jawaban cepat? Bergabunglah di Discord kami',
 		'contact.name': 'Nama / Username',
@@ -1066,7 +1099,11 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 	ja: {
 		'site.title': 'Virtual Flight',
-		'site.description': 'バーチャルパイロットのためのハードウェア＆ソフトウェアニュース',
+		'site.description': 'バーチャルパイロット向けハードウェア＆ソフトウェアニュース：ジョイスティックレビュー、MSFS 2024・X-Plane・DCS の機体やシーナリーアドオン、設定ガイドと独立系レビューをお届けします。',
+		'home.metaTitle': 'Virtual Flight — フライトシミュレーション独立系マガジン',
+		'home.metaDescription': 'Virtual Flight はフライトシミュレーション専門の独立系デジタルマガジン：MSFS 2024、X-Plane、DCS のハードウェアレビュー、アドオン分析、設定ガイドを毎週更新でお届けします。',
+		'blog.indexTitle': 'Virtual Flight ブログ — MSFS 2024、X-Plane、DCS 最新情報',
+		'blog.indexDescription': 'Virtual Flight の全記事：MSFS 2024、X-Plane、DCS の最新ニュース、アドオン・機体レビュー、ジョイスティックテスト、設定ガイド、コミュニティイベントの紹介を網羅。',
 		'nav.home': 'ホーム',
 		'nav.blog': 'ブログ',
 		'nav.about': '概要',
@@ -1081,8 +1118,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'home.latestArticles': '最新記事',
 		'home.viewAll': 'すべての記事を見る →',
 		'slug.about': 'gaiyou',
-		'about.title': '概要',
-		'about.description': 'Virtual Flight の運営チームをご紹介します。',
+		'about.title': 'Virtual Flight について — 独立系フライトシム編集部の紹介',
+		'about.description': 'Virtual Flight 編集部のご紹介：MSFS 2024、X-Plane、DCS のハードウェアレビューとアドオン分析を、編集の独立性を保ちつつ深く掘り下げて毎週お届けします。',
 		'about.p1':
 			'Virtual Flight はフライトシミュレーションに特化した独立系デジタルマガジンです。私たちの使命はシンプルです：バーチャルパイロットの皆様に、最も重要なシミュレーター、ハードウェア、ソフトウェアに関する信頼性の高い、詳細で定期的に更新される情報をお届けすることです。',
 		'about.p2':
@@ -1106,8 +1143,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'nav.privacy': 'プライバシー',
 		'nav.terms': '利用規約',
 
-		'methodology.title': '私たちの評価方法',
-		'methodology.description': 'Virtual Flight がフライトシミュレーションのハードウェアとソフトウェアをどのようにテストしているかをご紹介します。',
+		'methodology.title': 'ハードウェアとソフトウェアの評価方法 — Virtual Flight',
+		'methodology.description': 'Virtual Flight がジョイスティック、ラダーペダル、シーナリー、アドオンを MSFS 2024、X-Plane、DCS で厳密かつ編集独立性を保ってテストする方法をご紹介します。',
 		'methodology.intro': '厳密さは、私たちが公開するすべてのレビューの核心です。以下が私たちの仕事の進め方です。',
 		'methodology.h1': 'ハードウェアテスト',
 		'methodology.p1': 'すべてのジョイスティック、スロットル、ラダーペダルを 100 時間以上使用します。MSFS 2024、X-Plane、DCS で実際のフライトシナリオを通じてテストし、プラットフォーム間で結果を比較して、信頼できる評価をお届けします。',
@@ -1118,8 +1155,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'methodology.h4': '訂正とアップデート',
 		'methodology.p4': '製品がファームウェアアップデートや新バージョンを受けた際には記事を更新し、推奨内容が常に最新であるようにしています。',
 
-		'privacy.title': 'プライバシーポリシー',
-		'privacy.description': 'Virtual Flight がお客様の個人データをどのように保護するかについて。',
+		'privacy.title': 'プライバシーポリシーと GDPR について — Virtual Flight',
+		'privacy.description': 'Virtual Flight がお客様の個人データをどのように保護するかをご説明します：Cookie の使用、Google Analytics、Consent Mode v2、GDPR 上の権利、詳細な Cookie 設定。',
 		'privacy.intro': 'お客様のプライバシーは重要です。Virtual Flight でのデータの取り扱い方法をご説明します。',
 		'privacy.h1': 'データ収集',
 		'privacy.p1': '収集するデータは最小限です。匿名の訪問統計のみを記録しています。サイトの閲覧にアカウント登録は不要です。',
@@ -1132,8 +1169,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 		'privacy.h5': 'お問い合わせ',
 		'privacy.p5': 'プライバシーに関するご質問は、お問い合わせページまたは RENFELD LEBANON — Building St Michel, Ghazir, Lebanon までご連絡ください。迅速な対応をお約束します。',
 
-		'terms.title': '利用規約',
-		'terms.description': 'Virtual Flight ウェブサイトの利用規約。',
+		'terms.title': '利用規約とウェブサイト利用に関する規定 — Virtual Flight',
+		'terms.description': 'Virtual Flight ウェブサイトの利用規約：規約への同意、知的財産権、ユーザー行動、免責事項、規約の変更権、読者の権利と責任に関するすべての説明をご確認いただけます。',
 		'terms.intro': 'Virtual Flight をご利用いただくことで、以下の規約に同意したものとみなされます。',
 		'terms.h1': '規約への同意',
 		'terms.p1': '本サイトにアクセスし利用することで、本利用規約に拘束されることに同意するものとします。',
@@ -1159,8 +1196,8 @@ export const translations: Record<Locale, Record<TranslationKey, string>> = {
 
 		'nav.contact': 'お問い合わせ',
 		'slug.contact': 'otoiawase',
-		'contact.title': 'お問い合わせ',
-		'contact.description': 'ご質問、パートナーシップ、更新情報など、Virtual Flight チームにお気軽にご連絡ください。',
+		'contact.title': 'Virtual Flight 編集部へのお問い合わせ — パートナーシップとレビュー依頼',
+		'contact.description': 'ご質問、パートナーシップ、製品の更新情報など、Virtual Flight 編集部にお気軽にご連絡ください。読者、開発者、ブランド、報道関係者からのご連絡を歓迎し、迅速にご返信いたします。',
 		'contact.intro': '更新情報の報告、パートナーシップのご提案、記事の訂正をご希望ですか？以下のフォームにご記入ください。速やかにご返信いたします。',
 		'contact.discord': '迅速な回答が必要ですか？Discord にご参加ください',
 		'contact.name': '氏名 / ユーザー名',

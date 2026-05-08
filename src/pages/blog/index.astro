@@ -16,7 +16,7 @@ const posts = (await getCollection('blog', ({ data }) => data.lang === 'en')).so
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={t('site.title')} description={t('site.description')} locale="en" />
+		<BaseHead title={t('blog.indexTitle')} description={t('blog.indexDescription')} locale="en" />
 		<style>
 			main {
 				max-width: 1100px;
